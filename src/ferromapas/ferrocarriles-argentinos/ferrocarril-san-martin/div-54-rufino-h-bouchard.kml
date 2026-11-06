@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 54: Rufino - H Bouchard</name>
+    <description>Div 54: Rufino - H Bouchard. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Div 54: Rufino - H Bouchard</name>
+      <LineString>
+        <coordinates>
+          -62.714798,-34.259780
+          -62.715135,-34.259724
+          -62.730123,-34.256736
+          -62.730992,-34.256593
+          -62.731820,-34.256535
+          -62.732594,-34.256519
+          -62.733601,-34.256559
+          -62.734350,-34.256652
+          -62.735175,-34.256799
+          -62.736065,-34.257025
+          -62.736932,-34.257304
+          -62.737884,-34.257721
+          -62.738785,-34.258192
+          -62.739594,-34.258718
+          -62.740317,-34.259299
+          -62.839113,-34.351994
+          -62.840996,-34.353666
+          -62.842350,-34.355000
+          -62.843680,-34.355961
+          -62.846412,-34.357858
+          -62.896358,-34.391191
+          -62.898522,-34.392606
+          -62.900030,-34.393490
+          -62.901203,-34.394197
+          -62.902397,-34.394762
+          -62.904271,-34.395496
+          -62.908017,-34.396519
+          -62.947894,-34.406346
+          -62.949360,-34.406739
+          -62.950411,-34.407105
+          -62.951386,-34.407496
+          -62.952289,-34.407932
+          -62.953505,-34.408631
+          -62.957163,-34.410951
+          -62.965642,-34.416355
+          -63.169954,-34.545315
+          -63.177051,-34.549807
+          -63.368511,-34.669893
+          -63.377127,-34.675207
+          -63.392000,-34.684451
+          -63.393858,-34.685607
+          -63.395055,-34.686276
+          -63.396268,-34.686907
+          -63.397665,-34.687475
+          -63.399277,-34.688092
+          -63.495569,-34.717644
+          -63.504449,-34.720392
+          -63.506120,-34.720962
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal a Hipólito Buchard KM 421.5</name>
+      <description>KM 421.5</description>
+      <Point><coordinates>-62.714801,-34.259782</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero KM 16 KM 16.4</name>
+      <description>KM 16.4</description>
+      <Point><coordinates>-62.841580,-34.354220</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cañada Seca KM 29.6</name>
+      <description>KM 29.6
+Código: RCD</description>
+      <Point><coordinates>-62.962832,-34.414561</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Regina KM 54.0</name>
+      <description>KM 54.0
+Código: RSR</description>
+      <Point><coordinates>-63.174182,-34.547981</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Carlone KM 77.0</name>
+      <description>KM 77.0
+Código: RCN</description>
+      <Point><coordinates>-63.374276,-34.673453</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Rufino KM 293.0 / KM 90.3</name>
+      <description>KM 293.0 (desde Retiro)
+KM 90.3 (desde Rufino)</description>
+      <Point><coordinates>-63.506072,-34.721010</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

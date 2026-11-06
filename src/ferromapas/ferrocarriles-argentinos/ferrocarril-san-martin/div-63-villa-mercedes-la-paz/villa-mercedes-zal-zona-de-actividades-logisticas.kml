@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Villa Mercedes - ZAL (Zona de Actividades Logísticas)</name>
+    <Placemark>
+      <name>Villa Mercedes - ZAL (Zona de Actividades Logísticas)</name>
+      <Point><coordinates>-65.529700,-33.642801</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes - ZAL (Zona de Actividades Logísticas)</name>
+      <LineString>
+        <coordinates>
+          -65.528259,-33.650329
+          -65.529115,-33.650071
+          -65.529596,-33.649936
+          -65.529780,-33.649865
+          -65.530017,-33.649718
+          -65.530215,-33.649576
+          -65.530714,-33.649215
+          -65.530980,-33.648958
+          -65.531126,-33.648736
+          -65.531219,-33.648538
+          -65.531285,-33.648354
+          -65.531335,-33.648161
+          -65.531357,-33.648014
+          -65.531357,-33.647852
+          -65.531343,-33.647714
+          -65.531159,-33.646823
+          -65.531048,-33.646504
+          -65.527232,-33.636520
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes - ZAL (Zona de Actividades Logísticas)</name>
+      <LineString>
+        <coordinates>
+          -65.531252,-33.647298
+          -65.531159,-33.646712
+          -65.531046,-33.646273
+          -65.531006,-33.646140
+          -65.530874,-33.645757
+          -65.527326,-33.636557
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes - ZAL (Zona de Actividades Logísticas)</name>
+      <LineString>
+        <coordinates>
+          -65.530576,-33.649319
+          -65.531016,-33.648971
+          -65.531381,-33.648457
+          -65.531543,-33.648082
+          -65.531631,-33.647697
+          -65.531663,-33.647490
+          -65.531722,-33.646326
+          -65.531724,-33.646104
+          -65.531680,-33.645879
+          -65.531469,-33.644948
+          -65.529108,-33.638708
+          -65.528984,-33.638537
+          -65.528774,-33.638320
+          -65.528503,-33.638093
+          -65.528021,-33.637706
+          -65.527838,-33.637541
+          -65.527710,-33.637380
+          -65.527541,-33.637104
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes - ZAL (Zona de Actividades Logísticas)</name>
+      <LineString>
+        <coordinates>
+          -65.532843,-33.648514
+          -65.531469,-33.644941
+          -65.529106,-33.638703
+          -65.528290,-33.636560
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

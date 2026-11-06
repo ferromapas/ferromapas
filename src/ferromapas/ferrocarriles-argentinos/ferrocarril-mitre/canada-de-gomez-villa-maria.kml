@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Cañada de Gómez - Villa María</name>
+    <description>Cañada de Gómez - Villa María. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Cañada de Gomez KM 371.7</name>
+      <description>KM 72.1
+KM 371.7</description>
+      <Point><coordinates>-61.394467,-32.822461</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cañada de Gómez - Villa María</name>
+      <LineString>
+        <coordinates>
+          -61.394128,-32.822470
+          -61.394892,-32.822332
+          -61.396075,-32.822137
+          -61.396715,-32.822050
+          -61.507948,-32.802933
+          -62.256862,-32.672393
+          -62.478649,-32.632770
+          -62.481680,-32.632233
+          -62.484094,-32.631782
+          -62.593691,-32.611986
+          -62.602895,-32.610362
+          -62.608252,-32.609386
+          -62.612760,-32.608571
+          -62.624048,-32.606543
+          -62.625648,-32.606257
+          -62.627706,-32.605884
+          -62.629155,-32.605634
+          -62.629823,-32.605525
+          -62.631774,-32.605231
+          -62.632455,-32.605146
+          -62.633174,-32.605078
+          -62.634421,-32.604959
+          -62.635320,-32.604892
+          -62.636270,-32.604818
+          -62.637141,-32.604779
+          -62.637832,-32.604758
+          -62.638777,-32.604749
+          -62.640025,-32.604732
+          -62.642319,-32.604795
+          -62.644078,-32.604882
+          -62.645882,-32.605027
+          -62.647689,-32.605233
+          -62.651714,-32.605818
+          -62.701669,-32.613118
+          -62.704829,-32.613579
+          -62.708099,-32.614046
+          -62.711880,-32.614594
+          -62.714132,-32.614915
+          -62.716245,-32.615219
+          -62.717601,-32.615406
+          -62.718820,-32.615584
+          -62.719606,-32.615665
+          -62.720365,-32.615746
+          -62.721059,-32.615827
+          -62.721933,-32.615917
+          -62.723006,-32.615991
+          -62.723892,-32.616044
+          -62.725062,-32.616086
+          -62.726375,-32.616096
+          -62.728250,-32.616100
+          -62.729796,-32.616066
+          -62.730936,-32.616048
+          -62.735379,-32.615934
+          -62.739258,-32.615848
+          -62.741927,-32.615793
+          -62.745583,-32.615706
+          -62.759248,-32.615381
+          -62.762773,-32.615271
+          -62.763431,-32.615259
+          -62.763921,-32.615227
+          -62.764585,-32.615177
+          -62.765532,-32.615096
+          -62.766258,-32.615032
+          -62.766762,-32.614966
+          -62.767273,-32.614909
+          -62.767986,-32.614838
+          -62.768528,-32.614760
+          -62.769244,-32.614659
+          -62.769852,-32.614556
+          -62.770439,-32.614461
+          -62.771287,-32.614318
+          -62.771935,-32.614196
+          -62.772466,-32.614081
+          -62.773290,-32.613897
+          -62.774228,-32.613679
+          -62.775021,-32.613493
+          -62.775940,-32.613263
+          -62.776817,-32.613019
+          -62.778775,-32.612427
+          -62.783834,-32.610858
+          -62.788462,-32.609429
+          -62.793166,-32.607963
+          -62.804740,-32.604325
+          -62.815308,-32.601068
+          -62.817873,-32.600262
+          -62.824826,-32.598105
+          -62.831878,-32.595925
+          -62.892190,-32.577249
+          -62.988123,-32.547493
+          -63.000362,-32.543700
+          -63.003112,-32.542828
+          -63.005182,-32.542185
+          -63.006283,-32.541831
+          -63.006875,-32.541627
+          -63.007709,-32.541335
+          -63.008263,-32.541127
+          -63.008858,-32.540905
+          -63.009294,-32.540739
+          -63.009688,-32.540587
+          -63.010557,-32.540224
+          -63.011398,-32.539866
+          -63.012078,-32.539572
+          -63.012717,-32.539278
+          -63.013408,-32.538934
+          -63.014260,-32.538504
+          -63.015133,-32.538063
+          -63.016140,-32.537520
+          -63.017103,-32.537001
+          -63.019274,-32.535858
+          -63.021194,-32.534845
+          -63.022566,-32.534109
+          -63.024258,-32.533214
+          -63.026072,-32.532244
+          -63.028982,-32.530696
+          -63.032182,-32.528983
+          -63.033610,-32.528228
+          -63.036195,-32.526853
+          -63.039581,-32.525015
+          -63.043608,-32.522877
+          -63.047326,-32.520903
+          -63.050807,-32.519045
+          -63.059715,-32.514265
+          -63.083230,-32.501717
+          -63.153513,-32.464165
+          -63.165169,-32.458118
+          -63.224038,-32.426568
+          -63.227805,-32.424531
+          -63.230362,-32.423175
+          -63.233100,-32.421709
+          -63.233978,-32.421205
+          -63.234509,-32.420894
+          -63.235378,-32.420395
+          -63.237008,-32.419371
+          -63.238023,-32.418687
+          -63.238861,-32.418095
+          -63.239762,-32.417469
+          -63.240567,-32.416798
+          -63.241985,-32.415591
+          -63.242884,-32.414733
+          -63.243928,-32.413754
+          -63.244563,-32.413053
+          -63.245494,-32.412115
+          -63.248082,-32.409346
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Las Trojas KM 376.8</name>
+      <description>KM 376.8</description>
+      <Point><coordinates>-61.446785,-32.813515</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Ramal San Ricardo KM 377.3</name>
+      <description>KM 377.3</description>
+      <Point><coordinates>-61.452347,-32.812490</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Armstrong KM 391.7</name>
+      <description>KM 391.7</description>
+      <Point><coordinates>-61.603336,-32.786600</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Kilómetro 405 KM 404.5</name>
+      <description>KM 404.5</description>
+      <Point><coordinates>-61.719192,-32.766593</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tortugas KM 412.5</name>
+      <description>KM 412.5</description>
+      <Point><coordinates>-61.821463,-32.748880</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>General Roca KM 421.6</name>
+      <description>KM 421.6</description>
+      <Point><coordinates>-61.916288,-32.732344</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Marcos Juárez KM 439.8</name>
+      <description>KM 439.8</description>
+      <Point><coordinates>-62.106077,-32.699082</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Leones KM 458.2</name>
+      <description>KM 458.2</description>
+      <Point><coordinates>-62.299130,-32.664984</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Marcos KM 475.6</name>
+      <description>KM 475.6</description>
+      <Point><coordinates>-62.480355,-32.632538</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Monte Leña KM 486.1</name>
+      <description>KM 486.1</description>
+      <Point><coordinates>-62.589876,-32.612763</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bell Ville KM 496.0</name>
+      <description>KM 496.0</description>
+      <Point><coordinates>-62.693855,-32.612048</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Morrison KM 509.7</name>
+      <description>KM 509.7</description>
+      <Point><coordinates>-62.834788,-32.595088</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ballesteros KM 524.6</name>
+      <description>KM 524.6</description>
+      <Point><coordinates>-62.984648,-32.548631</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramón Cárcano KM 537.3</name>
+      <description>KM 537.3</description>
+      <Point><coordinates>-63.101504,-32.492039</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa María Gravitación KM 548.6</name>
+      <description>KM 548.6</description>
+      <Point><coordinates>-63.204089,-32.437284</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa María KM 553.4</name>
+      <description>KM 553.4</description>
+      <Point><coordinates>-63.245050,-32.412705</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Pehuajó - Catriló - General Pico - Toay</name>
+    <Placemark>
+      <name>La Zanja KM 459.2</name>
+      <description>KM 459.2</description>
+      <Point><coordinates>-62.876935,-36.051852</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mari Lauquen KM 471.6</name>
+      <description>KM 471.6</description>
+      <Point><coordinates>-62.977056,-36.129827</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bocayuva KM 484.2</name>
+      <description>KM 484.2</description>
+      <Point><coordinates>-63.077916,-36.207883</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pellegrini KM 494.3</name>
+      <description>KM 494.3</description>
+      <Point><coordinates>-63.160506,-36.270542</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>De Bary KM 506.4</name>
+      <description>KM 506.4</description>
+      <Point><coordinates>-63.263121,-36.340340</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Catriló KM 522.8 / KM 307.3</name>
+      <description>Vía Pehuajó - Catriló - General Pico - Toay KM 522.8 
+Vía Darragueira - Huinca Renancó KM 307.3</description>
+      <Point><coordinates>-63.421155,-36.410763</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lonquimay KM 541.7</name>
+      <description>KM 541.7</description>
+      <Point><coordinates>-63.618611,-36.469839</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Gloria KM 553.5</name>
+      <description>KM 553.5</description>
+      <Point><coordinates>-63.742742,-36.506506</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Uriburu KM 563.9</name>
+      <description>KM 563.9</description>
+      <Point><coordinates>-63.858477,-36.508124</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Anguil KM 577.8</name>
+      <description>KM 577.8</description>
+      <Point><coordinates>-64.010320,-36.528849</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Rosa KM 605.0</name>
+      <description>KM 605.0</description>
+      <Point><coordinates>-64.292362,-36.616254</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Toay (FCO - FCDFS) KM 615.0 - KM 375.7</name>
+      <description>Pehuajó - Catriló - General Pico - Toay: KM 615.0
+Nueva Roma - Toay (FCGR - BBNO): KM 375.7</description>
+      <Point><coordinates>-64.370898,-36.675609</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

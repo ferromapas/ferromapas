@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ing. Maschwitz - Dique Luján</name>
+    <description>Ing. Maschwitz - Dique Luján. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Ing. Maschwitz - Dique Luján</name>
+      <LineString>
+        <coordinates>
+          -58.738502,-34.382041
+          -58.736714,-34.382737
+          -58.735277,-34.383384
+          -58.728065,-34.386601
+          -58.722809,-34.388906
+          -58.722089,-34.389175
+          -58.721367,-34.389406
+          -58.720863,-34.389542
+          -58.720410,-34.389630
+          -58.719882,-34.389708
+          -58.719356,-34.389743
+          -58.718844,-34.389774
+          -58.718282,-34.389752
+          -58.717769,-34.389706
+          -58.717387,-34.389639
+          -58.717032,-34.389549
+          -58.716711,-34.389453
+          -58.716407,-34.389312
+          -58.716066,-34.389132
+          -58.715749,-34.388928
+          -58.715325,-34.388601
+          -58.715051,-34.388356
+          -58.714713,-34.388032
+          -58.714414,-34.387699
+          -58.714174,-34.387362
+          -58.712930,-34.385323
+          -58.703078,-34.369441
+          -58.700254,-34.364846
+          -58.697982,-34.361162
+          -58.697204,-34.359961
+          -58.696762,-34.359369
+          -58.696327,-34.358852
+          -58.695904,-34.358376
+          -58.695372,-34.357784
+          -58.694845,-34.357285
+          -58.694134,-34.356620
+          -58.693514,-34.356161
+          -58.692678,-34.355539
+          -58.687913,-34.351983
+          -58.687153,-34.351423
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Dique Luján KM 6.8</name>
+      <description>KM 6.8</description>
+      <Point><coordinates>-58.687259,-34.351550</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

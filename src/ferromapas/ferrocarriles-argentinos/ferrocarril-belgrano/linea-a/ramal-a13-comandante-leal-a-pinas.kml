@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal A13: Comandante Leal a Pinas</name>
+    <description>Ramal A13: Comandante Leal a Pinas. Dibujado por:
+Pablo Anglat
+Rubén Sagristani
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Córdoba, Argentina</description>
+    <Placemark>
+      <name>Ramal A13: Comandante Leal a Pinas</name>
+      <LineString>
+        <coordinates>
+          -65.787191,-30.882496
+          -65.785941,-30.882164
+          -65.785053,-30.882072
+          -65.784235,-30.882070
+          -65.783224,-30.882322
+          -65.781444,-30.883140
+          -65.756816,-30.893675
+          -65.755759,-30.894287
+          -65.755000,-30.894761
+          -65.754323,-30.895351
+          -65.753597,-30.896056
+          -65.725622,-30.932188
+          -65.720632,-30.938542
+          -65.684273,-30.985425
+          -65.683457,-30.986373
+          -65.682790,-30.986894
+          -65.681935,-30.987542
+          -65.680974,-30.988100
+          -65.679699,-30.988635
+          -65.666246,-30.993357
+          -65.599465,-31.017810
+          -65.525477,-31.045686
+          -65.523507,-31.046454
+          -65.522987,-31.046781
+          -65.522408,-31.047107
+          -65.521616,-31.047961
+          -65.521188,-31.048652
+          -65.520914,-31.049492
+          -65.520868,-31.050271
+          -65.520185,-31.101801
+          -65.519975,-31.122022
+          -65.519324,-31.150015
+          -65.519225,-31.166570
+          -65.519218,-31.167107
+          -65.519372,-31.167527
+          -65.519669,-31.168014
+          -65.521230,-31.170470
+          -65.524800,-31.175815
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramales A2 / A13 KM 618.5</name>
+      <description>KM 618.5</description>
+      <Point><coordinates>-65.788122,-30.882718</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Km 636</name>
+      <Point><coordinates>-65.668097,-30.992704</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Km 651</name>
+      <Point><coordinates>-65.525572,-31.045658</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pinas</name>
+      <Point><coordinates>-65.523517,-31.173888</coordinates></Point>
+    </Placemark>
+    <Folder>
+      <name>Ramal A13</name>
+      <description>Comandante Leal - Pinas</description>
+      <Placemark>
+        <name>Comandante Leal KM 618.9</name>
+        <description>KM 618.9
+(GPS)</description>
+        <Point><coordinates>-65.791267,-30.884600</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Folder>
+</kml>

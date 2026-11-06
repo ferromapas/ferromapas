@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal P5: Pedro Gamen - Pehuajó</name>
+    <description>Ramal P5: Pedro Gamen - Pehuajó. Dibujado por:
+Gino Nuñez
+Con actualizaciones de Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal P5: Pedro Gamen - Pehuajó</name>
+      <LineString>
+        <coordinates>
+          -61.839707,-35.647867
+          -61.842664,-35.648551
+          -61.843513,-35.648795
+          -61.844447,-35.649093
+          -61.845233,-35.649378
+          -61.846131,-35.649734
+          -61.846594,-35.649954
+          -61.847051,-35.650225
+          -61.847629,-35.650617
+          -61.848123,-35.650982
+          -61.848654,-35.651385
+          -61.848952,-35.651676
+          -61.849300,-35.652072
+          -61.849662,-35.652622
+          -61.849899,-35.653066
+          -61.850080,-35.653411
+          -61.850234,-35.653761
+          -61.850304,-35.653966
+          -61.850378,-35.654221
+          -61.854981,-35.672410
+          -61.881418,-35.777473
+          -61.881704,-35.778579
+          -61.881769,-35.778812
+          -61.881871,-35.779135
+          -61.882002,-35.779492
+          -61.882177,-35.779889
+          -61.882373,-35.780285
+          -61.882630,-35.780718
+          -61.882886,-35.781110
+          -61.883661,-35.782025
+          -61.891288,-35.790344
+          -61.892572,-35.791559
+          -61.903943,-35.801153
+          -61.912344,-35.808094
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Pehuajó (FCGB-P) KM 423.0</name>
+      <description>KM 423.0</description>
+      <Point><coordinates>-61.911458,-35.807478</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

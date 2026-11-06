@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C19: Rapelli -  Pozo Betbeder - Aloja</name>
+    <description>Ramal C19: Rapelli -  Pozo Betbeder - Aloja. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C19: Rapelli -  Pozo Betbeder - La Aloja</name>
+      <LineString>
+        <coordinates>
+          -64.504744,-26.391032
+          -64.504534,-26.386612
+          -64.504129,-26.374448
+          -64.503949,-26.373987
+          -64.503501,-26.373785
+          -64.502827,-26.373785
+          -64.428243,-26.371878
+          -64.427574,-26.372017
+          -64.427127,-26.372366
+          -64.426895,-26.373024
+          -64.426788,-26.398452
+          -64.426617,-26.398926
+          -64.426149,-26.399329
+          -64.425573,-26.399429
+          -64.351431,-26.399372
+          -64.349147,-26.399383
+          -64.347312,-26.399590
+          -64.345685,-26.400198
+          -64.344293,-26.401087
+          -64.332461,-26.412948
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Copo Viejo (Desv Part) KM 808.4</name>
+      <description>KM 808.4</description>
+      <Point><coordinates>-64.436567,-26.372087</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Campo Amarillo (Empalme) KM 814.3</name>
+      <description>KM 814.3</description>
+      <Point><coordinates>-64.382341,-26.399376</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramal C19: Campo Amarillo - La Aloja</name>
+      <LineString>
+        <coordinates>
+          -64.382277,-26.399370
+          -64.381247,-26.399456
+          -64.377354,-26.399454
+          -64.376015,-26.399520
+          -64.375164,-26.399566
+          -64.374957,-26.399673
+          -64.374522,-26.399850
+          -64.374262,-26.400202
+          -64.374241,-26.400387
+          -64.374209,-26.401148
+          -64.374020,-26.458772
+          -64.373974,-26.460266
+          -64.373965,-26.462054
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>La Aloja (Emb) KM 821.8</name>
+      <description>KM 821.8</description>
+      <Point><coordinates>-64.374069,-26.460265</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Moyas (Desv. Part.) KM  817.3</name>
+      <description>KM  817.3</description>
+      <Point><coordinates>-64.352297,-26.399398</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pozo Berbeder (Emb) KM 819.2</name>
+      <description>KM 819.2</description>
+      <Point><coordinates>-64.337453,-26.407942</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

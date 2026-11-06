@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvío a Filtros Obras Sanitarias Mendoza</name>
+    <description>Desvío a Filtros Obras Sanitarias Mendoza. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Dante Accornero
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Desvío a Filtros Obras Sanitarias Mendoza</name>
+      <LineString>
+        <coordinates>
+          -69.193394,-32.952817
+          -69.194313,-32.954193
+          -69.194698,-32.954845
+          -69.195022,-32.955242
+          -69.195672,-32.955857
+          -69.196469,-32.956348
+          -69.197194,-32.956598
+          -69.197875,-32.956768
+          -69.198417,-32.956889
+          -69.199200,-32.957161
+          -69.199872,-32.957477
+          -69.200097,-32.957599
+          -69.200376,-32.957726
+          -69.200847,-32.957808
+          -69.201266,-32.957896
+          -69.201643,-32.957994
+          -69.202198,-32.958189
+          -69.202801,-32.958427
+          -69.204345,-32.958951
+          -69.204851,-32.959100
+          -69.205335,-32.959306
+          -69.206041,-32.959644
+          -69.206620,-32.959866
+          -69.211952,-32.960698
+          -69.212392,-32.960766
+          -69.212905,-32.960882
+          -69.217020,-32.961925
+          -69.217808,-32.962063
+          -69.218321,-32.962154
+          -69.218793,-32.962287
+          -69.219294,-32.962425
+          -69.219864,-32.962603
+          -69.220326,-32.962758
+          -69.220563,-32.962868
+          -69.221294,-32.963449
+          -69.222157,-32.964306
+          -69.222970,-32.965144
+          -69.223598,-32.965721
+          -69.223955,-32.966015
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío a Filtros Obras Sanitarias Mendoza</name>
+      <LineString>
+        <coordinates>
+          -69.220568,-32.962872
+          -69.220962,-32.963256
+          -69.221742,-32.963974
+          -69.222679,-32.964926
+          -69.223627,-32.965837
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Filtros Obras Sanitarias Mendoza Río Blanco</name>
+      <Point><coordinates>-69.222508,-32.964620</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

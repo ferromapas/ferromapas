@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 55: Alberdi - M. J. Orellano</name>
+    <description>Div 55: Alberdi - M. J. Orellano. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Div 55: Alberdi - M. J. Orellano</name>
+      <LineString>
+        <coordinates>
+          -61.815298,-34.436112
+          -61.816183,-34.435977
+          -61.817135,-34.435868
+          -61.817886,-34.435806
+          -61.818634,-34.435776
+          -61.819851,-34.435818
+          -61.820470,-34.435875
+          -61.821178,-34.435975
+          -61.821992,-34.436154
+          -61.822843,-34.436414
+          -61.823687,-34.436741
+          -61.824490,-34.437095
+          -61.824962,-34.437357
+          -61.825471,-34.437677
+          -61.825970,-34.437996
+          -61.826520,-34.438425
+          -61.827101,-34.438968
+          -61.827653,-34.439551
+          -61.827993,-34.439956
+          -61.828374,-34.440489
+          -61.828851,-34.441338
+          -61.829012,-34.441652
+          -61.829155,-34.441983
+          -61.829375,-34.442652
+          -61.834369,-34.460606
+          -61.834580,-34.461318
+          -61.834775,-34.461904
+          -61.834977,-34.462340
+          -61.835240,-34.462840
+          -61.835425,-34.463237
+          -61.835707,-34.463749
+          -61.836120,-34.464344
+          -61.836531,-34.464887
+          -61.837439,-34.466017
+          -61.838121,-34.466712
+          -61.839433,-34.467806
+          -61.899460,-34.515126
+          -61.900676,-34.516046
+          -61.901695,-34.516688
+          -61.902424,-34.517132
+          -61.903109,-34.517455
+          -61.903883,-34.517763
+          -61.904875,-34.518144
+          -61.937852,-34.530957
+          -61.946316,-34.534088
+          -62.041692,-34.571837
+          -62.047590,-34.574157
+          -62.048273,-34.574478
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal a M. J. Orellano KM 336.40</name>
+      <description>KM 336.40</description>
+      <Point><coordinates>-61.815300,-34.436108</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Trigales KM 16.6</name>
+      <description>KM 16.6</description>
+      <Point><coordinates>-61.941990,-34.532481</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Alberdi KM 153.4/152.64</name>
+      <description>KM 153.4 (Chacabuco)
+KM 152.64 (Alberdi)</description>
+      <Point><coordinates>-62.048276,-34.574502</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

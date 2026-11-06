@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC6: Fraga - Pueblo Marini</name>
+    <description>Ramal CC6: Fraga - Pueblo Marini. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal CC6: Fraga - Pueblo Marini</name>
+      <LineString>
+        <coordinates>
+          -61.913373,-31.176359
+          -61.914197,-31.176177
+          -61.917178,-31.175641
+          -61.917793,-31.175511
+          -61.918318,-31.175337
+          -61.918962,-31.175084
+          -61.919353,-31.174837
+          -61.919845,-31.174498
+          -61.920199,-31.174199
+          -61.920517,-31.173807
+          -61.920863,-31.173307
+          -61.921146,-31.172744
+          -61.921350,-31.172232
+          -61.921454,-31.171655
+          -61.921467,-31.170946
+          -61.921393,-31.170048
+          -61.920925,-31.167908
+          -61.889593,-31.036827
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramona KM 53.1</name>
+      <description>KM 53.1</description>
+      <Point><coordinates>-61.903863,-31.096569</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pueblo Marini KM 59.4</name>
+      <description>KM 59.4</description>
+      <Point><coordinates>-61.890562,-31.040869</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

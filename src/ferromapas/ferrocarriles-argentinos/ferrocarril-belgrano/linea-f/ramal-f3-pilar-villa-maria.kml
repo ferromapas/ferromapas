@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal F3: Pilar - Villa María</name>
+    <description>Ramal F3: Pilar - Villa María. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Folder>
+      <name>Línea F3 - Pilar - San Francisco</name>
+      <Placemark>
+        <name>Línea F3 - Pilar - San Francisco</name>
+        <LineString>
+          <coordinates>
+            -61.257348,-31.434121
+            -61.257511,-31.434116
+            -61.258974,-31.433886
+            -61.259416,-31.433841
+            -61.259839,-31.433838
+            -61.260296,-31.433869
+            -61.260766,-31.433889
+            -61.261400,-31.433942
+            -61.261869,-31.433970
+            -61.262120,-31.433993
+            -61.262474,-31.434019
+            -61.262922,-31.434091
+            -61.263373,-31.434186
+            -61.263874,-31.434288
+            -61.264456,-31.434468
+            -61.403321,-31.492700
+            -61.459703,-31.516282
+            -61.465457,-31.518707
+            -61.534833,-31.547699
+            -61.536332,-31.548313
+            -61.537091,-31.548602
+            -61.537763,-31.548822
+            -61.538271,-31.548963
+            -61.538740,-31.549044
+            -61.539345,-31.549145
+            -61.539990,-31.549209
+            -61.540782,-31.549210
+            -61.541231,-31.549188
+            -61.542572,-31.549067
+            -61.548075,-31.548143
+            -61.715594,-31.521083
+            -61.720991,-31.520212
+            -61.894724,-31.491807
+            -61.895851,-31.491612
+            -61.896336,-31.491523
+            -61.896618,-31.491467
+            -61.896929,-31.491396
+            -61.897334,-31.491284
+            -61.897692,-31.491172
+            -61.898017,-31.491066
+            -61.898645,-31.490839
+            -61.899709,-31.490356
+            -61.905124,-31.487996
+            -62.004019,-31.444852
+            -62.004490,-31.444646
+            -62.004856,-31.444516
+            -62.005153,-31.444405
+            -62.005532,-31.444289
+            -62.006000,-31.444165
+            -62.006731,-31.444015
+            -62.025164,-31.440974
+            -62.030569,-31.439988
+            -62.045771,-31.437284
+            -62.045978,-31.437269
+            -62.046208,-31.437266
+            -62.046463,-31.437282
+            -62.046784,-31.437311
+            -62.047102,-31.437381
+            -62.047326,-31.437434
+            -62.047645,-31.437559
+            -62.047889,-31.437663
+            -62.048092,-31.437785
+            -62.048250,-31.437872
+            -62.048421,-31.438000
+            -62.048580,-31.438145
+            -62.048736,-31.438351
+            -62.048931,-31.438645
+            -62.049061,-31.438877
+            -62.049199,-31.439135
+            -62.049314,-31.439529
+            -62.049469,-31.440171
+            -62.049795,-31.441428
+            -62.049919,-31.441878
+            -62.050011,-31.442181
+            -62.050125,-31.442515
+            -62.050182,-31.442699
+            -62.050269,-31.442854
+            -62.050432,-31.443109
+            -62.050703,-31.443443
+            -62.050884,-31.443614
+            -62.051001,-31.443714
+            -62.051160,-31.443819
+            -62.051262,-31.443862
+            -62.051486,-31.443972
+            -62.051739,-31.444087
+            -62.051993,-31.444175
+            -62.052179,-31.444223
+            -62.052408,-31.444277
+            -62.052692,-31.444307
+            -62.052952,-31.444336
+            -62.053233,-31.444349
+            -62.053512,-31.444321
+            -62.054795,-31.444113
+            -62.069739,-31.441672
+            -62.077422,-31.440367
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Cruce FCGB (F3) y FCGBM KM 78.1 (F3)</name>
+        <description>Ramal F3: KM 78.1</description>
+        <Point><coordinates>-61.403494,-31.492772</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 85 (Ap) KM 84.5</name>
+        <description>KM 84.5</description>
+        <Point><coordinates>-61.463810,-31.518016</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Angélica KM 93.1</name>
+        <description>KM 93.1</description>
+        <Point><coordinates>-61.545402,-31.548587</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Ciucellas KM 109.8</name>
+        <description>KM 109.8</description>
+        <Point><coordinates>-61.718309,-31.520645</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 113 (Bomba) KM 112.7</name>
+        <description>KM 112.7</description>
+        <Point><coordinates>-61.748586,-31.515744</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>José Manuel Estrada KM 127.6</name>
+        <description>KM 127.6</description>
+        <Point><coordinates>-61.902196,-31.489274</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Josefina (F) KM 140.7</name>
+        <description>KM 140.7</description>
+        <Point><coordinates>-62.027315,-31.440588</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme a Rosario KM 144.6 (F3)</name>
+        <description>KM 144.6</description>
+        <Point><coordinates>-62.059848,-31.443300</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruce CC4 / F2 y FCGBM KM 1.8 (CC4) / KM 143.8 (F3)</name>
+        <description>Ramal CC4: KM 1.8
+Ramal F3: KM 143.8</description>
+        <Point><coordinates>-62.054789,-31.444114</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>San Francisco (F) KM 146.0 (F3) / KM 516.9 (CC4)</name>
+        <description>Ramal F3: KM 146.0
+Ramal CC4: KM 516.9</description>
+        <Point><coordinates>-62.077315,-31.440402</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Línea F3 - San Francisco - Villa María</name>
+      <Placemark>
+        <name>Línea F3 - San Francisco - Villa María</name>
+        <LineString>
+          <coordinates>
+            -62.077347,-31.440384
+            -62.081970,-31.439617
+            -62.106271,-31.435588
+            -62.106746,-31.435532
+            -62.107044,-31.435515
+            -62.107428,-31.435493
+            -62.107752,-31.435494
+            -62.108062,-31.435525
+            -62.108356,-31.435562
+            -62.108688,-31.435628
+            -62.108889,-31.435663
+            -62.109145,-31.435731
+            -62.109456,-31.435833
+            -62.109740,-31.435933
+            -62.109939,-31.436008
+            -62.110166,-31.436138
+            -62.110464,-31.436292
+            -62.110825,-31.436511
+            -62.111148,-31.436770
+            -62.111715,-31.437317
+            -62.163591,-31.488231
+            -62.167130,-31.491733
+            -62.220359,-31.544297
+            -62.221047,-31.544768
+            -62.228852,-31.549650
+            -62.233276,-31.552318
+            -62.359574,-31.628698
+            -62.367890,-31.633754
+            -62.478641,-31.700456
+            -62.491325,-31.708115
+            -62.494003,-31.709797
+            -62.497079,-31.711547
+            -62.500935,-31.714149
+            -62.616933,-31.798769
+            -62.621151,-31.801818
+            -62.710449,-31.866804
+            -62.715829,-31.870725
+            -62.720128,-31.873847
+            -62.815402,-31.943001
+            -62.821771,-31.947683
+            -62.917442,-32.016821
+            -62.921660,-32.019857
+            -63.028729,-32.096983
+            -63.034293,-32.100985
+            -63.144499,-32.180192
+            -63.145403,-32.180831
+            -63.145783,-32.181121
+            -63.146192,-32.181492
+            -63.146541,-32.181813
+            -63.146895,-32.182221
+            -63.147411,-32.182822
+            -63.161382,-32.200735
+            -63.164380,-32.204556
+            -63.232452,-32.291486
+            -63.232975,-32.292130
+            -63.233624,-32.293116
+            -63.233989,-32.293862
+            -63.234272,-32.294728
+            -63.234463,-32.295653
+            -63.234558,-32.296268
+            -63.234574,-32.296851
+            -63.234457,-32.301582
+            -63.234342,-32.307210
+            -63.233576,-32.355729
+            -63.233560,-32.356241
+            -63.233651,-32.356984
+            -63.233724,-32.357501
+            -63.233883,-32.358299
+            -63.243101,-32.392580
+            -63.243199,-32.392845
+            -63.243314,-32.393090
+            -63.246940,-32.397799
+            -63.247063,-32.397913
+            -63.253526,-32.401927
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Monte Redondo (Ap) KM 157.1</name>
+        <description>KM 157.1</description>
+        <Point><coordinates>-62.165360,-31.489986</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Quebracho Herrado KM 166.4</name>
+        <description>KM 166.4</description>
+        <Point><coordinates>-62.231061,-31.550974</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Colonia Prosperidad KM 182.0</name>
+        <description>KM 182.0</description>
+        <Point><coordinates>-62.365697,-31.632427</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Saturnino M. Laspiur KM 195.6</name>
+        <description>KM 195.6</description>
+        <Point><coordinates>-62.483220,-31.703222</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Varas KM 212.4</name>
+        <description>KM 212.4</description>
+        <Point><coordinates>-62.619023,-31.800270</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruce FCGB(F3) / FCGBM KM 223.8 (F3)</name>
+        <description>Ramal F3: KM 223.8</description>
+        <Point><coordinates>-62.711632,-31.867672</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Varillas KM 224.7</name>
+        <description>KM 224.7</description>
+        <Point><coordinates>-62.718061,-31.872341</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Trinchera (AP) KM 237.5</name>
+        <description>KM 237.5</description>
+        <Point><coordinates>-62.820765,-31.946936</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Pozo del Moye KM 249.7</name>
+        <description>KM 249.7</description>
+        <Point><coordinates>-62.919461,-32.018281</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme F3 / F13 KM 250.0</name>
+        <description>KM 252.0</description>
+        <Point><coordinates>-62.921692,-32.019883</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>La Playosa KM 263.6</name>
+        <description>KM 263.6</description>
+        <Point><coordinates>-63.032042,-32.099365</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 274 (Dv) KM 274.1</name>
+        <description>KM 274.1</description>
+        <Point><coordinates>-63.116987,-32.160446</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Arroyo Algodón KM 280.5</name>
+        <description>KM 280.5</description>
+        <Point><coordinates>-63.162872,-32.202633</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Mojarras (Emb) KM 293.8</name>
+        <description>KM 293.8</description>
+        <Point><coordinates>-63.234395,-32.304304</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa María (F) KM 304.8</name>
+        <description>KM 304.8</description>
+        <Point><coordinates>-63.250258,-32.399898</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme Villa María F / FCGBM</name>
+        <LineString>
+          <coordinates>
+            -63.245763,-32.396279
+            -63.246107,-32.396611
+            -63.246267,-32.396759
+            -63.253143,-32.401132
+            -63.253502,-32.401369
+            -63.253697,-32.401726
+            -63.253769,-32.402024
+            -63.253783,-32.402192
+            -63.253782,-32.402365
+            -63.253736,-32.402590
+            -63.253642,-32.402808
+            -63.253547,-32.402987
+            -63.244849,-32.412766
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Folder>
+</kml>

@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C25 - Embarcación - Formosa</name>
+    <description>Ramal C25 - Embarcación - Formosa. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C25 - Embarcación - Formosa</name>
+      <LineString>
+        <coordinates>
+          -64.089908,-23.209446
+          -64.088047,-23.208218
+          -64.087078,-23.207838
+          -64.086429,-23.207667
+          -64.084041,-23.207310
+          -64.068369,-23.205828
+          -64.066205,-23.205692
+          -64.064967,-23.205671
+          -64.063986,-23.205764
+          -64.063107,-23.205914
+          -64.062053,-23.206226
+          -64.061257,-23.206529
+          -64.060439,-23.206945
+          -64.041701,-23.217735
+          -64.040836,-23.218191
+          -64.040290,-23.218426
+          -64.039671,-23.218662
+          -64.039044,-23.218839
+          -64.038252,-23.219020
+          -64.037148,-23.219138
+          -64.030667,-23.219576
+          -64.027081,-23.219803
+          -64.025454,-23.219921
+          -64.023722,-23.219935
+          -63.849596,-23.217335
+          -63.838963,-23.217193
+          -63.571241,-23.212633
+          -63.560583,-23.212436
+          -63.544198,-23.212127
+          -63.543624,-23.212145
+          -63.543040,-23.212163
+          -63.542494,-23.212227
+          -63.541521,-23.212327
+          -63.539471,-23.212834
+          -63.537808,-23.213311
+          -63.496032,-23.225388
+          -63.495144,-23.225663
+          -63.494379,-23.225951
+          -63.493264,-23.226524
+          -63.489641,-23.228627
+          -63.488848,-23.229089
+          -63.488212,-23.229450
+          -63.487361,-23.229859
+          -63.486209,-23.230315
+          -63.484913,-23.230694
+          -63.483985,-23.230905
+          -63.483002,-23.231091
+          -63.482069,-23.231160
+          -63.481419,-23.231194
+          -63.480852,-23.231207
+          -63.479988,-23.231193
+          -63.479421,-23.231155
+          -63.478796,-23.231090
+          -63.478447,-23.231029
+          -63.450640,-23.225012
+          -63.449956,-23.224886
+          -63.449467,-23.224837
+          -63.449038,-23.224813
+          -63.448673,-23.224810
+          -63.448340,-23.224808
+          -63.447840,-23.224835
+          -63.447175,-23.224920
+          -63.446641,-23.225016
+          -63.346355,-23.249536
+          -63.336229,-23.252006
+          -63.304031,-23.259468
+          -63.302528,-23.259892
+          -63.302024,-23.260068
+          -63.301502,-23.260285
+          -63.301003,-23.260537
+          -63.300480,-23.260841
+          -63.299900,-23.261212
+          -63.298603,-23.262272
+          -63.267605,-23.289453
+          -63.266741,-23.290202
+          -63.266462,-23.290385
+          -63.266120,-23.290616
+          -63.265926,-23.290747
+          -63.265649,-23.290890
+          -63.265245,-23.291101
+          -63.096400,-23.373102
+          -62.894427,-23.470940
+          -62.884970,-23.475506
+          -62.811985,-23.510653
+          -62.810781,-23.511222
+          -62.810453,-23.511363
+          -62.808117,-23.512285
+          -62.804312,-23.513552
+          -62.634532,-23.571924
+          -62.633026,-23.572464
+          -62.632193,-23.572826
+          -62.631442,-23.573228
+          -62.630522,-23.573787
+          -62.629741,-23.574326
+          -62.628572,-23.575306
+          -62.600861,-23.605940
+          -62.593135,-23.614488
+          -62.554437,-23.657036
+          -62.553549,-23.657982
+          -62.552949,-23.658569
+          -62.552260,-23.659135
+          -62.551525,-23.659693
+          -62.550820,-23.660160
+          -62.549953,-23.660660
+          -62.549240,-23.661008
+          -62.548031,-23.661509
+          -62.547269,-23.661770
+          -62.546014,-23.662095
+          -62.543745,-23.662485
+          -62.379874,-23.688451
+          -62.369322,-23.690102
+          -62.241172,-23.710161
+          -62.240120,-23.710324
+          -62.239130,-23.710497
+          -62.238172,-23.710778
+          -62.236857,-23.711347
+          -62.156973,-23.750699
+          -62.147523,-23.755368
+          -61.868880,-23.892499
+          -61.861390,-23.896121
+          -61.849870,-23.901759
+          -61.720132,-23.964445
+          -61.518081,-24.062385
+          -61.516369,-24.063216
+          -61.515217,-24.063879
+          -61.514183,-24.064591
+          -61.469863,-24.096011
+          -61.461485,-24.101965
+          -61.250847,-24.251026
+          -61.242435,-24.256957
+          -61.033566,-24.403955
+          -61.025102,-24.409897
+          -60.844341,-24.536547
+          -60.818952,-24.554342
+          -60.691033,-24.643343
+          -60.602280,-24.705055
+          -60.598050,-24.707988
+          -60.590320,-24.713345
+          -60.460698,-24.803228
+          -60.452999,-24.808563
+          -60.328385,-24.894711
+          -60.320375,-24.900233
+          -60.185159,-24.993299
+          -60.099037,-25.052373
+          -60.090652,-25.058159
+          -59.967090,-25.142048
+          -59.863126,-25.212936
+          -59.855213,-25.218276
+          -59.687767,-25.332586
+          -59.679933,-25.337927
+          -59.572802,-25.410313
+          -59.345558,-25.563672
+          -59.337706,-25.568936
+          -59.314673,-25.584427
+          -59.180319,-25.674545
+          -59.106644,-25.723957
+          -59.098719,-25.729260
+          -58.893693,-25.866090
+          -58.885861,-25.871305
+          -58.752469,-25.959979
+          -58.653892,-26.025349
+          -58.645799,-26.030603
+          -58.639171,-26.035036
+          -58.637235,-26.036068
+          -58.491762,-26.109446
+          -58.483383,-26.113649
+          -58.482398,-26.114146
+          -58.481982,-26.114344
+          -58.481612,-26.114514
+          -58.481146,-26.114712
+          -58.480713,-26.114882
+          -58.480240,-26.115046
+          -58.479413,-26.115296
+          -58.478890,-26.115434
+          -58.478464,-26.115526
+          -58.477390,-26.115727
+          -58.342858,-26.140331
+          -58.275013,-26.152607
+          -58.273757,-26.152806
+          -58.272298,-26.152911
+          -58.246928,-26.153478
+          -58.244973,-26.153523
+          -58.244147,-26.153595
+          -58.243353,-26.153702
+          -58.242277,-26.153898
+          -58.240977,-26.154189
+          -58.190217,-26.165177
+          -58.182164,-26.166895
+          -58.175037,-26.168434
+          -58.170601,-26.169481
+          -58.169920,-26.169756
+          -58.169261,-26.170023
+          -58.168781,-26.170295
+          -58.168332,-26.170670
+          -58.167903,-26.171107
+          -58.167565,-26.171865
+          -58.167324,-26.172445
+          -58.166774,-26.173887
+          -58.164315,-26.179865
+          -58.163317,-26.182472
+          -58.163025,-26.183235
+          -58.162611,-26.184164
+          -58.162426,-26.184507
+          -58.162264,-26.184727
+          -58.161896,-26.185072
+          -58.161615,-26.185295
+          -58.161304,-26.185485
+          -58.159823,-26.186523
+          -58.159549,-26.186759
+          -58.159415,-26.186964
+          -58.159321,-26.187174
+          -58.156838,-26.193253
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Padre Lozano KM 1337.9</name>
+      <description>KM 1337.9</description>
+      <Point><coordinates>-63.844727,-23.217216</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hickmann KM 1366.4</name>
+      <description>KM 1366.4</description>
+      <Point><coordinates>-63.566443,-23.212578</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dragones KM 1390.3</name>
+      <description>KM 1390.3</description>
+      <Point><coordinates>-63.340872,-23.250875</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pluma del Pato KM 1419.0</name>
+      <description>KM 1419.0</description>
+      <Point><coordinates>-63.096332,-23.373011</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Morillo KM 1442.8 (Coronel Juan Sola)</name>
+      <description>KM 1442.8</description>
+      <Point><coordinates>-62.890029,-23.473076</coordinates></Point>
+    </Placemark>
+    <Folder>
+      <name>Morillo KM 1442.8 (Coronel Juan Sola)</name>
+      <Placemark>
+        <name>Triángulo Morillo KM 1442.8 (Coronel Juan Sola)</name>
+        <LineString>
+          <coordinates>
+            -62.898946,-23.468759
+            -62.898104,-23.469308
+            -62.897801,-23.469595
+            -62.897597,-23.469821
+            -62.897433,-23.470052
+            -62.897343,-23.470293
+            -62.897318,-23.470489
+            -62.897302,-23.470676
+            -62.897302,-23.470968
+            -62.897357,-23.471211
+            -62.897466,-23.471516
+            -62.897571,-23.471742
+            -62.898835,-23.473997
+            -62.897691,-23.471957
+            -62.897445,-23.471548
+            -62.897320,-23.471366
+            -62.897199,-23.471237
+            -62.897076,-23.471124
+            -62.896931,-23.471014
+            -62.896750,-23.470904
+            -62.896612,-23.470818
+            -62.896441,-23.470747
+            -62.896266,-23.470693
+            -62.896023,-23.470653
+            -62.895797,-23.470644
+            -62.895533,-23.470666
+            -62.895201,-23.470761
+            -62.894875,-23.470871
+            -62.894465,-23.471051
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Morillo KM 1442.8 (Coronel Juan Sola)</name>
+        <LineString>
+          <coordinates>
+            -62.898144,-23.469298
+            -62.894409,-23.471078
+            -62.888646,-23.473887
+            -62.888031,-23.474180
+            -62.887419,-23.474448
+            -62.886102,-23.474957
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Morillo KM 1442.8 (Coronel Juan Sola)</name>
+        <LineString>
+          <coordinates>
+            -62.897908,-23.469251
+            -62.897258,-23.469643
+            -62.888326,-23.473964
+            -62.887097,-23.474485
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Desvío Morillo KM 1442.8 (Coronel Juan Sola)</name>
+        <LineString>
+          <coordinates>
+            -62.887406,-23.474454
+            -62.885657,-23.475409
+            -62.884396,-23.476237
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Placemark>
+      <name>Suri Pintado (DC) KM 1460.2</name>
+      <description>KM 1460.2</description>
+      <Point><coordinates>-62.735035,-23.537416</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Blancos KM 1476.9</name>
+      <description>KM 1476.9</description>
+      <Point><coordinates>-62.596943,-23.610281</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Capitán Juan Pagé (Emb) KM 1502.4</name>
+      <description>KM 1502.4</description>
+      <Point><coordinates>-62.375263,-23.689169</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Teniente Gral R. M. Fraga KM 1526.4</name>
+      <description>KM 1526.4</description>
+      <Point><coordinates>-62.152637,-23.752848</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Carga Petroleo Ingeniero Guillermo Nicasio Juárez</name>
+      <Point><coordinates>-61.863574,-23.889260</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo y Desvío Ingeniero Guillermo Nicasio Juárez</name>
+      <LineString>
+        <coordinates>
+          -61.868828,-23.892516
+          -61.868293,-23.892740
+          -61.868125,-23.892795
+          -61.867946,-23.892811
+          -61.867671,-23.892813
+          -61.867413,-23.892788
+          -61.867186,-23.892750
+          -61.866937,-23.892671
+          -61.866651,-23.892539
+          -61.865566,-23.891993
+          -61.865382,-23.891893
+          -61.865237,-23.891799
+          -61.865115,-23.891700
+          -61.864988,-23.891578
+          -61.864857,-23.891435
+          -61.864675,-23.891158
+          -61.862133,-23.886766
+          -61.864617,-23.891062
+          -61.864731,-23.891305
+          -61.864878,-23.891552
+          -61.864950,-23.891670
+          -61.865012,-23.891861
+          -61.865080,-23.892099
+          -61.865096,-23.892300
+          -61.865095,-23.892500
+          -61.865066,-23.892682
+          -61.865009,-23.892913
+          -61.864892,-23.893171
+          -61.864729,-23.893421
+          -61.864453,-23.893712
+          -61.862626,-23.895406
+          -61.862099,-23.895777
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ingeniero Guillermo Nicasio Juárez KM 1560.8</name>
+      <description>KM 1560.8</description>
+      <Point><coordinates>-61.855387,-23.899114</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ingeniero Enrique H. Faure (Emb) KM 1576.2</name>
+      <description>KM 1576.2</description>
+      <Point><coordinates>-61.720331,-23.964371</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chiriguanos KM 1606.2</name>
+      <description>KM 1606.2</description>
+      <Point><coordinates>-61.466074,-24.098726</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Laguna Yema KM 1634.3</name>
+      <description>KM 1634.3</description>
+      <Point><coordinates>-61.247054,-24.253686</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pozo del Mortero KM 1662.1</name>
+      <description>KM 1662.1</description>
+      <Point><coordinates>-61.029755,-24.406630</coordinates></Point>
+    </Placemark>
+    <Folder>
+      <name>Pozo del Mortero</name>
+      <Placemark>
+        <name>Triángulo Pozo del Mortero</name>
+        <LineString>
+          <coordinates>
+            -61.026631,-24.408841
+            -61.027200,-24.408519
+            -61.027738,-24.408238
+            -61.032622,-24.404789
+            -61.034037,-24.403760
+            -61.037199,-24.401549
+            -61.039384,-24.400045
+            -61.037088,-24.401627
+            -61.036864,-24.401852
+            -61.036634,-24.402190
+            -61.036502,-24.402415
+            -61.036430,-24.402657
+            -61.036403,-24.402899
+            -61.036406,-24.403145
+            -61.036449,-24.403322
+            -61.036497,-24.403568
+            -61.036582,-24.403778
+            -61.036699,-24.403985
+            -61.037441,-24.404851
+            -61.036733,-24.404025
+            -61.036497,-24.403838
+            -61.036140,-24.403620
+            -61.035855,-24.403507
+            -61.035532,-24.403439
+            -61.035277,-24.403414
+            -61.035043,-24.403432
+            -61.034832,-24.403464
+            -61.034551,-24.403518
+            -61.034215,-24.403643
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Placemark>
+      <name>Juan G. Bazán KM 1687.2</name>
+      <description>KM 1687.2</description>
+      <Point><coordinates>-60.832627,-24.544729</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pozo de las Garzas (DC) KM 1704.8</name>
+      <description>KM 1704.8</description>
+      <Point><coordinates>-60.694167,-24.641186</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Las Lomitas</name>
+      <LineString>
+        <coordinates>
+          -60.601822,-24.705374
+          -60.601404,-24.705607
+          -60.601189,-24.705696
+          -60.600973,-24.705748
+          -60.600670,-24.705796
+          -60.600340,-24.705814
+          -60.600057,-24.705782
+          -60.599790,-24.705719
+          -60.599523,-24.705634
+          -60.599293,-24.705508
+          -60.598973,-24.705287
+          -60.598793,-24.705108
+          -60.598475,-24.704776
+          -60.597461,-24.703424
+          -60.598472,-24.704770
+          -60.598828,-24.705267
+          -60.598941,-24.705439
+          -60.599007,-24.705598
+          -60.599060,-24.705777
+          -60.599109,-24.705984
+          -60.599125,-24.706178
+          -60.599128,-24.706391
+          -60.599088,-24.706634
+          -60.599027,-24.706846
+          -60.598936,-24.707049
+          -60.598801,-24.707278
+          -60.598688,-24.707430
+          -60.598544,-24.707579
+          -60.598383,-24.707722
+          -60.597943,-24.708049
+          -60.597895,-24.708092
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Las Lomitas KM 1717.5</name>
+      <description>KM 1717.5</description>
+      <Point><coordinates>-60.594183,-24.710684</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Teniente Brown KM 1735.0</name>
+      <description>KM 1735.0</description>
+      <Point><coordinates>-60.456753,-24.805969</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pozo del Tigre KM 1751.7</name>
+      <description>KM 1751.7</description>
+      <Point><coordinates>-60.324679,-24.897265</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 1769 (Bomba) KM 1769.3</name>
+      <description>KM 1769.3</description>
+      <Point><coordinates>-60.185339,-24.993161</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Estanislao del Campo KM 1780.7</name>
+      <description>KM 1780.7</description>
+      <Point><coordinates>-60.095096,-25.055110</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bruchard (DC) KM 1797.0</name>
+      <description>KM 1797.0</description>
+      <Point><coordinates>-59.965792,-25.142849</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ibarreta KM 1810.4</name>
+      <description>KM 1810.4</description>
+      <Point><coordinates>-59.859197,-25.215642</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Comandate Fontana KM 1832.5</name>
+      <description>KM 1832.5</description>
+      <Point><coordinates>-59.683877,-25.335277</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bartolomé de las Casa (DC) KM 1846.4</name>
+      <description>KM 1846.4</description>
+      <Point><coordinates>-59.572804,-25.410339</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Matacos (Emb.) KM 1862.9</name>
+      <description>KM 1862.9</description>
+      <Point><coordinates>-59.441219,-25.499198</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Palo Santo KM 1875.4</name>
+      <description>KM 1875.4</description>
+      <Point><coordinates>-59.341711,-25.566369</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Estero Patiño KM 1878.8</name>
+      <description>KM 1878.8</description>
+      <Point><coordinates>-59.314655,-25.584492</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 1895 (DC) KM 1895.4</name>
+      <description>KM 1895.4</description>
+      <Point><coordinates>-59.181634,-25.673665</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pirané KM 1905.2</name>
+      <description>KM 1905.2</description>
+      <Point><coordinates>-59.102712,-25.726602</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gran Guardia KM 1931.7</name>
+      <description>KM 1931.7</description>
+      <Point><coordinates>-58.889804,-25.868689</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Pilagás (Emb) KM 1948.6</name>
+      <description>KM 1948.6</description>
+      <Point><coordinates>-58.753747,-25.959165</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Hilario KM 1961.5</name>
+      <description>KM 1961.5</description>
+      <Point><coordinates>-58.649784,-26.028007</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mariano Boedo KM 1980.2</name>
+      <description>KM 1980.2</description>
+      <Point><coordinates>-58.487575,-26.111536</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pucú (DC) KM 1995.0</name>
+      <description>KM 1995.0</description>
+      <Point><coordinates>-58.343183,-26.140284</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce Tranvía Rural KM 2011.513</name>
+      <description>KM 2011.513</description>
+      <Point><coordinates>-58.181710,-26.166989</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Formosa KM 2014.2</name>
+      <description>KM 2014.2</description>
+      <Point><coordinates>-58.163871,-26.181086</coordinates></Point>
+    </Placemark>
+    <Folder>
+      <name>Formosa</name>
+      <Placemark>
+        <name>Desvío Planta Tanino</name>
+        <LineString>
+          <coordinates>
+            -58.159820,-26.186526
+            -58.159008,-26.187193
+            -58.158250,-26.187797
+            -58.157965,-26.188024
+            -58.157772,-26.188166
+            -58.157628,-26.188400
+            -58.157344,-26.189037
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Desvío Petrolera</name>
+        <LineString>
+          <coordinates>
+            -58.158456,-26.189265
+            -58.158197,-26.189574
+            -58.157866,-26.189739
+            -58.157580,-26.189850
+            -58.157182,-26.190127
+            -58.157013,-26.190355
+            -58.156921,-26.190623
+            -58.156132,-26.193070
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Desvío Petrolera</name>
+        <LineString>
+          <coordinates>
+            -58.157689,-26.189803
+            -58.157279,-26.189982
+            -58.156993,-26.190231
+            -58.156848,-26.190512
+            -58.156759,-26.190777
+            -58.156029,-26.193022
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ramal al Puerto de Formosa</name>
+        <LineString>
+          <coordinates>
+            -58.157767,-26.189773
+            -58.157385,-26.189909
+            -58.157131,-26.190059
+            -58.156937,-26.190253
+            -58.156802,-26.190442
+            -58.156203,-26.192038
+            -58.156034,-26.192270
+            -58.155832,-26.192520
+            -58.155408,-26.192892
+            -58.155005,-26.193074
+            -58.154609,-26.193218
+            -58.154242,-26.193299
+            -58.153638,-26.193422
+            -58.153222,-26.193524
+            -58.152952,-26.193637
+            -58.152648,-26.193802
+            -58.152380,-26.193987
+            -58.152084,-26.194229
+            -58.151805,-26.194537
+            -58.151488,-26.194968
+            -58.149616,-26.197318
+            -58.149312,-26.197609
+            -58.149084,-26.197767
+            -58.148919,-26.197837
+            -58.148609,-26.197986
+            -58.148369,-26.198147
+            -58.148076,-26.198399
+            -58.147887,-26.198628
+            -58.147165,-26.199488
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ramal al Puerto de Formosa</name>
+        <LineString>
+          <coordinates>
+            -58.150083,-26.196738
+            -58.149640,-26.197337
+            -58.149306,-26.197652
+            -58.149000,-26.197850
+            -58.148766,-26.198005
+            -58.148118,-26.198770
+            -58.147401,-26.199579
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ramal al Puerto de Formosa</name>
+        <LineString>
+          <coordinates>
+            -58.156989,-26.190251
+            -58.156830,-26.190500
+            -58.156316,-26.191851
+            -58.156150,-26.192184
+            -58.155585,-26.192812
+            -58.155342,-26.192991
+            -58.154755,-26.193212
+            -58.154044,-26.193367
+            -58.153577,-26.193484
+            -58.153162,-26.193578
+            -58.152738,-26.193798
+            -58.152309,-26.194075
+            -58.151981,-26.194390
+            -58.151459,-26.195048
+            -58.150119,-26.196742
+            -58.149554,-26.197480
+            -58.149405,-26.197673
+            -58.149170,-26.197915
+            -58.149015,-26.198060
+            -58.148608,-26.198401
+            -58.148407,-26.198603
+            -58.148090,-26.198978
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ramal al Puerto de Formosa</name>
+        <LineString>
+          <coordinates>
+            -58.149234,-26.197838
+            -58.149015,-26.197999
+            -58.148709,-26.198263
+            -58.148422,-26.198522
+            -58.147085,-26.200104
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ramal al Puerto de Formosa</name>
+        <LineString>
+          <coordinates>
+            -58.156306,-26.191787
+            -58.156112,-26.192126
+            -58.155983,-26.192304
+            -58.155791,-26.192533
+            -58.155314,-26.192908
+            -58.154631,-26.193181
+            -58.154034,-26.193319
+            -58.153512,-26.193432
+            -58.153052,-26.193569
+            -58.152669,-26.193747
+            -58.152321,-26.193991
+            -58.151930,-26.194349
+            -58.151462,-26.194942
+            -58.149695,-26.197134
+            -58.149318,-26.197546
+            -58.148978,-26.197747
+            -58.148698,-26.197837
+            -58.148374,-26.197921
+            -58.148123,-26.198035
+            -58.147842,-26.198228
+            -58.147661,-26.198383
+            -58.146709,-26.199514
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ramal al Puerto de Formosa</name>
+        <LineString>
+          <coordinates>
+            -58.149418,-26.197427
+            -58.149134,-26.197611
+            -58.148981,-26.197682
+            -58.148707,-26.197790
+            -58.148426,-26.197831
+            -58.148151,-26.197904
+            -58.147963,-26.198008
+            -58.147872,-26.198079
+            -58.147630,-26.198326
+            -58.146621,-26.199485
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Folder>
+</kml>

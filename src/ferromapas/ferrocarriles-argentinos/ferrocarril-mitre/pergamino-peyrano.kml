@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Pergamino - Peyrano</name>
+    <description>Pergamino - Peyrano. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Pergamino - Peyrano</name>
+      <LineString>
+        <coordinates>
+          -60.541150,-33.898649
+          -60.547183,-33.896602
+          -60.550902,-33.895360
+          -60.553192,-33.894597
+          -60.556852,-33.893364
+          -60.557803,-33.893024
+          -60.558304,-33.892834
+          -60.558951,-33.892591
+          -60.560751,-33.891972
+          -60.564419,-33.890702
+          -60.569642,-33.888963
+          -60.580138,-33.885444
+          -60.585238,-33.883728
+          -60.586359,-33.883397
+          -60.588047,-33.882828
+          -60.589265,-33.882405
+          -60.590121,-33.882108
+          -60.590786,-33.881856
+          -60.591552,-33.881507
+          -60.592431,-33.881003
+          -60.592999,-33.880626
+          -60.593623,-33.880123
+          -60.593979,-33.879784
+          -60.594527,-33.879224
+          -60.595011,-33.878649
+          -60.595430,-33.878037
+          -60.595723,-33.877536
+          -60.596186,-33.876511
+          -60.597247,-33.873847
+          -60.598072,-33.871798
+          -60.601464,-33.863323
+          -60.602432,-33.860859
+          -60.624682,-33.805251
+          -60.625953,-33.802090
+          -60.626738,-33.800106
+          -60.627502,-33.798217
+          -60.627768,-33.797551
+          -60.628126,-33.796747
+          -60.628383,-33.796234
+          -60.628751,-33.795556
+          -60.629383,-33.794427
+          -60.629841,-33.793598
+          -60.630422,-33.792531
+          -60.630870,-33.791725
+          -60.631235,-33.791065
+          -60.631794,-33.790063
+          -60.633379,-33.787214
+          -60.636913,-33.780856
+          -60.639937,-33.775376
+          -60.640725,-33.773953
+          -60.641883,-33.771863
+          -60.644556,-33.767031
+          -60.659167,-33.740833
+          -60.661043,-33.737528
+          -60.662933,-33.734130
+          -60.665747,-33.729133
+          -60.668782,-33.723538
+          -60.674500,-33.712900
+          -60.679638,-33.703544
+          -60.688251,-33.688185
+          -60.691308,-33.682655
+          -60.697631,-33.670905
+          -60.699474,-33.667516
+          -60.700062,-33.666441
+          -60.700518,-33.665724
+          -60.701145,-33.664980
+          -60.701785,-33.664352
+          -60.702485,-33.663754
+          -60.703090,-33.663316
+          -60.706834,-33.660533
+          -60.717283,-33.652643
+          -60.731920,-33.641446
+          -60.737121,-33.637536
+          -60.738943,-33.636111
+          -60.739658,-33.635432
+          -60.740219,-33.634776
+          -60.740779,-33.634019
+          -60.743289,-33.630360
+          -60.779855,-33.578220
+          -60.786449,-33.568706
+          -60.794059,-33.557668
+          -60.797064,-33.553317
+          -60.798984,-33.550550
+          -60.799964,-33.549205
+          -60.806922,-33.539066
+          -60.808171,-33.537217
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Pergamino KM 228.5</name>
+      <description>KM 228.5</description>
+      <Point><coordinates>-60.568386,-33.889422</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Manuel Ocampo KM 245.0</name>
+      <description>KM 245.0</description>
+      <Point><coordinates>-60.646921,-33.762708</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Socorro KM 257.5</name>
+      <description>KM 257.5</description>
+      <Point><coordinates>-60.705521,-33.661566</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Arroyo del Medio KM 268.1</name>
+      <description>KM 268.1</description>
+      <Point><coordinates>-60.774156,-33.586378</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Weelwright KM 272.75</name>
+      <description>KM 272.75</description>
+      <Point><coordinates>-60.799475,-33.549894</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Peyrano KM 274.1</name>
+      <description>KM 274.1</description>
+      <Point><coordinates>-60.806704,-33.539399</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

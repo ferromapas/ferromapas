@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Rosario Norte</name>
+    <description>Rosario Norte. Dibujado por:
+Pablo Anglat
+
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Libro "Ferrocarriles en Rosario" de Ángel Ferrer y Carlos Alberto Fernández Priotti
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>FCGBM</name>
+      <LineString>
+        <coordinates>
+          -60.671304,-32.930901
+          -60.672862,-32.930563
+          -60.673733,-32.930179
+          -60.674723,-32.929768
+          -60.676640,-32.928871
+          -60.678154,-32.927983
+          -60.679940,-32.926731
+          -60.684283,-32.923533
+          -60.685985,-32.922297
+          -60.686666,-32.921755
+          -60.687183,-32.921299
+          -60.687581,-32.920871
+          -60.688515,-32.919828
+          -60.689133,-32.919003
+          -60.689801,-32.917885
+          -60.690554,-32.916466
+          -60.691339,-32.914838
+          -60.691813,-32.913381
+          -60.693020,-32.910292
+          -60.694108,-32.907551
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Barrio Alberdi (Parada)</name>
+      <Point><coordinates>-60.691310,-32.914818</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Planchada Transbordo FCBAR y FCSF</name>
+      <Point><coordinates>-60.687751,-32.920678</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>FCGBM</name>
+      <LineString>
+        <coordinates>
+          -60.687433,-32.921032
+          -60.686453,-32.921839
+          -60.685932,-32.922098
+          -60.685280,-32.922255
+          -60.684780,-32.922310
+          -60.684280,-32.922286
+          -60.670779,-32.921886
+          -60.669931,-32.921940
+          -60.669171,-32.922038
+          -60.667988,-32.922355
+          -60.666882,-32.922718
+          -60.666397,-32.922875
+          -60.665504,-32.923247
+          -60.664684,-32.923775
+          -60.663818,-32.924232
+          -60.663518,-32.924495
+          -60.662874,-32.925194
+          -60.662525,-32.925906
+          -60.662355,-32.926594
+          -60.662361,-32.927446
+          -60.662420,-32.928299
+          -60.662818,-32.929210
+          -60.663464,-32.929795
+          -60.664818,-32.930328
+          -60.667149,-32.930680
+          -60.671093,-32.930703
+          -60.672466,-32.930655
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>FCGBM</name>
+      <LineString>
+        <coordinates>
+          -60.663338,-32.924689
+          -60.662455,-32.925283
+          -60.661684,-32.925672
+          -60.660216,-32.926356
+          -60.658787,-32.926964
+          -60.657186,-32.927644
+          -60.655566,-32.928442
+          -60.654592,-32.928832
+          -60.653086,-32.929463
+          -60.652676,-32.929671
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>FCGBM</name>
+      <LineString>
+        <coordinates>
+          -60.660207,-32.926357
+          -60.660954,-32.926226
+          -60.661538,-32.926292
+          -60.662145,-32.926617
+          -60.662360,-32.927112
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Talleres Rosario</name>
+      <Point><coordinates>-60.669923,-32.929003</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>D.A.D.E.R. - Depósito Alistamiento Diesel-Eléctrico Rosario</name>
+      <Point><coordinates>-60.668375,-32.929501</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

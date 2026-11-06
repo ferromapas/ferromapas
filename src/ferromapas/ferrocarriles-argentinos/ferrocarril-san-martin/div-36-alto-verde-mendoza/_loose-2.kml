@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 36: Alto Verde - Mendoza</name>
+    <Placemark>
+      <name>Fray Luis Beltran KM 1037.9</name>
+      <description>KM 1037.9
+Código: CLB</description>
+      <Point><coordinates>-68.651629,-33.009320</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Circuito Guaymallén</name>
+      <description>(GPS)</description>
+      <Point><coordinates>-68.653950,-33.008350</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rodeo del Medio KM 1041.5</name>
+      <description>KM 1041.5
+Código: CRD
+(GPS)</description>
+      <Point><coordinates>-68.686600,-32.996050</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero General Ortega KM 1045.1</name>
+      <description>KM 1045.1</description>
+      <Point><coordinates>-68.721078,-32.982994</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coquimbito KM 1047.8</name>
+      <description>KM 1047.8
+Código: CCQ</description>
+      <Point><coordinates>-68.748550,-32.972601</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabín Coquimbito</name>
+      <Point><coordinates>-68.749362,-32.972299</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabin Gutierrez Este  KM 1050.4</name>
+      <description>KM 1050.4
+Código: CCE</description>
+      <Point><coordinates>-68.773250,-32.963250</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío</name>
+      <Point><coordinates>-68.780117,-32.960650</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gutierrez KM 1051.3</name>
+      <description>KM 1051.3
+Código: CGU</description>
+      <Point><coordinates>-68.782727,-32.959672</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bodega Giol</name>
+      <Point><coordinates>-68.785773,-32.957660</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabín Gutierrez Oeste</name>
+      <Point><coordinates>-68.783117,-32.959509</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente bajo FC Belgrano KM 1052.37</name>
+      <Point><coordinates>-68.793330,-32.955789</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Luzuriaga KM 1054.1</name>
+      <description>KM 1054.1</description>
+      <Point><coordinates>-68.808380,-32.947402</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>S.A.V.Y.A. (Sociedad Anónima Vitivinícola y Aceitera)</name>
+      <Point><coordinates>-68.834766,-32.925833</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Godoy Cruz (FCGSM) KM 1058.3</name>
+      <description>KM 1058.3</description>
+      <Point><coordinates>-68.840637,-32.920825</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero KM 2.719</name>
+      <Point><coordinates>-68.852242,-32.907780</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Godoy Cruz Cargas (FCGSM)</name>
+      <Point><coordinates>-68.842135,-32.924421</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bodega El Globo</name>
+      <Point><coordinates>-68.844606,-32.923285</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bodega Escorihuela</name>
+      <Point><coordinates>-68.842860,-32.912524</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bodega Arizu</name>
+      <Point><coordinates>-68.842729,-32.911937</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Serenisima</name>
+      <Point><coordinates>-68.836023,-32.924780</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Calle Tucumán KM 1060,12 (ex KM 1051,21841)</name>
+      <description>KM 1060,12
+ex KM 1051,21841</description>
+      <Point><coordinates>-68.852080,-32.908280</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Trasandino KM 1061.1 / KM 0.6</name>
+      <description>KM 1061.1 (SM)
+KM 0.6 (Trasandino)
+Código: CET (SM)</description>
+      <Point><coordinates>-68.852855,-32.899554</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme GOA / FCT KM 1061.7 (ex KM 1047,10251)</name>
+      <description>KM 1061.7
+ex KM 1047,10251</description>
+      <Point><coordinates>-68.851130,-32.894082</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 1061 (Calle Colón) KM 1061.8</name>
+      <description>KM 1061.8</description>
+      <Point><coordinates>-68.850874,-32.893100</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mendoza Pasajeros (GOA) KM 1063.0 (ex KM 1048.34296)</name>
+      <description>KM 1063.0
+Ex KM 1048.34296
+Código: CME</description>
+      <Point><coordinates>-68.848190,-32.882870</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Coquimbito 1</name>
+      <LineString>
+        <coordinates>
+          -68.750353,-32.972026
+          -68.749830,-32.972264
+          -68.749661,-32.972361
+          -68.749553,-32.972457
+          -68.749412,-32.972570
+          -68.749259,-32.972722
+          -68.749134,-32.972876
+          -68.749011,-32.973071
+          -68.748365,-32.974056
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Coquimbito 2</name>
+      <LineString>
+        <coordinates>
+          -68.749648,-32.972377
+          -68.749022,-32.972784
+          -68.748854,-32.972886
+          -68.748498,-32.973024
+          -68.748235,-32.973190
+          -68.747297,-32.973540
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Coquimbito 3</name>
+      <LineString>
+        <coordinates>
+          -68.748501,-32.973016
+          -68.747252,-32.973481
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Coquimbito 4</name>
+      <LineString>
+        <coordinates>
+          -68.751524,-32.971497
+          -68.750672,-32.971755
+          -68.749550,-32.972074
+          -68.748935,-32.972276
+          -68.747384,-32.972870
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Coquimbito 5</name>
+      <LineString>
+        <coordinates>
+          -68.749335,-32.972153
+          -68.748674,-32.972323
+          -68.748486,-32.972390
+          -68.747342,-32.972806
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Impsa</name>
+      <LineString>
+        <coordinates>
+          -68.817422,-32.939812
+          -68.817459,-32.939789
+          -68.817662,-32.939512
+          -68.817823,-32.939313
+          -68.818007,-32.939090
+          -68.818123,-32.938911
+          -68.818221,-32.938664
+          -68.818273,-32.938447
+          -68.818288,-32.938247
+          -68.818309,-32.938098
+          -68.818284,-32.937910
+          -68.818216,-32.937688
+          -68.818055,-32.937375
+          -68.817309,-32.936113
+          -68.817000,-32.935583
+          -68.816756,-32.935358
+          -68.816415,-32.935171
+          -68.815626,-32.934768
+          -68.815372,-32.934596
+          -68.815247,-32.934480
+          -68.815139,-32.934289
+          -68.813858,-32.930377
+          -68.813210,-32.928683
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Impsa</name>
+      <LineString>
+        <coordinates>
+          -68.817900,-32.939219
+          -68.818176,-32.938895
+          -68.818317,-32.938622
+          -68.818368,-32.938382
+          -68.818399,-32.938158
+          -68.818398,-32.937979
+          -68.818360,-32.937786
+          -68.818252,-32.937510
+          -68.816461,-32.934537
+          -68.815825,-32.933428
+          -68.815308,-32.932393
+          -68.814812,-32.931138
+          -68.813945,-32.928537
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Godoy Cruz - Desvío S.A.V.Y.A. (Sociedad Anónima Vitivinícola y Aceitera)</name>
+      <LineString>
+        <coordinates>
+          -68.837900,-32.923020
+          -68.839078,-32.922107
+          -68.838773,-32.922415
+          -68.838136,-32.922926
+          -68.837252,-32.923646
+          -68.835142,-32.925468
+          -68.835091,-32.925524
+          -68.835006,-32.925616
+          -68.834754,-32.925844
+          -68.834062,-32.926412
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Intercambio FC Belgrano</name>
+      <LineString>
+        <coordinates>
+          -68.792262,-32.955019
+          -68.792754,-32.954706
+          -68.792990,-32.954555
+          -68.793221,-32.954350
+          -68.795214,-32.952429
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Intercambio FC Belgrano</name>
+      <LineString>
+        <coordinates>
+          -68.792088,-32.955183
+          -68.793082,-32.954111
+          -68.794650,-32.952509
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tomba KM</name>
+      <Point><coordinates>-68.852035,-32.923762</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC19: Don Torcuato - KM 37</name>
+    <description>Ramal CC19: Don Torcuato - KM 37. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal CC19: Don Torcuato - KM 37</name>
+      <LineString>
+        <coordinates>
+          -58.644127,-34.502524
+          -58.645380,-34.502456
+          -58.646230,-34.502527
+          -58.647168,-34.502860
+          -58.648018,-34.503301
+          -58.649662,-34.504398
+          -58.679483,-34.524447
+          -58.680092,-34.525055
+          -58.680607,-34.525953
+          -58.685492,-34.537592
+          -58.685632,-34.538024
+          -58.685736,-34.538647
+          -58.685740,-34.539152
+          -58.685630,-34.539550
+          -58.685423,-34.540150
+          -58.685190,-34.540487
+          -58.676686,-34.547284
+          -58.676105,-34.547748
+          -58.675792,-34.547953
+          -58.675384,-34.548104
+          -58.675100,-34.548183
+          -58.674658,-34.548287
+          -58.673796,-34.548363
+          -58.672679,-34.548503
+          -58.672240,-34.548641
+          -58.671423,-34.549002
+          -58.668971,-34.550084
+          -58.665904,-34.551314
+          -58.665174,-34.551596
+          -58.659942,-34.554755
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Ramal CC19: Don Torcuato - KM 37</name>
+      <LineString>
+        <coordinates>
+          -58.663405,-34.552660
+          -58.663267,-34.552721
+          -58.663013,-34.552818
+          -58.662694,-34.552932
+          -58.662239,-34.553119
+          -58.661913,-34.553210
+          -58.661709,-34.553227
+          -58.661508,-34.553200
+          -58.661294,-34.553160
+          -58.661114,-34.553093
+          -58.660932,-34.552939
+          -58.660004,-34.551902
+          -58.659702,-34.551490
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Ramal CC19: Don Torcuato - KM 37</name>
+      <LineString>
+        <coordinates>
+          -58.660255,-34.552173
+          -58.660091,-34.551914
+          -58.660036,-34.551799
+          -58.660018,-34.551714
+          -58.660009,-34.551472
+          -58.660065,-34.551114
+          -58.660216,-34.550338
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Ramal CC19: Don Torcuato - KM 37</name>
+      <LineString>
+        <coordinates>
+          -58.660130,-34.550765
+          -58.660291,-34.550553
+          -58.660589,-34.550339
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>KM 33 (Ap) KM 33.0</name>
+      <description>KM 33.0</description>
+      <Point><coordinates>-58.681372,-34.527762</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 34 (Ap) KM 34.4</name>
+      <description>KM 34.4</description>
+      <Point><coordinates>-58.685638,-34.539528</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 35 (Ap) KM 35.4</name>
+      <description>KM 35.4</description>
+      <Point><coordinates>-58.678160,-34.546096</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 37 KM 37.1</name>
+      <description>KM 37.1</description>
+      <Point><coordinates>-58.662317,-34.553328</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

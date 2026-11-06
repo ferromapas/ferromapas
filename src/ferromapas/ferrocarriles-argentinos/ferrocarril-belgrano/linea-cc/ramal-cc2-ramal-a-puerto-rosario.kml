@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC2 - Ramal a Puerto Rosario</name>
+    <description>Ramal CC2 - Ramal a Puerto Rosario. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Libro "Ferrocarriles en Rosario" de Ángel Ferrer y Carlos Alberto Fernández Priotti
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal CC2 - Ramal a Puerto Rosario</name>
+      <LineString>
+        <coordinates>
+          -60.691975,-32.966652
+          -60.691978,-32.966218
+          -60.691892,-32.965650
+          -60.691774,-32.965095
+          -60.691662,-32.964734
+          -60.691474,-32.964382
+          -60.691333,-32.964111
+          -60.691081,-32.963787
+          -60.690631,-32.963301
+          -60.690333,-32.963009
+          -60.690048,-32.962778
+          -60.689723,-32.962584
+          -60.689474,-32.962432
+          -60.689199,-32.962293
+          -60.688707,-32.962109
+          -60.688253,-32.961958
+          -60.687874,-32.961862
+          -60.687475,-32.961770
+          -60.687061,-32.961738
+          -60.686610,-32.961730
+          -60.686286,-32.961757
+          -60.685711,-32.961839
+          -60.645255,-32.969091
+          -60.644745,-32.969189
+          -60.644278,-32.969231
+          -60.643866,-32.969244
+          -60.643475,-32.969236
+          -60.642926,-32.969207
+          -60.642186,-32.969179
+          -60.641378,-32.969137
+          -60.639745,-32.969051
+          -60.638819,-32.968982
+          -60.638500,-32.968976
+          -60.638181,-32.968998
+          -60.637981,-32.969033
+          -60.635073,-32.969578
+          -60.634062,-32.969890
+          -60.633711,-32.969968
+          -60.624669,-32.971574
+          -60.624259,-32.971656
+          -60.623934,-32.971780
+          -60.623708,-32.971904
+          -60.623209,-32.972238
+          -60.622768,-32.972492
+          -60.622442,-32.972631
+          -60.622246,-32.972686
+          -60.621873,-32.972769
+          -60.621614,-32.972783
+          -60.621414,-32.972786
+          -60.621224,-32.972761
+          -60.621001,-32.972699
+          -60.620776,-32.972607
+          -60.620548,-32.972491
+          -60.620348,-32.972323
+          -60.619805,-32.971892
+          -60.619635,-32.971695
+          -60.619483,-32.971455
+          -60.619388,-32.971273
+          -60.619284,-32.970962
+          -60.619205,-32.970512
+          -60.619195,-32.970092
+          -60.619230,-32.969609
+          -60.619541,-32.967382
+          -60.619755,-32.966866
+          -60.619976,-32.966011
+          -60.620233,-32.965143
+          -60.620511,-32.963998
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal CC2 - Ramal a Puerto Rosario</name>
+      <LineString>
+        <coordinates>
+          -60.685671,-32.961847
+          -60.686285,-32.961733
+          -60.687107,-32.961561
+          -60.687582,-32.961414
+          -60.688118,-32.961212
+          -60.688573,-32.961010
+          -60.688961,-32.960803
+          -60.689206,-32.960661
+          -60.689859,-32.960211
+          -60.690115,-32.960028
+          -60.690432,-32.959738
+          -60.690809,-32.959384
+          -60.690935,-32.959232
+          -60.691183,-32.958868
+          -60.691522,-32.958387
+          -60.691827,-32.957801
+          -60.692035,-32.957267
+          -60.692211,-32.956636
+          -60.692336,-32.955991
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Conexión Rosario CC - Rosario CGBA</name>
+      <LineString>
+        <coordinates>
+          -60.635631,-32.969463
+          -60.635199,-32.969603
+          -60.634957,-32.969690
+          -60.634751,-32.969774
+          -60.634499,-32.969969
+          -60.634445,-32.970167
+          -60.634532,-32.970893
+          -60.634599,-32.971262
+          -60.634721,-32.971490
+          -60.634886,-32.971674
+          -60.635183,-32.971810
+          -60.635599,-32.971991
+          -60.636072,-32.971997
+          -60.636437,-32.971991
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme KM 299 (CC-CC2) KM 299.4</name>
+      <description>KM 299.4</description>
+      <Point><coordinates>-60.691976,-32.966652</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme KM 301 (CC-CC2) KM 300.6</name>
+      <description>KM 300.6</description>
+      <Point><coordinates>-60.692326,-32.956043</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme KM 1 KM 1.0</name>
+      <description>KM 1.0</description>
+      <Point><coordinates>-60.684695,-32.962021</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCCA KM 1.2</name>
+      <description>KM 1.2</description>
+      <Point><coordinates>-60.682223,-32.962464</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosario CC</name>
+      <Point><coordinates>-60.636752,-32.969259</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosario CC (levantada?) KM 3.4</name>
+      <description>KM 3.4</description>
+      <Point><coordinates>-60.659351,-32.966564</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

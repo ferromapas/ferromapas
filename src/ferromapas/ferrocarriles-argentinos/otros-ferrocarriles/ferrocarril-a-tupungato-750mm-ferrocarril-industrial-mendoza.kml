@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ferrocarril a Tupungato 750mm (Ferrocarril Industrial Mendoza)</name>
+    <description>Ferrocarril a Tupungato 750mm (Ferrocarril Industrial Mendoza). Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+Mapas de Gustavo López
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ferrocarril a Tupungato 750mm (Ferrocarril Industrial Mendoza)</name>
+      <LineString>
+        <coordinates>
+          -68.993800,-33.486206
+          -69.010294,-33.482039
+          -69.021060,-33.475805
+          -69.039559,-33.463394
+          -69.040025,-33.462909
+          -69.045620,-33.447820
+          -69.048404,-33.439963
+          -69.048726,-33.439336
+          -69.049158,-33.438473
+          -69.049870,-33.437644
+          -69.067513,-33.415803
+          -69.084223,-33.384135
+          -69.084727,-33.383564
+          -69.085341,-33.383116
+          -69.087638,-33.382412
+          -69.090465,-33.381391
+          -69.091749,-33.380727
+          -69.101676,-33.372694
+          -69.103879,-33.370914
+          -69.108970,-33.364293
+          -69.109623,-33.363637
+          -69.110213,-33.363363
+          -69.110735,-33.363173
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

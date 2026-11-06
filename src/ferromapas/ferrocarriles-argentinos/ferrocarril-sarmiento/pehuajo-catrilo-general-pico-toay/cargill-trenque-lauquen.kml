@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Cargill Trenque Lauquen</name>
+    <Placemark>
+      <name>Desvío Cargill Trenque Lauquen</name>
+      <LineString>
+        <coordinates>
+          -62.757865,-35.977537
+          -62.758645,-35.977831
+          -62.759561,-35.978144
+          -62.760389,-35.978532
+          -62.763945,-35.980288
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cargill Trenque Lauquen</name>
+      <Point><coordinates>-62.761508,-35.979082</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

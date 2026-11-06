@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Garibaldi - San Francisco</name>
+    <description>Garibaldi - San Francisco. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Garibaldi - San Francisco</name>
+      <LineString>
+        <coordinates>
+          -61.804957,-31.649409
+          -61.806776,-31.647809
+          -61.814830,-31.640778
+          -61.905893,-31.560580
+          -61.927407,-31.541615
+          -61.951848,-31.520097
+          -61.978445,-31.496562
+          -61.982360,-31.493156
+          -61.983864,-31.491842
+          -61.984920,-31.491052
+          -61.985971,-31.490355
+          -61.990836,-31.487090
+          -62.015466,-31.470498
+          -62.036819,-31.456279
+          -62.040420,-31.453869
+          -62.056261,-31.443219
+          -62.061281,-31.439808
+          -62.062380,-31.439043
+          -62.063172,-31.438390
+          -62.065626,-31.436332
+          -62.069646,-31.432964
+          -62.074019,-31.429263
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

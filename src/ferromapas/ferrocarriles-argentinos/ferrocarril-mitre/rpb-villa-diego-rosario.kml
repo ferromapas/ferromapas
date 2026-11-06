@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>RPB: Villa Diego - Rosario</name>
+    <description>RPB: Villa Diego - Rosario. Dibujado por:
+Pablo Anglat
+
+Fuente:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Libro "Ferrocarriles en Rosario" de Ángel Ferrer y Carlos Alberto Fernández Priotti, a quien agradecemos su gentileza de poder haber usado sus mapas
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>KM 3.4 (FCRPB) (Empalme) KM 3.4</name>
+      <description>KM 3.4</description>
+      <Point><coordinates>-60.620227,-32.996106</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Corrales RPB</name>
+      <Point><coordinates>-60.625830,-32.983711</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>RPB</name>
+      <LineString>
+        <coordinates>
+          -60.626249,-32.981416
+          -60.625909,-32.983288
+          -60.625869,-32.984013
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>RPB: Villa Diego - Rosario (FCRPB)</name>
+      <LineString>
+        <coordinates>
+          -60.616723,-33.012971
+          -60.615573,-33.011413
+          -60.615211,-33.010763
+          -60.614816,-33.009855
+          -60.614555,-33.009024
+          -60.614480,-33.008592
+          -60.614372,-33.007953
+          -60.614313,-33.007444
+          -60.614299,-33.006834
+          -60.614318,-33.006295
+          -60.614383,-33.005723
+          -60.614491,-33.005166
+          -60.614708,-33.004326
+          -60.614812,-33.003995
+          -60.615105,-33.003335
+          -60.615606,-33.002306
+          -60.616545,-33.001120
+          -60.619779,-32.996839
+          -60.620431,-32.995758
+          -60.620784,-32.995066
+          -60.621002,-32.994494
+          -60.621183,-32.993342
+          -60.621646,-32.989928
+          -60.622094,-32.988762
+          -60.622921,-32.986798
+          -60.623680,-32.985134
+          -60.624220,-32.984326
+          -60.625587,-32.982310
+          -60.626258,-32.981372
+          -60.626456,-32.980970
+          -60.626662,-32.980274
+          -60.626957,-32.978734
+          -60.627066,-32.978108
+          -60.627093,-32.977602
+          -60.623949,-32.966445
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>RPB: Villa Diego - Puerto Rosario</name>
+      <LineString>
+        <coordinates>
+          -60.615144,-33.003208
+          -60.615444,-33.002487
+          -60.616327,-33.000089
+          -60.616549,-32.999441
+          -60.616639,-32.999100
+          -60.616698,-32.998493
+          -60.616701,-32.997678
+          -60.616671,-32.996786
+          -60.616717,-32.996338
+          -60.616761,-32.996077
+          -60.616841,-32.995843
+          -60.617017,-32.995451
+          -60.617231,-32.994999
+          -60.618186,-32.993101
+          -60.618898,-32.991781
+          -60.619196,-32.991275
+          -60.620426,-32.989308
+          -60.620624,-32.989006
+          -60.620987,-32.988378
+          -60.622371,-32.985649
+          -60.622614,-32.985012
+          -60.622691,-32.984639
+          -60.622701,-32.984399
+          -60.622657,-32.984095
+          -60.622609,-32.983800
+          -60.622414,-32.983242
+          -60.621426,-32.981012
+          -60.620745,-32.979510
+          -60.620592,-32.979034
+          -60.620513,-32.978735
+          -60.620458,-32.978475
+          -60.620470,-32.978075
+          -60.620606,-32.973943
+          -60.620609,-32.973545
+          -60.620584,-32.973010
+          -60.620557,-32.972385
+          -60.620595,-32.971608
+          -60.620572,-32.971286
+          -60.620549,-32.971078
+          -60.620446,-32.970868
+          -60.620031,-32.970111
+          -60.619811,-32.969627
+          -60.619726,-32.969300
+          -60.619718,-32.968886
+          -60.620214,-32.966176
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Rosario (FCRPB) KM 0.0</name>
+      <description>KM 0.0</description>
+      <Point><coordinates>-60.623901,-32.966905</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

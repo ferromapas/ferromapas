@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Empalme Villa Luro</name>
+    <description>Empalme Villa Luro. Dibujado por:
+Gino Nuñez
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Empalme Villa Luro</name>
+      <LineString>
+        <coordinates>
+          -58.493244,-34.639688
+          -58.493410,-34.639310
+          -58.493500,-34.638965
+          -58.493551,-34.638447
+          -58.493552,-34.638034
+          -58.493485,-34.637507
+          -58.493404,-34.637013
+          -58.493215,-34.636451
+          -58.493058,-34.636140
+          -58.492739,-34.635790
+          -58.492417,-34.635500
+          -58.492095,-34.635304
+          -58.491663,-34.635088
+          -58.491312,-34.634952
+          -58.490767,-34.634790
+          -58.490286,-34.634709
+          -58.489467,-34.634580
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

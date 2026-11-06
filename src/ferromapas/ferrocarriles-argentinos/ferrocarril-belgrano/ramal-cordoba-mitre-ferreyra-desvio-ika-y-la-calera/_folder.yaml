@@ -1,0 +1,7 @@
+name: Ramal Córdoba (Mitre) - Ferreyra - Desvío IKA y La Calera
+description: "Ramal Córdoba (Mitre) - Ferreyra - Desvío IKA y La Caleras. Dibujado por:\nPablo Anglat\nGino Nuñez\nRodrigo Respini\n\nFuente: \nRevista Todo Trenes\n\nhttp://www.ferromapas.com.ar/\nMendoza, Córdoba y Buenos Aires, Argentina"
+children:
+- _loose.kml
+- desvio-molino-minetti.kml
+- desvio-ika.kml
+- _loose-2.kml

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal F18: Haumonia - Villa Berthet</name>
+    <description>Ramal F18: Haumonia - Villa Berthet. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Línea F18 - Haumonia - Villa Berthet</name>
+      <LineString>
+        <coordinates>
+          -60.164123,-27.502860
+          -60.164617,-27.502874
+          -60.176462,-27.505024
+          -60.176798,-27.505045
+          -60.177779,-27.504964
+          -60.178501,-27.504827
+          -60.182743,-27.503539
+          -60.183755,-27.503177
+          -60.184177,-27.502969
+          -60.184667,-27.502651
+          -60.185211,-27.502220
+          -60.185893,-27.501527
+          -60.212955,-27.470845
+          -60.213194,-27.470544
+          -60.213442,-27.470246
+          -60.213614,-27.469998
+          -60.213854,-27.469676
+          -60.214079,-27.469302
+          -60.214305,-27.468883
+          -60.214588,-27.468386
+          -60.268598,-27.370075
+          -60.268973,-27.369245
+          -60.269300,-27.368445
+          -60.269685,-27.367459
+          -60.269883,-27.366480
+          -60.273161,-27.346045
+          -60.273304,-27.345431
+          -60.273499,-27.344860
+          -60.273796,-27.344311
+          -60.274246,-27.343568
+          -60.274700,-27.342988
+          -60.275189,-27.342455
+          -60.275772,-27.341962
+          -60.276531,-27.341439
+          -60.277414,-27.340971
+          -60.278146,-27.340692
+          -60.278957,-27.340450
+          -60.279792,-27.340275
+          -60.331667,-27.332848
+          -60.333151,-27.332647
+          -60.334376,-27.332396
+          -60.335485,-27.332028
+          -60.337181,-27.331184
+          -60.411284,-27.288833
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>KM 498 KM 497.9</name>
+      <description>KM 497.9</description>
+      <Point><coordinates>-60.180260,-27.504293</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 503 KM 502.9</name>
+      <description>KM 502.9</description>
+      <Point><coordinates>-60.213272,-27.470452</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 520 KM 519.3</name>
+      <description>KM 519.3</description>
+      <Point><coordinates>-60.281950,-27.340000</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 525 KM 524.2</name>
+      <description>KM 524.2</description>
+      <Point><coordinates>-60.330786,-27.332969</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 530 KM 530.0</name>
+      <description>KM 530.0</description>
+      <Point><coordinates>-60.380881,-27.306221</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Berthet KM 533.5</name>
+      <description>KM 533.5</description>
+      <Point><coordinates>-60.410531,-27.289255</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

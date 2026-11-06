@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC1: Ramal a Puerto Capital</name>
+    <description>Ramal CC1: Ramal a Puerto Capital. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal CC1: Ramal a Puerto Capital</name>
+      <LineString>
+        <coordinates>
+          -58.367154,-34.579256
+          -58.372785,-34.579763
+          -58.373464,-34.579762
+          -58.373792,-34.579687
+          -58.374506,-34.579365
+          -58.377043,-34.577894
+          -58.377572,-34.577610
+          -58.377929,-34.577490
+          -58.378326,-34.577458
+          -58.378784,-34.577452
+          -58.383044,-34.577720
+          -58.385215,-34.577934
+          -58.385856,-34.577997
+          -58.386876,-34.578130
+          -58.388997,-34.578281
+          -58.389679,-34.578337
+          -58.389921,-34.578340
+          -58.390163,-34.578314
+          -58.390499,-34.578254
+          -58.390681,-34.578204
+          -58.391002,-34.578084
+          -58.391826,-34.577695
+          -58.392337,-34.577443
+          -58.392897,-34.577204
+          -58.393191,-34.577097
+          -58.398551,-34.575589
+          -58.399212,-34.575387
+          -58.399947,-34.575053
+          -58.401287,-34.573966
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Puerto Capital KM 0.0</name>
+      <description>KM 0.0</description>
+      <Point><coordinates>-58.370370,-34.579557</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramal CC1: Desvío</name>
+      <LineString>
+        <coordinates>
+          -58.384498,-34.577870
+          -58.384059,-34.577792
+          -58.383800,-34.577727
+          -58.383792,-34.577726
+          -58.383500,-34.577588
+          -58.383273,-34.577428
+          -58.383077,-34.577254
+          -58.382667,-34.576767
+          -58.382242,-34.576204
+          -58.382143,-34.575988
+          -58.382099,-34.575800
+          -58.382095,-34.575433
+          -58.382160,-34.575206
+          -58.382296,-34.574957
+          -58.382471,-34.574741
+          -58.382693,-34.574531
+          -58.387171,-34.572042
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

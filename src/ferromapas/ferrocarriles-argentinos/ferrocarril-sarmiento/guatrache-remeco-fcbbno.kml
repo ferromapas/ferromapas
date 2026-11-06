@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Guatraché - Remecó (FCBBNO)</name>
+    <description>Guatraché - Remecó (FCBBNO). Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Guatrache - Remecó (FCBBNO)</name>
+      <LineString>
+        <coordinates>
+          -63.537829,-37.665136
+          -63.538428,-37.665129
+          -63.539196,-37.665105
+          -63.540079,-37.665038
+          -63.540892,-37.664962
+          -63.542192,-37.664766
+          -63.612957,-37.650410
+          -63.614777,-37.650016
+          -63.615718,-37.649812
+          -63.616660,-37.649593
+          -63.617517,-37.649371
+          -63.618383,-37.649118
+          -63.619339,-37.648818
+          -63.621225,-37.648174
+          -63.676970,-37.626724
+          -63.687237,-37.622763
+          -63.691485,-37.621138
+          -63.692534,-37.620757
+          -63.693380,-37.620503
+          -63.694311,-37.620284
+          -63.695215,-37.620120
+          -63.695684,-37.620067
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Guatracé KM 195.6</name>
+      <description>KM 195.6</description>
+      <Point><coordinates>-63.537786,-37.665133</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Remecó KM 209.1</name>
+      <description>KM 209.1</description>
+      <Point><coordinates>-63.682131,-37.624733</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Remeó</name>
+      <LineString>
+        <coordinates>
+          -63.687513,-37.622653
+          -63.687987,-37.622363
+          -63.688256,-37.622098
+          -63.688489,-37.621798
+          -63.688579,-37.621421
+          -63.688619,-37.621094
+          -63.688619,-37.620786
+          -63.688563,-37.620594
+          -63.688447,-37.620379
+          -63.688129,-37.619902
+          -63.688609,-37.620671
+          -63.688955,-37.620948
+          -63.689248,-37.621087
+          -63.689854,-37.621296
+          -63.690295,-37.621341
+          -63.690693,-37.621339
+          -63.690914,-37.621294
+          -63.691563,-37.621107
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

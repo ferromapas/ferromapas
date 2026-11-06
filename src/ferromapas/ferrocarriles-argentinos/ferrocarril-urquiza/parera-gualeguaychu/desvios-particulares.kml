@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvíos Particulares</name>
+    <Placemark>
+      <name>Desvío Particular (F.C.E.R.) KM 283.314</name>
+      <description>KM 283.314</description>
+      <LineString>
+        <coordinates>
+          -58.801936,-32.841089
+          -58.802121,-32.841007
+          -58.802315,-32.840880
+          -58.802586,-32.840696
+          -58.802876,-32.840447
+          -58.803697,-32.839718
+          -58.804178,-32.839178
+          -58.804417,-32.838960
+          -58.804630,-32.838796
+          -58.804868,-32.838663
+          -58.805573,-32.838350
+          -58.806186,-32.838082
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Particular (F.C.E.R.) KM 283.314</name>
+      <description>KM 238.314</description>
+      <Point><coordinates>-58.801946,-32.841088</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

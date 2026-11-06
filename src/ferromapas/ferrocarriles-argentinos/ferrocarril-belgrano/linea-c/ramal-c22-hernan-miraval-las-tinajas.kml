@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C22: Hernán Miraval - Las Tinajas</name>
+    <description>Ramal C22: Hernán Miraval - Las Tinajas. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C22: Miraval - Emp. Km. 698</name>
+      <LineString>
+        <coordinates>
+          -62.469005,-27.177884
+          -62.469215,-27.177791
+          -62.469674,-27.177816
+          -62.470113,-27.177861
+          -62.470539,-27.177939
+          -62.471395,-27.178275
+          -62.472039,-27.178594
+          -62.585376,-27.251845
+          -62.586287,-27.252409
+          -62.586751,-27.252792
+          -62.587171,-27.253363
+          -62.587416,-27.253911
+          -62.587486,-27.254607
+          -62.588175,-27.314324
+          -62.588234,-27.314967
+          -62.588353,-27.316035
+          -62.588519,-27.316479
+          -62.588907,-27.316990
+          -62.589526,-27.317598
+          -62.590136,-27.318073
+          -62.590864,-27.318446
+          -62.591349,-27.318657
+          -62.592037,-27.318841
+          -62.592651,-27.318892
+          -62.593393,-27.318892
+          -62.725267,-27.299321
+          -62.725922,-27.299241
+          -62.726483,-27.299207
+          -62.727001,-27.299220
+          -62.727518,-27.299298
+          -62.728152,-27.299444
+          -62.728985,-27.299815
+          -62.798641,-27.337313
+          -62.799376,-27.337673
+          -62.800349,-27.337960
+          -62.812311,-27.341539
+          -62.827013,-27.345702
+          -62.832887,-27.347360
+          -62.907658,-27.368477
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal C22: Empalme Km. 698</name>
+      <LineString>
+        <coordinates>
+          -62.912054,-27.374084
+          -62.911694,-27.366086
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal C22: Km. 698 - Tinajas</name>
+      <LineString>
+        <coordinates>
+          -62.907637,-27.368470
+          -62.908284,-27.368678
+          -62.909166,-27.369086
+          -62.909515,-27.369304
+          -62.910130,-27.369747
+          -62.910575,-27.370068
+          -62.910858,-27.370304
+          -62.911053,-27.370539
+          -62.911194,-27.370768
+          -62.911374,-27.371136
+          -62.911529,-27.371602
+          -62.911642,-27.372019
+          -62.911879,-27.373124
+          -62.912045,-27.373875
+          -62.915244,-27.455486
+          -62.915591,-27.460254
+          -62.915911,-27.466607
+          -62.916155,-27.469232
+          -62.916407,-27.471690
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal C22: Km. 698 - Villa Braña</name>
+      <LineString>
+        <coordinates>
+          -62.907653,-27.368480
+          -62.908472,-27.368679
+          -62.908860,-27.368781
+          -62.909163,-27.368799
+          -62.909540,-27.368779
+          -62.909958,-27.368711
+          -62.910396,-27.368541
+          -62.910714,-27.368359
+          -62.911046,-27.368086
+          -62.911332,-27.367751
+          -62.911553,-27.367385
+          -62.911659,-27.367107
+          -62.911691,-27.366810
+          -62.911683,-27.365717
+          -62.910806,-27.344258
+          -62.910335,-27.333543
+          -62.910292,-27.333311
+          -62.910182,-27.333034
+          -62.910066,-27.332824
+          -62.909907,-27.332635
+          -62.909687,-27.332416
+          -62.909276,-27.332091
+          -62.907564,-27.330707
+          -62.906780,-27.330068
+          -62.906600,-27.329901
+          -62.906483,-27.329756
+          -62.906343,-27.329563
+          -62.906236,-27.329349
+          -62.906155,-27.329118
+          -62.906097,-27.328817
+          -62.906113,-27.328502
+          -62.906195,-27.328154
+          -62.906320,-27.327891
+          -62.906483,-27.327642
+          -62.906744,-27.327396
+          -62.906990,-27.327206
+          -62.907319,-27.327055
+          -62.907603,-27.326961
+          -62.907947,-27.326906
+          -62.908295,-27.326899
+          -62.908584,-27.326944
+          -62.908853,-27.327015
+          -62.909147,-27.327143
+          -62.909377,-27.327288
+          -62.909578,-27.327455
+          -62.909736,-27.327624
+          -62.909882,-27.327812
+          -62.909989,-27.328000
+          -62.910090,-27.328280
+          -62.910132,-27.328642
+          -62.910187,-27.329756
+          -62.910341,-27.333317
+          -62.910341,-27.333741
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Surihuaya (Desv Pub) KM 657.0</name>
+      <description>KM 657.0</description>
+      <Point><coordinates>-62.576901,-27.246521</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Weisburd KM 664.4</name>
+      <description>KM 664.4</description>
+      <Point><coordinates>-62.588006,-27.308984</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Randas (Desv Pub) KM 674.0</name>
+      <description>KM 674.0</description>
+      <Point><coordinates>-62.674782,-27.306801</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Pértigo KM 678.7</name>
+      <description>KM 678.7</description>
+      <Point><coordinates>-62.721857,-27.299804</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 680 (Bomba) KM 680.3</name>
+      <description>KM 680.3</description>
+      <Point><coordinates>-62.736475,-27.303885</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pampa Muyoj KM 685.7</name>
+      <description>KM 685.7</description>
+      <Point><coordinates>-62.776413,-27.325354</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mistol Pampa KM 690.7</name>
+      <description>KM 690.7</description>
+      <Point><coordinates>-62.828840,-27.346252</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 698.9 (Empalme) KM 698.9</name>
+      <description>KM 698.9</description>
+      <Point><coordinates>-62.907652,-27.368481</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Brana KM 702.3</name>
+      <description>KM 702.3</description>
+      <Point><coordinates>-62.910588,-27.339826</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 699.5 (Empalme) KM 699.5</name>
+      <description>KM 699.5</description>
+      <Point><coordinates>-62.912049,-27.373880</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Tinajas KM 709.2</name>
+      <description>KM 709.2</description>
+      <Point><coordinates>-62.915605,-27.460464</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Las Tinajas</name>
+      <LineString>
+        <coordinates>
+          -62.915896,-27.466541
+          -62.915983,-27.466875
+          -62.916133,-27.467188
+          -62.916317,-27.467424
+          -62.916527,-27.467599
+          -62.916811,-27.467761
+          -62.917095,-27.467865
+          -62.917445,-27.467951
+          -62.917773,-27.468021
+          -62.918095,-27.468020
+          -62.921080,-27.467803
+          -62.918075,-27.468020
+          -62.917702,-27.468055
+          -62.917390,-27.468166
+          -62.916972,-27.468323
+          -62.916660,-27.468523
+          -62.916494,-27.468703
+          -62.916312,-27.469079
+          -62.916257,-27.469467
+          -62.916231,-27.469937
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

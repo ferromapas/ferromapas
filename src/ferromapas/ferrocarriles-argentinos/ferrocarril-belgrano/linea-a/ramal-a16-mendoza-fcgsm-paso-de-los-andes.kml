@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal A16: Mendoza FCGSM - Paso de los Andes</name>
+    <description>Ramal A16: Mendoza FCGSM - Paso de los Andes. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Folder>
+      <name>Puentes y Túneles</name>
+      <Placemark>
+        <name>Puente Oblicuo 10 m de luz KM 7.800</name>
+        <description>KM 7.800</description>
+        <Point><coordinates>-68.861423,-32.958708</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente Oblicuo 10 m de luz KM 8.064</name>
+        <description>KM 8.064</description>
+        <Point><coordinates>-68.865779,-32.961160</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente KM 23.26?</name>
+        <description>KM 23.26?</description>
+        <Point><coordinates>-68.989980,-33.040578</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente río Mendoza 220 m de luz KM 24.500</name>
+        <description>KM 24.500</description>
+        <Point><coordinates>-69.002210,-33.043437</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tunel 102 m de luz KM 36.350</name>
+        <description>(GPS)
+KM 36.350</description>
+        <Point><coordinates>-69.106779,-33.034351</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente 45m de luz KM 36.723</name>
+        <description>KM 36.723</description>
+        <Point><coordinates>-69.109297,-33.030505</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente 40m KM 37.513</name>
+        <description>KM 37.513</description>
+        <Point><coordinates>-69.112483,-33.027500</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente 10m KM 37.86410</name>
+        <description>KM 37.86410</description>
+        <Point><coordinates>-69.114242,-33.025398</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente KM 37.78?</name>
+        <description>KM 37.78?</description>
+        <Point><coordinates>-69.114475,-33.021939</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Puntilla</name>
+        <Point><coordinates>-68.862557,-32.959334</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>P Germania</name>
+        <Point><coordinates>-68.876303,-32.971365</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Placemark>
+      <name>Ramal A16: Mendoza FCGSM - Paso de los Andes</name>
+      <description>(GPS)</description>
+      <LineString>
+        <coordinates>
+          -68.848653,-32.884624
+          -68.851759,-32.896464
+          -68.852608,-32.899558
+          -68.852919,-32.901176
+          -68.853067,-32.902268
+          -68.853071,-32.902652
+          -68.852936,-32.904767
+          -68.852731,-32.906370
+          -68.852172,-32.908283
+          -68.850472,-32.911657
+          -68.850356,-32.911826
+          -68.850296,-32.911951
+          -68.850241,-32.912163
+          -68.850181,-32.912364
+          -68.850142,-32.912547
+          -68.850133,-32.912698
+          -68.850155,-32.912985
+          -68.850195,-32.913314
+          -68.850760,-32.916658
+          -68.851652,-32.921843
+          -68.851934,-32.923259
+          -68.852047,-32.923760
+          -68.852109,-32.924402
+          -68.852156,-32.924878
+          -68.852147,-32.925187
+          -68.852083,-32.926218
+          -68.851834,-32.927739
+          -68.851659,-32.928982
+          -68.851408,-32.930993
+          -68.851114,-32.933242
+          -68.851046,-32.933697
+          -68.851017,-32.934095
+          -68.851007,-32.934227
+          -68.851008,-32.934420
+          -68.851191,-32.935809
+          -68.851251,-32.936301
+          -68.851250,-32.936548
+          -68.851189,-32.936812
+          -68.849984,-32.941067
+          -68.849965,-32.941414
+          -68.849958,-32.941715
+          -68.850007,-32.942034
+          -68.850045,-32.942242
+          -68.853903,-32.949630
+          -68.854276,-32.950367
+          -68.855068,-32.951908
+          -68.856960,-32.955385
+          -68.857179,-32.955762
+          -68.857333,-32.955982
+          -68.857528,-32.956222
+          -68.857885,-32.956588
+          -68.858291,-32.956903
+          -68.858711,-32.957218
+          -68.866538,-32.961587
+          -68.866849,-32.961769
+          -68.867790,-32.962300
+          -68.868596,-32.962724
+          -68.869905,-32.963395
+          -68.870484,-32.963721
+          -68.870729,-32.963869
+          -68.871107,-32.964088
+          -68.871284,-32.964232
+          -68.871630,-32.964617
+          -68.872059,-32.965291
+          -68.873368,-32.967596
+          -68.873646,-32.968124
+          -68.874141,-32.968782
+          -68.875550,-32.970604
+          -68.876180,-32.971239
+          -68.885357,-32.981200
+          -68.886709,-32.982675
+          -68.888101,-32.984102
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Mendoza Pasajeros (GOA) KM 1063.0 (ex KM 1048.34296)</name>
+      <description>KM 1063.0
+Ex KM 1048.34296
+Código: CME</description>
+      <Point><coordinates>-68.848190,-32.882870</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mendoza T (FCT) KM 0.0</name>
+      <description>KM 0.0</description>
+      <Point><coordinates>-68.851643,-32.894088</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Trasandino KM 1061.1 / KM 0.6</name>
+      <description>KM 1061.1 (SM)
+KM 0.6 (Trasandino)
+Código: CET (SM)</description>
+      <Point><coordinates>-68.852855,-32.899554</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Matadero KM 3.324 / KM 3.90</name>
+      <description>FCGSM: KM 3.324
+FCGB: KM 3.90</description>
+      <Point><coordinates>-68.851683,-32.929017</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Gobernador Benegas KM 6.3</name>
+      <description>KM 6.3</description>
+      <Point><coordinates>-68.853957,-32.949759</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Benegas KM 6 / KM 5.75484 (FCT) / 1099.2 (FCGB)</name>
+      <description>KM 6 / KM 5.75484 (FCT) / 1099.2 (FCGB)
+Código: CGB (San Martín)
+(GPS)</description>
+      <Point><coordinates>-68.853017,-32.952367</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme A12/A16 KM 11.4 / 1094.1</name>
+      <description>KM 11.4 / 1094.1
+(GPS)</description>
+      <Point><coordinates>-68.888100,-32.984100</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paso de los Andes KM 11.588 / KM 1094.2</name>
+      <description>KM 11.588
+Desde Santa Fe: KM 1094.2
+(GPS)</description>
+      <Point><coordinates>-68.889300,-32.985350</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mendoza T</name>
+      <LineString>
+        <coordinates>
+          -68.851653,-32.894156
+          -68.852747,-32.899168
+          -68.852760,-32.899383
+          -68.852715,-32.899586
+          -68.852690,-32.899786
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

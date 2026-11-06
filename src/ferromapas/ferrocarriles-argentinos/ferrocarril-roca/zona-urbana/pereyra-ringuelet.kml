@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Pereyra - Ringuelet</name>
+    <description>Pereyra - Ringuelet. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Villa Elisa - Tolosa</name>
+      <LineString>
+        <coordinates>
+          -58.078595,-34.847946
+          -58.077151,-34.848568
+          -58.073999,-34.850076
+          -58.068730,-34.852681
+          -58.065767,-34.854131
+          -58.060910,-34.856496
+          -58.055403,-34.859277
+          -58.049218,-34.862286
+          -58.045209,-34.864236
+          -58.041135,-34.866224
+          -58.037320,-34.868072
+          -58.034918,-34.869242
+          -58.034104,-34.869645
+          -58.033460,-34.869946
+          -58.032816,-34.870231
+          -58.030742,-34.871135
+          -58.025959,-34.873229
+          -58.020437,-34.875639
+          -58.016421,-34.877376
+          -58.012443,-34.879110
+          -58.010545,-34.879937
+          -58.007757,-34.881151
+          -58.006969,-34.881475
+          -58.006417,-34.881668
+          -58.005744,-34.881871
+          -58.005090,-34.882038
+          -58.004349,-34.882183
+          -58.003641,-34.882297
+          -58.002982,-34.882364
+          -58.002293,-34.882417
+          -58.001620,-34.882425
+          -58.000871,-34.882412
+          -58.000182,-34.882368
+          -57.999474,-34.882294
+          -57.998740,-34.882185
+          -57.998023,-34.882029
+          -57.997335,-34.881858
+          -57.996594,-34.881630
+          -57.996148,-34.881469
+          -57.995433,-34.881173
+          -57.993894,-34.880540
+          -57.993330,-34.880311
+          -57.992845,-34.880139
+          -57.992369,-34.879989
+          -57.991848,-34.879845
+          -57.991402,-34.879744
+          -57.990888,-34.879651
+          -57.990370,-34.879583
+          -57.990362,-34.879583
+          -57.989880,-34.879533
+          -57.989449,-34.879505
+          -57.988871,-34.879473
+          -57.988280,-34.879478
+          -57.987711,-34.879509
+          -57.987146,-34.879567
+          -57.986421,-34.879676
+          -57.985572,-34.879860
+          -57.985005,-34.880018
+          -57.984032,-34.880336
+          -57.982149,-34.880975
+          -57.981620,-34.881192
+          -57.980874,-34.881548
+          -57.980242,-34.881903
+          -57.979695,-34.882254
+          -57.979152,-34.882645
+          -57.974650,-34.886079
+          -57.970064,-34.889538
+          -57.967310,-34.891580
+          -57.966673,-34.892061
+          -57.966093,-34.892477
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Elisa KM 39.3</name>
+      <description>KM 39.3</description>
+      <Point><coordinates>-58.075047,-34.849681</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>City Bell KM 42.9</name>
+      <description>KM 42.9</description>
+      <Point><coordinates>-58.041997,-34.865720</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Manuel Gonnet KM 46.1</name>
+      <description>KM 46.1</description>
+      <Point><coordinates>-58.010439,-34.880144</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ringuelet KM 47.5</name>
+      <description>KM 47.5</description>
+      <Point><coordinates>-57.995933,-34.881450</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

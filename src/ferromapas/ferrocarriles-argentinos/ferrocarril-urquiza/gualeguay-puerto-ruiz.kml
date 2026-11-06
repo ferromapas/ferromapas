@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Gualeguay - Puerto Ruiz</name>
+    <description>Gualeguay - Puerto Ruiz. Dibujado por:
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Gualeguay - Puerto Ruiz</name>
+      <LineString>
+        <coordinates>
+          -59.328455,-33.146572
+          -59.328751,-33.147831
+          -59.328977,-33.148949
+          -59.329332,-33.151405
+          -59.329506,-33.152136
+          -59.329575,-33.152465
+          -59.329632,-33.152749
+          -59.329718,-33.153069
+          -59.329876,-33.153373
+          -59.330042,-33.153689
+          -59.330314,-33.154046
+          -59.330634,-33.154307
+          -59.332705,-33.155551
+          -59.333204,-33.155900
+          -59.333765,-33.156331
+          -59.334243,-33.156746
+          -59.334632,-33.157084
+          -59.335000,-33.157453
+          -59.335415,-33.157866
+          -59.335741,-33.158221
+          -59.336174,-33.158648
+          -59.336505,-33.159024
+          -59.336707,-33.159299
+          -59.336984,-33.159680
+          -59.337255,-33.160089
+          -59.337530,-33.160532
+          -59.337808,-33.161025
+          -59.338027,-33.161456
+          -59.339504,-33.164886
+          -59.340835,-33.167965
+          -59.343186,-33.173788
+          -59.344652,-33.177251
+          -59.346172,-33.180920
+          -59.348772,-33.187290
+          -59.353181,-33.197670
+          -59.357307,-33.207720
+          -59.360484,-33.215076
+          -59.361812,-33.218607
+          -59.362120,-33.219317
+          -59.362308,-33.219789
+          -59.362470,-33.220253
+          -59.362570,-33.220519
+          -59.362651,-33.220810
+          -59.362686,-33.221078
+          -59.362792,-33.222684
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Puerto Ruiz</name>
+      <Point><coordinates>-59.362769,-33.222334</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

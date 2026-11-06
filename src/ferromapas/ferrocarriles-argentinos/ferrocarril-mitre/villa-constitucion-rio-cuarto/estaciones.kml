@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Estaciones</name>
+    <Placemark>
+      <name>San Ambrosio Km. 382,158</name>
+      <Point><coordinates>-64.144626,-33.238388</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Alejandro Km. 340,411</name>
+      <Point><coordinates>-63.719129,-33.357150</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Constitución Km. 0</name>
+      <Point><coordinates>-60.340477,-33.224715</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Emp. Villa Constitución</name>
+      <Point><coordinates>-60.383255,-33.260532</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rueda Km 17,487</name>
+      <Point><coordinates>-60.460870,-33.333830</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Godoy Km 25,643</name>
+      <Point><coordinates>-60.507979,-33.370009</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cepeda Km. 34,858</name>
+      <Point><coordinates>-60.623852,-33.398448</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Teresa Km. 50,578</name>
+      <Point><coordinates>-60.788840,-33.438769</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Máximo Paz Km. 67,215</name>
+      <Point><coordinates>-60.957833,-33.479911</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Alcorta Km. 84,501</name>
+      <Point><coordinates>-61.122767,-33.541656</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Carreras Km 102,505</name>
+      <Point><coordinates>-61.309829,-33.598387</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Urbano (Melincué) Km 116,695</name>
+      <Point><coordinates>-61.447043,-33.647623</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Elortondo  Km. 133,501</name>
+      <Point><coordinates>-61.616805,-33.697796</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Carmen Km. 147,365</name>
+      <Point><coordinates>-61.761397,-33.732799</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Venado Tuerto Km. 165,802</name>
+      <Point><coordinates>-61.958051,-33.754520</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Ruffino Km. 172,425</name>
+      <Point><coordinates>-62.018534,-33.787710</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Maggiolo Km. 194,916</name>
+      <Point><coordinates>-62.246424,-33.723661</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Arias Km. 212,483</name>
+      <Point><coordinates>-62.403669,-33.644669</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ledesma Km. 233,552</name>
+      <Point><coordinates>-62.625864,-33.607782</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gould Km. 243,283</name>
+      <Point><coordinates>-62.729723,-33.590624</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Canals Km. 258,053</name>
+      <Point><coordinates>-62.885073,-33.564750</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Severo Km. 273,495</name>
+      <Point><coordinates>-63.047180,-33.537410</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Olmos Km. 285,260</name>
+      <Point><coordinates>-63.166138,-33.501900</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Cisnes Km. 316,871</name>
+      <Point><coordinates>-63.472078,-33.399908</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Acequias Km. 366,011</name>
+      <Point><coordinates>-63.978994,-33.281532</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Carlota Km. 300,280</name>
+      <Point><coordinates>-63.297983,-33.433924</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Eduardo Km. 18,005</name>
+      <Point><coordinates>-62.093548,-33.869157</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sancti Spiritu Km. 39,646</name>
+      <Point><coordinates>-62.238750,-34.009976</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Amenabar Km. 60,717</name>
+      <Point><coordinates>-62.420068,-34.137047</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Terragona Km. 73,145</name>
+      <Point><coordinates>-62.539859,-34.188944</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Gilda Km. 393,360</name>
+      <Point><coordinates>-64.259398,-33.208359</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rufino (FCGBM) KM 90.5</name>
+      <description>KM 90.5</description>
+      <Point><coordinates>-62.700110,-34.262366</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 50: Monte Comán - Colonia General Alvear Norte</name>
+    <description>Div 50: Monte Comán - Colonia General Alvear Norte. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Div 50: Monte Comán - Colonia General Alvear Norte</name>
+      <LineString>
+        <coordinates>
+          -67.875390,-34.483120
+          -67.876123,-34.484306
+          -67.876669,-34.485558
+          -67.877119,-34.486732
+          -67.877308,-34.487407
+          -67.877403,-34.488154
+          -67.876031,-34.571200
+          -67.875891,-34.587781
+          -67.875803,-34.596808
+          -67.875773,-34.597210
+          -67.875757,-34.597619
+          -67.875556,-34.599603
+          -67.875530,-34.600756
+          -67.875263,-34.602275
+          -67.875026,-34.603351
+          -67.874568,-34.604455
+          -67.874008,-34.605685
+          -67.762847,-34.839824
+          -67.748842,-34.868727
+          -67.738335,-34.885059
+          -67.691349,-34.956426
+          -67.676756,-34.978606
+          -67.676334,-34.979304
+          -67.675815,-34.980305
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Monte Comán KM 134.89</name>
+      <description>KM 134.89</description>
+      <Point><coordinates>-67.875389,-34.483120</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Guadales KM 134.9</name>
+      <description>KM 134.9
+Código: CGS
+(GPS)</description>
+      <Point><coordinates>-67.875176,-34.482900</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente río Diamante KM 702.3</name>
+      <description>KM 702.3</description>
+      <Point><coordinates>-67.876009,-34.571507</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Monte Comán KM 12.1 / 704.6</name>
+      <description>KM 12.1/ 704.6
+Código: CMC
+(GPS)</description>
+      <Point><coordinates>-67.875772,-34.592417</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Huinca Renanco KM 12.62 / KM 704.1</name>
+      <description>KM 12.62 / KM 704.1
+(GPS)</description>
+      <Point><coordinates>-67.875765,-34.597215</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Villa Atuel KM 12.67</name>
+      <description>KM 12.67
+(GPS)</description>
+      <Point><coordinates>-67.875745,-34.597623</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Real del Padre KM 41.5</name>
+      <description>KM 41.5
+Código: CRP
+(GPS)</description>
+      <Point><coordinates>-67.762799,-34.839857</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 47?</name>
+      <description>KM 47
+(GPS)</description>
+      <Point><coordinates>-67.738332,-34.885064</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 56</name>
+      <description>KM 56
+(GPS)</description>
+      <Point><coordinates>-67.691330,-34.956428</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Colonia Alvear Norte KM 58.2 / 895.2</name>
+      <description>FCGS: KM 58.2 
+CFDFS: 895.2
+Código: CAR (FC San Martin)
+(GPS)</description>
+      <Point><coordinates>-67.679889,-34.973821</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvio Alvear Norte</name>
+      <LineString>
+        <coordinates>
+          -67.676731,-34.978652
+          -67.676337,-34.979129
+          -67.676336,-34.979134
+          -67.676066,-34.979493
+          -67.675849,-34.979765
+          -67.675550,-34.980099
+          -67.675213,-34.980438
+          -67.674734,-34.980846
+          -67.674195,-34.981303
+          -67.673463,-34.981756
+          -67.672818,-34.982183
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Paradero KM 882 (FCDFS) Av. Pellegrini KM 894.1 / KM 59.0</name>
+      <description>FCDFS: KM 894.1
+FCSM: KM 59.0 (Punta de Rieles)
+¿Límite de Concesión?</description>
+      <Point><coordinates>-67.675815,-34.980302</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ruta sin título</name>
+      <LineString>
+        <coordinates>
+          -67.875639,-34.588115
+          -67.875673,-34.587388
+          -67.875609,-34.587033
+          -67.874086,-34.583815
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ruta sin título</name>
+      <LineString>
+        <coordinates>
+          -67.875524,-34.587009
+          -67.874372,-34.584829
+          -67.873989,-34.583886
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>KM 704 (poste)</name>
+      <description>KM 704
+(GPS)</description>
+      <Point><coordinates>-67.875625,-34.598344</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

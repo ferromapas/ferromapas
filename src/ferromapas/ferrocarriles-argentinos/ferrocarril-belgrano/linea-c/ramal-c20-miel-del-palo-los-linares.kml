@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C20: Miel del Palo - Los Linares</name>
+    <description>Ramal C20: Miel del Palo - Los Linares. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C20: Miel del Palo - Los Linares</name>
+      <LineString>
+        <coordinates>
+          -62.627454,-28.435222
+          -62.625967,-28.435148
+          -62.625357,-28.435159
+          -62.625121,-28.435137
+          -62.624988,-28.435095
+          -62.624667,-28.434951
+          -62.623838,-28.434429
+          -62.621420,-28.432484
+          -62.547125,-28.366404
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Los Linares KM 515.4</name>
+      <description>KM 515.4</description>
+      <Point><coordinates>-62.547945,-28.367127</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

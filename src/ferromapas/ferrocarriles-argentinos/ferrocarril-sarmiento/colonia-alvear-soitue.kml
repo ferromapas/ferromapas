@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Colonia Alvear - Soitué</name>
+    <description>Colonia Alvear - Soitué. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Itinerario del FCDFS de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Colonia Alvear - Soitué</name>
+      <LineString>
+        <coordinates>
+          -67.667438,-35.004021
+          -67.668719,-35.004643
+          -67.669813,-35.005077
+          -67.670954,-35.005375
+          -67.672250,-35.005591
+          -67.673670,-35.005726
+          -67.684625,-35.005791
+          -67.686812,-35.005869
+          -67.688113,-35.005932
+          -67.689427,-35.006084
+          -67.707128,-35.008031
+          -67.708175,-35.008110
+          -67.709397,-35.008050
+          -67.709629,-35.008042
+          -67.710686,-35.007925
+          -67.711310,-35.007834
+          -67.712173,-35.007607
+          -67.713246,-35.007269
+          -67.719803,-35.004620
+          -67.720832,-35.004267
+          -67.721650,-35.003998
+          -67.722250,-35.003836
+          -67.722710,-35.003732
+          -67.723267,-35.003629
+          -67.723948,-35.003506
+          -67.724561,-35.003422
+          -67.726036,-35.003308
+          -67.728874,-35.003314
+          -67.741897,-35.003554
+          -67.749463,-35.003686
+          -67.849559,-35.004796
+          -67.852084,-35.004994
+          -67.853446,-35.005271
+          -67.854514,-35.005571
+          -67.855889,-35.006033
+          -67.868608,-35.011283
+          -67.882615,-35.017015
+          -67.884004,-35.017573
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Colonia Alvear KM 890.7</name>
+      <description>KM 890.7
+(GPS)</description>
+      <Point><coordinates>-67.653718,-35.002502</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desv KM 894??</name>
+      <description>KM 894</description>
+      <Point><coordinates>-67.686507,-35.005855</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Solitue KM 910.4</name>
+      <description>KM 910.4
+(GPS)</description>
+      <Point><coordinates>-67.867097,-35.010701</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

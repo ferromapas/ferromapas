@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvío Molisa</name>
+    <Placemark>
+      <name>Desvío Molisa</name>
+      <LineString>
+        <coordinates>
+          -57.202991,-29.717212
+          -57.203236,-29.717288
+          -57.203437,-29.717303
+          -57.203775,-29.717290
+          -57.204124,-29.717266
+          -57.204453,-29.717202
+          -57.204855,-29.717047
+          -57.205117,-29.716916
+          -57.206256,-29.716259
+          -57.206715,-29.716040
+          -57.211139,-29.714413
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Molisa</name>
+      <LineString>
+        <coordinates>
+          -57.208110,-29.715525
+          -57.208579,-29.715404
+          -57.210191,-29.714798
+          -57.210664,-29.714593
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

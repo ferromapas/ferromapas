@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ayacucho - Empalme a Tandil y Las Flores</name>
+    <description>Ayacucho - Empalme a Tandil y Las Flores. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Ayacucho - Empalme a Tandil y Las Flores</name>
+      <LineString>
+        <coordinates>
+          -58.472133,-37.149367
+          -58.478419,-37.155034
+          -58.490675,-37.166213
+          -58.497334,-37.172251
+          -58.512206,-37.185760
+          -58.513298,-37.186656
+          -58.513932,-37.187134
+          -58.514695,-37.187626
+          -58.515172,-37.187956
+          -58.515873,-37.188371
+          -58.516787,-37.188844
+          -58.517618,-37.189244
+          -58.518478,-37.189606
+          -58.519389,-37.189978
+          -58.520369,-37.190314
+          -58.521422,-37.190625
+          -58.522500,-37.190891
+          -58.523206,-37.191040
+          -58.524364,-37.191247
+          -58.525606,-37.191461
+          -58.526757,-37.191642
+          -58.537523,-37.193304
+          -58.610358,-37.204688
+          -58.687478,-37.216691
+          -58.736995,-37.224404
+          -58.780784,-37.231150
+          -58.849452,-37.241726
+          -58.886965,-37.247470
+          -58.914171,-37.251652
+          -58.922283,-37.252897
+          -58.956174,-37.258068
+          -59.000458,-37.264821
+          -59.018365,-37.267559
+          -59.033030,-37.269788
+          -59.041739,-37.271093
+          -59.050673,-37.272469
+          -59.061940,-37.274170
+          -59.073597,-37.275923
+          -59.076838,-37.276442
+          -59.080800,-37.277159
+          -59.084735,-37.278084
+          -59.089231,-37.279592
+          -59.090546,-37.280115
+          -59.091630,-37.280585
+          -59.092976,-37.281202
+          -59.094730,-37.282095
+          -59.096318,-37.282973
+          -59.098376,-37.284280
+          -59.099629,-37.285128
+          -59.100257,-37.285568
+          -59.100877,-37.286040
+          -59.101429,-37.286470
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ayacucho KM 332.5</name>
+      <description>KM 332.5</description>
+      <Point><coordinates>-58.473048,-37.150045</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cangallo KM 353.2</name>
+      <description>KM 353.2</description>
+      <Point><coordinates>-58.682335,-37.215916</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Iraola KM 374.5</name>
+      <description>KM 374.5</description>
+      <Point><coordinates>-58.918930,-37.252395</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme ramal Napaleofú KM 387.5</name>
+      <description>KM 387.5</description>
+      <Point><coordinates>-59.046381,-37.271818</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tandil Playa</name>
+      <Point><coordinates>-59.082593,-37.277583</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Las Flores KM 391.2</name>
+      <description>KM 391.2</description>
+      <Point><coordinates>-59.089601,-37.279730</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tandil KM 330.3 (Vía Ayacucho - Maipu)</name>
+      <description>KM 330.3</description>
+      <Point><coordinates>-59.134583,-37.310008</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

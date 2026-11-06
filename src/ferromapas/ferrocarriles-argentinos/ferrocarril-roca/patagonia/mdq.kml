@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>MDQ</name>
+    <description>MDQ. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Ruta sin título</name>
+      <LineString>
+        <coordinates>
+          -57.569312,-38.003993
+          -57.569299,-38.004092
+          -57.569523,-38.004575
+          -57.569539,-38.005047
+          -57.569512,-38.005520
+          -57.569458,-38.005915
+          -57.569283,-38.006272
+          -57.568946,-38.006710
+          -57.568370,-38.007158
+          -57.567366,-38.007691
+          -57.563946,-38.009439
+          -57.561832,-38.010509
+          -57.558216,-38.012266
+          -57.554989,-38.013917
+          -57.553345,-38.014668
+          -57.552544,-38.015015
+          -57.551756,-38.015241
+          -57.551086,-38.015353
+          -57.550412,-38.015474
+          -57.549492,-38.015483
+          -57.548514,-38.015476
+          -57.547511,-38.015306
+          -57.546573,-38.014879
+          -57.546031,-38.014458
+          -57.543569,-38.011559
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Mar del Plata Sud</name>
+      <Point><coordinates>-57.543535,-38.011696</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Palmira - Tres Porteñas</name>
+    <description>Palmira - Tres Porteñas. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Fernando Marietán
+- Rubén Sagristani
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Palmira - Tres Porteñas</name>
+      <LineString>
+        <coordinates>
+          -68.561990,-33.047293
+          -68.550574,-33.053372
+          -68.547960,-33.054752
+          -68.543690,-33.057120
+          -68.541694,-33.058112
+          -68.539919,-33.058872
+          -68.539179,-33.059083
+          -68.538577,-33.059147
+          -68.537624,-33.059138
+          -68.535144,-33.058779
+          -68.531215,-33.058014
+          -68.524013,-33.056606
+          -68.520450,-33.056024
+          -68.517981,-33.055537
+          -68.515523,-33.055048
+          -68.514860,-33.054908
+          -68.512769,-33.054521
+          -68.510229,-33.054050
+          -68.507640,-33.052581
+          -68.505194,-33.050785
+          -68.497634,-33.043272
+          -68.490013,-33.035900
+          -68.487271,-33.032869
+          -68.484000,-33.029202
+          -68.481150,-33.026265
+          -68.468399,-33.013140
+          -68.466304,-33.010895
+          -68.461963,-33.006356
+          -68.459107,-33.003391
+          -68.452441,-32.996587
+          -68.444366,-32.988185
+          -68.443536,-32.987277
+          -68.440788,-32.984411
+          -68.439783,-32.983214
+          -68.429975,-32.967528
+          -68.421155,-32.959503
+          -68.414454,-32.953840
+          -68.410637,-32.950484
+          -68.408351,-32.947802
+          -68.406303,-32.945090
+          -68.404393,-32.941838
+          -68.395083,-32.923429
+          -68.389819,-32.914345
+          -68.389607,-32.910917
+          -68.389214,-32.902210
+          -68.388787,-32.891958
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Palmira KM 1028.5</name>
+      <description>KM 1028.5
+Código: CPM
+(GPS)</description>
+      <Point><coordinates>-68.562067,-33.047300</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Palmira (Cabina 3) KM 1.7</name>
+      <description>KM 1.7
+(GPS)</description>
+      <Point><coordinates>-68.548067,-33.054850</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gurruchaga (Dv Industrial) KM 7.3</name>
+      <description>KM 7.3
+KM 9.0 desde Palmira</description>
+      <Point><coordinates>-68.484081,-33.029295</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero KM 9 KM 9.7</name>
+      <description>KM 9.7
+KM 11.4 desde Palmira</description>
+      <Point><coordinates>-68.467837,-33.012539</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Champanay KM 13.2</name>
+      <description>KM 13.2
+KM 14.9 desde Palmira</description>
+      <Point><coordinates>-68.444035,-32.987943</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tres Porteñas? KM 24.5</name>
+      <description>KM 24.5</description>
+      <Point><coordinates>-68.389128,-32.899985</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

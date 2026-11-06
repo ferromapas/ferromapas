@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Fátima - Paranacito</name>
+    <Placemark>
+      <name>Brazo Largo KM 138.0</name>
+      <description>KM 138.0
+Código: MBR</description>
+      <Point><coordinates>-58.947000,-33.862293</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Libertador Generall San Martin (FCGU)  KM 381.2</name>
+      <description>KM 381.2
+Código: MSM</description>
+      <Point><coordinates>-59.033125,-33.709200</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C26: Presidente Roque Saenz Peña - Colonia Castelli</name>
+    <description>Ramal C26: Presidente Roque Saenz Peña - Colonia Castelli. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C26: Presidente Roque Saenz Peña - Colonia Castelli</name>
+      <LineString>
+        <coordinates>
+          -60.435771,-26.796517
+          -60.434760,-26.796803
+          -60.434457,-26.796873
+          -60.434193,-26.796912
+          -60.433907,-26.796942
+          -60.433575,-26.796977
+          -60.433272,-26.796994
+          -60.432978,-26.796989
+          -60.432636,-26.796940
+          -60.432331,-26.796862
+          -60.432077,-26.796759
+          -60.431806,-26.796613
+          -60.431585,-26.796456
+          -60.431348,-26.796261
+          -60.431143,-26.796026
+          -60.430971,-26.795776
+          -60.430729,-26.795210
+          -60.428170,-26.789169
+          -60.376277,-26.666857
+          -60.375951,-26.666068
+          -60.375772,-26.665528
+          -60.375635,-26.664906
+          -60.375543,-26.664275
+          -60.375488,-26.663727
+          -60.375476,-26.663079
+          -60.375528,-26.662607
+          -60.375588,-26.662007
+          -60.391020,-26.564442
+          -60.391798,-26.559047
+          -60.410744,-26.440319
+          -60.412235,-26.430839
+          -60.425716,-26.344552
+          -60.427189,-26.334896
+          -60.430511,-26.314034
+          -60.430711,-26.312793
+          -60.430867,-26.312028
+          -60.431027,-26.311408
+          -60.431185,-26.310855
+          -60.431512,-26.310116
+          -60.499076,-26.184442
+          -60.559372,-26.072185
+          -60.562676,-26.065801
+          -60.622426,-25.954204
+          -60.630345,-25.939530
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Presidente Roque Saenz Peña</name>
+      <LineString>
+        <coordinates>
+          -60.425961,-26.799945
+          -60.427376,-26.799386
+          -60.429234,-26.798699
+          -60.429712,-26.798503
+          -60.430071,-26.798319
+          -60.430295,-26.798179
+          -60.430503,-26.798000
+          -60.430746,-26.797733
+          -60.430961,-26.797439
+          -60.431073,-26.797184
+          -60.431130,-26.796877
+          -60.431165,-26.796593
+          -60.431139,-26.796296
+          -60.431067,-26.796017
+          -60.430970,-26.795765
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>KM 815 (DP) KM 815.0</name>
+      <description>KM 815.0</description>
+      <Point><coordinates>-60.428483,-26.789916</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Girasol (Emb) KM 828.9</name>
+      <description>KM 828.9</description>
+      <Point><coordinates>-60.378810,-26.672843</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 841 (Emb) KM 841.3</name>
+      <description>KM 841.3</description>
+      <Point><coordinates>-60.391325,-26.562439</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 855 (Emb) KM 855.3</name>
+      <description>KM 855.3</description>
+      <Point><coordinates>-60.411223,-26.437209</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tres Isletas KM 866.0</name>
+      <description>KM 866.0</description>
+      <Point><coordinates>-60.426188,-26.341468</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Tres Isletas</name>
+      <LineString>
+        <coordinates>
+          -60.426201,-26.341327
+          -60.426215,-26.340894
+          -60.426228,-26.340676
+          -60.426190,-26.340515
+          -60.426116,-26.340376
+          -60.425928,-26.340249
+          -60.425634,-26.340083
+          -60.425498,-26.340042
+          -60.425013,-26.339979
+          -60.425501,-26.340042
+          -60.425686,-26.340052
+          -60.425824,-26.340037
+          -60.425974,-26.340017
+          -60.426107,-26.339990
+          -60.426204,-26.339948
+          -60.426331,-26.339803
+          -60.426397,-26.339667
+          -60.426523,-26.339272
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>KM 884 (Emb) KM 884.3</name>
+      <description>KM 884.3</description>
+      <Point><coordinates>-60.496137,-26.190100</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zaparimqui (Emb) KM 899.4</name>
+      <description>KM 899.4</description>
+      <Point><coordinates>-60.561582,-26.068011</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Colonia Juan José Castelli KM 913.7</name>
+      <description>KM 913.7</description>
+      <Point><coordinates>-60.623941,-25.951103</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Colonia Juan José Castelli</name>
+      <LineString>
+        <coordinates>
+          -60.626805,-25.946099
+          -60.627259,-25.945343
+          -60.627608,-25.944776
+          -60.627784,-25.944564
+          -60.628027,-25.944343
+          -60.628203,-25.944215
+          -60.628488,-25.944079
+          -60.628768,-25.943984
+          -60.629024,-25.943935
+          -60.629287,-25.943930
+          -60.629579,-25.943965
+          -60.630001,-25.944096
+          -60.630439,-25.944297
+          -60.632249,-25.945137
+          -60.630439,-25.944296
+          -60.629868,-25.943965
+          -60.629674,-25.943799
+          -60.629477,-25.943597
+          -60.629328,-25.943425
+          -60.629190,-25.943177
+          -60.629119,-25.942922
+          -60.629085,-25.942641
+          -60.629079,-25.942381
+          -60.629115,-25.942041
+          -60.629165,-25.941786
+          -60.629279,-25.941513
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC21: Ramal Canteras a Ancaján</name>
+    <description>Ramal CC21: Ramal Canteras a Ancaján (ex CC11). Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal CC21: Ramal Canteras a Ancaján (ex CC11)</name>
+      <LineString>
+        <coordinates>
+          -64.980652,-28.563614
+          -64.977942,-28.562299
+          -64.976907,-28.561716
+          -64.976410,-28.561356
+          -64.975873,-28.560934
+          -64.975316,-28.560485
+          -64.974936,-28.560148
+          -64.974470,-28.559579
+          -64.974042,-28.558949
+          -64.973643,-28.558155
+          -64.973317,-28.557265
+          -64.972822,-28.555382
+          -64.954143,-28.474581
+          -64.953907,-28.473622
+          -64.953702,-28.472794
+          -64.953534,-28.472362
+          -64.953358,-28.471991
+          -64.953010,-28.471273
+          -64.952616,-28.470649
+          -64.952033,-28.469947
+          -64.951377,-28.469228
+          -64.937159,-28.454140
+          -64.935585,-28.452441
+          -64.935184,-28.452083
+          -64.934967,-28.451892
+          -64.934700,-28.451728
+          -64.934466,-28.451602
+          -64.934073,-28.451433
+          -64.933566,-28.451233
+          -64.933044,-28.451128
+          -64.932453,-28.451064
+          -64.931440,-28.451019
+          -64.930304,-28.450989
+          -64.929791,-28.450941
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal CC21: Ramal Canteras a Ancaján (ex CC11)</name>
+      <LineString>
+        <coordinates>
+          -64.931299,-28.451015
+          -64.930611,-28.450908
+          -64.930241,-28.450798
+          -64.929928,-28.450616
+          -64.929747,-28.450387
+          -64.929565,-28.450103
+          -64.929387,-28.449697
+          -64.928752,-28.447362
+          -64.928499,-28.445952
+          -64.927643,-28.443011
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ancaján (KM 15) KM 14.7</name>
+      <description>KM 14.7</description>
+      <Point><coordinates>-64.928390,-28.445639</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

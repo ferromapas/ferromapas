@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal A15: José Martí a Cuyo</name>
+    <description>Ramal A15: José Martí a Cuyo. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal A15: José Martí a Cuyo</name>
+      <LineString>
+        <coordinates>
+          -68.226593,-31.830154
+          -68.226643,-31.830227
+          -68.226866,-31.831016
+          -68.226985,-31.831324
+          -68.227122,-31.831589
+          -68.227251,-31.831781
+          -68.227461,-31.831982
+          -68.227691,-31.832157
+          -68.227873,-31.832270
+          -68.228111,-31.832386
+          -68.228287,-31.832439
+          -68.228505,-31.832490
+          -68.228773,-31.832526
+          -68.228987,-31.832537
+          -68.229205,-31.832523
+          -68.229583,-31.832462
+          -68.314629,-31.817805
+          -68.321088,-31.816689
+          -68.321702,-31.816580
+          -68.322056,-31.816513
+          -68.322316,-31.816452
+          -68.322605,-31.816328
+          -68.322807,-31.816211
+          -68.322973,-31.816073
+          -68.323214,-31.815839
+          -68.323442,-31.815510
+          -68.323547,-31.815254
+          -68.323620,-31.814987
+          -68.323634,-31.814784
+          -68.323612,-31.814498
+          -68.323541,-31.814158
+          -68.323499,-31.813943
+          -68.322807,-31.811045
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo José Martí</name>
+      <LineString>
+        <coordinates>
+          -68.227754,-31.834900
+          -68.227719,-31.834362
+          -68.227727,-31.834169
+          -68.227750,-31.833994
+          -68.227802,-31.833787
+          -68.227881,-31.833602
+          -68.227954,-31.833477
+          -68.228085,-31.833287
+          -68.228237,-31.833116
+          -68.228390,-31.832980
+          -68.228485,-31.832893
+          -68.228735,-31.832746
+          -68.228936,-31.832650
+          -68.229212,-31.832553
+          -68.229557,-31.832465
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>José Martí KM 909.7</name>
+      <description>Kilometros desde Santa Fe: 909.7
+Llamada Telegráfica: KZ
+Anterior Estación: 6.8 km
+Próxima Estación: 0.5 km
+Ramal: A10 Pie de Palo - Mendoza
+(GPS)</description>
+      <Point><coordinates>-68.225467,-31.825583</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal A15: a Cuyo KM 910.290</name>
+      <description>Kilometros desde Santa Fe: 910.290
+Llamada Telegráfica: 
+Anterior Estación: 0.5 km
+Próxima Estación: 8.9 km
+Ramal: A10 Pie de Palo - Mendoza
+(GPS)</description>
+      <Point><coordinates>-68.226600,-31.830167</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cuyo KM 919.2</name>
+      <description>KM 919.2
+Llamada Telegráfica: CY</description>
+      <Point><coordinates>-68.317583,-31.817350</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramal A15: José Martí a Cuyo</name>
+      <LineString>
+        <coordinates>
+          -68.323607,-31.814476
+          -68.323472,-31.813938
+          -68.323373,-31.813712
+          -68.323252,-31.813532
+          -68.323035,-31.813218
+          -68.322939,-31.813051
+          -68.322844,-31.812827
+          -68.322744,-31.812340
+          -68.322464,-31.811113
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal A15: José Martí a Cuyo</name>
+      <LineString>
+        <coordinates>
+          -68.323604,-31.814441
+          -68.323553,-31.814118
+          -68.323555,-31.813972
+          -68.323586,-31.813829
+          -68.323686,-31.813569
+          -68.323853,-31.813111
+          -68.323887,-31.812978
+          -68.323892,-31.812862
+          -68.323867,-31.812683
+          -68.323827,-31.812422
+          -68.323712,-31.811783
+          -68.323594,-31.811221
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

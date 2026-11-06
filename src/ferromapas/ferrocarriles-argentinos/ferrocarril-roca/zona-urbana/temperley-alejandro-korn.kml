@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Temperley - Alejandro Korn</name>
+    <description>Temperley - Alejandro Korn. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Gerli - Alejandro Korn</name>
+      <LineString>
+        <coordinates>
+          -58.396747,-34.775370
+          -58.396627,-34.776713
+          -58.396536,-34.777388
+          -58.396424,-34.778058
+          -58.396251,-34.779168
+          -58.396138,-34.780094
+          -58.396024,-34.781407
+          -58.395573,-34.786447
+          -58.395322,-34.788425
+          -58.395090,-34.789759
+          -58.394968,-34.791133
+          -58.394824,-34.792769
+          -58.394640,-34.794516
+          -58.394426,-34.796260
+          -58.394309,-34.797300
+          -58.394206,-34.798268
+          -58.394130,-34.798995
+          -58.394073,-34.799740
+          -58.393976,-34.800802
+          -58.393799,-34.802281
+          -58.393650,-34.803790
+          -58.393527,-34.805196
+          -58.393410,-34.806299
+          -58.393148,-34.808732
+          -58.392980,-34.810069
+          -58.392801,-34.811475
+          -58.392614,-34.813232
+          -58.392457,-34.815003
+          -58.392251,-34.816819
+          -58.392102,-34.818330
+          -58.391963,-34.819659
+          -58.391803,-34.821058
+          -58.391689,-34.822267
+          -58.391512,-34.823914
+          -58.391336,-34.825666
+          -58.391168,-34.827256
+          -58.390955,-34.829023
+          -58.390756,-34.830796
+          -58.390490,-34.833008
+          -58.390281,-34.834719
+          -58.390086,-34.836415
+          -58.389941,-34.837603
+          -58.389741,-34.839171
+          -58.389487,-34.841100
+          -58.389243,-34.843030
+          -58.389095,-34.844169
+          -58.388985,-34.845122
+          -58.388577,-34.848432
+          -58.388145,-34.852263
+          -58.387656,-34.856224
+          -58.387260,-34.859422
+          -58.387025,-34.861419
+          -58.386456,-34.866165
+          -58.385904,-34.870596
+          -58.385249,-34.876173
+          -58.384335,-34.883783
+          -58.383853,-34.887723
+          -58.383331,-34.892410
+          -58.382621,-34.899084
+          -58.381845,-34.906328
+          -58.381016,-34.914227
+          -58.380412,-34.919358
+          -58.380014,-34.923028
+          -58.378882,-34.933371
+          -58.378209,-34.939765
+          -58.377271,-34.948572
+          -58.376185,-34.958752
+          -58.375780,-34.962324
+          -58.375405,-34.965748
+          -58.375088,-34.969087
+          -58.373694,-34.981438
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Adrogué KM 19.1</name>
+      <description>KM 19.1</description>
+      <Point><coordinates>-58.394325,-34.797850</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Burzaco KM 22.0</name>
+      <description>KM 22.0</description>
+      <Point><coordinates>-58.391294,-34.825058</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Longchamps KM 25.9</name>
+      <description>KM 25.9</description>
+      <Point><coordinates>-58.387156,-34.859478</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Glew KM 29.2</name>
+      <description>KM 29.2</description>
+      <Point><coordinates>-58.383872,-34.888564</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Guernica KM 32.5</name>
+      <description>KM 32.5</description>
+      <Point><coordinates>-58.380658,-34.917953</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCGR (a Alejandro Korn) y FCGB (G3) KM 32.8</name>
+      <description>FCGR - KM 32.8</description>
+      <Point><coordinates>-58.380233,-34.920692</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Alejandro Korn KM 39.5</name>
+      <description>KM 39.5</description>
+      <Point><coordinates>-58.373927,-34.980548</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

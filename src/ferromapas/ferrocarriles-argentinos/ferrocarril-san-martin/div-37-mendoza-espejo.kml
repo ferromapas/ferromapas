@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 37: Mendoza - Espejo</name>
+    <description>Div 37: Mendoza - Espejo. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Roberto Bocanegra 
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Div 37: Mendoza - Espejo</name>
+      <LineString>
+        <coordinates>
+          -68.848190,-32.882890
+          -68.845831,-32.873774
+          -68.844933,-32.870341
+          -68.843766,-32.865917
+          -68.843044,-32.863253
+          -68.842927,-32.862441
+          -68.842828,-32.861484
+          -68.842743,-32.861165
+          -68.842371,-32.860256
+          -68.841864,-32.859146
+          -68.841380,-32.857900
+          -68.841216,-32.857500
+          -68.841119,-32.857165
+          -68.840822,-32.855854
+          -68.840336,-32.853674
+          -68.839964,-32.851959
+          -68.839513,-32.849931
+          -68.839317,-32.849059
+          -68.838509,-32.845924
+          -68.837260,-32.841400
+          -68.836758,-32.839434
+          -68.835897,-32.835996
+          -68.834860,-32.831651
+          -68.831975,-32.820922
+          -68.831834,-32.820523
+          -68.831578,-32.819850
+          -68.831275,-32.819296
+          -68.830989,-32.818834
+          -68.830790,-32.818495
+          -68.830458,-32.818093
+          -68.830155,-32.817844
+          -68.829590,-32.817425
+          -68.829175,-32.817199
+          -68.828858,-32.817028
+          -68.828496,-32.816857
+          -68.828133,-32.816714
+          -68.827692,-32.816539
+          -68.827263,-32.816428
+          -68.826896,-32.816331
+          -68.826458,-32.816279
+          -68.826058,-32.816260
+          -68.825629,-32.816224
+          -68.825073,-32.816235
+          -68.824557,-32.816286
+          -68.824010,-32.816402
+          -68.823511,-32.816510
+          -68.822992,-32.816693
+          -68.822637,-32.816823
+          -68.822219,-32.816983
+          -68.821725,-32.817273
+          -68.820929,-32.817738
+          -68.820500,-32.817990
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Mendoza Pasajeros (GOA) KM 1063.0 (ex KM 1048.34296)</name>
+      <description>KM 1063.0
+Ex KM 1048.34296
+Código: CME</description>
+      <Point><coordinates>-68.848190,-32.882870</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Talleres Diesel Mendoza</name>
+      <Point><coordinates>-68.849485,-32.880341</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Talleres Diesel Mendoza Pintura</name>
+      <Point><coordinates>-68.850347,-32.881994</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mendoza Pasajeros Cocheras</name>
+      <Point><coordinates>-68.848615,-32.881299</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mendoza Pasajeros Lavadero y Carga/Descarga de Automotores</name>
+      <Point><coordinates>-68.847792,-32.883332</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabín Tamarindos</name>
+      <description>(GPS)</description>
+      <Point><coordinates>-68.839883,-32.851917</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Mendoza Cargas</name>
+      <description>(GPS)</description>
+      <Point><coordinates>-68.839917,-32.851967</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Panquehua KM 1068.3</name>
+      <description>KM 1068.3
+(GPS)</description>
+      <Point><coordinates>-68.835870,-32.835940</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme El Resguardo KM 1070.0</name>
+      <description>KM 1070
+Codigo: CRE
+Distancia a Mza Pasajeros: 7 KM</description>
+      <Point><coordinates>-68.832072,-32.821408</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme</name>
+      <description>(GPS)</description>
+      <Point><coordinates>-68.820500,-32.818000</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Espejo KM 26.4</name>
+      <description>KM 26.4
+Código: CEO
+(GPS)</description>
+      <Point><coordinates>-68.817617,-32.820083</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvio Mendoza Cargas (GPS)</name>
+      <LineString>
+        <coordinates>
+          -68.839929,-32.851963
+          -68.839929,-32.852192
+          -68.839978,-32.852569
+          -68.840054,-32.852920
+          -68.840228,-32.853680
+          -68.841135,-32.857992
+          -68.841208,-32.858358
+          -68.841248,-32.858740
+          -68.841284,-32.859118
+          -68.841168,-32.860297
+          -68.841141,-32.860724
+          -68.841155,-32.861161
+          -68.841231,-32.861442
+          -68.841523,-32.862430
+          -68.842371,-32.866010
+          -68.843422,-32.870687
+          -68.843533,-32.871534
+          -68.843509,-32.872034
+          -68.843425,-32.872651
+          -68.843315,-32.873027
+          -68.843181,-32.873371
+          -68.842894,-32.873898
+          -68.842274,-32.874788
+          -68.839678,-32.879599
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvio Mendoza Cargas (GPS)</name>
+      <LineString>
+        <coordinates>
+          -68.842512,-32.866611
+          -68.843312,-32.870645
+          -68.843391,-32.872084
+          -68.843171,-32.872891
+          -68.842673,-32.873843
+          -68.840798,-32.876637
+          -68.839197,-32.879120
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Mendoza Cargas</name>
+      <Point><coordinates>-68.840251,-32.877612</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Depósito de Locomotoras</name>
+      <Point><coordinates>-68.846957,-32.875710</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tamarindos KM 1066.7</name>
+      <description>KM 1066.7</description>
+      <Point><coordinates>-68.839489,-32.849888</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

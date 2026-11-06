@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Lincoln - Roberts - Timote</name>
+    <description>Lincoln - Roberts - Timote. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Lincoln - Roberts - Timote</name>
+      <LineString>
+        <coordinates>
+          -61.586563,-34.841935
+          -61.587164,-34.841487
+          -61.587968,-34.840946
+          -61.588464,-34.840652
+          -61.588989,-34.840355
+          -61.589493,-34.840089
+          -61.589683,-34.839993
+          -61.590030,-34.839841
+          -61.590626,-34.839591
+          -61.591265,-34.839349
+          -61.591935,-34.839133
+          -61.592931,-34.838852
+          -61.593926,-34.838630
+          -61.594882,-34.838477
+          -61.595578,-34.838399
+          -61.596131,-34.838347
+          -61.596829,-34.838321
+          -61.597643,-34.838312
+          -61.598767,-34.838341
+          -61.599730,-34.838433
+          -61.599737,-34.838438
+          -61.600465,-34.838541
+          -61.601210,-34.838671
+          -61.602280,-34.838912
+          -61.603474,-34.839269
+          -61.604800,-34.839778
+          -61.605776,-34.840250
+          -61.607008,-34.840952
+          -61.608087,-34.841707
+          -61.609233,-34.842637
+          -61.655362,-34.881034
+          -61.657173,-34.882571
+          -61.658076,-34.883541
+          -61.658623,-34.884358
+          -61.659180,-34.885189
+          -61.659630,-34.885884
+          -61.660115,-34.886491
+          -61.660977,-34.887389
+          -61.661341,-34.887696
+          -61.773331,-34.978750
+          -61.781103,-34.984888
+          -61.955501,-35.126458
+          -61.968169,-35.136758
+          -61.975854,-35.142969
+          -61.981765,-35.147722
+          -61.983880,-35.149577
+          -62.222360,-35.341742
+          -62.227207,-35.345626
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>KM 321 (Ap.) KM 321.3</name>
+      <description>KM 321.3</description>
+      <Point><coordinates>-61.603504,-34.839279</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Arenaza KM 343.2</name>
+      <description>KM 343.2</description>
+      <Point><coordinates>-61.778173,-34.982571</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 352 (Ap.) KM 351.5</name>
+      <description>KM 351.5</description>
+      <Point><coordinates>-61.843261,-35.035435</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 356 (Ap.) KM 355.5</name>
+      <description>KM 355.5</description>
+      <Point><coordinates>-61.874320,-35.060651</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Roberts KM 351.0 / KM 368.1</name>
+      <description>Vía Bragado - Los Toldos - Roberts - Ing. Luiggi KM 351.0
+Vía Lincoln - Roberts - Timote KM 368.1</description>
+      <Point><coordinates>-61.972927,-35.140611</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 386 (Ap.) KM 385.9</name>
+      <description>KM 385.9</description>
+      <Point><coordinates>-62.111608,-35.252664</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 393 (Ap.) KM 393.0</name>
+      <description>KM 393.0</description>
+      <Point><coordinates>-62.168129,-35.298162</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Timote KM 379.3 / KM 400.6</name>
+      <description>Vía Olascoaga - Timote - General Pico - Telen KM 379.3
+Vía Lincoln - Roberts - Timote KM 400.6</description>
+      <Point><coordinates>-62.227177,-35.345609</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

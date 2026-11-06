@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal F5: Coronda - Gessler</name>
+    <description>Ramal F5: Coronda - Gessler. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal F5: Coronda - Gessler</name>
+      <LineString>
+        <coordinates>
+          -60.922261,-31.964658
+          -60.944296,-31.964022
+          -60.954376,-31.963976
+          -60.956404,-31.963819
+          -60.958338,-31.963285
+          -61.048637,-31.930858
+          -61.083900,-31.918362
+          -61.095267,-31.914340
+          -61.107908,-31.911754
+          -61.108612,-31.911535
+          -61.109144,-31.911343
+          -61.109537,-31.911180
+          -61.110103,-31.910904
+          -61.110666,-31.910588
+          -61.111174,-31.910273
+          -61.111495,-31.910025
+          -61.111957,-31.909675
+          -61.112327,-31.909366
+          -61.112606,-31.909103
+          -61.112993,-31.908745
+          -61.132022,-31.890217
+          -61.132393,-31.889882
+          -61.132785,-31.889476
+          -61.133124,-31.889080
+          -61.133598,-31.888477
+          -61.133777,-31.888241
+          -61.133959,-31.887932
+          -61.134163,-31.887537
+          -61.134311,-31.887202
+          -61.134425,-31.886903
+          -61.134599,-31.886412
+          -61.134748,-31.885996
+          -61.134844,-31.885572
+          -61.134923,-31.885146
+          -61.134969,-31.884864
+          -61.134999,-31.884276
+          -61.134956,-31.883900
+          -61.134794,-31.883195
+          -61.134228,-31.880816
+          -61.134086,-31.880004
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Larrechea KM 60.6</name>
+      <description>KM 60.6</description>
+      <Point><coordinates>-61.047318,-31.931325</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCGBM / FCGB (F5) KM 61.1 (F5)</name>
+      <description>Ramal F5: KM 61.1</description>
+      <Point><coordinates>-61.047713,-31.931180</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Oroño KM 66.2</name>
+      <description>KM 66.2</description>
+      <Point><coordinates>-61.097554,-31.913859</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme F5 / F9</name>
+      <LineString>
+        <coordinates>
+          -61.133646,-31.888456
+          -61.133970,-31.888160
+          -61.134187,-31.888067
+          -61.134437,-31.887981
+          -61.134789,-31.887960
+          -61.135085,-31.887989
+          -61.135457,-31.888091
+          -61.135754,-31.888256
+          -61.135947,-31.888444
+          -61.136091,-31.888643
+          -61.136249,-31.888993
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

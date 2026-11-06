@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Cuadro de Tráfico GOA</name>
+    <Placemark>
+      <name>Cuadro de Tráfico GOA</name>
+      <Point><coordinates>-65.483163,-33.659528</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cuadro de Tráfico GOA</name>
+      <LineString>
+        <coordinates>
+          -65.481488,-33.662539
+          -65.482103,-33.662324
+          -65.482522,-33.662088
+          -65.482894,-33.661739
+          -65.483178,-33.661360
+          -65.483337,-33.661051
+          -65.483400,-33.660722
+          -65.483404,-33.660493
+          -65.483331,-33.660128
+          -65.483201,-33.659623
+          -65.483080,-33.659285
+          -65.482390,-33.657378
+          -65.481269,-33.654303
+          -65.483227,-33.659639
+          -65.483499,-33.660256
+          -65.483700,-33.660542
+          -65.483873,-33.660789
+          -65.484182,-33.660989
+          -65.484187,-33.660995
+          -65.484639,-33.661220
+          -65.485054,-33.661379
+          -65.485552,-33.661407
+          -65.486091,-33.661368
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cuadro de Tráfico GOA</name>
+      <LineString>
+        <coordinates>
+          -65.483215,-33.659650
+          -65.482894,-33.658980
+          -65.482376,-33.658367
+          -65.481938,-33.657926
+          -65.481561,-33.657393
+          -65.481236,-33.656887
+          -65.481053,-33.656362
+          -65.481050,-33.655891
+          -65.481103,-33.655590
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cuadro de Tráfico GOA</name>
+      <LineString>
+        <coordinates>
+          -65.482475,-33.658464
+          -65.482109,-33.657576
+          -65.481336,-33.655679
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cuadro de Tráfico GOA</name>
+      <LineString>
+        <coordinates>
+          -65.482660,-33.658103
+          -65.482131,-33.657177
+          -65.481090,-33.654350
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cuadro de Tráfico GOA</name>
+      <LineString>
+        <coordinates>
+          -65.483166,-33.659459
+          -65.483118,-33.658271
+          -65.483125,-33.658246
+          -65.483052,-33.657325
+          -65.482719,-33.656069
+          -65.481757,-33.653272
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cuadro de Tráfico GOA</name>
+      <LineString>
+        <coordinates>
+          -65.483156,-33.659100
+          -65.482810,-33.657377
+          -65.482469,-33.656286
+          -65.481459,-33.653356
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Villa María - Córdoba</name>
+    <description>Villa María - Córdoba. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Emp. a Malagueño KM 473.9</name>
+      <description>KM 473.9</description>
+      <Point><coordinates>-64.147482,-31.430985</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Km 476/678</name>
+      <Point><coordinates>-64.154522,-31.427808</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa María - James Craik</name>
+      <LineString>
+        <coordinates>
+          -63.244581,-32.413003
+          -63.244801,-32.412738
+          -63.245316,-32.412204
+          -63.248696,-32.408569
+          -63.251170,-32.405817
+          -63.254091,-32.402408
+          -63.258383,-32.397564
+          -63.356103,-32.286692
+          -63.464678,-32.162979
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tío Pujio KM 570.7</name>
+      <description>KM 570.7</description>
+      <Point><coordinates>-63.355272,-32.287797</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>James Craik KM 587.8</name>
+      <description>KM 587.8</description>
+      <Point><coordinates>-63.463780,-32.164107</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Villa del Rosario KM 588.2</name>
+      <description>KM 588.2</description>
+      <Point><coordinates>-63.468601,-32.158483</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Olivia KM 604.8</name>
+      <description>KM 604.8</description>
+      <Point><coordinates>-63.571317,-32.041888</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Oncativo KM 622.4</name>
+      <description>KM 622.4</description>
+      <Point><coordinates>-63.685103,-31.911675</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Manfredi KM 632.2</name>
+      <description>KM 632.2</description>
+      <Point><coordinates>-63.744749,-31.843192</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Laguna Larga KM 641.4</name>
+      <description>KM 641.4</description>
+      <Point><coordinates>-63.802884,-31.777342</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Villa del Rosario KM 654.0</name>
+      <description>KM 654.0</description>
+      <Point><coordinates>-63.882944,-31.685378</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pilar KM 654.4</name>
+      <description>KM 654.4</description>
+      <Point><coordinates>-63.885317,-31.682531</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Río Segundo KM 658.4</name>
+      <description>KM 658.4</description>
+      <Point><coordinates>-63.910394,-31.653922</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Villa del Rosario - Río Segundo</name>
+      <LineString>
+        <coordinates>
+          -63.461791,-32.166276
+          -63.462846,-32.165000
+          -63.464839,-32.162717
+          -63.465923,-32.161517
+          -63.467545,-32.159694
+          -63.471444,-32.155254
+          -63.494986,-32.128515
+          -63.511366,-32.109845
+          -63.551836,-32.063700
+          -63.681974,-31.915444
+          -63.737423,-31.852101
+          -63.792848,-31.788648
+          -63.888263,-31.679200
+          -63.888927,-31.678456
+          -63.889697,-31.677582
+          -63.890762,-31.676356
+          -63.891688,-31.675283
+          -63.892730,-31.674097
+          -63.894246,-31.672345
+          -63.895150,-31.671321
+          -63.896169,-31.670150
+          -63.896569,-31.669689
+          -63.898072,-31.667955
+          -63.899135,-31.666734
+          -63.900599,-31.664956
+          -63.902481,-31.662772
+          -63.904306,-31.660700
+          -63.912364,-31.651498
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Río Segundo - Córdoba</name>
+      <LineString>
+        <coordinates>
+          -63.907944,-31.656574
+          -63.908563,-31.655801
+          -63.909301,-31.654903
+          -63.911157,-31.652748
+          -63.912131,-31.651711
+          -63.912384,-31.651479
+          -63.912955,-31.650824
+          -63.916825,-31.646382
+          -63.917880,-31.645223
+          -63.919039,-31.644022
+          -63.921706,-31.641415
+          -63.924760,-31.638455
+          -63.928896,-31.634462
+          -63.975824,-31.588913
+          -63.991566,-31.573610
+          -63.999630,-31.565793
+          -64.038401,-31.528053
+          -64.041014,-31.525568
+          -64.111532,-31.456999
+          -64.113186,-31.455415
+          -64.115568,-31.453086
+          -64.117226,-31.451571
+          -64.118221,-31.450605
+          -64.119105,-31.449741
+          -64.124126,-31.444740
+          -64.126133,-31.442797
+          -64.130331,-31.438713
+          -64.131621,-31.437431
+          -64.132936,-31.436149
+          -64.133391,-31.435707
+          -64.133673,-31.435433
+          -64.133943,-31.435209
+          -64.134200,-31.434992
+          -64.134502,-31.434761
+          -64.134812,-31.434541
+          -64.135164,-31.434311
+          -64.135527,-31.434082
+          -64.135985,-31.433815
+          -64.136518,-31.433541
+          -64.136890,-31.433367
+          -64.137296,-31.433201
+          -64.137771,-31.433035
+          -64.138295,-31.432876
+          -64.138867,-31.432710
+          -64.139279,-31.432618
+          -64.139861,-31.432515
+          -64.140264,-31.432464
+          -64.140691,-31.432403
+          -64.142882,-31.432036
+          -64.144774,-31.431726
+          -64.145744,-31.431529
+          -64.146276,-31.431391
+          -64.146726,-31.431264
+          -64.147137,-31.431103
+          -64.147689,-31.430896
+          -64.148407,-31.430573
+          -64.152622,-31.428673
+          -64.154239,-31.427937
+          -64.154785,-31.427705
+          -64.155203,-31.427540
+          -64.155558,-31.427410
+          -64.155902,-31.427310
+          -64.156233,-31.427224
+          -64.156581,-31.427146
+          -64.157260,-31.427017
+          -64.158500,-31.426825
+          -64.159330,-31.426682
+          -64.159960,-31.426580
+          -64.163647,-31.425983
+          -64.169337,-31.425013
+          -64.170120,-31.424883
+          -64.170629,-31.424783
+          -64.171044,-31.424686
+          -64.171391,-31.424587
+          -64.171733,-31.424461
+          -64.172105,-31.424307
+          -64.172436,-31.424170
+          -64.172624,-31.424073
+          -64.172860,-31.423945
+          -64.173073,-31.423825
+          -64.173292,-31.423701
+          -64.173525,-31.423544
+          -64.173686,-31.423410
+          -64.173843,-31.423240
+          -64.173971,-31.423083
+          -64.174084,-31.422915
+          -64.174216,-31.422722
+          -64.174340,-31.422522
+          -64.174452,-31.422272
+          -64.174515,-31.422129
+          -64.174574,-31.421954
+          -64.174646,-31.421695
+          -64.174970,-31.420218
+          -64.175246,-31.419059
+          -64.175505,-31.417853
+          -64.175562,-31.417598
+          -64.175602,-31.417378
+          -64.175632,-31.417189
+          -64.175636,-31.417024
+          -64.175625,-31.416821
+          -64.175610,-31.416640
+          -64.175582,-31.416470
+          -64.175510,-31.416201
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Toledo KM 672.4</name>
+      <description>KM 672.4</description>
+      <Point><coordinates>-64.009592,-31.556220</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ferreyra KM 686.7</name>
+      <description>KM 686.7</description>
+      <Point><coordinates>-64.111589,-31.456947</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kilómetro 690 KM 688.7</name>
+      <description>KM 688.7</description>
+      <Point><coordinates>-64.119103,-31.449750</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kilómetro 692 KM 690.1</name>
+      <description>KM 690.1</description>
+      <Point><coordinates>-64.130309,-31.438736</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Córdoba KM 695.0</name>
+      <description>KM 695.0
+KM 479</description>
+      <Point><coordinates>-64.175146,-31.420342</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal F12: Pozo de Molle - Carrilobo</name>
+    <description>Ramal F12: Pozo de Molle - Carrilobo. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Línea F12 - Pozo del Moye - Carrilogo</name>
+      <LineString>
+        <coordinates>
+          -62.921774,-32.019919
+          -62.922111,-32.020081
+          -62.922708,-32.020157
+          -62.923535,-32.020232
+          -62.924214,-32.020142
+          -62.925096,-32.019949
+          -62.925433,-32.019815
+          -62.926121,-32.019332
+          -63.067079,-31.912653
+          -63.071885,-31.908981
+          -63.073036,-31.908038
+          -63.113911,-31.873194
+          -63.121457,-31.866923
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Carrilobo</name>
+      <LineString>
+        <coordinates>
+          -63.116233,-31.871250
+          -63.116868,-31.870797
+          -63.117307,-31.870609
+          -63.117805,-31.870479
+          -63.118278,-31.870353
+          -63.118709,-31.870322
+          -63.119285,-31.870597
+          -63.120213,-31.871394
+          -63.119278,-31.870588
+          -63.119172,-31.870375
+          -63.119048,-31.870089
+          -63.118970,-31.869831
+          -63.118977,-31.869579
+          -63.119057,-31.869132
+          -63.119198,-31.868898
+          -63.119452,-31.868630
+          -63.119885,-31.868241
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Carrilogo</name>
+      <Point><coordinates>-63.115873,-31.871569</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

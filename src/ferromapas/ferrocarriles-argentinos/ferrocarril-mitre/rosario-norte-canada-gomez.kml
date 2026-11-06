@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Rosario Norte - Cañada Gomez</name>
+    <description>Rosario Norte - Cañada Gomez. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Rosario Norte - Cañada de Gómez</name>
+      <LineString>
+        <coordinates>
+          -60.686061,-32.931589
+          -60.687687,-32.931429
+          -60.690031,-32.931209
+          -60.692588,-32.930967
+          -60.694880,-32.930768
+          -60.697375,-32.930543
+          -60.701494,-32.930116
+          -60.711870,-32.929043
+          -60.715120,-32.928726
+          -60.725153,-32.927701
+          -60.729643,-32.927241
+          -60.734044,-32.926792
+          -60.738154,-32.926370
+          -60.741187,-32.926028
+          -60.747584,-32.925393
+          -60.751060,-32.925042
+          -60.755611,-32.924565
+          -60.762266,-32.923894
+          -60.770327,-32.923056
+          -60.774527,-32.922630
+          -60.775561,-32.922529
+          -60.776408,-32.922431
+          -60.777610,-32.922283
+          -60.784741,-32.921338
+          -60.866593,-32.906990
+          -60.871818,-32.906053
+          -61.148530,-32.856747
+          -61.155533,-32.855536
+          -61.156924,-32.855286
+          -61.158025,-32.855098
+          -61.158803,-32.854983
+          -61.159530,-32.854917
+          -61.160853,-32.854792
+          -61.164968,-32.854302
+          -61.174058,-32.853277
+          -61.181466,-32.852434
+          -61.183966,-32.852124
+          -61.184835,-32.852028
+          -61.185774,-32.851953
+          -61.186825,-32.851871
+          -61.188353,-32.851765
+          -61.198008,-32.850991
+          -61.206558,-32.850327
+          -61.222335,-32.849073
+          -61.227394,-32.848674
+          -61.240457,-32.847656
+          -61.245407,-32.847217
+          -61.247590,-32.847057
+          -61.248985,-32.846950
+          -61.250893,-32.846768
+          -61.252089,-32.846631
+          -61.253252,-32.846474
+          -61.254814,-32.846246
+          -61.259315,-32.845509
+          -61.263657,-32.844767
+          -61.396244,-32.822126
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Rosario Norte (Rosario FC B.A. y R.) KM 1.8 (a Villa María)</name>
+      <description>KM 304.0</description>
+      <Point><coordinates>-60.657455,-32.930777</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Cruce Alberdi KM 3.3</name>
+      <description>KM 3.3</description>
+      <Point><coordinates>-60.671819,-32.933245</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosario Parada KM 4.1</name>
+      <description>KM 303.7 desde BS AS
+KM 4.1 desde Rosario</description>
+      <Point><coordinates>-60.678243,-32.933025</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ludueña KM 304.3</name>
+      <description>KM 304.3 desde BS AS
+KM 4.7 desde Rosario</description>
+      <Point><coordinates>-60.687192,-32.931633</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCGB Casilla 8 KM 304.9</name>
+      <description>KM 304.9 desde BS AS
+KM 5.3 desde Rosario</description>
+      <Point><coordinates>-60.693164,-32.930953</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Kilómetro 9 KM 308.1</name>
+      <description>KM 308.1 desde BS AS
+KM 8.5 desde Rosario</description>
+      <Point><coordinates>-60.724414,-32.927767</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Antartida Argentina KM 309.2</name>
+      <description>KM 309.2 desde BS AS
+KM 9.6 desde Rosario</description>
+      <Point><coordinates>-60.739102,-32.926197</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Granadero Bargas KM 311.5</name>
+      <description>KM 311.5 desde BS AS
+11.9 desde Rosario</description>
+      <Point><coordinates>-60.762795,-32.923842</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Aero Club Rosario KM 313.3</name>
+      <description>KM 313.3 desde BS AS
+KM 13.7 desade Rosario</description>
+      <Point><coordinates>-60.782047,-32.921700</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Funes KM 316.0</name>
+      <description>KM 316.0 desde BS AS
+KM 16.4 desde Rosario</description>
+      <Point><coordinates>-60.810619,-32.916811</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Roldán KM 325.2</name>
+      <description>KM 325.2 desde BS AS
+KM 25.6 desde Rosario</description>
+      <Point><coordinates>-60.907203,-32.899782</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Gerónimo KM 336.3</name>
+      <description>KM 336.3 desde BS AS
+KM 36.7 desde Rosario</description>
+      <Point><coordinates>-61.022860,-32.879244</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Carcarañá KM 343.2</name>
+      <description>KM 343.2 desde BsAs
+KM 43.6 desde Rosario</description>
+      <Point><coordinates>-61.147136,-32.857103</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Kilómetro 49 KM 349.0</name>
+      <description>KM 349.0 desde Bs As
+KM 49.4 desde Rosario</description>
+      <Point><coordinates>-61.214401,-32.849713</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Correa KM 353.1</name>
+      <description>KM 353.1
+KM 53.5 desde Rosario</description>
+      <Point><coordinates>-61.252206,-32.846628</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cañada de Gomez KM 72.1</name>
+      <description>KM 72.1</description>
+      <Point><coordinates>-61.394467,-32.822461</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

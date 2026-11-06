@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal P1: La Plata - Avellaneda</name>
+    <description>Ramal P1: La Plata - Avellaneda. Dibujado por:
+Gino Nuñez
+Con actualizaciones de Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Línea P1 - Avellaneda - La Plata</name>
+      <LineString>
+        <coordinates>
+          -57.964266,-34.945509
+          -57.964370,-34.945414
+          -57.966499,-34.943826
+          -57.966997,-34.943453
+          -57.967427,-34.943056
+          -57.968487,-34.942106
+          -57.969119,-34.941595
+          -57.969844,-34.941083
+          -57.971061,-34.940168
+          -57.990706,-34.925510
+          -57.992832,-34.924020
+          -57.993568,-34.923574
+          -57.994164,-34.923272
+          -57.996612,-34.922039
+          -58.000703,-34.920187
+          -58.006053,-34.917518
+          -58.007145,-34.916991
+          -58.007891,-34.916648
+          -58.008297,-34.916475
+          -58.008609,-34.916328
+          -58.008968,-34.916166
+          -58.009473,-34.915977
+          -58.009910,-34.915854
+          -58.011057,-34.915515
+          -58.036664,-34.909667
+          -58.045595,-34.907546
+          -58.063094,-34.903473
+          -58.094224,-34.896165
+          -58.121593,-34.889698
+          -58.131986,-34.887300
+          -58.175698,-34.876990
+          -58.176447,-34.876818
+          -58.177033,-34.876639
+          -58.177586,-34.876435
+          -58.178102,-34.876215
+          -58.178561,-34.875997
+          -58.179003,-34.875763
+          -58.179546,-34.875464
+          -58.180019,-34.875155
+          -58.180418,-34.874879
+          -58.185367,-34.870933
+          -58.191523,-34.866211
+          -58.198418,-34.860786
+          -58.209634,-34.851959
+          -58.210385,-34.851384
+          -58.211055,-34.850865
+          -58.211896,-34.850141
+          -58.218088,-34.844078
+          -58.218294,-34.843871
+          -58.218794,-34.843323
+          -58.219131,-34.842971
+          -58.219581,-34.842551
+          -58.220046,-34.842187
+          -58.220539,-34.841805
+          -58.232853,-34.832847
+          -58.238309,-34.828867
+          -58.238516,-34.828705
+          -58.238732,-34.828507
+          -58.239315,-34.827853
+          -58.239795,-34.827219
+          -58.240390,-34.826383
+          -58.240670,-34.825963
+          -58.251554,-34.807206
+          -58.251757,-34.806902
+          -58.252062,-34.806443
+          -58.252237,-34.806227
+          -58.252543,-34.805872
+          -58.252907,-34.805501
+          -58.253338,-34.805090
+          -58.253744,-34.804721
+          -58.254237,-34.804315
+          -58.254427,-34.804169
+          -58.254781,-34.803939
+          -58.255077,-34.803787
+          -58.255381,-34.803673
+          -58.255996,-34.803482
+          -58.259939,-34.802219
+          -58.270711,-34.798612
+          -58.278566,-34.795948
+          -58.280647,-34.795181
+          -58.282613,-34.794543
+          -58.299143,-34.788911
+          -58.308738,-34.785636
+          -58.309826,-34.785272
+          -58.310871,-34.784893
+          -58.311325,-34.784727
+          -58.312021,-34.784459
+          -58.312651,-34.784205
+          -58.313178,-34.783960
+          -58.313558,-34.783759
+          -58.313844,-34.783603
+          -58.314227,-34.783395
+          -58.314725,-34.783067
+          -58.315001,-34.782869
+          -58.315333,-34.782603
+          -58.315604,-34.782378
+          -58.317222,-34.780757
+          -58.324530,-34.773609
+          -58.328234,-34.770000
+          -58.337044,-34.761435
+          -58.338598,-34.759979
+          -58.339419,-34.759058
+          -58.339917,-34.758521
+          -58.340217,-34.758134
+          -58.340457,-34.757777
+          -58.340878,-34.757037
+          -58.341077,-34.756685
+          -58.341330,-34.756021
+          -58.342736,-34.752071
+          -58.348822,-34.735592
+          -58.351896,-34.727093
+          -58.355311,-34.718208
+          -58.355934,-34.716488
+          -58.356211,-34.715703
+          -58.356515,-34.714866
+          -58.356601,-34.714506
+          -58.356753,-34.713676
+          -58.356790,-34.713305
+          -58.356916,-34.712458
+          -58.358203,-34.703615
+          -58.358937,-34.698828
+          -58.359914,-34.692323
+          -58.361230,-34.683422
+          -58.362339,-34.674378
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Talleres Gamber KM 8.6</name>
+      <description>KM 8.6</description>
+      <Point><coordinates>-57.970558,-34.940489</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gambier (FCGB-P) KM 9.1</name>
+      <description>KM 9.1</description>
+      <Point><coordinates>-57.974575,-34.937527</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Cumbre (Ap) KM 11.5</name>
+      <description>KM 11.5</description>
+      <Point><coordinates>-57.994605,-34.923070</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gorina KM 16.5</name>
+      <description>KM 16.5</description>
+      <Point><coordinates>-58.040763,-34.908687</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Seguí KM 24.0</name>
+      <description>KM 24.0</description>
+      <Point><coordinates>-58.126886,-34.888523</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Pato (Ap) KM 28.5</name>
+      <description>KM 28.5</description>
+      <Point><coordinates>-58.172612,-34.877760</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ingeniero Juan Allan KM 30.3</name>
+      <description>KM 30.3</description>
+      <Point><coordinates>-58.188519,-34.868519</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 36 (Ap)  KM 36.0</name>
+      <description>KM 36.0</description>
+      <Point><coordinates>-58.233598,-34.832335</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 40 (Ap) KM 40.0</name>
+      <description>KM 40.0</description>
+      <Point><coordinates>-58.257453,-34.803015</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gobernador Monteverde KM 41.7</name>
+      <description>KM 41.7</description>
+      <Point><coordinates>-58.274597,-34.797293</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Francisco Solano KM 46.139</name>
+      <description>KM 46.139</description>
+      <Point><coordinates>-58.316651,-34.781334</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pasco (Ap) KM 50.2</name>
+      <description>KM 50.2</description>
+      <Point><coordinates>-58.343010,-34.751341</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Monte Chingolo KM 52.5</name>
+      <description>KM 53.5</description>
+      <Point><coordinates>-58.350344,-34.731382</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fernandez (Ap) KM 54.0</name>
+      <description>KM 54.0</description>
+      <Point><coordinates>-58.356086,-34.716065</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Mercado de Hacienda KM 57.35</name>
+      <description>KM 57.7</description>
+      <Point><coordinates>-58.360850,-34.686000</coordinates></Point>
+    </Placemark>
+    <Folder>
+      <name>Línea P: Empalme a Puerto y Desvío a Mercado de Hacienda</name>
+      <Placemark>
+        <name>Línea P: Empalme a Puerto y Desvío a Mercado de Hacienda</name>
+        <LineString>
+          <coordinates>
+            -58.360850,-34.686002
+            -58.360882,-34.685887
+            -58.361051,-34.685401
+            -58.361243,-34.684941
+            -58.361572,-34.684245
+            -58.362016,-34.683653
+            -58.362377,-34.683256
+            -58.367376,-34.679184
+            -58.370297,-34.676821
+            -58.370596,-34.676505
+            -58.371905,-34.675210
+            -58.372060,-34.674906
+            -58.372095,-34.674629
+            -58.372066,-34.674320
+            -58.371940,-34.674044
+            -58.371715,-34.673811
+            -58.370989,-34.673282
+            -58.370358,-34.672968
+            -58.369492,-34.672400
+            -58.368637,-34.672024
+            -58.367919,-34.671655
+            -58.367049,-34.671230
+            -58.366553,-34.670996
+            -58.365818,-34.670616
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Folder>
+        <name>Línea P: Desvío a Mercado de Hacienda</name>
+        <Placemark>
+          <name>Línea P: Desvío a Mercado de Hacienda</name>
+          <LineString>
+            <coordinates>
+              -58.367555,-34.679035
+              -58.368152,-34.678272
+              -58.370121,-34.676687
+            </coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Línea P: Desvío a Mercado de Hacienda</name>
+          <LineString>
+            <coordinates>
+              -58.367556,-34.679015
+              -58.367698,-34.678612
+              -58.368231,-34.677918
+              -58.369933,-34.676516
+            </coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Línea P: Desvío a Mercado de Hacienda</name>
+          <LineString>
+            <coordinates>
+              -58.367578,-34.678856
+              -58.367616,-34.678533
+              -58.367705,-34.678209
+              -58.368049,-34.677806
+              -58.368524,-34.677325
+              -58.369719,-34.676339
+            </coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+    </Folder>
+    <Placemark>
+      <name>Avellaneda KM 58.65</name>
+      <description>KM 58.65</description>
+      <Point><coordinates>-58.362341,-34.674369</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Avellaneda</name>
+      <LineString>
+        <coordinates>
+          -58.361770,-34.680115
+          -58.362163,-34.679562
+          -58.362396,-34.679198
+          -58.362678,-34.678694
+          -58.362892,-34.678239
+          -58.363169,-34.677619
+          -58.363359,-34.676914
+          -58.363534,-34.675324
+          -58.363252,-34.675321
+          -58.363046,-34.677119
+          -58.362826,-34.677961
+          -58.362318,-34.679349
+          -58.362488,-34.678087
+          -58.362907,-34.675318
+          -58.362592,-34.675303
+          -58.362361,-34.677400
+          -58.362092,-34.679302
+          -58.361739,-34.680236
+          -58.361832,-34.679564
+          -58.361965,-34.677657
+          -58.362162,-34.675633
+          -58.362315,-34.674428
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

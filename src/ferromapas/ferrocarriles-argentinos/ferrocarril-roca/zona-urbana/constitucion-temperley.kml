@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Constitución - Temperley</name>
+    <description>Constitución - Temperley. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Constitución - Gerli</name>
+      <LineString>
+        <coordinates>
+          -58.381131,-34.630736
+          -58.381085,-34.631235
+          -58.380960,-34.631785
+          -58.380858,-34.632490
+          -58.380825,-34.632865
+          -58.380786,-34.633477
+          -58.380748,-34.635909
+          -58.380634,-34.637518
+          -58.380639,-34.638405
+          -58.380691,-34.639880
+          -58.380738,-34.641143
+          -58.380780,-34.642518
+          -58.380839,-34.643929
+          -58.380851,-34.644445
+          -58.380815,-34.645268
+          -58.380761,-34.645936
+          -58.380654,-34.646549
+          -58.380493,-34.647256
+          -58.380306,-34.648060
+          -58.380087,-34.648982
+          -58.379886,-34.649750
+          -58.379731,-34.650438
+          -58.379447,-34.651599
+          -58.379187,-34.652766
+          -58.379063,-34.653426
+          -58.378962,-34.653841
+          -58.378840,-34.654255
+          -58.378574,-34.655103
+          -58.377892,-34.657401
+          -58.377588,-34.658717
+          -58.377294,-34.659916
+          -58.376948,-34.661190
+          -58.376524,-34.662885
+          -58.376203,-34.664162
+          -58.376076,-34.664778
+          -58.375988,-34.665252
+          -58.375961,-34.665696
+          -58.375952,-34.666209
+          -58.375988,-34.666621
+          -58.376039,-34.667062
+          -58.376136,-34.667487
+          -58.376290,-34.668011
+          -58.376652,-34.669072
+          -58.377103,-34.670317
+          -58.377875,-34.672451
+          -58.378392,-34.673974
+          -58.379367,-34.676804
+          -58.380314,-34.679566
+          -58.381157,-34.681862
+          -58.382972,-34.686791
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Gerli - Temperley</name>
+      <LineString>
+        <coordinates>
+          -58.382967,-34.686746
+          -58.384509,-34.690992
+          -58.385887,-34.694441
+          -58.387210,-34.698086
+          -58.388378,-34.701158
+          -58.389681,-34.704664
+          -58.390137,-34.705865
+          -58.390932,-34.707983
+          -58.391407,-34.709583
+          -58.391766,-34.710984
+          -58.391942,-34.711807
+          -58.392084,-34.712754
+          -58.392203,-34.713500
+          -58.392284,-34.714376
+          -58.392364,-34.715172
+          -58.392550,-34.716890
+          -58.392709,-34.718205
+          -58.393004,-34.720722
+          -58.393205,-34.722408
+          -58.393300,-34.723449
+          -58.393446,-34.724693
+          -58.393664,-34.726589
+          -58.393929,-34.728978
+          -58.394070,-34.730516
+          -58.394193,-34.731905
+          -58.394325,-34.733296
+          -58.394467,-34.734572
+          -58.394611,-34.736081
+          -58.394853,-34.738382
+          -58.394970,-34.739323
+          -58.395105,-34.740549
+          -58.395366,-34.742396
+          -58.395571,-34.743984
+          -58.395663,-34.745459
+          -58.395774,-34.747094
+          -58.396000,-34.748848
+          -58.396143,-34.750137
+          -58.396262,-34.751311
+          -58.396398,-34.752492
+          -58.396587,-34.754378
+          -58.396735,-34.755632
+          -58.397102,-34.758808
+          -58.397222,-34.759568
+          -58.397367,-34.760410
+          -58.397460,-34.761040
+          -58.397499,-34.761678
+          -58.397538,-34.762507
+          -58.397609,-34.764065
+          -58.397616,-34.764986
+          -58.397626,-34.765986
+          -58.397585,-34.766888
+          -58.397527,-34.767592
+          -58.397456,-34.768149
+          -58.397394,-34.768752
+          -58.397296,-34.769640
+          -58.397156,-34.770965
+          -58.396938,-34.773009
+          -58.396711,-34.774420
+          -58.396600,-34.775260
+          -58.396462,-34.776395
+          -58.396325,-34.777650
+          -58.396269,-34.778503
+          -58.396227,-34.779197
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Plaza Constitución KM 0.0</name>
+      <description>KM 0.0</description>
+      <Point><coordinates>-58.380358,-34.629008</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hipólito Yrigoyen KM 2.8</name>
+      <description>KM 2.8</description>
+      <Point><coordinates>-58.378717,-34.653572</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Avellaneda KM 3.8</name>
+      <description>KM 3.8</description>
+      <Point><coordinates>-58.376497,-34.661958</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kilómetro 5 KM 5.6</name>
+      <description>KM 5.6</description>
+      <Point><coordinates>-58.379936,-34.678665</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gerli KM 6.5</name>
+      <description>KM 6.5</description>
+      <Point><coordinates>-58.382775,-34.685933</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabina Kilómetro 7.5 KM 7.5</name>
+      <description>KM 7.5</description>
+      <Point><coordinates>-58.385861,-34.694092</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lanús KM 9.0</name>
+      <description>KM 9.0</description>
+      <Point><coordinates>-58.390764,-34.707261</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Talleres KM 10.4</name>
+      <description>KM 10.4</description>
+      <Point><coordinates>-58.392731,-34.719208</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Remedios de Escalada KM 11.2</name>
+      <description>KM 11.2</description>
+      <Point><coordinates>-58.393603,-34.726803</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Talleres KM 12.0</name>
+      <description>KM 12.0</description>
+      <Point><coordinates>-58.394153,-34.733181</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Banfield KM 13.0</name>
+      <description>KM 13.0</description>
+      <Point><coordinates>-58.395679,-34.743427</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lomas de Zamora KM 15.0</name>
+      <description>KM 15.0</description>
+      <Point><coordinates>-58.397556,-34.760617</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Temperley KM 16.8</name>
+      <description>KM 16.8</description>
+      <Point><coordinates>-58.396680,-34.775714</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

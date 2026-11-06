@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Once - Mecha - Bragado - Pehuajó</name>
+    <Placemark>
+      <name>Caballito (Cabina Oeste) KM 4.7</name>
+      <description>KM 4.7</description>
+      <Point><coordinates>-58.453406,-34.623368</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Flores KM 5.9</name>
+      <description>KM 5.9</description>
+      <Point><coordinates>-58.465690,-34.627700</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Floresta KM 7.3</name>
+      <description>KM 7.3</description>
+      <Point><coordinates>-58.480037,-34.632095</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Luro KM 9.3</name>
+      <description>KM 9.3</description>
+      <Point><coordinates>-58.500969,-34.636124</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

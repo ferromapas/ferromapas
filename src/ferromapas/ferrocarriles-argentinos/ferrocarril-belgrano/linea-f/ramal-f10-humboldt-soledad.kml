@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal F10: Humboldt - Soledad</name>
+    <description>Ramal F10: Humboldt - Soledad. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Línea F10 - Humboldt - Soledad</name>
+      <LineString>
+        <coordinates>
+          -61.090397,-31.420514
+          -61.091386,-31.420244
+          -61.091873,-31.420059
+          -61.092918,-31.419599
+          -61.093324,-31.419407
+          -61.093701,-31.419202
+          -61.094023,-31.418999
+          -61.094580,-31.418610
+          -61.095131,-31.418209
+          -61.095550,-31.417836
+          -61.096036,-31.417338
+          -61.096320,-31.417011
+          -61.096692,-31.416565
+          -61.096969,-31.416204
+          -61.097150,-31.415900
+          -61.097310,-31.415607
+          -61.097559,-31.415141
+          -61.097672,-31.414865
+          -61.097818,-31.414472
+          -61.097968,-31.414067
+          -61.098119,-31.413468
+          -61.098188,-31.413123
+          -61.098233,-31.412651
+          -61.098253,-31.412151
+          -61.098245,-31.411661
+          -61.098208,-31.411215
+          -61.098161,-31.410670
+          -61.098069,-31.410189
+          -61.097981,-31.409796
+          -61.097806,-31.409093
+          -61.097591,-31.408210
+          -61.071146,-31.311501
+          -61.071007,-31.310838
+          -61.070892,-31.310346
+          -61.070806,-31.309417
+          -61.070797,-31.309071
+          -61.070294,-31.276684
+          -61.070161,-31.275400
+          -61.066349,-31.258051
+          -61.040946,-31.152144
+          -61.033964,-31.123396
+          -61.000872,-30.983751
+          -60.988387,-30.930370
+          -60.972701,-30.864089
+          -60.966581,-30.838090
+          -60.966513,-30.837735
+          -60.966445,-30.837154
+          -60.966435,-30.836509
+          -60.966475,-30.835908
+          -60.966532,-30.835384
+          -60.966686,-30.834657
+          -60.966868,-30.834088
+          -60.967180,-30.833348
+          -60.967459,-30.832740
+          -60.967831,-30.832159
+          -60.968257,-30.831565
+          -60.968610,-30.831165
+          -60.969162,-30.830586
+          -60.993433,-30.804038
+          -60.994045,-30.803325
+          -60.994525,-30.802619
+          -60.994861,-30.801927
+          -60.995171,-30.801290
+          -60.995381,-30.800575
+          -60.995530,-30.799873
+          -60.995650,-30.799126
+          -60.995699,-30.798223
+          -60.995625,-30.797237
+          -60.994158,-30.778265
+          -60.994016,-30.777340
+          -60.993750,-30.776423
+          -60.993463,-30.775703
+          -60.992901,-30.774686
+          -60.992162,-30.773483
+          -60.931998,-30.679158
+          -60.931461,-30.678217
+          -60.931142,-30.677061
+          -60.930912,-30.675848
+          -60.917290,-30.615690
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Grülty KM 64.9</name>
+      <description>KM 64.9</description>
+      <Point><coordinates>-61.067338,-31.262617</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCGMB A / F10 KM 83.8 (A) / KM 79.5 (F10)</name>
+      <description>Línea A: KM 83.8
+Ramal F10: KM 79.5</description>
+      <Point><coordinates>-61.036372,-31.133318</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hipatia KM 80.8</name>
+      <description>KM 80.8</description>
+      <Point><coordinates>-61.034600,-31.126031</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Providencia KM 96.1</name>
+      <description>KM 96.1</description>
+      <Point><coordinates>-61.001387,-30.985988</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Pelada KM 109.5 (F10) / KM 98.5 (F13)</name>
+      <description>Ramal F10: KM 109.5
+Ramal F13: KM 98.5</description>
+      <Point><coordinates>-60.973549,-30.867672</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Jacinto Arauz KM 126.5</name>
+      <description>KM 126.5</description>
+      <Point><coordinates>-60.964348,-30.729858</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Soledad KM 139.9</name>
+      <description>KM 139.9</description>
+      <Point><coordinates>-60.917832,-30.618031</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

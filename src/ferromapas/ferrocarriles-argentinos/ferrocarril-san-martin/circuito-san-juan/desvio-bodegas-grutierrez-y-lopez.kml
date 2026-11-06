@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvío Bodegas Grutiérrez y López</name>
+    <Placemark>
+      <name>Desvío Bodegas Grutiérrez y López</name>
+      <LineString>
+        <coordinates>
+          -68.537930,-31.516663
+          -68.536945,-31.516391
+          -68.536435,-31.516260
+          -68.536036,-31.516244
+          -68.535513,-31.516333
+          -68.535093,-31.516585
+          -68.534413,-31.518533
+          -68.533993,-31.519991
+          -68.533687,-31.520932
+          -68.533546,-31.521542
+          -68.533547,-31.521881
+          -68.533556,-31.522199
+          -68.533612,-31.522490
+          -68.533697,-31.522798
+          -68.533799,-31.523023
+          -68.533953,-31.523285
+          -68.534256,-31.523657
+          -68.534664,-31.524032
+          -68.534924,-31.524223
+          -68.535234,-31.524371
+          -68.535566,-31.524470
+          -68.536093,-31.524564
+          -68.538568,-31.524784
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bodegas Gutiérrez</name>
+      <Point><coordinates>-68.536793,-31.524798</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Bodegas Grutiérrez y López</name>
+      <LineString>
+        <coordinates>
+          -68.533622,-31.522581
+          -68.533706,-31.522896
+          -68.533750,-31.523351
+          -68.533755,-31.523754
+          -68.533697,-31.524123
+          -68.533627,-31.524616
+          -68.533333,-31.526316
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bodegas López Pelaez</name>
+      <Point><coordinates>-68.533408,-31.525901</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Lincoln - Realicó</name>
+    <description>Colonia Alvear - Carmensa. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Lincoln - Realicó</name>
+      <LineString>
+        <coordinates>
+          -61.522582,-34.858823
+          -61.530467,-34.852363
+          -61.530854,-34.852065
+          -61.531237,-34.851811
+          -61.531712,-34.851529
+          -61.532180,-34.851310
+          -61.532799,-34.851064
+          -61.533390,-34.850882
+          -61.533821,-34.850768
+          -61.534301,-34.850693
+          -61.534947,-34.850635
+          -61.571915,-34.849796
+          -61.572988,-34.849773
+          -61.573641,-34.849722
+          -61.574233,-34.849649
+          -61.574787,-34.849558
+          -61.575358,-34.849432
+          -61.575915,-34.849300
+          -61.576724,-34.849035
+          -61.577475,-34.848741
+          -61.578179,-34.848396
+          -61.578967,-34.847970
+          -61.579877,-34.847322
+          -61.589412,-34.839638
+          -61.610082,-34.822830
+          -61.610994,-34.822102
+          -61.611716,-34.821580
+          -61.612452,-34.821113
+          -61.612935,-34.820821
+          -61.613629,-34.820436
+          -61.614810,-34.819842
+          -61.615505,-34.819526
+          -61.616715,-34.819033
+          -61.617784,-34.818678
+          -61.618844,-34.818360
+          -61.619983,-34.818084
+          -61.621123,-34.817859
+          -61.652456,-34.813060
+          -61.783668,-34.792640
+          -61.808848,-34.788736
+          -61.811025,-34.788406
+          -61.812527,-34.788166
+          -61.813978,-34.787856
+          -61.815213,-34.787530
+          -61.816557,-34.787098
+          -61.817994,-34.786531
+          -61.819048,-34.786076
+          -61.841011,-34.776550
+          -61.842199,-34.776041
+          -61.843529,-34.775547
+          -61.844725,-34.775181
+          -61.845891,-34.774889
+          -61.847208,-34.774608
+          -61.848170,-34.774459
+          -61.849452,-34.774311
+          -61.887066,-34.770918
+          -61.923320,-34.767635
+          -61.925186,-34.767471
+          -61.925860,-34.767425
+          -61.926405,-34.767403
+          -61.927070,-34.767393
+          -61.928120,-34.767415
+          -61.929196,-34.767465
+          -61.930272,-34.767539
+          -62.066022,-34.775385
+          -62.175968,-34.781516
+          -62.177713,-34.781633
+          -62.179161,-34.781815
+          -62.180614,-34.782071
+          -62.183019,-34.782636
+          -62.208269,-34.788653
+          -62.333109,-34.818184
+          -62.465178,-34.849220
+          -62.629796,-34.887769
+          -62.761573,-34.918340
+          -62.905050,-34.951427
+          -62.924799,-34.955960
+          -62.927604,-34.956593
+          -62.929267,-34.957068
+          -62.930618,-34.957525
+          -62.931906,-34.958064
+          -62.933294,-34.958739
+          -62.934466,-34.959419
+          -62.935878,-34.960373
+          -62.937345,-34.961520
+          -63.017026,-35.026658
+          -63.043160,-35.048003
+          -63.044741,-35.049286
+          -63.045816,-35.050070
+          -63.046592,-35.050581
+          -63.047392,-35.051058
+          -63.048627,-35.051737
+          -63.050067,-35.052405
+          -63.051986,-35.053140
+          -63.053645,-35.053637
+          -63.055107,-35.054001
+          -63.056658,-35.054264
+          -63.058569,-35.054490
+          -63.060222,-35.054590
+          -63.061607,-35.054577
+          -63.062739,-35.054534
+          -63.064123,-35.054422
+          -63.065820,-35.054176
+          -63.118009,-35.046792
+          -63.370763,-35.010498
+          -63.385614,-35.008347
+          -63.386750,-35.008204
+          -63.387664,-35.008122
+          -63.388698,-35.008067
+          -63.389758,-35.008069
+          -63.391101,-35.008102
+          -63.392371,-35.008209
+          -63.393656,-35.008373
+          -63.395144,-35.008659
+          -63.396660,-35.008996
+          -63.417152,-35.013501
+          -63.418120,-35.013705
+          -63.418984,-35.013845
+          -63.420097,-35.013983
+          -63.421545,-35.014091
+          -63.543572,-35.020960
+          -63.546336,-35.021107
+          -63.548099,-35.021176
+          -63.550590,-35.021233
+          -63.575505,-35.021703
+          -63.680685,-35.023610
+          -63.716762,-35.024243
+          -63.719468,-35.024283
+          -63.721211,-35.024283
+          -63.722623,-35.024221
+          -63.724469,-35.024136
+          -63.775755,-35.021611
+          -63.777871,-35.021520
+          -63.779649,-35.021499
+          -63.780963,-35.021500
+          -63.805462,-35.021370
+          -63.904001,-35.020801
+          -64.027915,-35.020147
+          -64.121105,-35.019466
+          -64.124314,-35.019454
+          -64.126137,-35.019528
+          -64.127914,-35.019682
+          -64.129726,-35.019898
+          -64.249141,-35.033785
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Lincoln KM 312.5</name>
+      <description>KM 312.5</description>
+      <Point><coordinates>-61.523089,-34.858412</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Balsa (emb.) KM 326.6</name>
+      <description>KM 326.6</description>
+      <Point><coordinates>-61.658341,-34.812149</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dussaud KM 337.7</name>
+      <description>KM 337.7</description>
+      <Point><coordinates>-61.778678,-34.793462</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>General Pinto KM 348.5</name>
+      <description>KM 348.5</description>
+      <Point><coordinates>-61.891817,-34.770493</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pazos Kanki KM 364.1</name>
+      <description>KM 364.1</description>
+      <Point><coordinates>-62.061178,-34.775051</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coronel Granada KM 377.3</name>
+      <description>KM 377.3</description>
+      <Point><coordinates>-62.204587,-34.787754</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Coronel Granada</name>
+      <LineString>
+        <coordinates>
+          -62.198371,-34.786273
+          -62.198078,-34.786166
+          -62.197812,-34.786095
+          -62.197532,-34.785994
+          -62.197343,-34.785904
+          -62.197183,-34.785803
+          -62.197088,-34.785725
+          -62.196902,-34.785536
+          -62.196749,-34.785347
+          -62.196624,-34.785062
+          -62.196440,-34.784406
+          -62.196225,-34.782970
+          -62.196218,-34.782965
+          -62.196163,-34.782684
+          -62.196087,-34.782497
+          -62.196013,-34.782348
+          -62.195151,-34.781204
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Eduardo Costa KM 389.8</name>
+      <description>KM 389.8</description>
+      <Point><coordinates>-62.336053,-34.818893</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ameghino KM 402.4</name>
+      <description>KM 402.4</description>
+      <Point><coordinates>-62.468034,-34.849868</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Volta KM 418.4</name>
+      <description>KM 418.4</description>
+      <Point><coordinates>-62.636300,-34.889266</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Drabble KM 430.5</name>
+      <description>KM 430.5</description>
+      <Point><coordinates>-62.764487,-34.918993</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Moores KM 444.6</name>
+      <description>KM 444.6</description>
+      <Point><coordinates>-62.912986,-34.953243</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Villegas</name>
+      <LineString>
+        <coordinates>
+          -62.987748,-35.002747
+          -62.987312,-35.002525
+          -62.987071,-35.002442
+          -62.986752,-35.002377
+          -62.986596,-35.002353
+          -62.986413,-35.002346
+          -62.986215,-35.002339
+          -62.985907,-35.002384
+          -62.985636,-35.002446
+          -62.985298,-35.002577
+          -62.984970,-35.002764
+          -62.976181,-35.009909
+          -62.976595,-35.009599
+          -62.976856,-35.009427
+          -62.977233,-35.009168
+          -62.984036,-35.003593
+          -62.984489,-35.003197
+          -62.984577,-35.003093
+          -62.983878,-35.003843
+          -62.983616,-35.004025
+          -62.977835,-35.008783
+          -62.977551,-35.008999
+          -62.977173,-35.009216
+          -62.977732,-35.008925
+          -62.983588,-35.004179
+          -62.984031,-35.003682
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>General Villegas (FCDFS) KM 457.7</name>
+      <description>KM 457.7</description>
+      <Point><coordinates>-63.019696,-35.028851</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Elordi KM 468.1</name>
+      <description>KM 468.1</description>
+      <Point><coordinates>-63.121749,-35.046276</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Banderaló KM 491.6</name>
+      <description>KM 491.6</description>
+      <Point><coordinates>-63.374559,-35.009956</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bernardo Larroudé KM 510.6</name>
+      <description>KM 510.6</description>
+      <Point><coordinates>-63.582176,-35.021817</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sarah KM 520.4</name>
+      <description>KM 520.4</description>
+      <Point><coordinates>-63.688933,-35.023767</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mariano Miró KM 531.6</name>
+      <description>KM 531.6</description>
+      <Point><coordinates>-63.812204,-35.021354</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coronel Hilario Lagos KM 540.2</name>
+      <description>KM 540.2</description>
+      <Point><coordinates>-63.912326,-35.020775</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>A Van Praet KM 551.9</name>
+      <description>KM 551.9</description>
+      <Point><coordinates>-64.034663,-35.020072</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Realicó KM 571.3</name>
+      <description>KM 571.3</description>
+      <Point><coordinates>-64.246212,-35.033457</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío</name>
+      <LineString>
+        <coordinates>
+          -61.589404,-34.839640
+          -61.589792,-34.839281
+          -61.590114,-34.838928
+          -61.590276,-34.838710
+          -61.590602,-34.838300
+          -61.592826,-34.835525
+          -61.593722,-34.834355
+          -61.594548,-34.833280
+          -61.594983,-34.832785
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío</name>
+      <LineString>
+        <coordinates>
+          -61.590324,-34.838651
+          -61.590602,-34.838244
+          -61.593885,-34.834085
+          -61.594548,-34.833213
+          -61.594935,-34.832768
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío</name>
+      <LineString>
+        <coordinates>
+          -63.908678,-35.020773
+          -63.907783,-35.020821
+          -63.907268,-35.020872
+          -63.906922,-35.020960
+          -63.906619,-35.021070
+          -63.906359,-35.021193
+          -63.906054,-35.021442
+          -63.905913,-35.021611
+          -63.905799,-35.021789
+          -63.905620,-35.022130
+          -63.905545,-35.022233
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

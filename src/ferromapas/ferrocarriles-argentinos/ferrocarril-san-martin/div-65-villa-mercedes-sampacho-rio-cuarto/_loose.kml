@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 65: Villa Mercedes - Sampacho - Río Cuarto</name>
+    <Placemark>
+      <name>Div 65: Villa Mercedes - Sampacho - Río Cuarto</name>
+      <LineString>
+        <coordinates>
+          -65.454048,-33.659772
+          -65.447670,-33.657508
+          -65.436473,-33.653601
+          -65.430627,-33.651570
+          -65.429328,-33.651150
+          -65.420511,-33.649083
+          -65.357584,-33.634478
+          -65.278203,-33.616159
+          -65.269100,-33.614049
+          -65.261284,-33.612249
+          -65.212499,-33.600912
+          -65.211679,-33.600709
+          -65.211217,-33.600626
+          -65.210919,-33.600582
+          -65.210441,-33.600517
+          -65.210056,-33.600484
+          -65.209492,-33.600455
+          -65.208439,-33.600482
+          -65.207575,-33.600556
+          -65.207083,-33.600622
+          -65.205957,-33.600829
+          -65.204934,-33.601075
+          -65.191844,-33.604134
+          -65.191400,-33.604242
+          -65.190631,-33.604379
+          -65.189477,-33.604568
+          -65.187929,-33.604727
+          -65.184162,-33.605067
+          -65.183091,-33.605103
+          -65.182074,-33.605095
+          -65.181183,-33.605063
+          -65.180509,-33.604994
+          -65.179784,-33.604895
+          -65.178382,-33.604637
+          -65.177569,-33.604447
+          -65.176978,-33.604264
+          -65.175746,-33.603839
+          -65.175046,-33.603531
+          -65.174347,-33.603196
+          -65.173509,-33.602766
+          -65.173121,-33.602532
+          -65.172184,-33.601939
+          -65.171563,-33.601464
+          -65.170720,-33.600755
+          -65.170048,-33.600154
+          -65.169310,-33.599341
+          -65.168731,-33.598614
+          -65.167865,-33.597329
+          -65.167166,-33.596184
+          -65.166568,-33.595186
+          -65.166335,-33.594785
+          -65.166042,-33.594346
+          -65.165746,-33.594006
+          -65.165327,-33.593517
+          -65.164838,-33.593040
+          -65.164322,-33.592584
+          -65.163438,-33.591980
+          -65.163038,-33.591733
+          -65.162577,-33.591477
+          -65.161970,-33.591181
+          -65.161076,-33.590818
+          -65.160454,-33.590609
+          -65.159674,-33.590394
+          -65.158523,-33.590159
+          -65.156996,-33.589990
+          -65.053820,-33.578306
+          -65.051092,-33.578005
+          -65.049323,-33.577725
+          -65.048443,-33.577492
+          -65.047140,-33.577114
+          -65.046328,-33.576849
+          -65.044972,-33.576279
+          -65.043278,-33.575460
+          -65.034081,-33.570363
+          -65.004402,-33.553572
+          -64.993379,-33.547328
+          -64.991228,-33.546123
+          -64.990468,-33.545658
+          -64.990006,-33.545368
+          -64.989295,-33.544887
+          -64.988669,-33.544443
+          -64.988067,-33.543969
+          -64.987729,-33.543670
+          -64.986114,-33.542266
+          -64.978640,-33.535628
+          -64.974625,-33.532072
+          -64.962464,-33.521300
+          -64.962067,-33.520987
+          -64.961817,-33.520771
+          -64.960600,-33.519956
+          -64.959950,-33.519542
+          -64.959320,-33.519135
+          -64.927408,-33.498536
+          -64.901658,-33.481921
+          -64.893184,-33.476500
+          -64.840131,-33.442448
+          -64.767565,-33.399360
+          -64.756899,-33.393070
+          -64.755345,-33.392122
+          -64.754421,-33.391626
+          -64.753883,-33.391349
+          -64.743951,-33.386849
+          -64.740385,-33.385244
+          -64.739791,-33.385016
+          -64.739218,-33.384825
+          -64.737426,-33.384298
+          -64.735321,-33.383666
+          -64.734613,-33.383381
+          -64.733852,-33.383034
+          -64.729655,-33.381128
+          -64.726011,-33.379436
+          -64.724840,-33.378812
+          -64.723872,-33.378274
+          -64.722695,-33.377691
+          -64.716565,-33.374439
+          -64.712753,-33.372613
+          -64.695061,-33.364680
+          -64.692974,-33.363613
+          -64.691927,-33.363061
+          -64.690044,-33.361901
+          -64.685180,-33.358625
+          -64.579946,-33.287347
+          -64.572551,-33.282345
+          -64.529547,-33.252635
+          -64.522319,-33.248064
+          -64.519657,-33.246531
+          -64.515841,-33.244426
+          -64.513182,-33.242875
+          -64.508759,-33.240804
+          -64.492933,-33.232361
+          -64.469851,-33.220094
+          -64.449745,-33.209346
+          -64.441674,-33.205126
+          -64.430632,-33.199001
+          -64.426738,-33.196929
+          -64.419073,-33.192867
+          -64.417306,-33.191732
+          -64.416831,-33.191391
+          -64.415577,-33.190388
+          -64.397339,-33.176581
+          -64.391038,-33.171847
+          -64.374582,-33.159471
+          -64.361531,-33.149569
+          -64.351831,-33.142269
+          -64.349494,-33.140453
+          -64.348703,-33.139734
+          -64.347848,-33.138946
+          -64.344412,-33.135776
+          -64.342890,-33.134382
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Sampacho KM 689,86</name>
+      <description>KM 689,86</description>
+      <Point><coordinates>-65.454006,-33.659755</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente</name>
+      <Point><coordinates>-65.261433,-33.612283</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Juan Jorba KM 17.6</name>
+      <description>KM 17.6
+Código: CJB</description>
+      <Point><coordinates>-65.272903,-33.614935</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero Las Vizcachas KM 25.1</name>
+      <description>KM 25.1</description>
+      <Point><coordinates>-65.194220,-33.603581</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente Arroyo Chaján</name>
+      <Point><coordinates>-65.034117,-33.570383</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chaján KM 44.3</name>
+      <description>KM 44.3
+Código: CCJ</description>
+      <Point><coordinates>-65.004589,-33.553678</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente Arroyo Cortaderas</name>
+      <Point><coordinates>-64.959833,-33.519467</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente</name>
+      <Point><coordinates>-64.927456,-33.498566</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Suco KM 64.9</name>
+      <description>KM 64.9
+Código: CSU</description>
+      <Point><coordinates>-64.832656,-33.438027</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente</name>
+      <Point><coordinates>-64.743970,-33.386862</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Vicuña Mackenna KM 75.9</name>
+      <description>KM 75.9</description>
+      <Point><coordinates>-64.733619,-33.382926</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sampacho KM 76.5</name>
+      <description>KM 76.5
+Código: CSP
+KM 68.7 desde Vicuña Mackenna</description>
+      <Point><coordinates>-64.728464,-33.380780</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Achiras</name>
+      <Point><coordinates>-64.723979,-33.378341</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Laboulaye KM 77.19</name>
+      <description>KM 77.19</description>
+      <Point><coordinates>-64.718962,-33.375738</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente</name>
+      <Point><coordinates>-64.685158,-33.358616</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Vertientes KM 94.2</name>
+      <description>KM 94.2</description>
+      <Point><coordinates>-64.576774,-33.285199</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente Arroyo Las Lajas</name>
+      <Point><coordinates>-64.517483,-33.245333</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Holmberg KM 110.1</name>
+      <description>KM 110.1</description>
+      <Point><coordinates>-64.436755,-33.202398</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente Arroyo Santa Catalina</name>
+      <Point><coordinates>-64.429834,-33.198580</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Arsenal KM 112.5</name>
+      <description>KM 112.5</description>
+      <Point><coordinates>-64.416483,-33.191089</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme KM 136 KM 117.9</name>
+      <description>KM 117.9</description>
+      <Point><coordinates>-64.372883,-33.158200</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Sampacho</name>
+      <Point><coordinates>-64.342891,-33.134390</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

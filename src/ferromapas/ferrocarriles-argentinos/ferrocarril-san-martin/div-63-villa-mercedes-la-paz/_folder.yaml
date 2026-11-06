@@ -1,0 +1,7 @@
+name: 'Div 63: Villa Mercedes - La Paz'
+description: "Div 63: Villa Mercedes - La Paz. Dibujado por:\nPablo Anglat\nGino Nuñez\n\nFuentes: \n- Itinerario del FCGSM de Gustavo López\n- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)\n- Algunas partes de Villa Mercedes están tomadas de la Revista Todo Trenes\n\nhttp://www.ferromapas.com.ar/\nMendoza y Buenos Aires, Argentina"
+children:
+- _loose.kml
+- cuadro-de-trafico-goa.kml
+- villa-mercedes-zal-zona-de-actividades-logisticas.kml
+- _loose-2.kml

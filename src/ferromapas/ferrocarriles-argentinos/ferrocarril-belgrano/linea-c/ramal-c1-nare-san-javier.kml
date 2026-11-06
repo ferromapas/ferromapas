@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C1: Naré - San Javier</name>
+    <description>Ramal C1: Naré - San Javier. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C1: Naré - San Javier</name>
+      <LineString>
+        <coordinates>
+          -60.466892,-30.941219
+          -60.466605,-30.940490
+          -60.466243,-30.939749
+          -60.465772,-30.938957
+          -60.465115,-30.938100
+          -60.464658,-30.937634
+          -60.463934,-30.936942
+          -60.463151,-30.936380
+          -60.462622,-30.936056
+          -60.462025,-30.935747
+          -60.461627,-30.935548
+          -60.461046,-30.935300
+          -60.459327,-30.934504
+          -60.375752,-30.895811
+          -60.370250,-30.893270
+          -60.367008,-30.891722
+          -60.366166,-30.891163
+          -60.365549,-30.890662
+          -60.364752,-30.889985
+          -60.364294,-30.889449
+          -60.363405,-30.888438
+          -60.362764,-30.887633
+          -60.362088,-30.886664
+          -60.361630,-30.886018
+          -60.361277,-30.885354
+          -60.360706,-30.884540
+          -60.327905,-30.823048
+          -60.310332,-30.790376
+          -60.283926,-30.740898
+          -60.244667,-30.668395
+          -60.242987,-30.665347
+          -60.241728,-30.663121
+          -60.241095,-30.662177
+          -60.240033,-30.661107
+          -60.238752,-30.660167
+          -60.237487,-30.659558
+          -60.235691,-30.658932
+          -60.233812,-30.658416
+          -60.226048,-30.656251
+          -60.103420,-30.622446
+          -60.050458,-30.607712
+          -59.958788,-30.582073
+          -59.957908,-30.581834
+          -59.957224,-30.581577
+          -59.956608,-30.581323
+          -59.956057,-30.581039
+          -59.954909,-30.580416
+          -59.942600,-30.573174
+          -59.942388,-30.573076
+          -59.941952,-30.572856
+          -59.941591,-30.572726
+          -59.941163,-30.572632
+          -59.940842,-30.572571
+          -59.940612,-30.572543
+          -59.940313,-30.572508
+          -59.939987,-30.572488
+          -59.939608,-30.572485
+          -59.938922,-30.572527
+          -59.937970,-30.572655
+          -59.936782,-30.572783
+          -59.935691,-30.572944
+          -59.932560,-30.573721
+          -59.925708,-30.575396
+          -59.924886,-30.575540
+          -59.924378,-30.575566
+          -59.924046,-30.575525
+          -59.923727,-30.575451
+          -59.923369,-30.575313
+          -59.922809,-30.574994
+          -59.922385,-30.574589
+          -59.921983,-30.574178
+          -59.920941,-30.573075
+          -59.920579,-30.572733
+          -59.920064,-30.572441
+          -59.918794,-30.571724
+          -59.917569,-30.571130
+          -59.915844,-30.570479
+          -59.913748,-30.569771
+          -59.912237,-30.569224
+          -59.911328,-30.568825
+          -59.910538,-30.568408
+          -59.910110,-30.568141
+          -59.909782,-30.567867
+          -59.909291,-30.567398
+          -59.908738,-30.566735
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Paikin KM 95.0</name>
+      <description>KM 95.0</description>
+      <Point><coordinates>-60.372713,-30.894413</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ñandubay (Desv Part) KM 103.6</name>
+      <description>KM 103.6</description>
+      <Point><coordinates>-60.330007,-30.826996</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Arrascaeta (Ap) KM 108.0</name>
+      <description>KM 108.0</description>
+      <Point><coordinates>-60.310549,-30.790782</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mascias (Ap) KM 114.0</name>
+      <description>KM 114.0</description>
+      <Point><coordinates>-60.284131,-30.741282</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cacique Ariacaiquin KM 125.0</name>
+      <description>KM 125.0</description>
+      <Point><coordinates>-60.229921,-30.657308</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Brava (Ap)  KM 137.0</name>
+      <description>KM 137.0</description>
+      <Point><coordinates>-60.111081,-30.624556</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Cardenales (Ap) KM 143.0</name>
+      <description>KM 143.0</description>
+      <Point><coordinates>-60.051310,-30.607943</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Javier KM 155.5</name>
+      <description>KM 155.5</description>
+      <Point><coordinates>-59.928607,-30.574693</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

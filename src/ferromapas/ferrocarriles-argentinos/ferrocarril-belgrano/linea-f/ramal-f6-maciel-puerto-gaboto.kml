@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal F6: Maciel - Puerto Gaboto</name>
+    <description>Ramal F6: Maciel - Puerto Gaboto. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal F6: Maciel - Puerto Gaboto</name>
+      <LineString>
+        <coordinates>
+          -60.889238,-32.457364
+          -60.888806,-32.459142
+          -60.888438,-32.460410
+          -60.887909,-32.460753
+          -60.886759,-32.461081
+          -60.885476,-32.461280
+          -60.884460,-32.461122
+          -60.883682,-32.460729
+          -60.849226,-32.441930
+          -60.827093,-32.425737
+          -60.825108,-32.424596
+          -60.823569,-32.424090
+          -60.822410,-32.423796
+          -60.821132,-32.423893
+          -60.817975,-32.423420
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Gaboto KM 7.7</name>
+      <description>KM 7.7</description>
+      <Point><coordinates>-60.825300,-32.424733</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

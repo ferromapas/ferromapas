@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>ExRPB</name>
+    <Placemark>
+      <name>Villa Diego KM 6.9</name>
+      <description>KM 6.9</description>
+      <Point><coordinates>-60.625633,-33.023569</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Muchachos KM 20.4</name>
+      <description>KM 20.4</description>
+      <Point><coordinates>-60.741269,-33.080423</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Erasto KM 27.8</name>
+      <description>KM 27.8</description>
+      <Point><coordinates>-60.804445,-33.109054</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Benard KM 39.0</name>
+      <description>KM 39.0</description>
+      <Point><coordinates>-60.895922,-33.174013</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Arminda KM 51.7</name>
+      <description>KM 51.7</description>
+      <Point><coordinates>-60.971752,-33.266267</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce con FCGBM KM 54.1 (FCRPB)</name>
+      <description>KM 54.1</description>
+      <Point><coordinates>-60.993916,-33.279341</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mugueta KM 61.1</name>
+      <description>KM 61.1</description>
+      <Point><coordinates>-61.058086,-33.309933</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bigand KM 74.9</name>
+      <description>KM 74.9</description>
+      <Point><coordinates>-61.182045,-33.378017</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bombal KM 90.4</name>
+      <description>KM 90.4</description>
+      <Point><coordinates>-61.321393,-33.454262</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Miguel Torres (Cora) KM 106.1</name>
+      <description>KM 106.1</description>
+      <Point><coordinates>-61.464252,-33.529458</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce con FCGBM (Casilda - San Urbano) KM 107.9 (FCRPB)</name>
+      <description>KM 107.9</description>
+      <Point><coordinates>-61.481912,-33.535315</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chovet KM 121.7</name>
+      <description>KM 121.7</description>
+      <Point><coordinates>-61.602508,-33.599132</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Jardin KM 134.7</name>
+      <description>KM 134.7</description>
+      <Point><coordinates>-61.687843,-33.693421</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce con FCGBM (V. Constitución - V. Tuerto) KM 137.4</name>
+      <description>KM 137.4</description>
+      <Point><coordinates>-61.689838,-33.715860</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chapuy KM 148.2</name>
+      <description>KM 148.2</description>
+      <Point><coordinates>-61.747428,-33.798401</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Runciman KM 161.6</name>
+      <description>KM 161.6</description>
+      <Point><coordinates>-61.827695,-33.898419</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>María Teresa KM 176.2</name>
+      <description>KM 176.2</description>
+      <Point><coordinates>-61.910351,-34.010623</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Christophersen KM  198.5</name>
+      <description>KM 198.5</description>
+      <Point><coordinates>-62.021488,-34.183146</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Gregorio KM 214.5</name>
+      <description>KM 214.5</description>
+      <Point><coordinates>-62.049175,-34.324892</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dos Hermanos KM 230.66</name>
+      <description>KM 230.66</description>
+      <Point><coordinates>-62.093259,-34.472988</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Peregrino KM 244.7</name>
+      <description>KM 244.7</description>
+      <Point><coordinates>-62.121854,-34.597377</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Callejones KM 263.261</name>
+      <description>KM 263.261</description>
+      <Point><coordinates>-62.184061,-34.756009</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Porvenir KM 284.893</name>
+      <description>KM 284.893</description>
+      <Point><coordinates>-62.223864,-34.945372</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Nuva Suiza KM 299.1</name>
+      <description>KM 299.1</description>
+      <Point><coordinates>-62.252019,-35.071369</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Necol KM 314.16</name>
+      <description>KM 314.16</description>
+      <Point><coordinates>-62.270095,-35.205943</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Timote KM. 333.5</name>
+      <description>KM 333.5</description>
+      <Point><coordinates>-62.246122,-35.379306</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Límite FCGBM / FCGR KM 345.5</name>
+      <description>KM 345.5</description>
+      <Point><coordinates>-62.236005,-35.487243</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

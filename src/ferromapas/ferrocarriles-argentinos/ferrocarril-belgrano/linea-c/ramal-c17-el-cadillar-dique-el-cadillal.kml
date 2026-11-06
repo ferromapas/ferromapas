@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C17: El Cadillar - Dique el Cadillal</name>
+    <description>Ramal C17: El Cadillar - Dique el Cadillal. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C17: El Cadillar - Dique el Cadillal</name>
+      <LineString>
+        <coordinates>
+          -65.249651,-26.679885
+          -65.249739,-26.679510
+          -65.250399,-26.677106
+          -65.250461,-26.676830
+          -65.250488,-26.676612
+          -65.250459,-26.676386
+          -65.250398,-26.676054
+          -65.250329,-26.675799
+          -65.249516,-26.673729
+          -65.249360,-26.673429
+          -65.249257,-26.673264
+          -65.248940,-26.672820
+          -65.248534,-26.672367
+          -65.248117,-26.671989
+          -65.247666,-26.671616
+          -65.243096,-26.667853
+          -65.242377,-26.667279
+          -65.241758,-26.666849
+          -65.240780,-26.666327
+          -65.240063,-26.665940
+          -65.239457,-26.665678
+          -65.236686,-26.664277
+          -65.235574,-26.663744
+          -65.231474,-26.662243
+          -65.230555,-26.661925
+          -65.228454,-26.661272
+          -65.226862,-26.660916
+          -65.224514,-26.660101
+          -65.223587,-26.659665
+          -65.223313,-26.659368
+          -65.223165,-26.658839
+          -65.223222,-26.658177
+          -65.223246,-26.653413
+          -65.223164,-26.651461
+          -65.223015,-26.650663
+          -65.222454,-26.649477
+          -65.221391,-26.648464
+          -65.212159,-26.640124
+          -65.211098,-26.639062
+          -65.210776,-26.638704
+          -65.210545,-26.638193
+          -65.210035,-26.635955
+          -65.209707,-26.634695
+          -65.209203,-26.633885
+          -65.207000,-26.631897
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Dique El Cadillal</name>
+      <Point><coordinates>-65.208017,-26.632825</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

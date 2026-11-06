@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Bodega Del Bono</name>
+    <Placemark>
+      <name>Desvío</name>
+      <LineString>
+        <coordinates>
+          -68.554968,-31.540688
+          -68.555380,-31.540417
+          -68.555514,-31.540236
+          -68.555578,-31.540115
+          -68.555695,-31.539775
+          -68.555745,-31.539558
+          -68.555856,-31.539243
+          -68.555957,-31.538582
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bodega Del Bono</name>
+      <Point><coordinates>-68.555655,-31.539895</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Cañada de Gómez - Río Cuarto</name>
+    <description>Cañada de Gómez - Río Cuarto. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Cañada de Gómez - Dalmacio Vélez Sarsfield</name>
+      <LineString>
+        <coordinates>
+          -63.244163,-32.413493
+          -63.244580,-32.413007
+          -63.245436,-32.412116
+          -63.247079,-32.410349
+          -63.248105,-32.409255
+          -63.248658,-32.408707
+          -63.249353,-32.408098
+          -63.249774,-32.407757
+          -63.250202,-32.407437
+          -63.250642,-32.407112
+          -63.251121,-32.406770
+          -63.251583,-32.406448
+          -63.252126,-32.406089
+          -63.252888,-32.405630
+          -63.253765,-32.405139
+          -63.254531,-32.404738
+          -63.255402,-32.404312
+          -63.256337,-32.403886
+          -63.257134,-32.403573
+          -63.258129,-32.403212
+          -63.258957,-32.402944
+          -63.259565,-32.402767
+          -63.260279,-32.402563
+          -63.260920,-32.402423
+          -63.262082,-32.402191
+          -63.262989,-32.402024
+          -63.264078,-32.401853
+          -63.264496,-32.401813
+          -63.265391,-32.401736
+          -63.266203,-32.401691
+          -63.266940,-32.401650
+          -63.268102,-32.401638
+          -63.269459,-32.401664
+          -63.270567,-32.401730
+          -63.271445,-32.401811
+          -63.272034,-32.401888
+          -63.272737,-32.401965
+          -63.273429,-32.402083
+          -63.273998,-32.402201
+          -63.274963,-32.402410
+          -63.277131,-32.402993
+          -63.278062,-32.403275
+          -63.278998,-32.403628
+          -63.279959,-32.404022
+          -63.280681,-32.404320
+          -63.281363,-32.404656
+          -63.282044,-32.405000
+          -63.282918,-32.405490
+          -63.283650,-32.405923
+          -63.284421,-32.406422
+          -63.285170,-32.406910
+          -63.286583,-32.407895
+          -63.289695,-32.410022
+          -63.292374,-32.411856
+          -63.293812,-32.412845
+          -63.294861,-32.413561
+          -63.295815,-32.414228
+          -63.299007,-32.416443
+          -63.302700,-32.419028
+          -63.305014,-32.420608
+          -63.307777,-32.422416
+          -63.309224,-32.423405
+          -63.311001,-32.424620
+          -63.571044,-32.602926
+          -63.582792,-32.610993
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Dalmacio Vélez Sarsfield - Empalme Chucul</name>
+      <LineString>
+        <coordinates>
+          -63.577759,-32.607534
+          -63.579268,-32.608646
+          -63.582704,-32.610960
+          -63.584378,-32.612095
+          -63.587857,-32.614395
+          -63.593462,-32.618230
+          -63.599536,-32.622389
+          -63.709503,-32.697469
+          -63.786805,-32.750156
+          -63.789325,-32.751866
+          -63.794227,-32.755227
+          -63.963336,-32.869728
+          -63.995083,-32.891114
+          -64.026144,-32.912058
+          -64.141763,-32.989918
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Chucul - Río Cuarto</name>
+      <LineString>
+        <coordinates>
+          -64.141757,-32.989910
+          -64.142318,-32.990286
+          -64.206613,-33.033525
+          -64.251997,-33.064009
+          -64.284855,-33.086055
+          -64.292744,-33.091421
+          -64.295708,-33.093306
+          -64.296899,-33.094133
+          -64.298034,-33.094908
+          -64.299236,-33.095708
+          -64.300866,-33.096838
+          -64.302125,-33.097665
+          -64.303213,-33.098418
+          -64.304291,-33.099192
+          -64.305745,-33.100313
+          -64.308164,-33.102275
+          -64.309429,-33.103402
+          -64.310536,-33.104406
+          -64.311429,-33.105215
+          -64.313305,-33.106978
+          -64.315692,-33.109182
+          -64.317924,-33.111260
+          -64.321797,-33.114825
+          -64.324768,-33.117582
+          -64.326451,-33.119125
+          -64.328598,-33.120974
+          -64.331423,-33.123554
+          -64.334589,-33.126524
+          -64.335894,-33.127845
+          -64.337211,-33.129123
+          -64.339808,-33.131507
+          -64.342818,-33.134292
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Arroyo Cabral KM 18.7</name>
+      <description>KM 18.7</description>
+      <Point><coordinates>-63.403803,-32.488485</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Luca KM 27.7</name>
+      <description>KM 27.7</description>
+      <Point><coordinates>-63.477954,-32.539271</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dalmacio Vélez Sarsfield KM 40.2</name>
+      <description>KM 40.2</description>
+      <Point><coordinates>-63.581128,-32.609998</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Perdices KM 55.9</name>
+      <description>KM 55.9</description>
+      <Point><coordinates>-63.711865,-32.699061</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>General Deheza KM 65.4</name>
+      <description>KM 65.4</description>
+      <Point><coordinates>-63.791316,-32.753162</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabrera KM 75.7</name>
+      <description>KM 75.7</description>
+      <Point><coordinates>-63.877062,-32.811339</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Carnerillo KM 93.4</name>
+      <description>KM 93.4</description>
+      <Point><coordinates>-64.024067,-32.910661</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Chucul KM 107.4</name>
+      <description>KM 107.4</description>
+      <Point><coordinates>-64.141754,-32.989914</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chucul KM 110.8</name>
+      <description>KM 110.8</description>
+      <Point><coordinates>-64.169704,-33.008554</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Higueras KM 135.4</name>
+      <description>KM 135.4</description>
+      <Point><coordinates>-64.292450,-33.091219</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Río Cuarto KM 131.4</name>
+      <description>KM 131.4</description>
+      <Point><coordinates>-64.339120,-33.130696</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Córdoba 129.9</name>
+      <description>KM 129.9</description>
+      <Point><coordinates>-64.325445,-33.118198</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal Córdoba (Mitre) - Ferreyra - Desvío IKA y La Calera</name>
+    <Placemark>
+      <name>Desvío Cantera El Cerrano</name>
+      <Point><coordinates>-64.329245,-31.333616</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

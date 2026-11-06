@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal F8: Sorrento - Embarcaderos</name>
+    <description>Ramal F8: Sorrento - Embarcaderos. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Libro "Ferrocarriles en Rosario" de Ángel Ferrer y Carlos Alberto Fernández Priotti, a quien agradecemos su gentileza de poder haber usado sus mapas
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal F8: Sorrento - Embarcaderos</name>
+      <LineString>
+        <coordinates>
+          -60.689588,-32.908768
+          -60.689879,-32.909166
+          -60.690283,-32.909631
+          -60.690746,-32.910170
+          -60.691868,-32.911387
+          -60.692015,-32.911577
+          -60.692076,-32.911739
+          -60.692076,-32.912050
+          -60.691957,-32.912626
+          -60.691415,-32.914186
+          -60.690484,-32.916500
+          -60.689860,-32.917618
+          -60.689273,-32.918511
+          -60.688671,-32.919475
+          -60.687834,-32.920409
+          -60.687158,-32.921081
+          -60.686348,-32.921704
+          -60.685785,-32.922019
+          -60.685472,-32.922129
+          -60.685075,-32.922228
+          -60.684746,-32.922247
+          -60.672417,-32.921869
+          -60.670611,-32.921833
+          -60.669552,-32.921911
+          -60.668683,-32.922064
+          -60.666557,-32.922757
+          -60.665973,-32.923018
+          -60.665434,-32.923190
+          -60.663524,-32.923163
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

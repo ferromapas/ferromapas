@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Alianza - Martín Coronado</name>
+    <description>Alianza - Martín Coronado. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Alianza - Martín Coronado</name>
+      <LineString>
+        <coordinates>
+          -58.553297,-34.604555
+          -58.555929,-34.604722
+          -58.556941,-34.604750
+          -58.557952,-34.604581
+          -58.559342,-34.604508
+          -58.561319,-34.604565
+          -58.564675,-34.604640
+          -58.569514,-34.604719
+          -58.569952,-34.604687
+          -58.571663,-34.604754
+          -58.575578,-34.604928
+          -58.576210,-34.604950
+          -58.576697,-34.604926
+          -58.576994,-34.604892
+          -58.577672,-34.604732
+          -58.578180,-34.604547
+          -58.579043,-34.603994
+          -58.580886,-34.602583
+          -58.581863,-34.601769
+          -58.582214,-34.601386
+          -58.582383,-34.601160
+          -58.582522,-34.600978
+          -58.582673,-34.600693
+          -58.582799,-34.600410
+          -58.582888,-34.600099
+          -58.582883,-34.599774
+          -58.582879,-34.599520
+          -58.582810,-34.599264
+          -58.582601,-34.598690
+          -58.582508,-34.598438
+          -58.582427,-34.598114
+          -58.582412,-34.597862
+          -58.582409,-34.597567
+          -58.582436,-34.597251
+          -58.582559,-34.596868
+          -58.582675,-34.596568
+          -58.582810,-34.596273
+          -58.583039,-34.595959
+          -58.583534,-34.595501
+          -58.584331,-34.594914
+          -58.585635,-34.594020
+          -58.587608,-34.592547
+          -58.589079,-34.591433
+          -58.589529,-34.591052
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

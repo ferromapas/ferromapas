@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Peyrano - Casilda</name>
+    <description>Peyrano - Casilda. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Peyrano - Casilda</name>
+      <LineString>
+        <coordinates>
+          -60.805921,-33.540492
+          -60.806752,-33.539245
+          -60.808332,-33.536952
+          -60.810737,-33.533527
+          -60.817832,-33.523328
+          -60.824821,-33.513159
+          -60.826596,-33.510612
+          -60.827346,-33.509475
+          -60.827944,-33.508452
+          -60.828435,-33.507452
+          -60.828925,-33.506319
+          -60.829440,-33.504971
+          -60.839607,-33.480736
+          -60.842658,-33.473413
+          -60.846289,-33.464734
+          -60.850576,-33.454291
+          -60.851554,-33.451886
+          -60.871451,-33.404497
+          -60.871700,-33.403934
+          -60.871875,-33.403518
+          -60.872067,-33.403187
+          -60.872353,-33.402675
+          -60.872555,-33.402407
+          -60.872889,-33.401979
+          -60.873308,-33.401485
+          -60.873704,-33.401078
+          -60.874227,-33.400574
+          -60.874875,-33.400018
+          -60.876698,-33.398398
+          -60.882026,-33.393638
+          -60.892532,-33.384254
+          -60.894296,-33.382666
+          -60.902120,-33.375754
+          -60.905537,-33.372798
+          -60.911854,-33.366945
+          -60.930099,-33.350618
+          -60.933993,-33.347122
+          -60.937180,-33.344268
+          -60.943266,-33.338922
+          -60.956242,-33.327281
+          -60.956951,-33.326636
+          -60.957886,-33.325772
+          -60.958448,-33.325178
+          -60.958924,-33.324633
+          -60.959459,-33.323907
+          -60.960910,-33.322031
+          -60.962404,-33.320033
+          -60.964672,-33.317126
+          -60.990262,-33.284033
+          -60.994237,-33.278929
+          -60.996282,-33.276260
+          -61.003928,-33.266341
+          -61.019739,-33.246416
+          -61.032913,-33.230879
+          -61.052030,-33.206306
+          -61.078252,-33.172451
+          -61.087712,-33.160336
+          -61.102465,-33.140912
+          -61.120851,-33.117447
+          -61.133324,-33.101252
+          -61.144827,-33.086460
+          -61.168915,-33.055521
+          -61.174410,-33.048413
+          -61.176315,-33.045893
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cruce Francisco Paz FCGBM KM 284.5</name>
+      <description>KM 284.5</description>
+      <Point><coordinates>-60.850724,-33.453922</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Francisco Paz KM 289.2</name>
+      <description>KM 289.2</description>
+      <Point><coordinates>-60.867665,-33.413530</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Maizales KM 302.9</name>
+      <description>KM 302.9</description>
+      <Point><coordinates>-60.962391,-33.320173</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce con FCGBM (exRPB) KM 308.1</name>
+      <description>KM 308.1</description>
+      <Point><coordinates>-60.993916,-33.279341</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fuentes KM 322.5</name>
+      <description>KM 322.5</description>
+      <Point><coordinates>-61.078244,-33.172672</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Cruz Alta KM 339.0</name>
+      <description>KM 339.0</description>
+      <Point><coordinates>-61.174372,-33.048461</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Casilda KM 339.2</name>
+      <description>KM 339.2</description>
+      <Point><coordinates>-61.175789,-33.046603</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

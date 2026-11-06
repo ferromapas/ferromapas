@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC5: Josefina - Rafaela</name>
+    <description>Ramal CC5: Josefina - Rafaela. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal CC5: Josefina - Rafaela</name>
+      <LineString>
+        <coordinates>
+          -61.472086,-31.250286
+          -61.471570,-31.253287
+          -61.471457,-31.254258
+          -61.471444,-31.254725
+          -61.471473,-31.255089
+          -61.471617,-31.255420
+          -61.471822,-31.255651
+          -61.472017,-31.255775
+          -61.472253,-31.255839
+          -61.472633,-31.255912
+          -61.473189,-31.255874
+          -61.505906,-31.250402
+          -61.518947,-31.248329
+          -61.597829,-31.234481
+          -61.611295,-31.232087
+          -61.708387,-31.215000
+          -61.708848,-31.214880
+          -61.709137,-31.214734
+          -61.709450,-31.214559
+          -61.709781,-31.214335
+          -61.710015,-31.214150
+          -61.710263,-31.213941
+          -61.710579,-31.213644
+          -61.711113,-31.213094
+          -61.711447,-31.212756
+          -61.711750,-31.212486
+          -61.712104,-31.212199
+          -61.712484,-31.211990
+          -61.712833,-31.211827
+          -61.713144,-31.211694
+          -61.713599,-31.211553
+          -61.714130,-31.211458
+          -61.727568,-31.209113
+          -61.826099,-31.191792
+          -61.837009,-31.189890
+          -61.916902,-31.175742
+          -61.921399,-31.174932
+          -61.922328,-31.174833
+          -61.922884,-31.174863
+          -61.923382,-31.174965
+          -61.923931,-31.175101
+          -61.924709,-31.175409
+          -61.925376,-31.175822
+          -61.925996,-31.176404
+          -61.926296,-31.176653
+          -61.926773,-31.177243
+          -61.927302,-31.178268
+          -61.927818,-31.179413
+          -61.928119,-31.180335
+          -61.950145,-31.272799
+          -61.960305,-31.314377
+          -61.964890,-31.332544
+          -61.965152,-31.333692
+          -61.965411,-31.334428
+          -61.965693,-31.334973
+          -61.979924,-31.356174
+          -61.980529,-31.357657
+          -61.989940,-31.397062
+          -61.989991,-31.397189
+          -61.990078,-31.397311
+          -61.990370,-31.397635
+          -61.990658,-31.397851
+          -61.991106,-31.398118
+          -61.991497,-31.398333
+          -61.992026,-31.398536
+          -61.995403,-31.399736
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Rafaela Oeste (Ap) KM 3.4</name>
+      <description>KM 3.4</description>
+      <Point><coordinates>-61.501573,-31.251126</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme CC4 / CC5 (TVR) (Rafaela)</name>
+      <LineString>
+        <coordinates>
+          -61.506554,-31.250299
+          -61.506254,-31.250381
+          -61.506000,-31.250544
+          -61.505786,-31.250718
+          -61.504901,-31.251395
+          -61.504609,-31.251539
+          -61.504272,-31.251649
+          -61.502134,-31.252103
+          -61.500431,-31.252399
+          -61.500156,-31.252493
+          -61.499945,-31.252644
+          -61.499743,-31.252848
+          -61.499548,-31.253066
+          -61.499332,-31.253440
+          -61.499261,-31.253727
+          -61.499236,-31.253944
+          -61.499259,-31.254325
+          -61.500816,-31.260764
+          -61.500840,-31.261027
+          -61.500839,-31.261244
+          -61.500828,-31.261333
+          -61.500767,-31.261483
+          -61.500695,-31.261624
+          -61.500549,-31.261879
+          -61.500410,-31.262041
+          -61.500229,-31.262190
+          -61.500043,-31.262328
+          -61.499884,-31.262427
+          -61.499622,-31.262555
+          -61.499252,-31.262665
+          -61.498966,-31.262723
+          -61.495122,-31.263384
+          -61.494984,-31.263404
+          -61.494905,-31.263396
+          -61.494774,-31.263367
+          -61.494635,-31.263315
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Presidente Roca KM 13.6</name>
+      <description>KM 13.6</description>
+      <Point><coordinates>-61.606583,-31.232927</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zanetti (Dv) KM 21.8</name>
+      <description>KM 21.8</description>
+      <Point><coordinates>-61.690868,-31.218089</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Castellanos KM 25.0 (San Antonio)</name>
+      <description>KM 25.0</description>
+      <Point><coordinates>-61.722417,-31.210016</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Vila KM 35.5</name>
+      <description>KM 35.5</description>
+      <Point><coordinates>-61.830359,-31.191049</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coronel Fraga KM 43.6</name>
+      <description>KM 43.6</description>
+      <Point><coordinates>-61.913372,-31.176356</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bauer y Siguel KM 55.4</name>
+      <description>KM 55.4</description>
+      <Point><coordinates>-61.949258,-31.269095</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>López (Dv) KM 62.8</name>
+      <description>KM 62.8</description>
+      <Point><coordinates>-61.964995,-31.333048</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme CC4 / TVR KM 8.4 (CC4) / KM 70.4 (CC5)</name>
+      <description>Ramal CC4: KM 8.3
+Ramal CC5: KM 70.4</description>
+      <Point><coordinates>-61.993905,-31.399206</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme CC4 / CC5 (TVR) (Josefina)</name>
+      <LineString>
+        <coordinates>
+          -61.994700,-31.399681
+          -61.994477,-31.399583
+          -61.994192,-31.399426
+          -61.994051,-31.399310
+          -61.993915,-31.399211
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

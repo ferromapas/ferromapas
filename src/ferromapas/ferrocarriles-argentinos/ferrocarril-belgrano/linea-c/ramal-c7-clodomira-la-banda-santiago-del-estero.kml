@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C7: Clodomira - La Banda - Santiago del Estero</name>
+    <description>Ramal C7: Clodomira - La Banda - Santiago del Estero. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Revista Todo Trenes
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Folder>
+      <name>Ramal C7: Clodomira - KM 657.2</name>
+      <Placemark>
+        <name>Ramal C7: Clodomira - KM 657.2</name>
+        <LineString>
+          <coordinates>
+            -64.129631,-27.574080
+            -64.129363,-27.574393
+            -64.129175,-27.574595
+            -64.129059,-27.574712
+            -64.128941,-27.574874
+            -64.128847,-27.574997
+            -64.128724,-27.575204
+            -64.128626,-27.575392
+            -64.128557,-27.575543
+            -64.128488,-27.575773
+            -64.128444,-27.575930
+            -64.128404,-27.576073
+            -64.128352,-27.576519
+            -64.128331,-27.576730
+            -64.128330,-27.576918
+            -64.128349,-27.577164
+            -64.128369,-27.577435
+            -64.128399,-27.577635
+            -64.128480,-27.577898
+            -64.128560,-27.578135
+            -64.128787,-27.578552
+            -64.129480,-27.579392
+            -64.170601,-27.626506
+            -64.189883,-27.648469
+            -64.196458,-27.656096
+            -64.222514,-27.685636
+            -64.228032,-27.691917
+            -64.229015,-27.693111
+            -64.229514,-27.693904
+            -64.230667,-27.695848
+            -64.241637,-27.714474
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Empalme C/C7 KM 637.9</name>
+        <description>KM 637.9</description>
+        <Point><coordinates>-64.129442,-27.574309</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 645 (Ap) KM 645.1</name>
+        <description>KM 645.1</description>
+        <Point><coordinates>-64.170562,-27.626467</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Simbolar KM 648.5</name>
+        <description>KM 648.5</description>
+        <Point><coordinates>-64.191467,-27.650355</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 651 (Ap) KM 651.1</name>
+        <description>KM 651.1</description>
+        <Point><coordinates>-64.207783,-27.668946</coordinates></Point>
+      </Placemark>
+      <Folder>
+        <name>Desvio Taller Los Naranjos</name>
+        <Placemark>
+          <name>Desvio Taller Los Naranjos</name>
+          <LineString>
+            <coordinates>
+              -64.240010,-27.711706
+              -64.241083,-27.713188
+              -64.241469,-27.713548
+              -64.241709,-27.713738
+              -64.242089,-27.713971
+              -64.249467,-27.718334
+            </coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Desvio Taller Los Naranjos</name>
+          <LineString>
+            <coordinates>
+              -64.240634,-27.712554
+              -64.241074,-27.713114
+              -64.241589,-27.713546
+              -64.242245,-27.713974
+              -64.249590,-27.718259
+            </coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Desvio Taller Los Naranjos</name>
+          <LineString>
+            <coordinates>
+              -64.240643,-27.712565
+              -64.241644,-27.713519
+              -64.242375,-27.713987
+              -64.249570,-27.718156
+            </coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Taller Los Naranjos</name>
+          <Point><coordinates>-64.242827,-27.714272</coordinates></Point>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>Los Naranjos KM 657.1</name>
+        <description>KM 657.1</description>
+        <Point><coordinates>-64.241300,-27.713904</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 657.2 (Empalme a La Banda) KM 657.2</name>
+        <description>KM 657.2</description>
+        <Point><coordinates>-64.241638,-27.714479</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ramal C7: KM 657.2 - La Banda</name>
+      <Placemark>
+        <name>Ramal C7: KM 657.2 - La Banda</name>
+        <LineString>
+          <coordinates>
+            -64.241638,-27.714476
+            -64.246880,-27.723477
+            -64.246965,-27.723614
+            -64.247161,-27.724110
+            -64.247306,-27.724560
+            -64.247437,-27.724973
+            -64.247542,-27.725351
+            -64.247551,-27.725676
+            -64.247555,-27.725977
+            -64.247517,-27.726265
+            -64.247453,-27.726523
+            -64.247284,-27.726921
+            -64.247117,-27.727283
+            -64.246646,-27.728037
+            -64.246372,-27.728365
+            -64.246153,-27.728575
+            -64.245952,-27.728753
+            -64.245198,-27.729387
+            -64.244776,-27.729691
+            -64.244389,-27.729957
+            -64.243829,-27.730296
+            -64.243353,-27.730581
+            -64.242575,-27.731000
+            -64.241702,-27.731486
+            -64.241420,-27.731651
+            -64.241118,-27.731823
+            -64.239972,-27.732452
+            -64.239034,-27.732957
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ramal C7 - Triángulo La Banda</name>
+        <LineString>
+          <coordinates>
+            -64.251566,-27.721235
+            -64.250580,-27.720507
+            -64.250228,-27.720320
+            -64.249979,-27.720207
+            -64.249404,-27.720062
+            -64.248701,-27.719982
+            -64.248121,-27.719992
+            -64.247661,-27.720104
+            -64.247170,-27.720334
+            -64.246872,-27.720578
+            -64.246713,-27.720895
+            -64.246596,-27.721226
+            -64.246556,-27.721597
+            -64.246563,-27.721900
+            -64.246746,-27.722608
+            -64.247170,-27.724127
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>KM 658.4 (Empalme) KM 658.4</name>
+        <description>KM 658.4</description>
+        <Point><coordinates>-64.247168,-27.724129</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>La Banda (FCGB) (CNA) KM 658.6</name>
+        <description>KM 658.6</description>
+        <Point><coordinates>-64.247550,-27.726232</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ramal C7: KM 658.6 - Santiago del Estero</name>
+      <Placemark>
+        <name>Ramal C7: KM 658.6 - Santiago del Estero</name>
+        <LineString>
+          <coordinates>
+            -64.241642,-27.714481
+            -64.242048,-27.714870
+            -64.242309,-27.715089
+            -64.242573,-27.715248
+            -64.246283,-27.717448
+            -64.247835,-27.718401
+            -64.249136,-27.719297
+            -64.250685,-27.720457
+            -64.251165,-27.720840
+            -64.253172,-27.722827
+            -64.256987,-27.726411
+            -64.257627,-27.727103
+            -64.257871,-27.727361
+            -64.258033,-27.727554
+            -64.258343,-27.727922
+            -64.258628,-27.728318
+            -64.258959,-27.728903
+            -64.259254,-27.729557
+            -64.261330,-27.735616
+            -64.268863,-27.758375
+            -64.273527,-27.772573
+            -64.276735,-27.781933
+            -64.276889,-27.782383
+            -64.276994,-27.782838
+            -64.277066,-27.783216
+            -64.277110,-27.783865
+            -64.277098,-27.784566
+            -64.277063,-27.785321
+            -64.276998,-27.785780
+            -64.276884,-27.786392
+            -64.276002,-27.790249
+            -64.275715,-27.791311
+            -64.275509,-27.791820
+            -64.275352,-27.792163
+            -64.275184,-27.792499
+            -64.274993,-27.792864
+            -64.274744,-27.793247
+            -64.274437,-27.793681
+            -64.274225,-27.793922
+            -64.273935,-27.794229
+            -64.273700,-27.794417
+            -64.273394,-27.794585
+            -64.273174,-27.794690
+            -64.272913,-27.794778
+            -64.272618,-27.794835
+            -64.272309,-27.794868
+            -64.271862,-27.794849
+            -64.271451,-27.794782
+            -64.270945,-27.794601
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>KM 658.5 (Empalme a La Banda) KM 658.5</name>
+        <description>KM 658.5</description>
+        <Point><coordinates>-64.251561,-27.721236</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 658.5 (Desv. Part.) KM 658.5</name>
+        <description>KM 658.5</description>
+        <Point><coordinates>-64.251720,-27.721388</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruce FCGBM KM 658.6</name>
+        <description>KM 658.6</description>
+        <Point><coordinates>-64.252377,-27.722045</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 659 (Ap y Cruce FCGBM) KM 658.7</name>
+        <description>KM 658.7</description>
+        <Point><coordinates>-64.253083,-27.722716</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 664.5 (Empalme a Santiago del Estero CNA) KM 664.5</name>
+        <description>KM 664.5</description>
+        <Point><coordinates>-64.273371,-27.772085</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Ramal C7 empalme a Santiago del Estero CNA</name>
+        <LineString>
+          <coordinates>
+            -64.273365,-27.772086
+            -64.273585,-27.772834
+            -64.273531,-27.773465
+            -64.273288,-27.773971
+            -64.269871,-27.779032
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Santiago del Estero (FCGB-CNA) KM 665.4</name>
+        <description>KM 665.4</description>
+        <Point><coordinates>-64.269868,-27.779032</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 664.7 (Desv. Part.) KM 664.7</name>
+        <description>KM 664.7</description>
+        <Point><coordinates>-64.273932,-27.773771</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Antonio E Talbot (Ap) KM 665.4</name>
+        <description>KM 665.4</description>
+        <Point><coordinates>-64.275975,-27.779729</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme CC11/C7 KM 161.0(CC1)/KM 667.8(C7)</name>
+        <description>KM 161.0(CC1)
+KM 667.8(C7)</description>
+        <Point><coordinates>-64.270883,-27.794558</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Folder>
+</kml>

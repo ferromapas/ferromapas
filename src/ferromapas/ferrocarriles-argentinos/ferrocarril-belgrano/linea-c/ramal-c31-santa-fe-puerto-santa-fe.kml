@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C31: Santa Fe - Puerto Santa Fe</name>
+    <description>Ramal C31: Santa Fe - Puerto Santa Fe. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile).
+- Plano de la ciudad de Santa Fe, de Sebastián Bottaro
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C31: Santa Fe - Puerto Santa Fe</name>
+      <LineString>
+        <coordinates>
+          -60.682288,-31.627176
+          -60.685745,-31.639186
+          -60.686767,-31.642653
+          -60.686886,-31.643055
+          -60.686956,-31.643280
+          -60.687020,-31.643439
+          -60.687101,-31.643590
+          -60.687218,-31.643779
+          -60.687376,-31.643960
+          -60.687507,-31.644091
+          -60.687655,-31.644227
+          -60.687798,-31.644320
+          -60.687957,-31.644413
+          -60.688081,-31.644475
+          -60.688316,-31.644595
+          -60.688587,-31.644677
+          -60.688887,-31.644726
+          -60.689949,-31.644822
+          -60.690681,-31.644890
+          -60.690935,-31.644912
+          -60.691114,-31.644938
+          -60.695426,-31.645788
+          -60.697805,-31.646273
+          -60.699162,-31.646508
+          -60.701137,-31.646856
+          -60.702393,-31.647319
+          -60.702595,-31.647402
+          -60.702724,-31.647479
+          -60.702889,-31.647615
+          -60.703030,-31.647739
+          -60.703092,-31.647817
+          -60.704538,-31.652771
+          -60.704551,-31.653001
+          -60.704538,-31.653189
+          -60.704454,-31.653591
+          -60.704209,-31.654557
+          -60.704143,-31.655434
+          -60.704190,-31.656348
+          -60.704224,-31.656703
+          -60.704259,-31.656992
+          -60.704326,-31.657190
+          -60.704539,-31.657628
+          -60.705365,-31.659134
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal C31: Santa Fe - Puerto Santa Fe</name>
+      <LineString>
+        <coordinates>
+          -60.695211,-31.645759
+          -60.696333,-31.646015
+          -60.696866,-31.646223
+          -60.697376,-31.646598
+          -60.697619,-31.646887
+          -60.697997,-31.647737
+          -60.699961,-31.654382
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal C31: Santa Fe - Puerto Santa Fe</name>
+      <LineString>
+        <coordinates>
+          -60.697762,-31.646273
+          -60.698957,-31.646531
+          -60.699566,-31.646916
+          -60.699999,-31.647680
+          -60.701695,-31.653477
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal C31: Santa Fe - Puerto Santa Fe</name>
+      <LineString>
+        <coordinates>
+          -60.699225,-31.646508
+          -60.700014,-31.646795
+          -60.700576,-31.647104
+          -60.701062,-31.647971
+          -60.701335,-31.648614
+          -60.702587,-31.652975
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal C31: Santa Fe - Puerto Santa Fe</name>
+      <LineString>
+        <coordinates>
+          -60.700754,-31.646789
+          -60.701426,-31.646994
+          -60.702148,-31.647274
+          -60.702329,-31.647379
+          -60.702531,-31.647630
+          -60.704250,-31.653352
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal C31: Santa Fe - Puerto Santa Fe</name>
+      <LineString>
+        <coordinates>
+          -60.701938,-31.647207
+          -60.702212,-31.647332
+          -60.702368,-31.647479
+          -60.702447,-31.647609
+          -60.702509,-31.647723
+          -60.704160,-31.653365
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Puerto de Santa Fe</name>
+      <Point><coordinates>-60.701736,-31.647727</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

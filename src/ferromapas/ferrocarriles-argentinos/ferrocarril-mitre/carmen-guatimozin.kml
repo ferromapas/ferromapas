@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Carmen - Guatimozín</name>
+    <description>Carmen - Guatimozín. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Carmen - Guatimozin</name>
+      <LineString>
+        <coordinates>
+          -61.783140,-33.734983
+          -61.784830,-33.735090
+          -61.785921,-33.735130
+          -61.786601,-33.735042
+          -61.787312,-33.734922
+          -61.787918,-33.734704
+          -61.788434,-33.734506
+          -61.788979,-33.734207
+          -61.789503,-33.733834
+          -61.789938,-33.733429
+          -61.790342,-33.732989
+          -61.791081,-33.732035
+          -61.792775,-33.729886
+          -61.820637,-33.694415
+          -61.853766,-33.652122
+          -61.863139,-33.640246
+          -61.926701,-33.557000
+          -61.928001,-33.555248
+          -61.928752,-33.554333
+          -61.929351,-33.553640
+          -61.929713,-33.553259
+          -61.930302,-33.552662
+          -61.930864,-33.552151
+          -61.931442,-33.551694
+          -61.932177,-33.551149
+          -61.933030,-33.550560
+          -61.933773,-33.550078
+          -61.934367,-33.549710
+          -61.934925,-33.549382
+          -61.935544,-33.549062
+          -61.936342,-33.548667
+          -61.937240,-33.548290
+          -61.937970,-33.548016
+          -61.938974,-33.547661
+          -61.939494,-33.547476
+          -61.940136,-33.547271
+          -61.940719,-33.547125
+          -61.941800,-33.546878
+          -61.942785,-33.546687
+          -61.943566,-33.546533
+          -61.944672,-33.546345
+          -61.945743,-33.546180
+          -61.949324,-33.545545
+          -61.955770,-33.544449
+          -61.978209,-33.540591
+          -61.989847,-33.538630
+          -62.117650,-33.516661
+          -62.138038,-33.513100
+          -62.309242,-33.483514
+          -62.340724,-33.478030
+          -62.347221,-33.476916
+          -62.440358,-33.460741
+          -62.444557,-33.459983
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Murphy KM 14.7</name>
+      <description>KM 14.7</description>
+      <Point><coordinates>-61.861592,-33.642310</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Chispa KM 31.4</name>
+      <description>KM 31.4</description>
+      <Point><coordinates>-61.979231,-33.540469</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Cantor KM 46.2</name>
+      <description>KM 46.2</description>
+      <Point><coordinates>-62.135333,-33.513658</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Embarcadero Kilómetro 57 KM 56.9</name>
+      <description>KM 56.9</description>
+      <Point><coordinates>-62.247529,-33.494220</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cavanagh KM 65.6</name>
+      <description>KM 65.6</description>
+      <Point><coordinates>-62.339233,-33.478311</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Guatimozín KM 74.9</name>
+      <description>KM 74.9</description>
+      <Point><coordinates>-62.439460,-33.460985</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

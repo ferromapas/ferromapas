@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvío IKA</name>
+    <Placemark>
+      <name>Desvío Planta Santa Isabel - IKA Renault</name>
+      <LineString>
+        <coordinates>
+          -64.247255,-31.468450
+          -64.247755,-31.468957
+          -64.247830,-31.469616
+          -64.247855,-31.470464
+          -64.247860,-31.472122
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Planta Santa Isabel - IKA Renault</name>
+      <LineString>
+        <coordinates>
+          -64.246424,-31.468070
+          -64.246998,-31.468569
+          -64.247179,-31.469102
+          -64.247183,-31.471898
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Planta Santa Isabel - IKA Renault</name>
+      <Point><coordinates>-64.241570,-31.467766</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

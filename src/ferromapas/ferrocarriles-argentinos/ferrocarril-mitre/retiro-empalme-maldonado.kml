@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Retiro - Empalme Maldonado</name>
+    <description>Retiro - Empalme Maldonado. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Retiro - Empalme Maldonado</name>
+      <LineString>
+        <coordinates>
+          -58.374834,-34.590693
+          -58.377799,-34.589025
+          -58.378614,-34.588527
+          -58.379148,-34.588146
+          -58.379747,-34.587769
+          -58.380322,-34.587381
+          -58.381039,-34.586887
+          -58.381680,-34.586479
+          -58.382198,-34.586180
+          -58.382754,-34.585880
+          -58.383260,-34.585595
+          -58.383688,-34.585337
+          -58.384069,-34.585080
+          -58.384402,-34.584820
+          -58.384813,-34.584501
+          -58.385945,-34.583608
+          -58.386510,-34.583142
+          -58.387050,-34.582742
+          -58.387463,-34.582465
+          -58.387939,-34.582165
+          -58.388458,-34.581898
+          -58.389271,-34.581518
+          -58.389903,-34.581226
+          -58.390450,-34.580986
+          -58.391436,-34.580533
+          -58.392492,-34.580091
+          -58.393285,-34.579792
+          -58.393958,-34.579533
+          -58.394575,-34.579278
+          -58.395078,-34.579040
+          -58.395457,-34.578838
+          -58.395851,-34.578600
+          -58.396265,-34.578338
+          -58.396616,-34.578121
+          -58.396956,-34.577873
+          -58.397372,-34.577548
+          -58.397728,-34.577250
+          -58.398289,-34.576768
+          -58.398756,-34.576357
+          -58.399312,-34.575888
+          -58.399953,-34.575338
+          -58.400586,-34.574784
+          -58.401326,-34.574151
+          -58.402269,-34.573339
+          -58.402843,-34.572824
+          -58.403434,-34.572260
+          -58.403792,-34.571922
+          -58.404283,-34.571467
+          -58.404808,-34.571016
+          -58.405276,-34.570606
+          -58.405654,-34.570293
+          -58.406018,-34.570009
+          -58.406398,-34.569734
+          -58.406793,-34.569481
+          -58.407263,-34.569205
+          -58.407681,-34.568990
+          -58.408123,-34.568779
+          -58.408432,-34.568639
+          -58.408962,-34.568436
+          -58.409497,-34.568249
+          -58.410107,-34.568059
+          -58.410609,-34.567937
+          -58.411011,-34.567845
+          -58.411528,-34.567739
+          -58.411948,-34.567672
+          -58.412373,-34.567615
+          -58.412676,-34.567589
+          -58.413339,-34.567540
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Retiro KM 0.0 (FCGBM)</name>
+      <description>KM 0.0</description>
+      <Point><coordinates>-58.375089,-34.590847</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Maldonado KM 4.6</name>
+      <description>KM 4.6</description>
+      <Point><coordinates>-58.413341,-34.567578</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lisandro De La Torre KM 6.7</name>
+      <description>KM 6.7</description>
+      <Point><coordinates>-58.436691,-34.562523</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Belgrano KM 8.0</name>
+      <description>KM 8.0</description>
+      <Point><coordinates>-58.449543,-34.558435</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Nuñez KM 9.6</name>
+      <description>KM 9.6</description>
+      <Point><coordinates>-58.463164,-34.547886</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rivadavia KM 11.1</name>
+      <description>KM 11.1</description>
+      <Point><coordinates>-58.468128,-34.536227</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Vicente López KM 12.5</name>
+      <description>KM 12.5</description>
+      <Point><coordinates>-58.472899,-34.524561</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Olivos KM 14.4</name>
+      <description>KM 14.4</description>
+      <Point><coordinates>-58.480883,-34.507221</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Lucila KM 15.9</name>
+      <description>KM 15.9</description>
+      <Point><coordinates>-58.488451,-34.497576</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Martínez KM 17.2</name>
+      <description>KM 17.2</description>
+      <Point><coordinates>-58.496450,-34.488620</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Acasusso KM 18.3</name>
+      <description>KM 18.3</description>
+      <Point><coordinates>-58.504463,-34.479583</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Isidro KM 19.6</name>
+      <description>KM 19.6</description>
+      <Point><coordinates>-58.513884,-34.471753</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Beccar KM 21.2</name>
+      <description>KM 21.2</description>
+      <Point><coordinates>-58.526888,-34.460414</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

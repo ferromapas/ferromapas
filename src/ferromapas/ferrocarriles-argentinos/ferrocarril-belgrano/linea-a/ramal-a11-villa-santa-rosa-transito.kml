@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal A11: Villa Santa Rosa - Tránsito</name>
+    <description>Ramal A11: Villa Santa Rosa - Tránsito. Dibujado por:
+Vías: Gino Nuñez
+Estaciones: Pablo Anglat, Rodrigo Respini
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal A11: Tránsito - La Puerta</name>
+      <LineString>
+        <coordinates>
+          -63.414486,-31.154718
+          -63.414889,-31.155386
+          -63.415033,-31.155630
+          -63.415136,-31.155937
+          -63.415188,-31.156216
+          -63.415204,-31.156953
+          -63.415137,-31.157379
+          -63.415045,-31.157777
+          -63.414867,-31.158125
+          -63.414536,-31.158585
+          -63.413926,-31.159288
+          -63.413371,-31.159773
+          -63.412474,-31.160292
+          -63.411734,-31.160569
+          -63.410967,-31.160815
+          -63.374775,-31.173000
+          -63.373793,-31.173348
+          -63.373090,-31.173689
+          -63.372405,-31.174036
+          -63.371718,-31.174479
+          -63.371090,-31.174961
+          -63.370341,-31.175617
+          -63.369966,-31.176021
+          -63.369377,-31.176729
+          -63.336003,-31.229104
+          -63.330426,-31.237784
+          -63.323902,-31.247992
+          -63.318866,-31.255992
+          -63.302756,-31.283703
+          -63.300696,-31.287392
+          -63.298924,-31.290504
+          -63.297919,-31.292309
+          -63.295982,-31.295550
+          -63.293430,-31.299455
+          -63.271931,-31.332072
+          -63.213892,-31.419990
+          -63.213343,-31.420855
+          -63.212646,-31.421811
+          -63.212266,-31.422294
+          -63.212038,-31.422542
+          -63.211659,-31.422826
+          -63.211240,-31.423060
+          -63.210815,-31.423261
+          -63.210134,-31.423530
+          -63.209750,-31.423674
+          -63.201855,-31.425012
+          -63.201717,-31.425045
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramales A8/A11 KM 340.9</name>
+      <description>KM 340.9</description>
+      <Point><coordinates>-63.414477,-31.154723</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Buey Muerto KM 353.3</name>
+      <description>KM 353.3</description>
+      <Point><coordinates>-63.333479,-31.233031</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pozo de Loma (DP) KM 359.6</name>
+      <description>KM 359.6</description>
+      <Point><coordinates>-63.302848,-31.283536</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Represa KM 366.3</name>
+      <description>KM 366.3</description>
+      <Point><coordinates>-63.269056,-31.336444</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme CC/A11  KM 626.1 / KM 378.4</name>
+      <description>CC: KM 626.1
+A11: KM 378.4</description>
+      <Point><coordinates>-63.201212,-31.425120</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tránsito KM 625.6 / KM 378.9</name>
+      <description>CC: KM 625.6
+A11: KM 378.9</description>
+      <Point><coordinates>-63.196392,-31.425929</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

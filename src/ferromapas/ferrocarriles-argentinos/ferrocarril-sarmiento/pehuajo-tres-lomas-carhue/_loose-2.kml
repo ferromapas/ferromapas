@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Pehuajó - Tres Lomas - Carhue</name>
+    <Placemark>
+      <name>Alagón KM 379.6</name>
+      <description>KM 379.6</description>
+      <Point><coordinates>-61.969454,-35.945832</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Albariño KM 397.6</name>
+      <description>KM 397.6</description>
+      <Point><coordinates>-62.123479,-36.048154</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce desnivel FCDSF - RPB</name>
+      <Point><coordinates>-62.227777,-36.088479</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Duhau KM 413.8</name>
+      <description>KM 413.8</description>
+      <Point><coordinates>-62.278834,-36.113518</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Corazzi KM 429.2</name>
+      <description>KM 429.2</description>
+      <Point><coordinates>-62.402391,-36.210328</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>30 de Agosto KM 448.8</name>
+      <description>KM 448.8</description>
+      <Point><coordinates>-62.549306,-36.278265</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvio 30 de Agosto</name>
+      <LineString>
+        <coordinates>
+          -62.550841,-36.279054
+          -62.550534,-36.278854
+          -62.550306,-36.278696
+          -62.550107,-36.278553
+          -62.549923,-36.278410
+          -62.549837,-36.278345
+          -62.549557,-36.278189
+          -62.549139,-36.277989
+          -62.549031,-36.277952
+          -62.548777,-36.277822
+          -62.547043,-36.276953
+          -62.544946,-36.275856
+          -62.544734,-36.275752
+          -62.544565,-36.275662
+          -62.544467,-36.275577
+          -62.544412,-36.275540
+          -62.544187,-36.275410
+          -62.543978,-36.275308
+          -62.543809,-36.275241
+          -62.542707,-36.274831
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío 30 de Agosto</name>
+      <LineString>
+        <coordinates>
+          -62.544383,-36.275519
+          -62.547062,-36.276904
+          -62.549150,-36.277996
+          -62.549551,-36.278188
+          -62.549861,-36.278346
+          -62.550967,-36.278924
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío 30 de Agosto</name>
+      <LineString>
+        <coordinates>
+          -62.549429,-36.278117
+          -62.549292,-36.278016
+          -62.549169,-36.277927
+          -62.548846,-36.277576
+          -62.548515,-36.277237
+          -62.548329,-36.277062
+          -62.548085,-36.276900
+          -62.547792,-36.276755
+          -62.547417,-36.276554
+          -62.545580,-36.275621
+          -62.545416,-36.275561
+          -62.545207,-36.275491
+          -62.544932,-36.275419
+          -62.544761,-36.275387
+          -62.544456,-36.275358
+          -62.544220,-36.275330
+          -62.544001,-36.275285
+          -62.543777,-36.275228
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío 30 de Agosto</name>
+      <LineString>
+        <coordinates>
+          -62.544735,-36.275375
+          -62.544427,-36.275318
+          -62.544331,-36.275283
+          -62.544231,-36.275208
+          -62.544135,-36.275106
+          -62.544028,-36.274984
+          -62.543937,-36.274852
+          -62.543885,-36.274728
+          -62.543857,-36.274582
+          -62.543860,-36.274450
+          -62.543916,-36.274309
+          -62.543996,-36.274150
+          -62.544411,-36.273607
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>La Porteña KM 463.1</name>
+      <description>KM 463.1</description>
+      <Point><coordinates>-62.720737,-36.366723</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tres Lomas KM 480.6 / KM 504.4</name>
+      <description>Vìa Pehuajó - Tres Lomas - Carhue 480.6
+Vía La Zanja - Tres Lomas KM 504.4</description>
+      <Point><coordinates>-62.865658,-36.456670</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ing. Thompson KM 522.4</name>
+      <description>KM 522.4</description>
+      <Point><coordinates>-62.908778,-36.614373</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Salliqueló KM 538.4</name>
+      <description>KM 538.4</description>
+      <Point><coordinates>-62.954335,-36.750887</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fatraló KM 564.4</name>
+      <description>KM 564.4</description>
+      <Point><coordinates>-62.834863,-36.963835</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lago Epecuén KM 581.8</name>
+      <description>KM 581.8</description>
+      <Point><coordinates>-62.790056,-37.112517</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Carhue (FCDFS) KM 591.1</name>
+      <description>KM 591.1</description>
+      <Point><coordinates>-62.749399,-37.180175</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

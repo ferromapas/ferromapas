@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Otros Ferrocarriles</name>
+    <Placemark>
+      <name>Estación del Parque (Ferrocarril Liliputiense)</name>
+      <Point><coordinates>-68.863612,-32.887508</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Vale - Proyecto Potasio Rio Colorado</name>
+      <Point><coordinates>-69.383736,-37.114375</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ferroclub Trasandino - La Fraternidad FC Belgrano</name>
+      <description>(Pringles y Márquez)</description>
+      <Point><coordinates>-68.815733,-32.891483</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

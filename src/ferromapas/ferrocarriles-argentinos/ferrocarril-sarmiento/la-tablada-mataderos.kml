@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>La Tablada - Mataderos</name>
+    <description>La Tablada - Mataderos. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>La Tablada - Mataderos</name>
+      <LineString>
+        <coordinates>
+          -58.523449,-34.696548
+          -58.522879,-34.696872
+          -58.522406,-34.697035
+          -58.521874,-34.697133
+          -58.521463,-34.697219
+          -58.521050,-34.697264
+          -58.520634,-34.697258
+          -58.520184,-34.697213
+          -58.519769,-34.697144
+          -58.519406,-34.697048
+          -58.519167,-34.696951
+          -58.518862,-34.696819
+          -58.518603,-34.696680
+          -58.518252,-34.696480
+          -58.517879,-34.696235
+          -58.517279,-34.695790
+          -58.514992,-34.694246
+          -58.514352,-34.693678
+          -58.513885,-34.693158
+          -58.513465,-34.692647
+          -58.513110,-34.692175
+          -58.512677,-34.691632
+          -58.503774,-34.680947
+          -58.502850,-34.679853
+          -58.502593,-34.679512
+          -58.502337,-34.679295
+          -58.502066,-34.679094
+          -58.501476,-34.678775
+          -58.500660,-34.678286
+          -58.496186,-34.675675
+          -58.495188,-34.675140
+          -58.493998,-34.674447
+          -58.492764,-34.673723
+          -58.492433,-34.673468
+          -58.492303,-34.673333
+          -58.491926,-34.672888
+          -58.491665,-34.672435
+          -58.491484,-34.671931
+          -58.491409,-34.671536
+          -58.491406,-34.671231
+          -58.491443,-34.670885
+          -58.491524,-34.670531
+          -58.491718,-34.670029
+          -58.491887,-34.669731
+          -58.492248,-34.669227
+          -58.493376,-34.667884
+          -58.495256,-34.666315
+          -58.497084,-34.664856
+          -58.499534,-34.662867
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Mataderos (FCDFS) KM 31.6</name>
+      <description>KM 31.6</description>
+      <Point><coordinates>-58.494257,-34.667164</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

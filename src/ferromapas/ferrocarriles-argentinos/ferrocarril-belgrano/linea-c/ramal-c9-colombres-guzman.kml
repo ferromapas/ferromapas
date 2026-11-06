@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C9: Colombres - Guzman</name>
+    <description>Ramal C9: Colombres - Guzman. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C9: Colombres - Guzman</name>
+      <LineString>
+        <coordinates>
+          -65.105423,-26.893724
+          -65.105040,-26.893764
+          -65.104724,-26.893810
+          -65.104294,-26.893822
+          -65.103905,-26.893792
+          -65.103550,-26.893725
+          -65.103176,-26.893615
+          -65.102894,-26.893530
+          -65.102635,-26.893408
+          -65.102415,-26.893281
+          -65.102159,-26.893092
+          -65.101946,-26.892891
+          -65.101799,-26.892722
+          -65.101622,-26.892492
+          -65.101478,-26.892303
+          -65.101350,-26.892035
+          -65.101245,-26.891659
+          -65.100099,-26.885663
+          -65.099997,-26.885288
+          -65.099906,-26.885039
+          -65.099575,-26.884080
+          -65.099070,-26.882873
+          -65.097019,-26.878543
+          -65.096776,-26.877941
+          -65.091954,-26.861821
+          -65.091521,-26.860794
+          -65.091199,-26.860136
+          -65.090911,-26.859223
+          -65.088813,-26.850996
+          -65.088778,-26.850789
+          -65.088726,-26.850479
+          -65.088726,-26.850122
+          -65.088820,-26.844767
+          -65.088815,-26.844261
+          -65.088832,-26.843942
+          -65.088837,-26.843640
+          -65.088864,-26.843324
+          -65.088949,-26.843037
+          -65.089066,-26.842697
+          -65.090004,-26.840858
+          -65.090146,-26.840639
+          -65.090348,-26.840385
+          -65.090768,-26.840051
+          -65.090906,-26.839866
+          -65.090989,-26.839643
+          -65.091086,-26.839284
+          -65.091139,-26.839036
+          -65.091175,-26.838819
+          -65.091168,-26.838454
+          -65.091138,-26.838171
+          -65.087059,-26.815514
+          -65.086166,-26.809941
+          -65.085615,-26.807060
+          -65.085187,-26.805875
+          -65.084894,-26.805383
+          -65.083454,-26.803628
+          -65.082486,-26.802020
+          -65.081562,-26.798761
+          -65.079965,-26.793868
+          -65.079159,-26.790604
+          -65.079037,-26.790394
+          -65.078861,-26.790145
+          -65.078677,-26.789956
+          -65.078474,-26.789795
+          -65.078093,-26.789572
+          -65.074409,-26.787943
+          -65.072926,-26.787221
+          -65.072316,-26.786751
+          -65.070894,-26.785073
+          -65.070041,-26.783978
+          -65.069565,-26.782727
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ingenio Cruz Alta (Ap) KM 778.0</name>
+      <description>KM 778.0</description>
+      <Point><coordinates>-65.100952,-26.890185</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Cañaverales (Ap) KM 779.1</name>
+      <description>KM 779.1</description>
+      <Point><coordinates>-65.098000,-26.880636</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>López Domínguez (Ap) KM 780.0</name>
+      <description>KM 780.0</description>
+      <Point><coordinates>-65.095289,-26.872863</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ingenio Luján (Ap) KM 782.1</name>
+      <description>KM 782.1</description>
+      <Point><coordinates>-65.089704,-26.854573</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Wenceslao Pose KM 782.9</name>
+      <description>KM 782.9</description>
+      <Point><coordinates>-65.088800,-26.847177</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ingenio Paraíso (Ap) KM 783.9</name>
+      <description>KM 783.9</description>
+      <Point><coordinates>-65.091177,-26.838832</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Méndez KM 786.7</name>
+      <description>KM 786.7</description>
+      <Point><coordinates>-65.086769,-26.813803</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCCA KM 787.0</name>
+      <description>KM 787.0</description>
+      <Point><coordinates>-65.086377,-26.811082</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Luisiana (Ap) KM 788.0</name>
+      <description>KM 788.0</description>
+      <Point><coordinates>-65.082980,-26.802845</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Guzmán KM 790.8</name>
+      <description>KM 790.8</description>
+      <Point><coordinates>-65.069754,-26.783275</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>triángulo Guzmán</name>
+      <LineString>
+        <coordinates>
+          -65.072227,-26.786646
+          -65.071865,-26.786391
+          -65.071566,-26.786319
+          -65.071185,-26.786300
+          -65.070870,-26.786365
+          -65.070447,-26.786569
+          -65.070132,-26.786754
+          -65.070485,-26.786550
+          -65.070666,-26.786374
+          -65.070808,-26.786183
+          -65.070893,-26.786000
+          -65.070965,-26.785753
+          -65.070972,-26.785499
+          -65.070924,-26.785194
+          -65.070853,-26.785019
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

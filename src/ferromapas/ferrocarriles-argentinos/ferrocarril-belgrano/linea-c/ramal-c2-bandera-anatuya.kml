@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C2: Bandera - Añatuya</name>
+    <description>Ramal C2: Bandera - Añatuya. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C2: Bandera - Añatuya</name>
+      <LineString>
+        <coordinates>
+          -62.270233,-28.883563
+          -62.270863,-28.882907
+          -62.271466,-28.882357
+          -62.272091,-28.881603
+          -62.272478,-28.880878
+          -62.272634,-28.880444
+          -62.272764,-28.879927
+          -62.272877,-28.879013
+          -62.272840,-28.878330
+          -62.272532,-28.877092
+          -62.231769,-28.747184
+          -62.230619,-28.743528
+          -62.229545,-28.741044
+          -62.228475,-28.738629
+          -62.227408,-28.734453
+          -62.224927,-28.726551
+          -62.187475,-28.606434
+          -62.179535,-28.582004
+          -62.179196,-28.581016
+          -62.178312,-28.579677
+          -62.111210,-28.471101
+          -62.101409,-28.455025
+          -62.101119,-28.454197
+          -62.100890,-28.453136
+          -62.100879,-28.452504
+          -62.101009,-28.451816
+          -62.101370,-28.450982
+          -62.101820,-28.450328
+          -62.102515,-28.449674
+          -62.103452,-28.449079
+          -62.105882,-28.448012
+          -62.223175,-28.396184
+          -62.224453,-28.395629
+          -62.225051,-28.395382
+          -62.225578,-28.395197
+          -62.226192,-28.395074
+          -62.226823,-28.394975
+          -62.228161,-28.394898
+          -62.267905,-28.394845
+          -62.391986,-28.394467
+          -62.425411,-28.394396
+          -62.427195,-28.394411
+          -62.428689,-28.394587
+          -62.429602,-28.394798
+          -62.520214,-28.417525
+          -62.587381,-28.434354
+          -62.589039,-28.434773
+          -62.589691,-28.434953
+          -62.590583,-28.435072
+          -62.624721,-28.435232
+          -62.669761,-28.435171
+          -62.732222,-28.435124
+          -62.773313,-28.435139
+          -62.774722,-28.435153
+          -62.775249,-28.435231
+          -62.775856,-28.435416
+          -62.776512,-28.435681
+          -62.819771,-28.455425
+          -62.820516,-28.455774
+          -62.821030,-28.456097
+          -62.821546,-28.456489
+          -62.821933,-28.456836
+          -62.827716,-28.462669
+          -62.827958,-28.462887
+          -62.828063,-28.462966
+          -62.828167,-28.463033
+          -62.828326,-28.463118
+          -62.828501,-28.463191
+          -62.828716,-28.463251
+          -62.828861,-28.463282
+          -62.829035,-28.463307
+          -62.829212,-28.463310
+          -62.829376,-28.463311
+          -62.829558,-28.463300
+          -62.829747,-28.463262
+          -62.829924,-28.463221
+          -62.830202,-28.463116
+          -62.830470,-28.462972
+          -62.830870,-28.462731
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Sanavirones KM 417.0</name>
+      <description>KM 417.0</description>
+      <Point><coordinates>-62.228802,-28.739339</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tomás Young KM 433.0</name>
+      <description>KM 433.0</description>
+      <Point><coordinates>-62.185154,-28.599227</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Juríes KM 450.0</name>
+      <description>KM 450.0</description>
+      <Point><coordinates>-62.106462,-28.463318</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme C2/C21</name>
+      <Point><coordinates>-62.103839,-28.459003</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tres Pozos KM 469.0</name>
+      <description>KM 469.0</description>
+      <Point><coordinates>-62.264678,-28.394855</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pozo Herrera KM 481.2</name>
+      <description>KM 481.2</description>
+      <Point><coordinates>-62.388883,-28.394465</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Malacara KM 493.9</name>
+      <description>KM 493.9</description>
+      <Point><coordinates>-62.515348,-28.416265</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Miel de Palo KM 504.7</name>
+      <description>KM 504.7</description>
+      <Point><coordinates>-62.625606,-28.435222</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme C2 /C20</name>
+      <Point><coordinates>-62.627454,-28.435221</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coronel Barros (Desv Pub) KM 508.9</name>
+      <description>KM 508.9</description>
+      <Point><coordinates>-62.668478,-28.435168</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 515 KM 515.1</name>
+      <description>KM 515.1</description>
+      <Point><coordinates>-62.731560,-28.435125</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo empalme C/C2</name>
+      <LineString>
+        <coordinates>
+          -62.827611,-28.462561
+          -62.827799,-28.462866
+          -62.827928,-28.463053
+          -62.828024,-28.463286
+          -62.828104,-28.463595
+          -62.828150,-28.463828
+          -62.828148,-28.464056
+          -62.828147,-28.464280
+          -62.828063,-28.464559
+          -62.827921,-28.464818
+          -62.827747,-28.465088
+          -62.827632,-28.465206
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

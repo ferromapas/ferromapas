@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal G2: Villa Madero - Mataderos</name>
+    <description>Ramal G2: Villa Madero - Mataderos. Dibujado por:
+Gino Nuñez
+Con actualizaciones de Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal G2: Villa Madero - Mataderos</name>
+      <LineString>
+        <coordinates>
+          -58.494177,-34.684551
+          -58.493307,-34.684233
+          -58.492716,-34.684052
+          -58.492378,-34.683948
+          -58.491811,-34.683810
+          -58.491518,-34.683761
+          -58.491263,-34.683731
+          -58.491001,-34.683661
+          -58.489419,-34.683233
+          -58.489038,-34.683094
+          -58.488639,-34.682910
+          -58.488305,-34.682723
+          -58.488090,-34.682565
+          -58.487832,-34.682322
+          -58.487827,-34.682317
+          -58.487556,-34.682051
+          -58.487425,-34.681869
+          -58.487338,-34.681641
+          -58.487240,-34.681395
+          -58.487187,-34.681139
+          -58.487162,-34.680909
+          -58.487181,-34.680562
+          -58.487226,-34.680249
+          -58.487344,-34.679851
+          -58.487511,-34.679262
+          -58.489172,-34.671649
+          -58.489362,-34.670964
+          -58.489526,-34.670182
+          -58.489751,-34.669499
+          -58.489968,-34.668974
+          -58.490246,-34.668417
+          -58.490576,-34.667974
+          -58.490864,-34.667651
+          -58.492622,-34.666272
+          -58.497985,-34.662049
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Mataderos (FCGB-CGBA) KM 2.4</name>
+      <Point><coordinates>-58.492727,-34.666203</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

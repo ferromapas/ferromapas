@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C3: Añatuya - Barranqueras</name>
+    <description>Ramal C3: Añatuya - Barranqueras. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+Gabriel Castelo (Desvío Charata)
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Jorge Mäntaras (Desvío Charata)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Folder>
+      <name>Ramal C3: Añatuya - Quimili</name>
+      <Placemark>
+        <name>Ramal C3: Añatuya - Quimili</name>
+        <LineString>
+          <coordinates>
+            -62.838173,-28.457065
+            -62.839264,-28.456081
+            -62.839586,-28.455752
+            -62.839888,-28.455401
+            -62.840200,-28.455024
+            -62.840448,-28.454702
+            -62.840654,-28.454386
+            -62.840859,-28.454049
+            -62.841022,-28.453731
+            -62.841204,-28.453401
+            -62.841316,-28.453144
+            -62.841392,-28.452930
+            -62.841463,-28.452729
+            -62.841586,-28.452317
+            -62.841686,-28.451938
+            -62.841744,-28.451714
+            -62.841786,-28.451401
+            -62.841823,-28.451144
+            -62.841871,-28.450810
+            -62.841889,-28.450575
+            -62.841910,-28.450197
+            -62.841903,-28.449692
+            -62.841873,-28.449333
+            -62.841860,-28.449123
+            -62.841814,-28.448841
+            -62.841774,-28.448578
+            -62.841738,-28.448368
+            -62.841666,-28.448125
+            -62.841498,-28.447534
+            -62.841318,-28.447016
+            -62.841222,-28.446781
+            -62.841109,-28.446501
+            -62.840971,-28.446152
+            -62.840958,-28.446147
+            -62.779793,-28.293971
+            -62.758583,-28.241822
+            -62.748167,-28.215358
+            -62.747593,-28.214016
+            -62.706527,-28.138420
+            -62.694890,-28.117031
+            -62.694871,-28.117048
+            -62.612289,-27.965062
+            -62.531794,-27.816138
+            -62.520382,-27.799787
+            -62.517181,-27.795087
+            -62.514911,-27.792002
+            -62.412731,-27.644313
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Empalme C/C3 KM 473.3</name>
+        <description>KM 473.3</description>
+        <Point><coordinates>-62.838175,-28.457064</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Nasaló (Emb.) KM 492.7</name>
+        <description>KM 492.7</description>
+        <Point><coordinates>-62.779340,-28.292807</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 499 (Ap.) KM 498.6</name>
+        <description>KM 498.6</description>
+        <Point><coordinates>-62.758856,-28.242502</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobas KM 512.7</name>
+        <description>KM 512.7</description>
+        <Point><coordinates>-62.700285,-28.126978</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Vilelas KM 532.7</name>
+        <description>KM 532.7</description>
+        <Point><coordinates>-62.611830,-27.964294</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 546 (Ap) KM 545.6</name>
+        <description>KM 546.6</description>
+        <Point><coordinates>-62.555120,-27.859356</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Puna KM 552.7</name>
+        <description>KM 552.7</description>
+        <Point><coordinates>-62.522195,-27.802376</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme C3/C4 KM 553.4</name>
+        <description>KM 553.4</description>
+        <Point><coordinates>-62.518413,-27.796957</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Quimilí KM 572.8</name>
+        <description>KM 572.8</description>
+        <Point><coordinates>-62.415652,-27.648536</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme C3/C5 KM 573.3</name>
+        <description>KM 573.3</description>
+        <Point><coordinates>-62.412734,-27.644317</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ramal C3: Quimili - Avia Terai</name>
+      <Placemark>
+        <name>Ramal C3: Quimili - Avia Terai</name>
+        <LineString>
+          <coordinates>
+            -62.412734,-27.644314
+            -62.412318,-27.643878
+            -62.409555,-27.640018
+            -62.408942,-27.639504
+            -62.408260,-27.639088
+            -62.407524,-27.638777
+            -62.406705,-27.638507
+            -62.406076,-27.638473
+            -62.405377,-27.638475
+            -62.404415,-27.638634
+            -62.403022,-27.639125
+            -62.391053,-27.645694
+            -62.389705,-27.646224
+            -62.388226,-27.646646
+            -62.387200,-27.646801
+            -62.386519,-27.646872
+            -62.385605,-27.646915
+            -62.382002,-27.646585
+            -62.175598,-27.620202
+            -61.948655,-27.593414
+            -61.940724,-27.592522
+            -61.939962,-27.592425
+            -61.938822,-27.592253
+            -61.937067,-27.591956
+            -61.936047,-27.591700
+            -61.935244,-27.591530
+            -61.933676,-27.590969
+            -61.930238,-27.589683
+            -61.704391,-27.511173
+            -61.703547,-27.510794
+            -61.702662,-27.510276
+            -61.701846,-27.509718
+            -61.701257,-27.509157
+            -61.700754,-27.508646
+            -61.700135,-27.507904
+            -61.691059,-27.494743
+            -61.690595,-27.494168
+            -61.690209,-27.493722
+            -61.689629,-27.493194
+            -61.688928,-27.492574
+            -61.688409,-27.492196
+            -61.687506,-27.491700
+            -61.686424,-27.491195
+            -61.685084,-27.490672
+            -61.671586,-27.485986
+            -61.481834,-27.421480
+            -61.472481,-27.418296
+            -61.326109,-27.368443
+            -61.325624,-27.368292
+            -61.325129,-27.368117
+            -61.324672,-27.367923
+            -61.324223,-27.367695
+            -61.323948,-27.367524
+            -61.323696,-27.367391
+            -61.323376,-27.367201
+            -61.323108,-27.367008
+            -61.322853,-27.366834
+            -61.322678,-27.366697
+            -61.322413,-27.366492
+            -61.322178,-27.366269
+            -61.321966,-27.366088
+            -61.321765,-27.365884
+            -61.321606,-27.365728
+            -61.321425,-27.365537
+            -61.321105,-27.365201
+            -61.301243,-27.342075
+            -61.295204,-27.335031
+            -61.283585,-27.321561
+            -61.273196,-27.309503
+            -61.273213,-27.309516
+            -61.273214,-27.309520
+            -61.195731,-27.219673
+            -61.186748,-27.209221
+            -61.094996,-27.102495
+            -61.078439,-27.083141
+            -61.021592,-27.016671
+            -61.013660,-27.007149
+            -60.972467,-26.959103
+            -60.966443,-26.952031
+            -60.911713,-26.887721
+            -60.905126,-26.879957
+            -60.845170,-26.809209
+            -60.837842,-26.800526
+            -60.748138,-26.694082
+            -60.745040,-26.690411
+            -60.744814,-26.690171
+            -60.744658,-26.690038
+            -60.744559,-26.689950
+            -60.744312,-26.689757
+            -60.744063,-26.689587
+            -60.743842,-26.689454
+            -60.743633,-26.689333
+            -60.743408,-26.689240
+            -60.743160,-26.689140
+            -60.742937,-26.689061
+            -60.742757,-26.689011
+            -60.742442,-26.688929
+            -60.742116,-26.688863
+            -60.741796,-26.688830
+            -60.741634,-26.688823
+            -60.741316,-26.688812
+            -60.740939,-26.688828
+            -60.740740,-26.688849
+            -60.740412,-26.688898
+            -60.740164,-26.688953
+            -60.739900,-26.689021
+            -60.739664,-26.689095
+            -60.737991,-26.689654
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Empalme C/C3 KM 473.3</name>
+        <description>KM 473.3</description>
+        <Point><coordinates>-62.838175,-28.457064</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Girardet KM 597.3</name>
+        <description>KM 597.3</description>
+        <Point><coordinates>-62.166811,-27.619083</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Roversi KM 619.5</name>
+        <description>KM 619.5</description>
+        <Point><coordinates>-61.945375,-27.593043</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme C3/C24 KM 619.9</name>
+        <description>KM 619.9</description>
+        <Point><coordinates>-61.941592,-27.592627</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>La Paloma (Emb) KM 629.3</name>
+        <description>KM 629.3</description>
+        <Point><coordinates>-61.851984,-27.562554</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Gancedo KM 648.5</name>
+        <description>KM 648.5</description>
+        <Point><coordinates>-61.679897,-27.488869</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 650 (Bomba) KM 649.9</name>
+        <description>KM 649.9</description>
+        <Point><coordinates>-61.666757,-27.484342</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>General Capdevilla KM 670.0</name>
+        <description>KM 670.0</description>
+        <Point><coordinates>-61.476978,-27.419826</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>General Pinedo (Ap) KM 690.3</name>
+        <description>KM 690.3</description>
+        <Point><coordinates>-61.298161,-27.338491</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme C3/C6 KM 692.5</name>
+        <description>KM 692.5</description>
+        <Point><coordinates>-61.284715,-27.322881</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Triángulo General Pinedo</name>
+        <LineString>
+          <coordinates>
+            -61.294920,-27.334805
+            -61.295812,-27.336121
+            -61.296150,-27.336638
+            -61.296246,-27.336921
+            -61.296263,-27.337138
+            -61.296210,-27.337566
+            -61.296117,-27.337869
+            -61.295730,-27.338469
+            -61.295100,-27.338932
+            -61.295748,-27.338462
+            -61.296029,-27.338369
+            -61.296462,-27.338277
+            -61.296823,-27.338260
+            -61.297237,-27.338322
+            -61.297563,-27.338415
+            -61.297741,-27.338555
+            -61.299166,-27.339976
+            -61.299951,-27.340842
+            -61.301096,-27.341960
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>General Pinedo KM 693.2</name>
+        <description>KM 693.2</description>
+        <Point><coordinates>-61.280225,-27.317683</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Playa General Pinedo</name>
+        <LineString>
+          <coordinates>
+            -61.273496,-27.309849
+            -61.273807,-27.310313
+            -61.274069,-27.310681
+            -61.274191,-27.310945
+            -61.274294,-27.311188
+            -61.274343,-27.311442
+            -61.274365,-27.311651
+            -61.274358,-27.311889
+            -61.274302,-27.312142
+            -61.274210,-27.312405
+            -61.274094,-27.312622
+            -61.273916,-27.312834
+            -61.273763,-27.312979
+            -61.273546,-27.313152
+            -61.273154,-27.313445
+            -61.272936,-27.313596
+            -61.273498,-27.313200
+            -61.273749,-27.313047
+            -61.274069,-27.312894
+            -61.274360,-27.312801
+            -61.274634,-27.312767
+            -61.274896,-27.312766
+            -61.275139,-27.312780
+            -61.275345,-27.312810
+            -61.275581,-27.312872
+            -61.275862,-27.312992
+            -61.276068,-27.313113
+            -61.276257,-27.313236
+            -61.276422,-27.313390
+            -61.276651,-27.313656
+            -61.277932,-27.315113
+            -61.279699,-27.317232
+            -61.281349,-27.319112
+            -61.282571,-27.320493
+            -61.283602,-27.321580
+            -61.282913,-27.320945
+            -61.282312,-27.320343
+            -61.281289,-27.319224
+            -61.279534,-27.317161
+            -61.277945,-27.315291
+            -61.277018,-27.314164
+            -61.276314,-27.313266
+            -61.275666,-27.312504
+            -61.274201,-27.310783
+            -61.273929,-27.310470
+            -61.274672,-27.311481
+            -61.275880,-27.312888
+            -61.276388,-27.313361
+            -61.276924,-27.314163
+            -61.278493,-27.316163
+            -61.281076,-27.319162
+            -61.282177,-27.320314
+            -61.283420,-27.321405
+            -61.282313,-27.320533
+            -61.282014,-27.320353
+            -61.281696,-27.320207
+            -61.281326,-27.319977
+            -61.280972,-27.319628
+            -61.279263,-27.317687
+            -61.277450,-27.315507
+            -61.276517,-27.314454
+            -61.277318,-27.315351
+            -61.276913,-27.314483
+            -61.277024,-27.314452
+            -61.277496,-27.315555
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Folder>
+        <name>Desvios Charata</name>
+        <description>Desvios Charata. Dibujado por:
+Gabriel Castelo
+
+Fuente: 
+- Jorge Mäntaras
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+        <Placemark>
+          <name>Desvios Charata</name>
+          <LineString>
+            <coordinates>
+              -61.186055,-27.229398
+              -61.185546,-27.229782
+              -61.185170,-27.230081
+              -61.184752,-27.230358
+              -61.184719,-27.230372
+              -61.184368,-27.230599
+              -61.184145,-27.230661
+              -61.183851,-27.230639
+              -61.183474,-27.230631
+              -61.183184,-27.230450
+              -61.182835,-27.230085
+              -61.182647,-27.229761
+              -61.182678,-27.229529
+              -61.182816,-27.229255
+              -61.183084,-27.229006
+              -61.183365,-27.228873
+              -61.183637,-27.228806
+              -61.184004,-27.228834
+              -61.184468,-27.228944
+              -61.184954,-27.229186
+              -61.185507,-27.229351
+              -61.185747,-27.229416
+              -61.186030,-27.229363
+              -61.186212,-27.229306
+              -61.186536,-27.229055
+              -61.186809,-27.228879
+              -61.187070,-27.228770
+              -61.187225,-27.228735
+              -61.187818,-27.228654
+              -61.189114,-27.228630
+              -61.189762,-27.228613
+              -61.190034,-27.228554
+              -61.190046,-27.228549
+              -61.190064,-27.228547
+              -61.190277,-27.228428
+              -61.191407,-27.227655
+              -61.193765,-27.226034
+              -61.197893,-27.223181
+              -61.198027,-27.222998
+              -61.198059,-27.222846
+              -61.198018,-27.222479
+              -61.197942,-27.222259
+              -61.197888,-27.222171
+            </coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Desvios Charata</name>
+          <LineString>
+            <coordinates>
+              -61.193842,-27.229702
+              -61.195925,-27.228298
+              -61.198233,-27.226641
+              -61.199427,-27.225779
+              -61.199734,-27.225375
+              -61.199836,-27.224962
+              -61.199831,-27.224659
+              -61.199733,-27.224381
+              -61.199636,-27.224206
+              -61.194645,-27.218438
+            </coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>Charata KM 707.6</name>
+        <description>KM 707.6</description>
+        <Point><coordinates>-61.191783,-27.215074</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Pampa del Cielo (Emb) KM 715.8</name>
+        <description>KM 715.8</description>
+        <Point><coordinates>-61.140947,-27.155983</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Breñas KM 725.1</name>
+        <description>KM 725.1</description>
+        <Point><coordinates>-61.084054,-27.089712</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Pozo del Indio (DC) KM 735.8</name>
+        <description>KM 735.8</description>
+        <Point><coordinates>-61.018364,-27.012810</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Corzuela KM 743.8</name>
+        <description>KM 743.8</description>
+        <Point><coordinates>-60.969565,-26.955707</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Fortín Las Chuñas (DC) KM 753.8</name>
+        <description>KM 753.8</description>
+        <Point><coordinates>-60.908781,-26.884181</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Campo Largo KM 764.8</name>
+        <description>KM 764.8</description>
+        <Point><coordinates>-60.841665,-26.805041</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme C12/C3 KM 1473.4(C12) KM 781.9(C3)</name>
+        <description>KM 1473.4(C12) KM 781.9(C3)</description>
+        <Point><coordinates>-60.737984,-26.689657</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Avia Terai KM 781.9</name>
+        <description>KM 781.9</description>
+        <Point><coordinates>-60.733716,-26.691036</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Vía Empalme C3/C12 Avia Terai</name>
+        <LineString>
+          <coordinates>
+            -60.747807,-26.693673
+            -60.747544,-26.693295
+            -60.747398,-26.692994
+            -60.747281,-26.692687
+            -60.747227,-26.692421
+            -60.747205,-26.692157
+            -60.747218,-26.691868
+            -60.747529,-26.687461
+            -60.747577,-26.687188
+            -60.747636,-26.686985
+            -60.747747,-26.686709
+            -60.747844,-26.686495
+            -60.747978,-26.686278
+            -60.748171,-26.686058
+            -60.748375,-26.685848
+            -60.748559,-26.685699
+            -60.748798,-26.685520
+            -60.749147,-26.685338
+            -60.749467,-26.685180
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ramal C3: Avia Terai - Pres. Roque Saenz Peña</name>
+      <Placemark>
+        <name>Ramal C3: Avia Terai - Pres. Roque Saenz Peña</name>
+        <LineString>
+          <coordinates>
+            -60.749611,-26.685123
+            -60.747435,-26.685988
+            -60.743812,-26.687486
+            -60.742762,-26.687902
+            -60.741622,-26.688321
+            -60.740398,-26.688769
+            -60.738030,-26.689642
+            -60.733233,-26.691322
+            -60.729495,-26.692617
+            -60.730758,-26.692254
+            -60.731786,-26.691911
+            -60.735584,-26.690605
+            -60.737991,-26.689652
+            -60.736853,-26.690189
+            -60.736043,-26.690521
+            -60.735071,-26.690907
+            -60.733299,-26.691508
+            -60.731962,-26.691979
+            -60.731942,-26.691992
+            -60.731291,-26.692188
+            -60.729464,-26.692627
+            -60.728040,-26.693115
+            -60.724551,-26.694354
+            -60.721542,-26.695439
+            -60.719848,-26.696023
+            -60.717073,-26.697021
+            -60.710600,-26.699312
+            -60.709201,-26.699804
+            -60.702430,-26.702207
+            -60.694263,-26.705115
+            -60.691507,-26.706085
+            -60.686526,-26.707851
+            -60.677104,-26.711161
+            -60.675025,-26.711902
+            -60.670258,-26.713588
+            -60.664520,-26.715622
+            -60.658415,-26.717769
+            -60.655933,-26.718655
+            -60.650435,-26.720602
+            -60.648406,-26.721329
+            -60.645161,-26.722459
+            -60.640220,-26.724211
+            -60.622952,-26.730247
+            -60.613768,-26.733463
+            -60.601339,-26.737901
+            -60.589387,-26.742138
+            -60.556563,-26.753756
+            -60.543468,-26.758297
+            -60.523336,-26.765538
+            -60.504790,-26.772098
+            -60.492174,-26.776551
+            -60.483517,-26.779594
+            -60.469963,-26.784380
+            -60.457557,-26.788741
+            -60.448382,-26.792002
+            -60.436728,-26.796219
+            -60.435831,-26.796503
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Napenay KM 794.3</name>
+        <description>KM 794.3</description>
+        <Point><coordinates>-60.616599,-26.732492</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Presidencia Roque Sáenz Peña KM 813.2</name>
+        <description>KM 813.2</description>
+        <Point><coordinates>-60.441085,-26.794641</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme C3/C26 KM 813.7</name>
+        <description>813.7</description>
+        <Point><coordinates>-60.435835,-26.796503</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ramal C3: Pres. Roque Saez Peña - Empalme F20</name>
+      <Placemark>
+        <name>Ramal C3: Pres. Roque Saez Peña - Empalme F20</name>
+        <LineString>
+          <coordinates>
+            -60.435831,-26.796501
+            -60.425766,-26.800025
+            -60.317697,-26.837709
+            -60.220995,-26.871928
+            -60.211758,-26.875174
+            -60.133827,-26.902542
+            -60.124579,-26.905776
+            -60.054570,-26.930558
+            -60.047669,-26.932979
+            -59.946189,-26.968377
+            -59.935020,-26.972276
+            -59.847818,-27.002717
+            -59.838354,-27.006015
+            -59.778695,-27.026787
+            -59.768597,-27.030295
+            -59.654886,-27.069893
+            -59.645795,-27.073159
+            -59.471747,-27.133116
+            -59.463574,-27.135919
+            -59.391372,-27.160672
+            -59.382135,-27.163833
+            -59.313868,-27.187189
+            -59.313445,-27.187364
+            -59.313096,-27.187529
+            -59.312742,-27.187708
+            -59.312388,-27.187901
+            -59.312087,-27.188080
+            -59.311757,-27.188299
+            -59.311457,-27.188511
+            -59.311020,-27.188850
+            -59.310459,-27.189336
+            -59.293471,-27.204455
+            -59.286438,-27.210715
+            -59.253350,-27.240105
+            -59.252805,-27.240592
+            -59.252531,-27.240829
+            -59.252115,-27.241148
+            -59.237364,-27.252479
+            -59.229796,-27.258265
+            -59.222374,-27.264074
+            -59.221714,-27.264616
+            -59.221028,-27.265276
+            -59.220055,-27.266226
+            -59.186656,-27.299204
+            -59.184838,-27.300865
+            -59.122846,-27.355868
+            -59.115803,-27.362118
+            -59.095101,-27.380463
+            -59.092517,-27.382748
+            -59.087853,-27.386880
+            -59.075006,-27.398257
+            -59.074701,-27.398579
+            -59.074507,-27.398827
+            -59.074236,-27.399170
+            -59.074056,-27.399429
+            -59.073914,-27.399667
+            -59.073804,-27.399864
+            -59.073543,-27.400354
+            -59.073396,-27.400744
+            -59.073019,-27.401721
+            -59.072880,-27.402051
+            -59.072758,-27.402274
+            -59.072619,-27.402506
+            -59.072496,-27.402686
+            -59.072214,-27.403059
+            -59.071991,-27.403279
+            -59.071584,-27.403613
+            -59.071329,-27.403795
+            -59.071096,-27.403929
+            -59.070687,-27.404118
+            -59.050650,-27.412902
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>La Chiquita (Emb) KM 826.4</name>
+        <description>KM 826.4</description>
+        <Point><coordinates>-60.317191,-26.837898</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Quitilipi KM 837.2</name>
+        <description>KM 837.2</description>
+        <Point><coordinates>-60.216568,-26.873478</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Napalpí KM 846.4</name>
+        <description>KM 846.4</description>
+        <Point><coordinates>-60.129540,-26.904039</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Machagai KM 854.8</name>
+        <description>KM 854.8</description>
+        <Point><coordinates>-60.051227,-26.931796</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Guayaibí (Emb) KM 866.6</name>
+        <description>KM 866.6</description>
+        <Point><coordinates>-59.940664,-26.970309</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Presidencia de la Plaza KM 877.0</name>
+        <description>KM 877.0</description>
+        <Point><coordinates>-59.843213,-27.004315</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Fortín Chajá KM 884.4</name>
+        <description>KM 884.4</description>
+        <Point><coordinates>-59.773982,-27.028428</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Fortín Aguilar (Emb) KM 897.5</name>
+        <description>KM 897.5</description>
+        <Point><coordinates>-59.650620,-27.071423</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>La Escondida (Emb) KM 916.8</name>
+        <description>KM 916.8</description>
+        <Point><coordinates>-59.468519,-27.134209</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruce C3/F19 KM 924.582 (C3) / KM 539.7 (F19)</name>
+        <description>Ramal C3: KM 924.582
+Ramal F19: KM 539.7</description>
+        <Point><coordinates>-59.395086,-27.159404</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme C3/F19 KM 924.2?</name>
+        <description>KM 924.2</description>
+        <Point><coordinates>-59.391286,-27.160705</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Lapachito KM 925.5</name>
+        <description>KM 925.5</description>
+        <Point><coordinates>-59.386998,-27.162164</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Makallé KM 936.5</name>
+        <description>KM 936.5</description>
+        <Point><coordinates>-59.290110,-27.207435</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Laguna Blanca KM 944.2</name>
+        <description>KM 944.2</description>
+        <Point><coordinates>-59.233862,-27.255157</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tirol (DC) KM 960.3</name>
+        <description>KM 960.3</description>
+        <Point><coordinates>-59.119485,-27.358845</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruce FC Quebrachales Fusionados SA KM 964 KM 963.7</name>
+        <description>KM 963.7</description>
+        <Point><coordinates>-59.095006,-27.380540</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme a Puerto Tirol KM 964.0</name>
+        <description>KM 964.0</description>
+        <Point><coordinates>-59.092683,-27.382615</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Coronel Avalos (Desv. Part) KM 964.2</name>
+        <description>KM 964.2</description>
+        <Point><coordinates>-59.091429,-27.383700</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruce C3/F20 KM 966.856(C3) / KM 545.9 (F)</name>
+        <description>Ramal C3: KM 966.856
+Línea F: KM 545.9</description>
+        <Point><coordinates>-59.073161,-27.401358</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme C3/F KM 969.5(C3) KM 546.5 (F)</name>
+        <description>Ramal C3: KM 969.5
+Línea F: KM 546.5</description>
+        <Point><coordinates>-59.050654,-27.412902</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ramal C3: Puerto Tirol - Resistencia - Barranqueras</name>
+      <Placemark>
+        <name>Ramal C3: Puerto Tirol - Resistencia - Barranqueras</name>
+        <LineString>
+          <coordinates>
+            -59.050652,-27.412901
+            -59.040652,-27.417256
+            -59.040240,-27.417434
+            -59.039730,-27.417668
+            -59.039259,-27.417906
+            -59.038907,-27.418103
+            -59.038582,-27.418306
+            -59.038256,-27.418542
+            -59.038033,-27.418713
+            -59.037516,-27.419139
+            -59.036991,-27.419602
+            -59.034514,-27.421795
+            -59.034298,-27.421979
+            -59.034114,-27.422129
+            -59.033926,-27.422262
+            -59.033743,-27.422370
+            -59.033439,-27.422538
+            -59.033106,-27.422680
+            -59.032366,-27.423012
+            -59.023005,-27.427261
+            -59.022754,-27.427387
+            -59.022414,-27.427556
+            -59.022106,-27.427725
+            -59.021783,-27.427918
+            -59.021443,-27.428146
+            -59.021171,-27.428334
+            -59.020904,-27.428531
+            -59.020621,-27.428768
+            -59.019449,-27.429794
+            -58.984728,-27.460477
+            -58.976460,-27.467807
+            -58.939094,-27.500831
+            -58.938329,-27.501496
+            -58.938182,-27.501619
+            -58.938053,-27.501722
+            -58.937898,-27.501849
+            -58.937754,-27.501930
+            -58.937540,-27.502051
+            -58.937413,-27.502108
+            -58.937192,-27.502194
+            -58.937015,-27.502252
+            -58.936752,-27.502324
+            -58.936511,-27.502365
+            -58.936333,-27.502381
+            -58.936075,-27.502386
+            -58.935819,-27.502380
+            -58.935616,-27.502364
+            -58.935371,-27.502318
+            -58.935195,-27.502269
+            -58.935008,-27.502214
+            -58.934827,-27.502142
+            -58.934618,-27.502055
+            -58.934432,-27.501959
+            -58.934228,-27.501831
+            -58.934086,-27.501720
+            -58.933931,-27.501592
+            -58.933820,-27.501487
+            -58.933741,-27.501399
+            -58.933645,-27.501291
+            -58.933519,-27.501122
+            -58.928936,-27.494610
+            -58.928841,-27.494516
+            -58.928677,-27.494415
+            -58.928177,-27.494096
+            -58.927996,-27.493938
+            -58.927844,-27.493798
+            -58.927685,-27.493637
+            -58.927549,-27.493452
+            -58.927409,-27.493261
+            -58.927020,-27.492574
+            -58.926438,-27.491501
+            -58.926163,-27.491012
+            -58.925366,-27.489835
+            -58.923695,-27.487399
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Depósito SEFECHA - Cacui</name>
+        <Point><coordinates>-59.048229,-27.414181</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cacui (CNA) KM 970.1 (C3) / KM 549.1 (Fontana)</name>
+        <description>Ramal C3: KM 970.1
+Línea F: KM 549.1</description>
+        <Point><coordinates>-59.045214,-27.415268</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 976 (Desv. Part) KM 976.1</name>
+        <description>KM 976.1</description>
+        <Point><coordinates>-58.998465,-27.448344</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 977 (Desv. Part) KM 976.9</name>
+        <description>KM 976.9</description>
+        <Point><coordinates>-58.992714,-27.453429</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Resistencia (CNA) KM 978.5</name>
+        <description>KM 978.5</description>
+        <Point><coordinates>-58.980998,-27.463795</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 980 (Desv. Part.) KM 980.6</name>
+        <description>KM 980.6</description>
+        <Point><coordinates>-58.965934,-27.477127</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 981 (Desv. Part.) KM 981.1</name>
+        <description>KM 981.1</description>
+        <Point><coordinates>-58.962188,-27.480429</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 983 (Desv. Part.) KM 983.1</name>
+        <description>KM 983.1</description>
+        <Point><coordinates>-58.947936,-27.493027</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 984 (Empalme) KM 983.9</name>
+        <description>KM 983.9</description>
+        <Point><coordinates>-58.941796,-27.498437</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 984 (Emb.) KM 984.2</name>
+        <description>KM 984.2</description>
+        <Point><coordinates>-58.939998,-27.500037</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Ramal C3 - Vieja traza al puerto</name>
+        <LineString>
+          <coordinates>
+            -58.941808,-27.498439
+            -58.940995,-27.498977
+            -58.940356,-27.499330
+            -58.940028,-27.499509
+            -58.939519,-27.499697
+            -58.938872,-27.499898
+            -58.938188,-27.500029
+            -58.937583,-27.500095
+            -58.937284,-27.500098
+            -58.935896,-27.499999
+            -58.935322,-27.499913
+            -58.934866,-27.499784
+            -58.934213,-27.499594
+            -58.933823,-27.499414
+            -58.933327,-27.499191
+            -58.932599,-27.498915
+            -58.932084,-27.498618
+            -58.931535,-27.498192
+            -58.931101,-27.497699
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Barranqueras (CNA) KM 986.4</name>
+        <description>KM 986.4</description>
+        <Point><coordinates>-58.924228,-27.487870</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 985 (Desv. Part) KM 985.2</name>
+        <description>KM 985.2</description>
+        <Point><coordinates>-58.930491,-27.496818</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Folder>
+</kml>

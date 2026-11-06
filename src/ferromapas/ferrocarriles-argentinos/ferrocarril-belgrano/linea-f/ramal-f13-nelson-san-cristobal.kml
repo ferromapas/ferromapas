@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal F13: Nelson - San Cristobal</name>
+    <description>Ramal F13: Nelson - San Cristobal. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal F13: Nelson - San Cristobal</name>
+      <LineString>
+        <coordinates>
+          -60.757645,-31.264567
+          -60.757577,-31.263430
+          -60.757636,-31.262821
+          -60.757871,-31.262187
+          -60.758051,-31.261545
+          -60.785053,-31.210383
+          -60.808113,-31.166448
+          -60.810317,-31.162303
+          -60.811816,-31.159401
+          -60.812283,-31.158436
+          -60.812764,-31.157532
+          -60.813165,-31.156907
+          -60.813617,-31.156236
+          -60.814049,-31.155722
+          -60.814691,-31.155035
+          -60.826507,-31.141540
+          -60.828500,-31.139308
+          -60.829333,-31.138397
+          -60.830042,-31.137782
+          -60.830683,-31.137324
+          -60.831563,-31.136803
+          -60.832558,-31.136289
+          -60.833274,-31.135971
+          -60.834371,-31.135659
+          -60.845797,-31.132665
+          -60.847425,-31.132219
+          -60.876884,-31.126436
+          -60.877706,-31.126272
+          -60.878337,-31.126086
+          -60.878881,-31.125823
+          -60.879726,-31.125276
+          -60.880186,-31.124874
+          -60.880561,-31.124442
+          -60.880978,-31.123853
+          -60.881315,-31.123155
+          -60.882169,-31.120799
+          -60.883752,-31.116124
+          -60.918975,-31.014240
+          -60.920560,-31.009700
+          -60.923866,-31.000263
+          -60.924441,-30.998296
+          -60.924817,-30.996788
+          -60.937347,-30.943348
+          -60.938053,-30.940752
+          -60.938314,-30.939839
+          -60.939549,-30.937285
+          -60.972450,-30.877958
+          -60.973186,-30.876506
+          -60.973458,-30.875773
+          -60.973652,-30.875094
+          -60.973782,-30.874481
+          -60.974108,-30.873091
+          -60.974230,-30.871645
+          -60.974210,-30.870833
+          -60.974126,-30.870143
+          -60.973042,-30.865464
+          -60.972889,-30.864538
+          -60.972885,-30.863570
+          -60.973051,-30.862550
+          -60.973300,-30.861372
+          -60.973595,-30.860400
+          -60.974223,-30.858921
+          -61.048937,-30.698273
+          -61.052001,-30.691626
+          -61.059970,-30.674464
+          -61.060880,-30.672521
+          -61.061358,-30.671591
+          -61.061838,-30.670860
+          -61.062310,-30.670224
+          -61.062903,-30.669606
+          -61.177812,-30.550941
+          -61.178665,-30.549886
+          -61.179279,-30.548895
+          -61.180944,-30.545492
+          -61.183160,-30.540998
+          -61.186204,-30.534755
+          -61.186467,-30.534011
+          -61.186696,-30.533175
+          -61.188744,-30.518044
+          -61.192084,-30.493930
+          -61.192218,-30.493051
+          -61.192435,-30.492021
+          -61.194894,-30.481940
+          -61.211626,-30.411979
+          -61.222799,-30.366767
+          -61.231757,-30.330569
+          -61.232177,-30.329155
+          -61.234878,-30.322744
+          -61.234939,-30.322559
+          -61.234988,-30.322389
+          -61.235079,-30.322046
+          -61.235073,-30.321851
+          -61.235048,-30.321650
+          -61.234962,-30.321377
+          -61.234902,-30.321216
+          -61.234819,-30.321064
+          -61.234728,-30.320964
+          -61.234593,-30.320832
+          -61.234455,-30.320715
+          -61.229827,-30.316733
+          -61.229229,-30.316177
+          -61.228793,-30.315750
+          -61.228473,-30.315377
+          -61.228077,-30.314902
+          -61.227838,-30.314513
+          -61.227563,-30.313880
+          -61.227107,-30.312434
+          -61.226456,-30.310003
+          -61.225868,-30.307659
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Lassaga KM 49.8</name>
+      <description>KM 49.8</description>
+      <Point><coordinates>-60.785035,-31.210428</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Río Salado KM 54.9</name>
+      <description>KM 54.9</description>
+      <Point><coordinates>-60.809155,-31.164465</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pericota KM 64.8</name>
+      <description>KM 64.8</description>
+      <Point><coordinates>-60.883109,-31.118121</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>María Luisa KM 76.6</name>
+      <description>KM 76.6</description>
+      <Point><coordinates>-60.919750,-31.011515</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme F10 / F13</name>
+      <LineString>
+        <coordinates>
+          -60.971228,-30.880179
+          -60.971565,-30.879671
+          -60.971971,-30.879062
+          -60.972255,-30.878732
+          -60.972624,-30.878301
+          -60.972975,-30.878000
+          -60.973495,-30.877760
+          -60.973937,-30.877657
+          -60.974366,-30.877634
+          -60.974827,-30.877714
+          -60.975244,-30.877880
+          -60.975648,-30.878073
+          -60.975914,-30.878340
+          -60.976057,-30.878546
+          -60.976183,-30.878814
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>La Pelada KM 109.5 (F10) / KM 98.5 (F13)</name>
+      <description>Ramal F10: KM 109.5
+Ramal F13: KM 98.5</description>
+      <Point><coordinates>-60.973549,-30.867672</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Elisa KM 114.0</name>
+      <description>KM 114.0</description>
+      <Point><coordinates>-61.050333,-30.695299</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Clara KM 185.2</name>
+      <description>KM 185.2</description>
+      <Point><coordinates>-61.182029,-30.543372</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 150 (Dv) KM 150.0</name>
+      <description>KM 150.0</description>
+      <Point><coordinates>-61.211506,-30.412562</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce C / F2 / F13 KM 194.761 (C) / KM 198.1 (F2) / KM 160.4 (F13)</name>
+      <description>Línea C: KM 194.761
+Ramal F2: KM 198.1
+Ramal F13: KM 160.4</description>
+      <Point><coordinates>-61.234456,-30.320717</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Cristobal (FCSF) KM 199.6 (F2) / KM 161.9 (F13)</name>
+      <description>Ramal F2: KM 199.6
+Ramal F13: KM 161.9</description>
+      <Point><coordinates>-61.226456,-30.309896</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramal F13: Empalme a San Cristoban CNA</name>
+      <LineString>
+        <coordinates>
+          -61.234882,-30.322732
+          -61.235513,-30.321090
+          -61.236459,-30.318776
+          -61.236884,-30.317614
+          -61.237053,-30.316784
+          -61.237119,-30.316159
+          -61.237114,-30.315808
+          -61.237027,-30.315200
+          -61.236994,-30.314885
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

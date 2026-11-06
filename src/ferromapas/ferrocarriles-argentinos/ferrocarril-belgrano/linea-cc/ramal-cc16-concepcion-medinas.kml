@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC16: Concepcion - Medinas</name>
+    <description>Ramal CC16: Concepcion - Medinas. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal CC16: Concepcion - Medinas</name>
+      <LineString>
+        <coordinates>
+          -65.587594,-27.344652
+          -65.588117,-27.346433
+          -65.588679,-27.348368
+          -65.588755,-27.348677
+          -65.588794,-27.348898
+          -65.588817,-27.349105
+          -65.588824,-27.349289
+          -65.588694,-27.350991
+          -65.588550,-27.352317
+          -65.588525,-27.352515
+          -65.588476,-27.352727
+          -65.588363,-27.353026
+          -65.588145,-27.353642
+          -65.587973,-27.354019
+          -65.587894,-27.354166
+          -65.587687,-27.354517
+          -65.587398,-27.354948
+          -65.587099,-27.355359
+          -65.586728,-27.355798
+          -65.586263,-27.356274
+          -65.582906,-27.359609
+          -65.575173,-27.367010
+          -65.567067,-27.374962
+          -65.566811,-27.375196
+          -65.566667,-27.375335
+          -65.566562,-27.375399
+          -65.566337,-27.375522
+          -65.565287,-27.376131
+          -65.555727,-27.380615
+          -65.554810,-27.381073
+          -65.554513,-27.381227
+          -65.554347,-27.381341
+          -65.554150,-27.381527
+          -65.553708,-27.381986
+          -65.553468,-27.382272
+          -65.553282,-27.382510
+          -65.553157,-27.382786
+          -65.548995,-27.393107
+          -65.548771,-27.393618
+          -65.548664,-27.393819
+          -65.548287,-27.394315
+          -65.548040,-27.394583
+          -65.547741,-27.394859
+          -65.547489,-27.395073
+          -65.547155,-27.395307
+          -65.546827,-27.395509
+          -65.536040,-27.402359
+          -65.535708,-27.402620
+          -65.535479,-27.402823
+          -65.535287,-27.403033
+          -65.535116,-27.403248
+          -65.534982,-27.403448
+          -65.534837,-27.403720
+          -65.534696,-27.404034
+          -65.534592,-27.404315
+          -65.534514,-27.404593
+          -65.534445,-27.405074
+          -65.534308,-27.406126
+          -65.534287,-27.406719
+          -65.534340,-27.407136
+          -65.535913,-27.412239
+          -65.536085,-27.412931
+          -65.536163,-27.413279
+          -65.536197,-27.413673
+          -65.536310,-27.414561
+          -65.536725,-27.420216
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>San Ramón (Ap) KM 5.5</name>
+      <description>KM 5.5</description>
+      <Point><coordinates>-65.555519,-27.380714</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 7 (Ap) KM 7.3</name>
+      <description>KM 7.3</description>
+      <Point><coordinates>-65.547523,-27.395039</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 9 (Ap) KM 9.4</name>
+      <description>KM 9.4</description>
+      <Point><coordinates>-65.534537,-27.407777</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Medinas KM 10.7</name>
+      <description>KM 10.7</description>
+      <Point><coordinates>-65.536657,-27.419423</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

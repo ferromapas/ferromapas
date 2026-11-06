@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C10: Pacará - Termas de Rio Hondo</name>
+    <description>Ramal C10: Pacará - Termas de Rio Hondo. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C10: Pacará - Termas de Rio Hondo</name>
+      <LineString>
+        <coordinates>
+          -65.141735,-26.901309
+          -65.141545,-26.901333
+          -65.139013,-26.901414
+          -65.138716,-26.901438
+          -65.138336,-26.901558
+          -65.137923,-26.901798
+          -65.137450,-26.902143
+          -65.137172,-26.902420
+          -65.136939,-26.902704
+          -65.136770,-26.902993
+          -65.136653,-26.903331
+          -65.136567,-26.903640
+          -65.136514,-26.904086
+          -65.136572,-26.904588
+          -65.138264,-26.911694
+          -65.138269,-26.912132
+          -65.138233,-26.912393
+          -65.138155,-26.912765
+          -65.137984,-26.913138
+          -65.137794,-26.913423
+          -65.137594,-26.913669
+          -65.137287,-26.913939
+          -65.137006,-26.914174
+          -65.136660,-26.914355
+          -65.136202,-26.914518
+          -65.133635,-26.915026
+          -65.133191,-26.915146
+          -65.132858,-26.915257
+          -65.132545,-26.915400
+          -65.132263,-26.915577
+          -65.131985,-26.915784
+          -65.131743,-26.916014
+          -65.131569,-26.916241
+          -65.131428,-26.916448
+          -65.131312,-26.916666
+          -65.131212,-26.916883
+          -65.131141,-26.917110
+          -65.131103,-26.917388
+          -65.131093,-26.917609
+          -65.131078,-26.917896
+          -65.132472,-26.923895
+          -65.132726,-26.924255
+          -65.133108,-26.924695
+          -65.133486,-26.924998
+          -65.133797,-26.925187
+          -65.134315,-26.925422
+          -65.134661,-26.925528
+          -65.135057,-26.925601
+          -65.135441,-26.925611
+          -65.136038,-26.925550
+          -65.156865,-26.921464
+          -65.160634,-26.920709
+          -65.160890,-26.920659
+          -65.161132,-26.920610
+          -65.161360,-26.920581
+          -65.161601,-26.920576
+          -65.161892,-26.920593
+          -65.162126,-26.920614
+          -65.162418,-26.920665
+          -65.162739,-26.920718
+          -65.162970,-26.920784
+          -65.163161,-26.920851
+          -65.163351,-26.920941
+          -65.163492,-26.921021
+          -65.163656,-26.921135
+          -65.163813,-26.921251
+          -65.163982,-26.921401
+          -65.164091,-26.921526
+          -65.164263,-26.921721
+          -65.164428,-26.921972
+          -65.164566,-26.922213
+          -65.164698,-26.922609
+          -65.169873,-26.943606
+          -65.169984,-26.944005
+          -65.170124,-26.944421
+          -65.170247,-26.944815
+          -65.170418,-26.945222
+          -65.170631,-26.945544
+          -65.171732,-26.947087
+          -65.171924,-26.947352
+          -65.172114,-26.947628
+          -65.172359,-26.948013
+          -65.172538,-26.948351
+          -65.172717,-26.948712
+          -65.172874,-26.949181
+          -65.186483,-27.006966
+          -65.186620,-27.007421
+          -65.186879,-27.008101
+          -65.187131,-27.008659
+          -65.187393,-27.009206
+          -65.188521,-27.011042
+          -65.198378,-27.026672
+          -65.215907,-27.054756
+          -65.219045,-27.059706
+          -65.228044,-27.073697
+          -65.229496,-27.075941
+          -65.247980,-27.104468
+          -65.248552,-27.105388
+          -65.248904,-27.106074
+          -65.249203,-27.106773
+          -65.249290,-27.107111
+          -65.249496,-27.107785
+          -65.250214,-27.111400
+          -65.250962,-27.115382
+          -65.251087,-27.115900
+          -65.251233,-27.116381
+          -65.251400,-27.116829
+          -65.251565,-27.117196
+          -65.251910,-27.117881
+          -65.252218,-27.118367
+          -65.252609,-27.118888
+          -65.253152,-27.119551
+          -65.253944,-27.120304
+          -65.256391,-27.122617
+          -65.260068,-27.126174
+          -65.261041,-27.127102
+          -65.261582,-27.127620
+          -65.261959,-27.128053
+          -65.262241,-27.128476
+          -65.262453,-27.128815
+          -65.262685,-27.129267
+          -65.262913,-27.129736
+          -65.263050,-27.130065
+          -65.263184,-27.130470
+          -65.263289,-27.130908
+          -65.264010,-27.134279
+          -65.265196,-27.139682
+          -65.265868,-27.142809
+          -65.266034,-27.143608
+          -65.266189,-27.144153
+          -65.266360,-27.144664
+          -65.266557,-27.145167
+          -65.266763,-27.145627
+          -65.266978,-27.146022
+          -65.267142,-27.146291
+          -65.267345,-27.146594
+          -65.267595,-27.146961
+          -65.267938,-27.147382
+          -65.305810,-27.189245
+          -65.306161,-27.189741
+          -65.306481,-27.190219
+          -65.306715,-27.190625
+          -65.306850,-27.190905
+          -65.307053,-27.191469
+          -65.307280,-27.192115
+          -65.307411,-27.192554
+          -65.307959,-27.194930
+          -65.309243,-27.200186
+          -65.309686,-27.202118
+          -65.309873,-27.202929
+          -65.309947,-27.203390
+          -65.309985,-27.203790
+          -65.309965,-27.204146
+          -65.309925,-27.204546
+          -65.309885,-27.204906
+          -65.309791,-27.205252
+          -65.309676,-27.205580
+          -65.309472,-27.205949
+          -65.309259,-27.206313
+          -65.309057,-27.206609
+          -65.308789,-27.206918
+          -65.308399,-27.207302
+          -65.297889,-27.217410
+          -65.297037,-27.218189
+          -65.296598,-27.218541
+          -65.296192,-27.218836
+          -65.295689,-27.219183
+          -65.222275,-27.265805
+          -65.214106,-27.270975
+          -65.195678,-27.282688
+          -65.194723,-27.283307
+          -65.194064,-27.283813
+          -65.193597,-27.284229
+          -65.192967,-27.284840
+          -65.192284,-27.285598
+          -65.185418,-27.293330
+          -65.184507,-27.294269
+          -65.183735,-27.294927
+          -65.183115,-27.295431
+          -65.149097,-27.316006
+          -65.148394,-27.316365
+          -65.147785,-27.316615
+          -65.146866,-27.316935
+          -65.146123,-27.317155
+          -65.144832,-27.317412
+          -65.141137,-27.318017
+          -65.139686,-27.318236
+          -65.138735,-27.318461
+          -65.137942,-27.318737
+          -65.137227,-27.319027
+          -65.136630,-27.319325
+          -65.136149,-27.319597
+          -65.133214,-27.321619
+          -65.128597,-27.324993
+          -65.127002,-27.326039
+          -65.124622,-27.327553
+          -65.088849,-27.350004
+          -65.080877,-27.355179
+          -65.074442,-27.359433
+          -64.981555,-27.417310
+          -64.972834,-27.422742
+          -64.917701,-27.457494
+          -64.916930,-27.458079
+          -64.916147,-27.458758
+          -64.915320,-27.459660
+          -64.903635,-27.472661
+          -64.903074,-27.473202
+          -64.902720,-27.473511
+          -64.902690,-27.473525
+          -64.901942,-27.474020
+          -64.901081,-27.474552
+          -64.900366,-27.474908
+          -64.899387,-27.475341
+          -64.897851,-27.475820
+          -64.881569,-27.480568
+          -64.880988,-27.480775
+          -64.880451,-27.481036
+          -64.879839,-27.481404
+          -64.879180,-27.481942
+          -64.878504,-27.482479
+          -64.877766,-27.483222
+          -64.860099,-27.500146
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bustamante (Ap) KM 783.7</name>
+      <description>KM 783.7</description>
+      <Point><coordinates>-65.132429,-26.915493</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Retiro (Ap.) KM 787.2</name>
+      <description>KM 787.2</description>
+      <Point><coordinates>-65.156439,-26.921550</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Polito (Dv) KM 791.8</name>
+      <description>KM 791.8</description>
+      <Point><coordinates>-65.167187,-26.932700</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Roque (Dv.) KM 790.3</name>
+      <description>KM 790.3</description>
+      <Point><coordinates>-65.169314,-26.941372</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Elena (Dv.) KM 790.9</name>
+      <description>KM 790.9</description>
+      <Point><coordinates>-65.169966,-26.943947</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Finca Elisa KM 792.1</name>
+      <description>KM 792.1</description>
+      <Point><coordinates>-65.174634,-26.956730</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM  794 (Ap) KM 794.0</name>
+      <description>KM 794.0</description>
+      <Point><coordinates>-65.178632,-26.973790</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Brancho KM 795.8</name>
+      <description>KM 795.8</description>
+      <Point><coordinates>-65.182451,-26.989772</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Esquina KM 801.2</name>
+      <description>KM 801.2</description>
+      <Point><coordinates>-65.199673,-27.028694</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Ingenio Bella Vista KM 803.8</name>
+      <description>KM 803.8</description>
+      <Point><coordinates>-65.215825,-27.054726</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Palá Palá KM 804.1</name>
+      <description>KM 804.1</description>
+      <Point><coordinates>-65.217376,-27.057033</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Encantada KM 806.5</name>
+      <description>KM 806.5</description>
+      <Point><coordinates>-65.229297,-27.075648</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sueldos (Ap) KM 808.8</name>
+      <description>KM 808.8</description>
+      <Point><coordinates>-65.240908,-27.093617</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 810 (Desv. Part.) KM 810.5</name>
+      <description>KM 810.5</description>
+      <Point><coordinates>-65.249278,-27.107005</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Rosa de Leales KM 814.3</name>
+      <description>KM 814.3</description>
+      <Point><coordinates>-65.264620,-27.137010</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cachi Yaco (Ap) KM 818.7</name>
+      <description>KM 818.7</description>
+      <Point><coordinates>-65.288195,-27.169788</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Leales KM 822.2</name>
+      <description>KM 822.2</description>
+      <Point><coordinates>-65.308339,-27.195720</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cachí Huasi (Ap) KM 828.0</name>
+      <description>KM 828.0</description>
+      <Point><coordinates>-65.273979,-27.232943</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Nueava España KM 834.8</name>
+      <description>KM 834.8</description>
+      <Point><coordinates>-65.218180,-27.268400</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Miguel Lillo (Ap) KM 843.3</name>
+      <description>KM 843.3</description>
+      <Point><coordinates>-65.150633,-27.315066</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Guardamonte KM 851.1</name>
+      <description>KM 851.1</description>
+      <Point><coordinates>-65.084882,-27.352585</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Donosa KM 864.1</name>
+      <description>KM 864.1</description>
+      <Point><coordinates>-64.977097,-27.420079</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Péres de Zurita (Ap) KM 870.3</name>
+      <description>KM 870.3</description>
+      <Point><coordinates>-64.925871,-27.452356</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Térmas de Río Hondo? KM 878.3</name>
+      <description>KM 878.3</description>
+      <Point><coordinates>-64.861904,-27.498390</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal A8: La Puerta - Alta Córdoba</name>
+    <description>Ramal A8: La Puerta - Alta Córdoba. Dibujado por:
+Gino Nuñez
+Pablo Anglat
+Rodrigo Respini
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Mendoza y Córdoba, Argentina</description>
+    <Placemark>
+      <name>Ramal A8: La Puerta - Alta Córdoba</name>
+      <LineString>
+        <coordinates>
+          -63.258291,-30.891331
+          -63.259602,-30.890489
+          -63.260183,-30.890199
+          -63.260713,-30.890021
+          -63.261140,-30.889892
+          -63.261704,-30.889781
+          -63.262441,-30.889795
+          -63.263039,-30.889853
+          -63.263607,-30.890009
+          -63.264324,-30.890221
+          -63.265046,-30.890528
+          -63.265537,-30.891018
+          -63.265952,-30.891563
+          -63.266204,-30.892083
+          -63.271044,-30.904101
+          -63.271428,-30.904956
+          -63.271905,-30.905893
+          -63.338359,-31.023699
+          -63.342246,-31.030597
+          -63.401081,-31.134927
+          -63.402736,-31.137811
+          -63.403482,-31.139121
+          -63.404243,-31.140309
+          -63.404411,-31.140555
+          -63.405749,-31.142374
+          -63.406424,-31.143290
+          -63.407564,-31.144780
+          -63.408038,-31.145476
+          -63.412676,-31.152065
+          -63.414043,-31.154022
+          -63.414470,-31.154724
+          -63.414874,-31.155236
+          -63.415288,-31.155628
+          -63.416470,-31.156631
+          -63.417340,-31.157272
+          -63.418287,-31.157749
+          -63.419104,-31.158018
+          -63.420112,-31.158258
+          -63.421064,-31.158397
+          -63.421848,-31.158448
+          -63.422582,-31.158410
+          -63.423172,-31.158351
+          -63.423739,-31.158250
+          -63.424198,-31.158161
+          -63.519860,-31.134795
+          -63.596630,-31.115985
+          -63.607425,-31.113339
+          -63.617770,-31.110796
+          -63.618436,-31.110634
+          -63.619058,-31.110512
+          -63.619685,-31.110420
+          -63.620330,-31.110380
+          -63.620799,-31.110345
+          -63.774435,-31.120424
+          -63.785654,-31.121190
+          -63.892804,-31.127974
+          -63.919785,-31.129916
+          -63.920680,-31.129970
+          -63.921283,-31.130026
+          -63.921605,-31.130052
+          -63.922039,-31.130122
+          -63.922530,-31.130217
+          -63.922915,-31.130311
+          -63.923585,-31.130515
+          -63.924249,-31.130803
+          -63.925022,-31.131191
+          -63.925556,-31.131518
+          -63.926044,-31.131886
+          -63.926377,-31.132167
+          -63.926829,-31.132610
+          -63.952639,-31.159086
+          -63.959852,-31.166593
+          -64.056166,-31.265395
+          -64.060583,-31.269913
+          -64.116974,-31.320762
+          -64.125731,-31.328553
+          -64.177240,-31.374952
+          -64.177683,-31.375305
+          -64.178102,-31.375614
+          -64.178454,-31.375816
+          -64.178773,-31.375955
+          -64.179217,-31.376117
+          -64.179515,-31.376181
+          -64.179846,-31.376183
+          -64.180224,-31.376173
+          -64.180746,-31.376123
+          -64.181231,-31.376051
+          -64.181624,-31.375995
+          -64.182037,-31.376003
+          -64.182313,-31.376046
+          -64.182504,-31.376109
+          -64.182887,-31.376398
+          -64.186239,-31.379277
+          -64.186682,-31.379792
+          -64.186988,-31.380285
+          -64.187143,-31.380589
+          -64.187382,-31.381155
+          -64.187496,-31.381534
+          -64.187556,-31.381827
+          -64.187567,-31.382253
+          -64.187563,-31.387851
+          -64.187574,-31.388271
+          -64.187657,-31.388527
+          -64.187830,-31.388942
+          -64.188640,-31.391126
+          -64.188920,-31.391946
+          -64.189438,-31.393215
+          -64.189469,-31.393321
+          -64.189500,-31.393468
+          -64.189504,-31.393593
+          -64.189415,-31.393881
+          -64.189253,-31.394190
+          -64.189186,-31.394275
+          -64.188632,-31.394813
+          -64.188091,-31.395199
+          -64.187365,-31.395644
+          -64.186857,-31.395891
+          -64.186443,-31.396104
+          -64.186085,-31.396233
+          -64.185120,-31.396537
+          -64.183495,-31.397039
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Tránsito</name>
+      <LineString>
+        <coordinates>
+          -63.263806,-30.887351
+          -63.263556,-30.887622
+          -63.263414,-30.887792
+          -63.263327,-30.887916
+          -63.263256,-30.888104
+          -63.263219,-30.888284
+          -63.263173,-30.888484
+          -63.263164,-30.888701
+          -63.263191,-30.888850
+          -63.263235,-30.889027
+          -63.263301,-30.889213
+          -63.263420,-30.889424
+          -63.263547,-30.889603
+          -63.263789,-30.889851
+          -63.264055,-30.890063
+          -63.264324,-30.890222
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramales A/A8 KM 307.7</name>
+      <description>KM 307.7</description>
+      <Point><coordinates>-63.258314,-30.891317</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramales A/A8 KM 308.4</name>
+      <description>KM 308.4</description>
+      <Point><coordinates>-63.263910,-30.887256</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 816 (Ap.) KM 815.9</name>
+      <description>KM 815.9</description>
+      <Point><coordinates>-63.298186,-30.952517</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Diego de Rojas KM 825.2</name>
+      <description>KM 825.2</description>
+      <Point><coordinates>-63.340577,-31.027636</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Santa Rosa KM 840.5</name>
+      <description>KM 840.5</description>
+      <Point><coordinates>-63.411261,-31.150054</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramales A8/A11 KM 340.9</name>
+      <description>KM 340.9</description>
+      <Point><coordinates>-63.414477,-31.154723</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puesto de Afuera (Ap.) KM 351.5</name>
+      <description>KM 351.5</description>
+      <Point><coordinates>-63.519341,-31.134924</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Alcalde KM 359.7</name>
+      <description>KM 359.7</description>
+      <Point><coordinates>-63.601353,-31.114824</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rangel KM 376.7</name>
+      <description>KM 376.7</description>
+      <Point><coordinates>-63.779517,-31.120770</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tinoco (Ap) KM 387.5</name>
+      <description>KM 387.5</description>
+      <Point><coordinates>-63.892445,-31.127956</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Nuñez del Prado KM 395.2</name>
+      <description>KM 395.2</description>
+      <Point><coordinates>-63.955889,-31.162467</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Colonia Tirolesa KM 410.1</name>
+      <description>KM 410.1</description>
+      <Point><coordinates>-64.056191,-31.265448</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Gateado KM 419.0</name>
+      <description>KM 419.0</description>
+      <Point><coordinates>-64.120490,-31.323888</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>YPF (DP) KM 426.3</name>
+      <description>KM 426.3</description>
+      <Point><coordinates>-64.173431,-31.371518</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Alta Córdoba Norte (FCCN) KM 429.4</name>
+      <description>KM 429.4</description>
+      <Point><coordinates>-64.189008,-31.392125</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Torno Bajo - Alta Córdoba Norte</name>
+      <Point><coordinates>-64.189188,-31.392645</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Ramal A8 KM 724.1</name>
+      <description>KM 724.1</description>
+      <Point><coordinates>-64.183489,-31.397041</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Alta Córdoba KM 723.8 / KM 429.4</name>
+      <description>CC: KM 723.8
+A8: KM 429.4</description>
+      <Point><coordinates>-64.180219,-31.398123</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 39: San Juan - Marquesado</name>
+    <Placemark>
+      <name>Triángulo Ramal a Marquesado</name>
+      <LineString>
+        <coordinates>
+          -68.537301,-31.549489
+          -68.537180,-31.549026
+          -68.537138,-31.548515
+          -68.537144,-31.548125
+          -68.537311,-31.547439
+          -68.537620,-31.546981
+          -68.538061,-31.546565
+          -68.538608,-31.546060
+          -68.539153,-31.545616
+          -68.539820,-31.545358
+          -68.540603,-31.545174
+          -68.541108,-31.545056
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

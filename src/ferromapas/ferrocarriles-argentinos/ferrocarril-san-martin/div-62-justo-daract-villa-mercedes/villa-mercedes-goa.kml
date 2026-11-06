@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Villa Mercedes (GOA)</name>
+    <Placemark>
+      <name>Villa Mercedes (GOA)</name>
+      <LineString>
+        <coordinates>
+          -65.454552,-33.659968
+          -65.455247,-33.660281
+          -65.455662,-33.660516
+          -65.456131,-33.660788
+          -65.456801,-33.661064
+          -65.457804,-33.661398
+          -65.460303,-33.662350
+          -65.460971,-33.662567
+          -65.461450,-33.662670
+          -65.461809,-33.662697
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (GOA)</name>
+      <LineString>
+        <coordinates>
+          -65.455551,-33.660448
+          -65.455992,-33.660789
+          -65.456816,-33.661182
+          -65.457765,-33.661468
+          -65.460275,-33.662358
+          -65.460898,-33.662547
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (GOA)</name>
+      <LineString>
+        <coordinates>
+          -65.455555,-33.661149
+          -65.457377,-33.661736
+          -65.458705,-33.662167
+          -65.460089,-33.662589
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (GOA)</name>
+      <LineString>
+        <coordinates>
+          -65.455652,-33.660527
+          -65.456171,-33.660987
+          -65.456757,-33.661432
+          -65.457123,-33.661623
+          -65.457291,-33.661707
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (GOA)</name>
+      <LineString>
+        <coordinates>
+          -65.456074,-33.660899
+          -65.457151,-33.661414
+          -65.458945,-33.662057
+          -65.459989,-33.662389
+          -65.460310,-33.662497
+          -65.461076,-33.662631
+          -65.461486,-33.662677
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (GOA)</name>
+      <LineString>
+        <coordinates>
+          -65.459218,-33.661894
+          -65.460224,-33.662236
+          -65.460994,-33.662517
+          -65.461384,-33.662607
+          -65.461620,-33.662658
+          -65.462068,-33.662711
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (GOA)</name>
+      <LineString>
+        <coordinates>
+          -65.459339,-33.661896
+          -65.460636,-33.662324
+          -65.461495,-33.662580
+          -65.461786,-33.662633
+          -65.462178,-33.662692
+          -65.462502,-33.662754
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (GOA)</name>
+      <LineString>
+        <coordinates>
+          -65.459256,-33.661807
+          -65.461202,-33.662457
+          -65.461622,-33.662568
+          -65.462147,-33.662679
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (GOA)</name>
+      <LineString>
+        <coordinates>
+          -65.464957,-33.663560
+          -65.465552,-33.663722
+          -65.467446,-33.664370
+          -65.468114,-33.664544
+          -65.469070,-33.664719
+          -65.469517,-33.664780
+          -65.470360,-33.664841
+          -65.471328,-33.664856
+          -65.472547,-33.664770
+          -65.473421,-33.664625
+          -65.474269,-33.664429
+          -65.481498,-33.662533
+          -65.485973,-33.661379
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (GOA)</name>
+      <LineString>
+        <coordinates>
+          -65.460091,-33.662598
+          -65.461535,-33.663042
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Mesa Giratoria</name>
+      <Point><coordinates>-65.461581,-33.663056</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

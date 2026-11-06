@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Pergamino - San Nicolás</name>
+    <description>Pergamino - San Nicolás. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Empalme a Vagues KM 3.7 (Ramal Pergamino - San Nicolás)</name>
+      <description>KM 3.7</description>
+      <Point><coordinates>-60.540997,-33.898691</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Nicolás - Empalme Pergamino</name>
+      <LineString>
+        <coordinates>
+          -60.185449,-33.375013
+          -60.185155,-33.376107
+          -60.185089,-33.376573
+          -60.185077,-33.376822
+          -60.185082,-33.377078
+          -60.185110,-33.377318
+          -60.185159,-33.377548
+          -60.185227,-33.377784
+          -60.185322,-33.378132
+          -60.185482,-33.378523
+          -60.185675,-33.378821
+          -60.185895,-33.379096
+          -60.186212,-33.379388
+          -60.186453,-33.379611
+          -60.186958,-33.379942
+          -60.187400,-33.380153
+          -60.187746,-33.380308
+          -60.188169,-33.380420
+          -60.188671,-33.380504
+          -60.189302,-33.380560
+          -60.189824,-33.380593
+          -60.190949,-33.380671
+          -60.195575,-33.380990
+          -60.211091,-33.382116
+          -60.211659,-33.382158
+          -60.212073,-33.382206
+          -60.212345,-33.382271
+          -60.212619,-33.382364
+          -60.212994,-33.382486
+          -60.213275,-33.382609
+          -60.213594,-33.382766
+          -60.213857,-33.382946
+          -60.214113,-33.383110
+          -60.214381,-33.383315
+          -60.214671,-33.383538
+          -60.215423,-33.384219
+          -60.217317,-33.385983
+          -60.221137,-33.389521
+          -60.222802,-33.391114
+          -60.229596,-33.397379
+          -60.231202,-33.398876
+          -60.233162,-33.400748
+          -60.235142,-33.402731
+          -60.244680,-33.413080
+          -60.266357,-33.436438
+          -60.268415,-33.438680
+          -60.269318,-33.439622
+          -60.269961,-33.440364
+          -60.270400,-33.440927
+          -60.270849,-33.441575
+          -60.271187,-33.442097
+          -60.271512,-33.442674
+          -60.272223,-33.443946
+          -60.290843,-33.477716
+          -60.317138,-33.524693
+          -60.335260,-33.558252
+          -60.338075,-33.563252
+          -60.354773,-33.593155
+          -60.356272,-33.595881
+          -60.364981,-33.611942
+          -60.366392,-33.614561
+          -60.466076,-33.793929
+          -60.478505,-33.816449
+          -60.483684,-33.825584
+          -60.487768,-33.833136
+          -60.499427,-33.854050
+          -60.511449,-33.875662
+          -60.513170,-33.878759
+          -60.514340,-33.880827
+          -60.514815,-33.881687
+          -60.515142,-33.882265
+          -60.516515,-33.884738
+          -60.517906,-33.887247
+          -60.518594,-33.888473
+          -60.519860,-33.890705
+          -60.520495,-33.891828
+          -60.520937,-33.892579
+          -60.521279,-33.893087
+          -60.521764,-33.893715
+          -60.522261,-33.894275
+          -60.522744,-33.894779
+          -60.523293,-33.895277
+          -60.523742,-33.895664
+          -60.524447,-33.896201
+          -60.524999,-33.896560
+          -60.525629,-33.896963
+          -60.526090,-33.897238
+          -60.526929,-33.897685
+          -60.527545,-33.897988
+          -60.528201,-33.898263
+          -60.528849,-33.898533
+          -60.529523,-33.898770
+          -60.530324,-33.899024
+          -60.531075,-33.899194
+          -60.531766,-33.899293
+          -60.532765,-33.899441
+          -60.533871,-33.899550
+          -60.534610,-33.899589
+          -60.535544,-33.899586
+          -60.536346,-33.899552
+          -60.537127,-33.899482
+          -60.538125,-33.899345
+          -60.538703,-33.899242
+          -60.539321,-33.899113
+          -60.540138,-33.898922
+          -60.541147,-33.898650
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Juan A. De La Pena KM 12.7</name>
+      <description>KM 12.7</description>
+      <Point><coordinates>-60.486637,-33.831067</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Acevedo KM 21.9</name>
+      <description>KM 21.9</description>
+      <Point><coordinates>-60.443521,-33.753462</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Guerrico KM 31.6</name>
+      <description>KM 31.6</description>
+      <Point><coordinates>-60.399260,-33.673765</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce con FCGB (Línea CC - Villa Rosas - Km. 29) KM 39.1</name>
+      <description>KM 39.1</description>
+      <Point><coordinates>-60.365087,-33.612138</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Conesa KM 41.1</name>
+      <description>KM 41.1</description>
+      <Point><coordinates>-60.356549,-33.596406</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Eréscano KM 50.2</name>
+      <description>KM 50.2</description>
+      <Point><coordinates>-60.315555,-33.521851</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>General Rojo KM 56.0</name>
+      <description>KM 56.0</description>
+      <Point><coordinates>-60.288809,-33.474055</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Campos Salles KM 65.1</name>
+      <description>KM 65.1</description>
+      <Point><coordinates>-60.237568,-33.405379</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme San Nicolás KM 71.9 (a Pergamino)</name>
+      <description>KM 233.7
+KM 71.9 Pergamino - San Nicolás</description>
+      <Point><coordinates>-60.189186,-33.370119</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

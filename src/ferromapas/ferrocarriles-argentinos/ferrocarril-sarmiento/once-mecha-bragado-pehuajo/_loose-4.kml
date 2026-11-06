@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Once - Mecha - Bragado - Pehuajó</name>
+    <Placemark>
+      <name>Talleres Liniers KM 10.5</name>
+      <description>KM 10.5</description>
+      <Point><coordinates>-58.513941,-34.637535</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Liniers KM 11.6</name>
+      <description>KM 11.6</description>
+      <Point><coordinates>-58.525534,-34.638702</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ciudadela KM 13.0</name>
+      <description>KM 13.0</description>
+      <Point><coordinates>-58.541530,-34.639869</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramos Mejía KM 15.1</name>
+      <description>KM 15.1</description>
+      <Point><coordinates>-58.564299,-34.640379</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>M. J. Haedo KM 17.7</name>
+      <description>KM 17.7</description>
+      <Point><coordinates>-58.591946,-34.644477</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>M. J. Haedo Cabina Oeste KM 19.5</name>
+      <description>KM 19.5</description>
+      <Point><coordinates>-58.611625,-34.647109</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Morón KM 20.2</name>
+      <description>KM 20.2</description>
+      <Point><coordinates>-58.619053,-34.648224</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Castelar KM 22.3</name>
+      <description>KM 22.3</description>
+      <Point><coordinates>-58.641639,-34.651847</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ituzaingó KM 24.8</name>
+      <description>KM 24.8</description>
+      <Point><coordinates>-58.666895,-34.659808</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Antonio de Padua KM 27.8</name>
+      <description>KM 27.8</description>
+      <Point><coordinates>-58.698884,-34.665506</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Merlo KM 30.5</name>
+      <description>KM 30.5</description>
+      <Point><coordinates>-58.727800,-34.664547</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paso del Rey (parada) KM 33.7</name>
+      <description>KM 33.7</description>
+      <Point><coordinates>-58.762019,-34.658258</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Moreno KM 36.4</name>
+      <description>KM 36.4</description>
+      <Point><coordinates>-58.789699,-34.650554</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Reja (Ap.) KM 40.1</name>
+      <description>KM 40.1</description>
+      <Point><coordinates>-58.828418,-34.639744</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Francisco Álvarez KM 42.7</name>
+      <description>KM 42.7</description>
+      <Point><coordinates>-58.855296,-34.632234</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Malvinas (parada) KM 49.1</name>
+      <description>KM 49.1</description>
+      <Point><coordinates>-58.921788,-34.616162</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>General Rodríguez KM 52.1</name>
+      <description>KM 52.1</description>
+      <Point><coordinates>-58.953094,-34.608880</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Fraternidad (Ap.) KM 56.3</name>
+      <description>KM 56.3</description>
+      <Point><coordinates>-58.997819,-34.598420</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabina KM 59 KM 58.7</name>
+      <description>KM 58.7</description>
+      <Point><coordinates>-59.022975,-34.592546</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lezica y Torrezurl (ap.) KM 62.0</name>
+      <description>KM 62.0</description>
+      <Point><coordinates>-59.056989,-34.584570</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Luján KM 66.5</name>
+      <description>KM 66.5</description>
+      <Point><coordinates>-59.103991,-34.577356</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Jáuregui KM 73.3</name>
+      <description>KM 73.3</description>
+      <Point><coordinates>-59.173566,-34.600642</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Olivera KM 81.4</name>
+      <description>KM 81.4</description>
+      <Point><coordinates>-59.255373,-34.627974</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gowland KM 90.7</name>
+      <description>KM 90.7</description>
+      <Point><coordinates>-59.352756,-34.647826</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCGB (G) - FCDFS</name>
+      <description>FCGB (G) KM 106.29
+FCDFS KM</description>
+      <Point><coordinates>-59.390571,-34.655638</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mercedes (FCDS) KM 98.1</name>
+      <description>KM 98.1</description>
+      <Point><coordinates>-59.432421,-34.657677</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Manuel J. García KM 109.9</name>
+      <description>KM 109.9</description>
+      <Point><coordinates>-59.540903,-34.710164</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Suipacha KM 125.3</name>
+      <description>KM 125.3</description>
+      <Point><coordinates>-59.690407,-34.773274</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gorostiaga KM 142.3</name>
+      <description>KM 142.3</description>
+      <Point><coordinates>-59.861168,-34.832988</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Emp. a Chivilcoy KM 151.1</name>
+      <description>KM 151.1</description>
+      <Point><coordinates>-59.949954,-34.863863</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chivilcoy Sud KM 157.9</name>
+      <description>KM 157.9</description>
+      <Point><coordinates>-59.996130,-34.917416</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Vieja traza Chivilcoy</name>
+      <LineString>
+        <coordinates>
+          -59.949966,-34.863859
+          -60.001322,-34.881546
+          -60.004390,-34.882654
+          -60.006367,-34.883673
+          -60.007480,-34.884301
+          -60.012658,-34.888484
+          -60.062386,-34.931851
+          -60.073723,-34.941995
+          -60.075190,-34.942980
+          -60.079048,-34.944946
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Chivilcoy Norte KM 157.5</name>
+      <description>KM 157.5</description>
+      <Point><coordinates>-60.012563,-34.888429</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Benítez KM 171.3</name>
+      <description>KM 171.3</description>
+      <Point><coordinates>-60.127370,-34.966906</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Andrés Vaccareza (Alberti) KM 186.7</name>
+      <description>KM 186.7</description>
+      <Point><coordinates>-60.277567,-35.034597</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Larea KM 195.3</name>
+      <description>KM 195.3</description>
+      <Point><coordinates>-60.366732,-35.051439</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mechita KM 199.3</name>
+      <description>KM 199.3</description>
+      <Point><coordinates>-60.406920,-35.066150</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Depósito Locomotoras Mechita KM 199.9</name>
+      <description>KM 199.9</description>
+      <Point><coordinates>-60.412119,-35.069821</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mecha KM 201.4</name>
+      <description>KM 201.4</description>
+      <Point><coordinates>-60.427767,-35.075130</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabina KM 204 KM 203.9</name>
+      <description>KM 203.9</description>
+      <Point><coordinates>-60.451912,-35.085493</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bragado KM 208.7</name>
+      <description>KM 208.7</description>
+      <Point><coordinates>-60.478519,-35.119744</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Olascoaga KM 226.6</name>
+      <description>KM 226.6</description>
+      <Point><coordinates>-60.610093,-35.236644</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dennehy KM 244.3</name>
+      <description>KM 244.3</description>
+      <Point><coordinates>-60.744907,-35.351502</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce Desnivel FCDFS / FCGB</name>
+      <Point><coordinates>-60.864469,-35.447929</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>9 de Julio (FCDFS) KM 260.9</name>
+      <description>KM 260.9</description>
+      <Point><coordinates>-60.876686,-35.454246</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce Desnivel FCDFS / FCGB</name>
+      <Point><coordinates>-60.946709,-35.490525</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>French KM 274.0</name>
+      <description>KM 274.0</description>
+      <Point><coordinates>-61.001344,-35.515101</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cambeceres KM 286.1</name>
+      <description>KM 286.1</description>
+      <Point><coordinates>-61.125236,-35.554380</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Dorita KM 297.5</name>
+      <description>KM 297.5</description>
+      <Point><coordinates>-61.243264,-35.591699</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Carlos Casares KM 309.2</name>
+      <description>KM 309.2</description>
+      <Point><coordinates>-61.363112,-35.629492</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Santo Tomás KM 323.7</name>
+      <description>KM 323.7</description>
+      <Point><coordinates>-61.512561,-35.676169</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Guanaco KM 336.3</name>
+      <description>KM 336.3</description>
+      <Point><coordinates>-61.646004,-35.708966</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chiclana KM 345.3</name>
+      <description>KM 345.3</description>
+      <Point><coordinates>-61.741881,-35.731187</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pehuajó (FCDFS) KM 362.4</name>
+      <description>KM 362.4</description>
+      <Point><coordinates>-61.893975,-35.815593</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

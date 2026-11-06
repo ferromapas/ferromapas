@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Rosario - Bernardo de Irigoyen</name>
+    <description>Rosario - Bernardo de Irigoyen. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Viaducto Avellaneda - San Lorenzo</name>
+      <LineString>
+        <coordinates>
+          -60.685685,-32.931611
+          -60.686523,-32.931543
+          -60.688047,-32.931376
+          -60.688564,-32.931320
+          -60.689094,-32.931257
+          -60.689634,-32.931164
+          -60.690027,-32.931060
+          -60.690493,-32.930920
+          -60.690864,-32.930772
+          -60.691171,-32.930625
+          -60.691445,-32.930474
+          -60.691716,-32.930293
+          -60.691939,-32.930110
+          -60.692167,-32.929898
+          -60.692387,-32.929666
+          -60.692603,-32.929424
+          -60.692768,-32.929156
+          -60.692906,-32.928891
+          -60.692986,-32.928672
+          -60.693050,-32.928465
+          -60.693103,-32.928270
+          -60.693146,-32.928056
+          -60.693178,-32.927753
+          -60.693259,-32.925932
+          -60.693374,-32.921996
+          -60.693486,-32.919785
+          -60.693594,-32.917347
+          -60.693715,-32.915518
+          -60.693727,-32.914230
+          -60.693850,-32.910904
+          -60.693900,-32.909292
+          -60.693926,-32.908728
+          -60.693945,-32.908406
+          -60.693970,-32.908154
+          -60.693996,-32.907989
+          -60.694035,-32.907824
+          -60.694100,-32.907585
+          -60.694232,-32.907140
+          -60.694428,-32.906555
+          -60.695243,-32.904073
+          -60.698531,-32.894513
+          -60.699050,-32.893092
+          -60.700641,-32.888334
+          -60.701431,-32.886130
+          -60.701987,-32.884601
+          -60.702439,-32.883286
+          -60.702919,-32.881950
+          -60.703595,-32.879967
+          -60.705240,-32.875104
+          -60.706964,-32.870107
+          -60.709049,-32.864025
+          -60.716113,-32.843425
+          -60.719207,-32.834208
+          -60.723503,-32.821698
+          -60.727285,-32.810732
+          -60.733848,-32.791929
+          -60.743285,-32.764430
+          -60.745651,-32.757650
+          -60.747542,-32.752337
+          -60.748061,-32.750598
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>San Lorenzo - Bernardo de Irigoyen</name>
+      <LineString>
+        <coordinates>
+          -60.746517,-32.755243
+          -60.746703,-32.754822
+          -60.746845,-32.754544
+          -60.747382,-32.752992
+          -60.748100,-32.750508
+          -60.748339,-32.749701
+          -60.748485,-32.749272
+          -60.748631,-32.748842
+          -60.748756,-32.748503
+          -60.748886,-32.748199
+          -60.749042,-32.747844
+          -60.749314,-32.747360
+          -60.749523,-32.746987
+          -60.749719,-32.746648
+          -60.749964,-32.746280
+          -60.750259,-32.745869
+          -60.750615,-32.745394
+          -60.750983,-32.744934
+          -60.751300,-32.744549
+          -60.751682,-32.744165
+          -60.752129,-32.743729
+          -60.752416,-32.743481
+          -60.752830,-32.743122
+          -60.753362,-32.742710
+          -60.753900,-32.742333
+          -60.754942,-32.741678
+          -60.765045,-32.735434
+          -60.778123,-32.727362
+          -60.792388,-32.718551
+          -60.812410,-32.706187
+          -60.816324,-32.703762
+          -60.844620,-32.686351
+          -60.850464,-32.682495
+          -60.857005,-32.678449
+          -60.858420,-32.677518
+          -60.862601,-32.674351
+          -60.874992,-32.664858
+          -60.886738,-32.655679
+          -60.936681,-32.616994
+          -60.946005,-32.609775
+          -60.954693,-32.603064
+          -60.955383,-32.602501
+          -60.956047,-32.601894
+          -60.956807,-32.601161
+          -60.957619,-32.600321
+          -60.958399,-32.599471
+          -60.959307,-32.598338
+          -60.960158,-32.597261
+          -60.964525,-32.591540
+          -61.029221,-32.507653
+          -61.037626,-32.496765
+          -61.038420,-32.495616
+          -61.039201,-32.494374
+          -61.039972,-32.493003
+          -61.040499,-32.491909
+          -61.041209,-32.490224
+          -61.042108,-32.487989
+          -61.046065,-32.478101
+          -61.055945,-32.453559
+          -61.071452,-32.415217
+          -61.081345,-32.390670
+          -61.084221,-32.383500
+          -61.088479,-32.373145
+          -61.093091,-32.360113
+          -61.100355,-32.339196
+          -61.112067,-32.305521
+          -61.117460,-32.291169
+          -61.130114,-32.254677
+          -61.133224,-32.245647
+          -61.139627,-32.227162
+          -61.144821,-32.212287
+          -61.153326,-32.187746
+          -61.160036,-32.168371
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>B. Arroyito KM 307.0</name>
+      <description>KM 307.0</description>
+      <Point><coordinates>-60.693750,-32.914358</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sarratea KM 309.7</name>
+      <description>KM 309.7</description>
+      <Point><coordinates>-60.699672,-32.891275</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gobernador Baigorría KM 313.0</name>
+      <description>KM 313.0</description>
+      <Point><coordinates>-60.709430,-32.862917</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Kilómetro 319 KM 319.5</name>
+      <description>KM 319.5</description>
+      <Point><coordinates>-60.727919,-32.808903</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parada Granaderos KM 322.2</name>
+      <description>KM 322.2</description>
+      <Point><coordinates>-60.735589,-32.786839</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Lorenzo KM 325.6</name>
+      <description>KM 325.6</description>
+      <Point><coordinates>-60.746975,-32.753342</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Aldao KM 334.2</name>
+      <description>KM 334.2</description>
+      <Point><coordinates>-60.815767,-32.704025</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Andino KM 340.8</name>
+      <description>KM 340.8</description>
+      <Point><coordinates>-60.871408,-32.667433</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Serodino KM 350.8</name>
+      <description>KM 350.8</description>
+      <Point><coordinates>-60.949860,-32.606815</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Clarke KM 363.9</name>
+      <description>KM 363.9</description>
+      <Point><coordinates>-61.027811,-32.509458</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Díaz KM 380.1</name>
+      <description>KM 380.1</description>
+      <Point><coordinates>-61.088472,-32.373275</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Casalegno KM 393.0</name>
+      <description>KM 393.0</description>
+      <Point><coordinates>-61.127183,-32.263055</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bernardo de Irigoyen KM 403.5</name>
+      <description>KM 403.5</description>
+      <Point><coordinates>-61.159222,-32.170431</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

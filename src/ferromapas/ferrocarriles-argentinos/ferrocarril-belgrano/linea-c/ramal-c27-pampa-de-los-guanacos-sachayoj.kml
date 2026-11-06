@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C27: Pampa de los Guanacos - Sachayoj</name>
+    <description>Ramal C27: Pampa de los Guanacos - Sachayoj. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C27: Pampa de los Guanacos - Sachayoj</name>
+      <LineString>
+        <coordinates>
+          -61.830659,-26.232862
+          -61.830541,-26.232936
+          -61.828113,-26.233961
+          -61.827245,-26.234421
+          -61.826797,-26.234746
+          -61.826146,-26.235336
+          -61.825760,-26.235792
+          -61.825603,-26.236068
+          -61.825349,-26.236570
+          -61.825160,-26.237485
+          -61.825060,-26.238501
+          -61.812444,-26.374196
+          -61.811723,-26.383157
+          -61.811675,-26.390546
+          -61.811606,-26.568289
+          -61.811591,-26.575601
+          -61.811724,-26.672104
+          -61.811640,-26.686541
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>KM 1362 (Emb) KM 1361.9</name>
+      <description>KM 1361.9</description>
+      <Point><coordinates>-61.818689,-26.307141</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coronel Manuel Leoncio Rico KM 1370.6</name>
+      <description>KM 1370.6</description>
+      <Point><coordinates>-61.811701,-26.385932</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 1380 (Emb) KM 1380.5</name>
+      <description>KM 1380.5</description>
+      <Point><coordinates>-61.811630,-26.474962</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 1391 (Emb) KM 1391.5</name>
+      <description>KM 1391.5</description>
+      <Point><coordinates>-61.811595,-26.574356</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sachayoj KM 1402.8</name>
+      <description>KM 1402.8</description>
+      <Point><coordinates>-61.811698,-26.676596</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Sachayoj</name>
+      <LineString>
+        <coordinates>
+          -61.811670,-26.681689
+          -61.811608,-26.682218
+          -61.811506,-26.682525
+          -61.811403,-26.682714
+          -61.811246,-26.682884
+          -61.811047,-26.683051
+          -61.810843,-26.683170
+          -61.810415,-26.683308
+          -61.810221,-26.683347
+          -61.808200,-26.683331
+          -61.810220,-26.683344
+          -61.810551,-26.683419
+          -61.810833,-26.683514
+          -61.811037,-26.683633
+          -61.811279,-26.683808
+          -61.811437,-26.684026
+          -61.811582,-26.684348
+          -61.811649,-26.684701
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

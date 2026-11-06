@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal F15: Intiyaco - Villa Guillermina</name>
+    <description>Ramal F15: Intiyaco - Villa Guillermina. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal F15: Intiyaco - Villa Guillermina</name>
+      <LineString>
+        <coordinates>
+          -60.071997,-28.678863
+          -60.071862,-28.678675
+          -60.071730,-28.678489
+          -60.071571,-28.678314
+          -60.071410,-28.678208
+          -60.071276,-28.678129
+          -60.071017,-28.678015
+          -60.070758,-28.677968
+          -60.070088,-28.677928
+          -60.069457,-28.677936
+          -59.986991,-28.674459
+          -59.896985,-28.670785
+          -59.850465,-28.668895
+          -59.843870,-28.668603
+          -59.825694,-28.667713
+          -59.824805,-28.667613
+          -59.824197,-28.667463
+          -59.823468,-28.667133
+          -59.787835,-28.646104
+          -59.681538,-28.583099
+          -59.667054,-28.574578
+          -59.666484,-28.574197
+          -59.666046,-28.573859
+          -59.665393,-28.573282
+          -59.664803,-28.572643
+          -59.664352,-28.572045
+          -59.663811,-28.571221
+          -59.663406,-28.570386
+          -59.663109,-28.569571
+          -59.662887,-28.568737
+          -59.662787,-28.567960
+          -59.662690,-28.566408
+          -59.661347,-28.507712
+          -59.659981,-28.451999
+          -59.660016,-28.451512
+          -59.660068,-28.451133
+          -59.660114,-28.450792
+          -59.660179,-28.450468
+          -59.660249,-28.450174
+          -59.660348,-28.449842
+          -59.660450,-28.449575
+          -59.660602,-28.449113
+          -59.660748,-28.448757
+          -59.660920,-28.448396
+          -59.661146,-28.447977
+          -59.661371,-28.447617
+          -59.661604,-28.447308
+          -59.661954,-28.446865
+          -59.662346,-28.446406
+          -59.662716,-28.446020
+          -59.663113,-28.445624
+          -59.663851,-28.444911
+          -59.683124,-28.426555
+          -59.683436,-28.426221
+          -59.683684,-28.425915
+          -59.683919,-28.425550
+          -59.684128,-28.425172
+          -59.684261,-28.424826
+          -59.684364,-28.424544
+          -59.684427,-28.424279
+          -59.684481,-28.423984
+          -59.684516,-28.423512
+          -59.684514,-28.422904
+          -59.684313,-28.415049
+          -59.683999,-28.401834
+          -59.683958,-28.401334
+          -59.683885,-28.400907
+          -59.683767,-28.400532
+          -59.683534,-28.399994
+          -59.683243,-28.399436
+          -59.668658,-28.378983
+          -59.667824,-28.378027
+          -59.660155,-28.369718
+          -59.659465,-28.368973
+          -59.621930,-28.329510
+          -59.617322,-28.324790
+          -59.595579,-28.302005
+          -59.594833,-28.301412
+          -59.594064,-28.301048
+          -59.506822,-28.267097
+          -59.505095,-28.266303
+          -59.503811,-28.265532
+          -59.487110,-28.251860
+          -59.477381,-28.244159
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo empalme Ramales F / F15</name>
+      <LineString>
+        <coordinates>
+          -60.069465,-28.677937
+          -60.069694,-28.677911
+          -60.069918,-28.677860
+          -60.070134,-28.677774
+          -60.070322,-28.677653
+          -60.070483,-28.677538
+          -60.070641,-28.677337
+          -60.070774,-28.677111
+          -60.070830,-28.676969
+          -60.070874,-28.676613
+          -60.070856,-28.676177
+          -60.070788,-28.675928
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Florida KM 347.9</name>
+      <description>KM 347.9</description>
+      <Point><coordinates>-59.990603,-28.674603</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 17 (Emb) KM 357.0</name>
+      <description>KM 357.0</description>
+      <Point><coordinates>-59.897479,-28.670796</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Tajamar KM 361.8</name>
+      <description>KM 361.8</description>
+      <Point><coordinates>-59.848341,-28.668805</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Arroyo del Rey (Emb) KM 369.1</name>
+      <description>KM 369.1</description>
+      <Point><coordinates>-59.782623,-28.643028</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 41 (Emb) KM 380.8</name>
+      <description>KM 380.8</description>
+      <Point><coordinates>-59.682857,-28.583909</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Campo Redondo KM 390.4</name>
+      <description>KM 390.4</description>
+      <Point><coordinates>-59.661329,-28.506657</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce La Forestal KM 391.8</name>
+      <description>KM 391.8</description>
+      <Point><coordinates>-59.660998,-28.493490</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Moscovi KM 401.7</name>
+      <description>KM 401.7</description>
+      <Point><coordinates>-59.684245,-28.412102</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 67 (DP) KM 407.2</name>
+      <description>KM 407.2</description>
+      <Point><coordinates>-59.659951,-28.369497</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Guasuncho KM 413.3</name>
+      <description>KM 413.3</description>
+      <Point><coordinates>-59.619288,-28.326807</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Guillermina KM 428.5</name>
+      <description>KM 428.5</description>
+      <Point><coordinates>-59.483333,-28.248956</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Villa Guillermina</name>
+      <LineString>
+        <coordinates>
+          -59.481356,-28.247308
+          -59.481012,-28.246963
+          -59.480945,-28.246798
+          -59.480861,-28.246557
+          -59.480884,-28.246376
+          -59.481003,-28.246005
+          -59.481084,-28.245835
+          -59.481193,-28.245597
+          -59.482106,-28.244789
+          -59.481193,-28.245607
+          -59.480783,-28.245840
+          -59.480404,-28.245902
+          -59.480104,-28.245870
+          -59.479763,-28.245821
+          -59.479488,-28.245752
+          -59.479298,-28.245658
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC15: Aguilares - Los Sarmientos</name>
+    <description>Ramal CC15: Aguilares - Los Sarmientos. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal CC15: Aguilares - Los Sarmientos</name>
+      <LineString>
+        <coordinates>
+          -65.618075,-27.426748
+          -65.618125,-27.426240
+          -65.618149,-27.425999
+          -65.618250,-27.425744
+          -65.618450,-27.425380
+          -65.618560,-27.425218
+          -65.618800,-27.424962
+          -65.618947,-27.424797
+          -65.619147,-27.424653
+          -65.619407,-27.424508
+          -65.620127,-27.424161
+          -65.620450,-27.424059
+          -65.620685,-27.424021
+          -65.620911,-27.424020
+          -65.621381,-27.424012
+          -65.626254,-27.424557
+          -65.636502,-27.425703
+          -65.636990,-27.425703
+          -65.673762,-27.417115
+          -65.674803,-27.416891
+          -65.675430,-27.416808
+          -65.683702,-27.416139
+          -65.684510,-27.416053
+          -65.685277,-27.415926
+          -65.693710,-27.414230
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>KM 4 (Ap) KM 4.5</name>
+      <description>KM 4.5</description>
+      <Point><coordinates>-65.661086,-27.420100</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 5 (Ap) KM 5.2</name>
+      <description>KM 5.2</description>
+      <Point><coordinates>-65.668247,-27.418451</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Sarmientos KM 7.5</name>
+      <description>KM 7.5</description>
+      <Point><coordinates>-65.690905,-27.414830</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

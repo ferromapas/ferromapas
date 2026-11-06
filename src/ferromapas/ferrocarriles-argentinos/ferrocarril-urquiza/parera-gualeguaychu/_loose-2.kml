@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Parera - Gualeguaychú</name>
+    <Placemark>
+      <name>Almada KM 283.1</name>
+      <description>KM 283.1</description>
+      <Point><coordinates>-58.804254,-32.840255</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Palavecino KM 304.8</name>
+      <description>KM 304.8
+Código: PVL</description>
+      <Point><coordinates>-58.640432,-32.946054</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Kilómetro 311 KM 311.2</name>
+      <description>KM 311.2</description>
+      <Point><coordinates>-58.585898,-32.972429</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gualeguaychú KM 321.2</name>
+      <description>KM 321.2</description>
+      <Point><coordinates>-58.519691,-33.018160</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

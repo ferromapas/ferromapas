@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvío Bodega El Globo</name>
+    <Placemark>
+      <name>Desvío Bodega El Globo</name>
+      <LineString>
+        <coordinates>
+          -68.552859,-31.541653
+          -68.553126,-31.541442
+          -68.553366,-31.541127
+          -68.553683,-31.540763
+          -68.553849,-31.540551
+          -68.554217,-31.539401
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bodega El Globo</name>
+      <Point><coordinates>-68.554176,-31.539553</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

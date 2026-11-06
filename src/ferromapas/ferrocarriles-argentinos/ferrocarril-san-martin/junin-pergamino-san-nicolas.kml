@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Junin - Pergamino - San Nicolas</name>
+    <description>Junin - Pergamino - San Nicolas. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Junin - Pergamino - San Nicolas</name>
+      <LineString>
+        <coordinates>
+          -60.927144,-34.577305
+          -60.925849,-34.576728
+          -60.924325,-34.576013
+          -60.922998,-34.575261
+          -60.921723,-34.574419
+          -60.921208,-34.574066
+          -60.890108,-34.548289
+          -60.889072,-34.547297
+          -60.888054,-34.546291
+          -60.887350,-34.545477
+          -60.886745,-34.544701
+          -60.885924,-34.543599
+          -60.885154,-34.542387
+          -60.884358,-34.541070
+          -60.865010,-34.507388
+          -60.804361,-34.401738
+          -60.797477,-34.389841
+          -60.796886,-34.388859
+          -60.796505,-34.388149
+          -60.796070,-34.387323
+          -60.795429,-34.386028
+          -60.794429,-34.383468
+          -60.751798,-34.235750
+          -60.751077,-34.233403
+          -60.750465,-34.231712
+          -60.749826,-34.230369
+          -60.748625,-34.227984
+          -60.747461,-34.226129
+          -60.746473,-34.224611
+          -60.745301,-34.223106
+          -60.742446,-34.219719
+          -60.714364,-34.186203
+          -60.712082,-34.183188
+          -60.710938,-34.181277
+          -60.709359,-34.177792
+          -60.671465,-34.088450
+          -60.663035,-34.068315
+          -60.662548,-34.066876
+          -60.662139,-34.065365
+          -60.661652,-34.063080
+          -60.644429,-33.977318
+          -60.643902,-33.974695
+          -60.643401,-33.972878
+          -60.643016,-33.971654
+          -60.642541,-33.970317
+          -60.641537,-33.968099
+          -60.612048,-33.907563
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Pergamino KM 252.7</name>
+      <description>KM 252.7</description>
+      <Point><coordinates>-60.927146,-34.577309</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Agustín Roca KM 9.8</name>
+      <description>KM 9.8</description>
+      <Point><coordinates>-60.864940,-34.507267</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rafael Obligado KM 27.7</name>
+      <description>KM 27.7</description>
+      <Point><coordinates>-60.787527,-34.359575</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 35.7 (Paradero) KM 35.7</name>
+      <description>KM 35.7</description>
+      <Point><coordinates>-60.768550,-34.293838</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce nivel KM 76.0 / KM 36.0</name>
+      <description>KM 76.0
+Código: B76
+
+KM 36.0</description>
+      <Point><coordinates>-60.766540,-34.286868</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rojas (SM) KM 46.2</name>
+      <description>KM 46.2</description>
+      <Point><coordinates>-60.727466,-34.201840</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Roberto Cano KM 60.3</name>
+      <description>KM 60.3</description>
+      <Point><coordinates>-60.670137,-34.085278</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ortiz Basualdo KM 66.6</name>
+      <description>KM 66.6</description>
+      <Point><coordinates>-60.654892,-34.029428</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce bajonivel FCSM / FCGB KM 74.1?</name>
+      <description>KM 74.1 (aprox)</description>
+      <Point><coordinates>-60.638986,-33.962869</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a San Urbano KM 80.8</name>
+      <description>KM 80.8 (SM)</description>
+      <Point><coordinates>-60.612052,-33.907573</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

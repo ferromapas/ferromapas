@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>La Zanja - Tres Lomas</name>
+    <description>La Zanja - Tres Lomas. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>La Zanja - Tres Lomas</name>
+      <LineString>
+        <coordinates>
+          -62.876937,-36.051847
+          -62.879875,-36.054153
+          -62.881342,-36.055557
+          -62.882327,-36.056794
+          -62.882998,-36.058204
+          -62.883329,-36.059315
+          -62.883469,-36.060087
+          -62.883529,-36.061631
+          -62.883366,-36.064114
+          -62.879666,-36.173039
+          -62.879696,-36.174345
+          -62.879849,-36.176276
+          -62.880133,-36.178208
+          -62.882202,-36.190753
+          -62.882421,-36.192559
+          -62.882439,-36.193608
+          -62.882116,-36.194936
+          -62.881594,-36.196378
+          -62.879038,-36.203693
+          -62.878804,-36.204586
+          -62.878605,-36.205613
+          -62.878410,-36.206867
+          -62.878325,-36.208455
+          -62.875924,-36.259067
+          -62.875925,-36.259632
+          -62.875965,-36.260684
+          -62.876054,-36.261351
+          -62.877765,-36.272789
+          -62.877888,-36.273801
+          -62.877905,-36.274350
+          -62.878055,-36.277883
+          -62.878659,-36.292522
+          -62.878719,-36.293580
+          -62.878791,-36.294953
+          -62.878960,-36.296449
+          -62.880347,-36.311269
+          -62.880383,-36.312075
+          -62.880376,-36.312753
+          -62.880320,-36.313441
+          -62.880238,-36.314187
+          -62.880114,-36.314911
+          -62.876051,-36.336380
+          -62.874341,-36.345456
+          -62.869360,-36.372244
+          -62.869181,-36.373226
+          -62.869072,-36.373887
+          -62.869002,-36.374653
+          -62.868934,-36.375489
+          -62.865071,-36.440358
+          -62.864917,-36.442622
+          -62.864904,-36.443990
+          -62.865022,-36.445729
+          -62.865109,-36.448119
+          -62.865524,-36.454605
+          -62.866098,-36.463643
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>La Zanja KM 459.2</name>
+      <description>KM 459.2</description>
+      <Point><coordinates>-62.876935,-36.051852</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pehuelches KM 491.6</name>
+      <description>KM 491.6</description>
+      <Point><coordinates>-62.875027,-36.341816</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tres Lomas KM 480.6 / KM 504.4</name>
+      <description>Vìa Pehuajó - Tres Lomas - Carhue 480.6
+Vía La Zanja - Tres Lomas KM 504.4</description>
+      <Point><coordinates>-62.865658,-36.456670</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ruben Darío - Lemos</name>
+    <description>Ruben Darío - Lemos. Dibujado por:
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Ramal 1 - Rubén Darío - Lemos</name>
+      <LineString>
+        <coordinates>
+          -58.632028,-34.587437
+          -58.635337,-34.587302
+          -58.635587,-34.587293
+          -58.635797,-34.587279
+          -58.636003,-34.587254
+          -58.636235,-34.587213
+          -58.636439,-34.587170
+          -58.636646,-34.587104
+          -58.636803,-34.587048
+          -58.636960,-34.586977
+          -58.637129,-34.586885
+          -58.637271,-34.586788
+          -58.637388,-34.586687
+          -58.637499,-34.586579
+          -58.637613,-34.586441
+          -58.637712,-34.586299
+          -58.637782,-34.586162
+          -58.638119,-34.585498
+          -58.638595,-34.584601
+          -58.639196,-34.583380
+          -58.639335,-34.583018
+          -58.639579,-34.582303
+          -58.639962,-34.581148
+          -58.640279,-34.580206
+          -58.640491,-34.579567
+          -58.640557,-34.579387
+          -58.640622,-34.579220
+          -58.640694,-34.579061
+          -58.640758,-34.578908
+          -58.640854,-34.578750
+          -58.640989,-34.578542
+          -58.641212,-34.578212
+          -58.641607,-34.577649
+          -58.642101,-34.576907
+          -58.643000,-34.575576
+          -58.643230,-34.575281
+          -58.643372,-34.575092
+          -58.643583,-34.574835
+          -58.643795,-34.574634
+          -58.644090,-34.574368
+          -58.644478,-34.574075
+          -58.645556,-34.573243
+          -58.647350,-34.571838
+          -58.648546,-34.570901
+          -58.649938,-34.569847
+          -58.651142,-34.568966
+          -58.652159,-34.568234
+          -58.653820,-34.567026
+          -58.655188,-34.566038
+          -58.656546,-34.565055
+          -58.659684,-34.562758
+          -58.660654,-34.562056
+          -58.661567,-34.561383
+          -58.662369,-34.560794
+          -58.662924,-34.560360
+          -58.663879,-34.559570
+          -58.664893,-34.558776
+          -58.665261,-34.558504
+          -58.665576,-34.558281
+          -58.666111,-34.557926
+          -58.666918,-34.557358
+          -58.668284,-34.556373
+          -58.670146,-34.555065
+          -58.671908,-34.553840
+          -58.672101,-34.553695
+          -58.672325,-34.553526
+          -58.672551,-34.553351
+          -58.672811,-34.553160
+          -58.673059,-34.552967
+          -58.673452,-34.552687
+          -58.674083,-34.552238
+          -58.676422,-34.550566
+          -58.677849,-34.549520
+          -58.678884,-34.548768
+          -58.681058,-34.547171
+          -58.682647,-34.545992
+          -58.684821,-34.544404
+          -58.686881,-34.542884
+          -58.688646,-34.541657
+          -58.690306,-34.540451
+          -58.695326,-34.536867
+          -58.696226,-34.536227
+          -58.696220,-34.536229
+          -58.698192,-34.534809
+          -58.699775,-34.533649
+          -58.700837,-34.532866
+          -58.700881,-34.532903
+          -58.700116,-34.533440
+          -58.698579,-34.534533
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ejército de los Andes</name>
+      <description>KM</description>
+      <Point><coordinates>-58.640391,-34.579872</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lasalle</name>
+      <description>KM</description>
+      <Point><coordinates>-58.645292,-34.573528</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sargento Barrufaldi</name>
+      <description>KM</description>
+      <Point><coordinates>-58.658961,-34.563219</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Capitán Lozano</name>
+      <description>KM</description>
+      <Point><coordinates>-58.669589,-34.555475</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Teniente Agneta</name>
+      <description>KM</description>
+      <Point><coordinates>-58.678672,-34.548903</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Campo de Mayo</name>
+      <description>KM</description>
+      <Point><coordinates>-58.686100,-34.543508</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sargento Cabral</name>
+      <description>KM</description>
+      <Point><coordinates>-58.695231,-34.536931</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lemos</name>
+      <description>KM</description>
+      <Point><coordinates>-58.700897,-34.532847</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

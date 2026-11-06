@@ -1,0 +1,21 @@
+name: Ferromapas
+description: |-
+  Ferromapas - Mapas Ferroviarios Electrónicos
+  http://www.ferromapas.com.ar/
+
+  Versión: 1.0.0
+
+  Pablo Anglat / Gino Nuñez / Rodrigo Respini
+
+  Argentina - Junio 2013
+
+  También disponible la versión para GPS Garmin.
+
+  Este mapa está licenciado como Creative Commons - Atribución-NoComercial-SinDerivadas 2.5 Argentina - (CC BY-NC-ND 2.5 AR)
+  http://creativecommons.org/licenses/by-nc-nd/2.5/ar/
+
+  Para más información sobre la licencia consultar la página de Ferromapas:
+  http://www.ferromapas.com.ar/
+children:
+- ferrocarriles-argentinos/
+- ferrocarriles-de-chile/

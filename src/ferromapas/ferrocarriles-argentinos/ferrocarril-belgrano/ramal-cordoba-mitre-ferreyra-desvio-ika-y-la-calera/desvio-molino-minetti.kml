@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvío Molino Minetti</name>
+    <Placemark>
+      <name>Desvío Molino Minetti</name>
+      <LineString>
+        <coordinates>
+          -64.218297,-31.447342
+          -64.218587,-31.447599
+          -64.218649,-31.447687
+          -64.218792,-31.447939
+          -64.219047,-31.448461
+          -64.219110,-31.448659
+          -64.219256,-31.449033
+          -64.219356,-31.449245
+          -64.219545,-31.449532
+          -64.219879,-31.449936
+          -64.221168,-31.451415
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Molino Minetti</name>
+      <LineString>
+        <coordinates>
+          -64.218808,-31.447957
+          -64.219106,-31.448301
+          -64.219631,-31.448891
+          -64.221568,-31.451079
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Molino Minetti</name>
+      <LineString>
+        <coordinates>
+          -64.218964,-31.448159
+          -64.219160,-31.448451
+          -64.219294,-31.448843
+          -64.219429,-31.449134
+          -64.219598,-31.449405
+          -64.219744,-31.449611
+          -64.219891,-31.449769
+          -64.221268,-31.451300
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Molino Minetti</name>
+      <LineString>
+        <coordinates>
+          -64.218705,-31.447792
+          -64.218996,-31.448483
+          -64.219196,-31.449016
+          -64.219341,-31.449368
+          -64.219517,-31.449644
+          -64.219779,-31.449948
+          -64.221082,-31.451410
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Molino Minetti</name>
+      <LineString>
+        <coordinates>
+          -64.219835,-31.450017
+          -64.219513,-31.449722
+          -64.219227,-31.449476
+          -64.219103,-31.449374
+          -64.217968,-31.448187
+          -64.216899,-31.446952
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Molino Minetti</name>
+      <LineString>
+        <coordinates>
+          -64.219501,-31.449720
+          -64.219222,-31.449432
+          -64.218927,-31.449122
+          -64.218390,-31.448558
+          -64.216927,-31.446922
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Molino Minetti</name>
+      <LineString>
+        <coordinates>
+          -64.219643,-31.449805
+          -64.219211,-31.449332
+          -64.218596,-31.448691
+          -64.216991,-31.446879
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Molino Minetti</name>
+      <Point><coordinates>-64.218669,-31.447704</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Estación Parque Nacional (FAF)</name>
+    <Placemark>
+      <name>FAF</name>
+      <LineString>
+        <coordinates>
+          -68.470097,-54.835454
+          -68.470558,-54.835628
+          -68.470792,-54.835757
+          -68.471319,-54.836066
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>FAF</name>
+      <LineString>
+        <coordinates>
+          -68.470427,-54.835557
+          -68.470436,-54.835560
+          -68.470450,-54.835563
+          -68.470765,-54.835693
+          -68.470773,-54.835698
+          -68.471367,-54.836030
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Estación Parque Nacional (FAF)</name>
+      <Point><coordinates>-68.471155,-54.835918</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

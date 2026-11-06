@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C6: Tostado - General Pinedo</name>
+    <description>Ramal C6: Tostado - General Pinedo. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C6: Tostado - General Pinedo</name>
+      <LineString>
+        <coordinates>
+          -61.774990,-29.230109
+          -61.775103,-29.229678
+          -61.775593,-29.227948
+          -61.775793,-29.227250
+          -61.775882,-29.226917
+          -61.775933,-29.226705
+          -61.775961,-29.226558
+          -61.775990,-29.226319
+          -61.776000,-29.226089
+          -61.775995,-29.225976
+          -61.775991,-29.225856
+          -61.775980,-29.225709
+          -61.775952,-29.225543
+          -61.775901,-29.225298
+          -61.739027,-29.080246
+          -61.736623,-29.070732
+          -61.703973,-28.942797
+          -61.701565,-28.933293
+          -61.663835,-28.784241
+          -61.661419,-28.774678
+          -61.624223,-28.627399
+          -61.621792,-28.617741
+          -61.593512,-28.504033
+          -61.590630,-28.492480
+          -61.546431,-28.318484
+          -61.544121,-28.308853
+          -61.526444,-28.237165
+          -61.526286,-28.236466
+          -61.526066,-28.235698
+          -61.525841,-28.235057
+          -61.525589,-28.234488
+          -61.521135,-28.224514
+          -61.463143,-28.092317
+          -61.460407,-28.086151
+          -61.407595,-27.965460
+          -61.407481,-27.965150
+          -61.407381,-27.964853
+          -61.407275,-27.964464
+          -61.407161,-27.963939
+          -61.407039,-27.963255
+          -61.406957,-27.962688
+          -61.399834,-27.920658
+          -61.398190,-27.910966
+          -61.382893,-27.820687
+          -61.381263,-27.811009
+          -61.365844,-27.719758
+          -61.365028,-27.714880
+          -61.348090,-27.614505
+          -61.346460,-27.604824
+          -61.327335,-27.490872
+          -61.325721,-27.481221
+          -61.303202,-27.345855
+          -61.303129,-27.345394
+          -61.303047,-27.345002
+          -61.302958,-27.344638
+          -61.302855,-27.344316
+          -61.302704,-27.344009
+          -61.302561,-27.343745
+          -61.302354,-27.343447
+          -61.302075,-27.343090
+          -61.285017,-27.323317
+          -61.284817,-27.323075
+          -61.284713,-27.322876
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Antonio Pini KM 355.4</name>
+      <description>KM 355.4</description>
+      <Point><coordinates>-61.737956,-29.075934</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pozo Borrado KM 371.0</name>
+      <description>KM 371.0</description>
+      <Point><coordinates>-61.702872,-28.938452</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fortín Atahualpa KM 389.0</name>
+      <description>KM 389.0</description>
+      <Point><coordinates>-61.662726,-28.779901</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>P Pedro Iturralde KM 405.8 (Villa Minetti)</name>
+      <description>KM 405.8</description>
+      <Point><coordinates>-61.623143,-28.623063</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 421 (Emb) KM 420.8</name>
+      <description>KM 420.8</description>
+      <Point><coordinates>-61.592433,-28.499699</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Margarita KM 441.9</name>
+      <description>KM 441.9</description>
+      <Point><coordinates>-61.545399,-28.314137</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Nochero KM 451.5 (Gregorio Pérez de Denis)</name>
+      <description>KM 451.5</description>
+      <Point><coordinates>-61.523389,-28.229547</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 468 (Emb) KM 468.3</name>
+      <description>KM 468.3</description>
+      <Point><coordinates>-61.461305,-28.088210</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chorotis KM 488.4</name>
+      <description>KM 488.4</description>
+      <Point><coordinates>-61.399079,-27.916268</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Venados Grandes KM 499.6</name>
+      <description>KM 499.6</description>
+      <Point><coordinates>-61.382151,-27.816278</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zuberbühler KM 510.9</name>
+      <description>KM 510.9</description>
+      <Point><coordinates>-61.365115,-27.715379</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hermoso Campo KM 522.7</name>
+      <description>KM 522.7</description>
+      <Point><coordinates>-61.347377,-27.610090</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Itin KM 536.5</name>
+      <description>KM 536.5</description>
+      <Point><coordinates>-61.326611,-27.486490</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

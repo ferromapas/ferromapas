@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 31: Retiro - Membrillar</name>
+    <Placemark>
+      <name>La Paternal KM 10.7</name>
+      <description>KM 10.7</description>
+      <Point><coordinates>-58.467217,-34.597091</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Avenida San Martin KM 11.5</name>
+      <description>KM 11.5</description>
+      <Point><coordinates>-58.475220,-34.599911</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa del Parque KM 13.3</name>
+      <description>KM 13.3</description>
+      <Point><coordinates>-58.494760,-34.601375</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Devoto KM 15.0</name>
+      <description>KM 15.0</description>
+      <Point><coordinates>-58.512803,-34.602562</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Saenz Peña KM 16.4</name>
+      <description>KM 16.4</description>
+      <Point><coordinates>-58.527954,-34.603127</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Santo Lugares KM 17,6</name>
+      <description>KM 17,6</description>
+      <Point><coordinates>-58.540959,-34.603683</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Patio Alianza KM 17.6</name>
+      <description>KM 17.6
+Código: BAL</description>
+      <Point><coordinates>-58.542146,-34.607123</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Alianza Oeste KM 19.1</name>
+      <description>KM 19.1</description>
+      <Point><coordinates>-58.557818,-34.604321</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Caseros KM 19.7</name>
+      <description>KM 19.7</description>
+      <Point><coordinates>-58.564524,-34.604522</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Palomar KM 22.6</name>
+      <description>KM 22.6</description>
+      <Point><coordinates>-58.596137,-34.604948</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hurlingham KM 26.4</name>
+      <description>KM 26.4</description>
+      <Point><coordinates>-58.632375,-34.591095</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce a nivel FCSM / FCGU KM 27.2</name>
+      <description>KM 27.2</description>
+      <Point><coordinates>-58.639945,-34.587144</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>William C. Morris KM 29.0</name>
+      <description>KM 29.0</description>
+      <Point><coordinates>-58.656475,-34.578519</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Teniente General Riccheri KM 32.1</name>
+      <description>KM 32.1</description>
+      <Point><coordinates>-58.684656,-34.563804</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Muñiz KM 34.3</name>
+      <description>KM 34.3</description>
+      <Point><coordinates>-58.703473,-34.551250</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Miguel KM 35.5</name>
+      <description>KM 35.5</description>
+      <Point><coordinates>-58.713244,-34.544183</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Jose C. Paz KM 40.0</name>
+      <description>KM 40.0</description>
+      <Point><coordinates>-58.750877,-34.519036</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Presidente Derqui KM 48.6</name>
+      <description>KM 48.6</description>
+      <Point><coordinates>-58.839203,-34.490797</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Astolfi KM 52.350</name>
+      <description>KM 52.350</description>
+      <Point><coordinates>-58.876992,-34.478714</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pilar KM 55.4</name>
+      <description>KM 55.4
+Código: TPR</description>
+      <Point><coordinates>-58.908264,-34.468639</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce a nivel FCSM / FCGU KM 56.1</name>
+      <description>KM 56.1</description>
+      <Point><coordinates>-58.915292,-34.466408</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Manzanares KM 64.8</name>
+      <description>KM 64.8
+Código: BMA</description>
+      <Point><coordinates>-59.006314,-34.451831</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Domingo Cabred KM 72.3</name>
+      <description>KM 72.3
+Código: BCB</description>
+      <Point><coordinates>-59.075695,-34.487897</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero Sucre KM 76.2</name>
+      <description>KM 76.2</description>
+      <Point><coordinates>-59.111425,-34.506416</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cortines KM 86.5</name>
+      <description>KM 86.5
+Código: BCO</description>
+      <Point><coordinates>-59.206608,-34.555603</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Goldney KM 95.5</name>
+      <description>KM 95.5
+Código: BGY</description>
+      <Point><coordinates>-59.287385,-34.602001</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero Luis Agote KM 103.2</name>
+      <description>KM 103.2</description>
+      <Point><coordinates>-59.353705,-34.644690</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero KM 110.338</name>
+      <description>KM 110.338</description>
+      <Point><coordinates>-59.422766,-34.658238</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mercedes P KM 110.6</name>
+      <description>KM 110.6</description>
+      <Point><coordinates>-59.431223,-34.656866</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme FCDFS</name>
+      <Point><coordinates>-59.442111,-34.656555</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mercedes C (BAP) KM 111.8</name>
+      <description>KM 111.8
+Código: BME</description>
+      <Point><coordinates>-59.443928,-34.656693</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme FCDFS</name>
+      <Point><coordinates>-59.442111,-34.656555</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Jacinto KM 120.8</name>
+      <description>KM 120.8
+Código: BJA</description>
+      <Point><coordinates>-59.523548,-34.644267</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Franklin KM 131.9</name>
+      <description>KM 131.9
+Código: BFR</description>
+      <Point><coordinates>-59.630442,-34.610140</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rivas KM 142.9</name>
+      <description>KM 142.9
+Código: BRI</description>
+      <Point><coordinates>-59.750482,-34.610403</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Castilla KM 156.4</name>
+      <description>KM 156.4
+Código: BCA</description>
+      <Point><coordinates>-59.897248,-34.610544</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rawson KM 172.0</name>
+      <description>KM 172.0
+Código: BRW</description>
+      <Point><coordinates>-60.067501,-34.610494</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal a Arribeños</name>
+      <Point><coordinates>-60.070408,-34.610417</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Patricio KM 188.5</name>
+      <description>KM 188.5
+Código: BPT</description>
+      <Point><coordinates>-60.247268,-34.614242</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cucha-Cucha KM 203.3</name>
+      <description>KM 203.3
+Código: BCU</description>
+      <Point><coordinates>-60.408409,-34.621693</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chacabuco KM 209.1</name>
+      <description>KM 209.1
+Código: BMB</description>
+      <Point><coordinates>-60.470343,-34.629699</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal a Huinca Renanco</name>
+      <Point><coordinates>-60.488037,-34.628441</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Membrillar KM 223.2</name>
+      <description>KM 223.2
+Código: BMB</description>
+      <Point><coordinates>-60.611321,-34.591663</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

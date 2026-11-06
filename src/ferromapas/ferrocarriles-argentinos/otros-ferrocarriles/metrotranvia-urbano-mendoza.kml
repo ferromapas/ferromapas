@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Metrotranvía Urbano Mendoza</name>
+    <description>Metrotranvía Urbano Mendoza. Dibujado por:
+Pablo Anglat
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Metrotranvía Urbano Mendoza</name>
+      <LineString>
+        <coordinates>
+          -68.780134,-32.960645
+          -68.785076,-32.958785
+          -68.789177,-32.957221
+          -68.793114,-32.955785
+          -68.799586,-32.953280
+          -68.800359,-32.952942
+          -68.801560,-32.952323
+          -68.802968,-32.951489
+          -68.804526,-32.950395
+          -68.808333,-32.947285
+          -68.811125,-32.945003
+          -68.826678,-32.932237
+          -68.833426,-32.926761
+          -68.836616,-32.924124
+          -68.838227,-32.922735
+          -68.840624,-32.920835
+          -68.841182,-32.920384
+          -68.843250,-32.918696
+          -68.845977,-32.916416
+          -68.847745,-32.914826
+          -68.848451,-32.914160
+          -68.849241,-32.913235
+          -68.850509,-32.911564
+          -68.851250,-32.910151
+          -68.851809,-32.908875
+          -68.852101,-32.908249
+          -68.852396,-32.907285
+          -68.852531,-32.906705
+          -68.852662,-32.906306
+          -68.852805,-32.905607
+          -68.852882,-32.905227
+          -68.852931,-32.904776
+          -68.853021,-32.902635
+          -68.853021,-32.902216
+          -68.852907,-32.901155
+          -68.852721,-32.900300
+          -68.852599,-32.899539
+          -68.852329,-32.898615
+          -68.851754,-32.896466
+          -68.848645,-32.884598
+          -68.848551,-32.884294
+          -68.848467,-32.883992
+          -68.848426,-32.883806
+          -68.848291,-32.883295
+          -68.848190,-32.882865
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Gutiérrez</name>
+      <Point><coordinates>-68.782727,-32.959672</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador Maza</name>
+      <Point><coordinates>-68.789503,-32.957106</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador Alta Italia</name>
+      <Point><coordinates>-68.795271,-32.954931</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador Piedra Buena</name>
+      <Point><coordinates>-68.801201,-32.952510</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Luzuriaga</name>
+      <Point><coordinates>-68.808162,-32.947357</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador 9 de Julio</name>
+      <Point><coordinates>-68.815155,-32.941649</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador Independencia</name>
+      <Point><coordinates>-68.825917,-32.932863</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador Progreso</name>
+      <Point><coordinates>-68.833198,-32.926916</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Godoy Cruz (Metrotranvía Urbano)</name>
+      <Point><coordinates>-68.839831,-32.921459</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador San Martín</name>
+      <Point><coordinates>-68.846468,-32.916051</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Nodo de Transferencia</name>
+      <Point><coordinates>-68.850840,-32.910947</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador Pellegrini</name>
+      <Point><coordinates>-68.851966,-32.908707</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador 25 de Mayo</name>
+      <Point><coordinates>-68.852959,-32.904602</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador Peltier</name>
+      <Point><coordinates>-68.851887,-32.896959</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador Belgrano</name>
+      <Point><coordinates>-68.850114,-32.890208</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mendoza (Metrotranvía Urbano)</name>
+      <Point><coordinates>-68.848501,-32.884091</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

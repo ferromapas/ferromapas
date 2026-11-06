@@ -1,0 +1,15 @@
+name: Sánchez - Villa Consitución - Aguirre
+description: |-
+  Sánchez - Villa Consitución - Aguirre. Dibujado por:
+  Gino Nuñez
+
+  Fuentes:
+  - Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+  http://www.ferromapas.com.ar/
+  Buenos Aires, Argentina
+children:
+- _loose.kml
+- desvio-malteria-punta-alvear.kml
+- _loose-2.kml
+- aguirre-rosario.kml

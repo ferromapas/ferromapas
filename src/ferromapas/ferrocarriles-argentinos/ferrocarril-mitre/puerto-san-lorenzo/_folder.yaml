@@ -1,0 +1,5 @@
+name: Puerto San Lorenzo
+description: "Puerto San Lorenzo. Dibujado por:\nPablo Anglat\n\nFuentes: \n- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)\n- Revista Todo Trenes\n- José Becerra\n\nhttp://www.ferromapas.com.ar/\nMendoza, Argentina"
+children:
+- puerto-borghi.kml
+- san-lorenzo.kml

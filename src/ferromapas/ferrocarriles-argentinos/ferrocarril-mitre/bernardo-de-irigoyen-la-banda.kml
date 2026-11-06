@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Bernardo de Irigoyen - La Banda</name>
+    <description>Bernardo de Irigoyen - La Banda. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Bernardo de Irigoyen - Galvez</name>
+      <LineString>
+        <coordinates>
+          -61.158747,-32.172133
+          -61.158724,-32.172153
+          -61.159150,-32.171130
+          -61.159537,-32.170052
+          -61.160330,-32.167518
+          -61.160723,-32.166325
+          -61.161219,-32.164876
+          -61.161811,-32.163206
+          -61.162336,-32.161664
+          -61.163121,-32.159419
+          -61.164344,-32.155947
+          -61.165415,-32.152919
+          -61.166070,-32.150996
+          -61.167697,-32.146334
+          -61.173483,-32.129636
+          -61.177649,-32.117571
+          -61.186646,-32.091618
+          -61.188200,-32.087153
+          -61.188735,-32.085624
+          -61.190453,-32.080660
+          -61.191354,-32.078016
+          -61.192176,-32.075685
+          -61.192339,-32.075211
+          -61.192483,-32.074828
+          -61.192596,-32.074534
+          -61.192733,-32.074211
+          -61.192886,-32.073849
+          -61.193093,-32.073433
+          -61.193320,-32.073008
+          -61.193564,-32.072572
+          -61.193841,-32.072112
+          -61.194151,-32.071612
+          -61.194467,-32.071150
+          -61.195032,-32.070397
+          -61.195911,-32.069210
+          -61.201177,-32.062191
+          -61.204192,-32.058159
+          -61.210179,-32.050166
+          -61.216308,-32.041954
+          -61.217818,-32.039969
+          -61.219332,-32.037953
+          -61.219566,-32.037629
+          -61.221515,-32.034916
+          -61.224748,-32.030567
+          -61.225640,-32.029373
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Gálvez KM 420.0</name>
+      <description>KM 420.0</description>
+      <Point><coordinates>-61.222678,-32.033247</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gálvez - Mariano Saavedra</name>
+      <LineString>
+        <coordinates>
+          -61.220492,-32.036337
+          -61.220806,-32.035967
+          -61.222386,-32.033935
+          -61.223873,-32.031915
+          -61.224596,-32.030885
+          -61.225699,-32.029344
+          -61.227375,-32.027184
+          -61.230339,-32.023204
+          -61.236878,-32.014468
+          -61.249905,-31.997043
+          -61.258624,-31.985415
+          -61.260580,-31.982800
+          -61.261474,-31.981614
+          -61.261925,-31.980943
+          -61.262516,-31.980039
+          -61.263044,-31.979115
+          -61.263484,-31.978172
+          -61.263904,-31.977148
+          -61.264280,-31.976005
+          -61.264504,-31.975119
+          -61.265523,-31.970884
+          -61.266829,-31.965510
+          -61.281478,-31.904981
+          -61.287036,-31.881673
+          -61.288714,-31.874658
+          -61.289804,-31.870325
+          -61.290681,-31.867423
+          -61.293341,-31.858659
+          -61.297395,-31.845213
+          -61.304104,-31.823002
+          -61.308521,-31.808336
+          -61.314298,-31.789206
+          -61.315116,-31.786569
+          -61.318061,-31.776730
+          -61.321917,-31.764042
+          -61.326079,-31.750159
+          -61.329406,-31.739191
+          -61.335685,-31.718364
+          -61.336068,-31.717082
+          -61.338373,-31.709423
+          -61.340144,-31.703685
+          -61.345828,-31.684638
+          -61.348334,-31.676299
+          -61.350565,-31.668940
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Mariano Saavedra - La Rubia</name>
+      <LineString>
+        <coordinates>
+          -61.350484,-31.669205
+          -61.352955,-31.660948
+          -61.355971,-31.651000
+          -61.403749,-31.491895
+          -61.470540,-31.269016
+          -61.472521,-31.262398
+          -61.473039,-31.260654
+          -61.473833,-31.258022
+          -61.474873,-31.254545
+          -61.475705,-31.251773
+          -61.476623,-31.248667
+          -61.485167,-31.220168
+          -61.493077,-31.193732
+          -61.496438,-31.182625
+          -61.507501,-31.145726
+          -61.513863,-31.124554
+          -61.517234,-31.113215
+          -61.518847,-31.107895
+          -61.519609,-31.105282
+          -61.520564,-31.102131
+          -61.521346,-31.099576
+          -61.542858,-31.027407
+          -61.545897,-31.017217
+          -61.546634,-31.014744
+          -61.568567,-30.941364
+          -61.583248,-30.892210
+          -61.590511,-30.867247
+          -61.598272,-30.841845
+          -61.620454,-30.767275
+          -61.621130,-30.765023
+          -61.621723,-30.763031
+          -61.621980,-30.762036
+          -61.622170,-30.761122
+          -61.622450,-30.754601
+          -61.624239,-30.717424
+          -61.625028,-30.700731
+          -61.625203,-30.697465
+          -61.625914,-30.682672
+          -61.626296,-30.674527
+          -61.626901,-30.662355
+          -61.627541,-30.649489
+          -61.628019,-30.640184
+          -61.628521,-30.629950
+          -61.628811,-30.623426
+          -61.629193,-30.615674
+          -61.629618,-30.607078
+          -61.630071,-30.598314
+          -61.636146,-30.477993
+          -61.637110,-30.457226
+          -61.638185,-30.435870
+          -61.638402,-30.430715
+          -61.638473,-30.429356
+          -61.638601,-30.428503
+          -61.638838,-30.427601
+          -61.639241,-30.426509
+          -61.640184,-30.424597
+          -61.642600,-30.419636
+          -61.646979,-30.410331
+          -61.652545,-30.398798
+          -61.661187,-30.380661
+          -61.666006,-30.370648
+          -61.673336,-30.355277
+          -61.677904,-30.345767
+          -61.689083,-30.322352
+          -61.696798,-30.306226
+          -61.703801,-30.291569
+          -61.709243,-30.280192
+          -61.786044,-30.118741
+          -61.791571,-30.107160
+          -61.792418,-30.105237
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>La Rubia - Forres</name>
+      <LineString>
+        <coordinates>
+          -61.789052,-30.112403
+          -61.789690,-30.111455
+          -61.790278,-30.110604
+          -61.790736,-30.109823
+          -61.791037,-30.109245
+          -61.791406,-30.108536
+          -61.791553,-30.107973
+          -61.791799,-30.107039
+          -61.792134,-30.105990
+          -61.793699,-30.102547
+          -61.844028,-29.996410
+          -61.846207,-29.991820
+          -61.847385,-29.989383
+          -61.847774,-29.988669
+          -61.848119,-29.988122
+          -61.848567,-29.987440
+          -61.849234,-29.986593
+          -61.849873,-29.985847
+          -61.850997,-29.984606
+          -61.854507,-29.980860
+          -61.904797,-29.927213
+          -61.932106,-29.898074
+          -61.947753,-29.881181
+          -61.960135,-29.867928
+          -61.969141,-29.858163
+          -62.058166,-29.761936
+          -62.151356,-29.661072
+          -62.168674,-29.642377
+          -62.193579,-29.614857
+          -62.230900,-29.574886
+          -62.263485,-29.539546
+          -62.270148,-29.532289
+          -62.309582,-29.489530
+          -62.438792,-29.348552
+          -62.446223,-29.340377
+          -62.475946,-29.307863
+          -62.478074,-29.305522
+          -62.479111,-29.304377
+          -62.479897,-29.303639
+          -62.481902,-29.301818
+          -62.498976,-29.286499
+          -62.598238,-29.197254
+          -62.651159,-29.149740
+          -62.666067,-29.136101
+          -62.690460,-29.114091
+          -62.696489,-29.108632
+          -62.699924,-29.105494
+          -62.701324,-29.104086
+          -62.701917,-29.103196
+          -62.703124,-29.101366
+          -62.705048,-29.098446
+          -62.723610,-29.069590
+          -62.736915,-29.049106
+          -62.750278,-29.028221
+          -62.757773,-29.016551
+          -62.765930,-29.003925
+          -62.803565,-28.945554
+          -62.806586,-28.940907
+          -62.810816,-28.934307
+          -62.811393,-28.933215
+          -62.811772,-28.932178
+          -62.812262,-28.930497
+          -62.826059,-28.884976
+          -62.833348,-28.860950
+          -62.839814,-28.839427
+          -62.849867,-28.806358
+          -62.886167,-28.685058
+          -62.889272,-28.674656
+          -62.889643,-28.673443
+          -62.890019,-28.672557
+          -62.890610,-28.671546
+          -62.891203,-28.670764
+          -62.892003,-28.669896
+          -62.897973,-28.663339
+          -62.905660,-28.654876
+          -62.942549,-28.614510
+          -62.988062,-28.564823
+          -63.040104,-28.507536
+          -63.050525,-28.495938
+          -63.051822,-28.494593
+          -63.052979,-28.493560
+          -63.055666,-28.491461
+          -63.073489,-28.477596
+          -63.084073,-28.469326
+          -63.098927,-28.457811
+          -63.111435,-28.448079
+          -63.112739,-28.447064
+          -63.113669,-28.446496
+          -63.114686,-28.446051
+          -63.116024,-28.445552
+          -63.117331,-28.445133
+          -63.124810,-28.442955
+          -63.232364,-28.411632
+          -63.281421,-28.397151
+          -63.284183,-28.396337
+          -63.285694,-28.395847
+          -63.286819,-28.395322
+          -63.287930,-28.394613
+          -63.289196,-28.393549
+          -63.290620,-28.392030
+          -63.301872,-28.380006
+          -63.342651,-28.336370
+          -63.375849,-28.300906
+          -63.407951,-28.266571
+          -63.449062,-28.222622
+          -63.471215,-28.198938
+          -63.472659,-28.197456
+          -63.473587,-28.196568
+          -63.474818,-28.195514
+          -63.476062,-28.194572
+          -63.477054,-28.193883
+          -63.478164,-28.193119
+          -63.479930,-28.191916
+          -63.487327,-28.186794
+          -63.497180,-28.179982
+          -63.521787,-28.162969
+          -63.542439,-28.148688
+          -63.605678,-28.104893
+          -63.720229,-28.025291
+          -63.749522,-28.004895
+          -63.762998,-27.995548
+          -63.767896,-27.992101
+          -63.770671,-27.990187
+          -63.771682,-27.989505
+          -63.773008,-27.988586
+          -63.774027,-27.987920
+          -63.775037,-27.987356
+          -63.779551,-27.984936
+          -63.822820,-27.961441
+          -63.895860,-27.921650
+          -63.901148,-27.918744
+          -63.971427,-27.880374
+          -63.981744,-27.874746
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Forres - La Banda</name>
+      <LineString>
+        <coordinates>
+          -63.979318,-27.876103
+          -63.980425,-27.875491
+          -63.982621,-27.874267
+          -63.985560,-27.872663
+          -63.997251,-27.866269
+          -64.014989,-27.856548
+          -64.033658,-27.846333
+          -64.046247,-27.839395
+          -64.073162,-27.824577
+          -64.120534,-27.798531
+          -64.153382,-27.780396
+          -64.207084,-27.750663
+          -64.231750,-27.737053
+          -64.237716,-27.733743
+          -64.241196,-27.731837
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>San Martín de Tours KM 435.4</name>
+      <description>KM 435.4</description>
+      <Point><coordinates>-61.281455,-31.905017</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Clara KM 451.8</name>
+      <description>KM 451.8</description>
+      <Point><coordinates>-61.322463,-31.762131</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mariano Saavedra KM 462.4</name>
+      <description>KM 462.4</description>
+      <Point><coordinates>-61.350370,-31.669156</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sá Pereira KM 473.7</name>
+      <description>KM 473.7</description>
+      <Point><coordinates>-61.379957,-31.570773</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCGB y FCGBM KM 482.6 (FCGBM)</name>
+      <description>FCGB - KM 78.1
+FCGBM - KM 482.6</description>
+      <Point><coordinates>-61.403492,-31.492758</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Aurelia KM 490.8</name>
+      <description>KM 490.8</description>
+      <Point><coordinates>-61.424780,-31.421832</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCGB (CC4) - FCGBM KM 509.2 (FCGBM)</name>
+      <description>FCGB - KM 61.2
+FCGBM - KM 509.2</description>
+      <Point><coordinates>-61.473081,-31.260413</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rafaela KM 510.6</name>
+      <description>KM 510.6</description>
+      <Point><coordinates>-61.476453,-31.249185</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lehmann KM 525.6</name>
+      <description>KM 525.6</description>
+      <Point><coordinates>-61.516155,-31.116897</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCGB (A) - FCGBM KM 537.0 (FCGBM)</name>
+      <description>KM 135.1</description>
+      <Point><coordinates>-61.545913,-31.016274</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sunchales KM 545.2</name>
+      <description>KM 545.2</description>
+      <Point><coordinates>-61.567047,-30.946418</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tacural KM 556.6</name>
+      <description>KM 556.6</description>
+      <Point><coordinates>-61.597359,-30.844782</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Palacios KM 572.1</name>
+      <description>KM 572.1</description>
+      <Point><coordinates>-61.624656,-30.708884</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Palmeras KM 580.8</name>
+      <description>KM 580.8</description>
+      <Point><coordinates>-61.628480,-30.630201</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Monigotes KM 596.6</name>
+      <description>KM 596.6</description>
+      <Point><coordinates>-61.635657,-30.488050</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Curupaytí KM 607.0</name>
+      <description>KM 607.0</description>
+      <Point><coordinates>-61.653504,-30.396827</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Arrufo KM 626.6</name>
+      <description>KM 626.6</description>
+      <Point><coordinates>-61.731429,-30.233623</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Rubia KM 641.5</name>
+      <description>KM 641.5</description>
+      <Point><coordinates>-61.790598,-30.109148</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hersilla KM 654.1</name>
+      <description>KM 654.1</description>
+      <Point><coordinates>-61.840244,-30.004328</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ceres KM 671.1</name>
+      <description>KM 671.1</description>
+      <Point><coordinates>-61.946660,-29.882311</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Selva KM 687.1</name>
+      <description>KM 687.1</description>
+      <Point><coordinates>-62.050763,-29.769909</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Palo Negro KM 700.4</name>
+      <description>KM 700.4</description>
+      <Point><coordinates>-62.138327,-29.675269</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Argentina KM 720.4</name>
+      <description>KM 720.4</description>
+      <Point><coordinates>-62.266892,-29.535874</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Malbrán KM 747.1</name>
+      <description>KM 747.1</description>
+      <Point><coordinates>-62.439639,-29.347651</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pinto KM 778.1</name>
+      <description>KM 778.1</description>
+      <Point><coordinates>-62.657735,-29.143728</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Casares KM 804.1</name>
+      <description>KM 804.1</description>
+      <Point><coordinates>-62.801892,-28.948088</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Real Sayana KM 819.3</name>
+      <description>KM 819.3</description>
+      <Point><coordinates>-62.847314,-28.814695</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Icaño KM 834.9</name>
+      <description>KM 834.9</description>
+      <Point><coordinates>-62.887330,-28.681354</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Colonia Dora KM 845.6</name>
+      <description>KM 845.6</description>
+      <Point><coordinates>-62.951986,-28.604201</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Herrera KM 863.1</name>
+      <description>KM 863.1</description>
+      <Point><coordinates>-63.066685,-28.482885</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lugones KM 805.4</name>
+      <description>KM 805.4</description>
+      <Point><coordinates>-63.340972,-28.338142</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Garza KM 923.9</name>
+      <description>KM 923.9</description>
+      <Point><coordinates>-63.538675,-28.151300</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Taboada KM 949.6</name>
+      <description>KM 949.6</description>
+      <Point><coordinates>-63.744431,-28.008428</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fernández KM 967.1</name>
+      <description>KM 967.1</description>
+      <Point><coordinates>-63.893584,-27.922885</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Forres KM 977.1</name>
+      <description>KM 977.1</description>
+      <Point><coordinates>-63.980169,-27.875599</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Beltrán KM 986.5</name>
+      <description>KM 986.5</description>
+      <Point><coordinates>-64.061356,-27.831081</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilmer KM 996.6</name>
+      <description>KM 996.6</description>
+      <Point><coordinates>-64.149412,-27.782491</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Banda KM 1007.2</name>
+      <description>KM 1007.2</description>
+      <Point><coordinates>-64.240142,-27.732466</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

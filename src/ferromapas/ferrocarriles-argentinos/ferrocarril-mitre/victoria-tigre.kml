@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Victoria - Tigre</name>
+    <description>Victoria - Tigre. Dibujado por:
+Gino Nuñez
+Con modificaciones de Pablo Anglat
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Victoria - Tigre</name>
+      <LineString>
+        <coordinates>
+          -58.539149,-34.456493
+          -58.539790,-34.456413
+          -58.540249,-34.456329
+          -58.540835,-34.456207
+          -58.541274,-34.456097
+          -58.541784,-34.455972
+          -58.542356,-34.455811
+          -58.542772,-34.455687
+          -58.543152,-34.455531
+          -58.543605,-34.455336
+          -58.544319,-34.454995
+          -58.545253,-34.454473
+          -58.545966,-34.454016
+          -58.546582,-34.453579
+          -58.548702,-34.452055
+          -58.551016,-34.450404
+          -58.553248,-34.448808
+          -58.554301,-34.447998
+          -58.555092,-34.447369
+          -58.556225,-34.446419
+          -58.556687,-34.446038
+          -58.557212,-34.445594
+          -58.558152,-34.444719
+          -58.558521,-34.444413
+          -58.558916,-34.444096
+          -58.559222,-34.443858
+          -58.559561,-34.443620
+          -58.561341,-34.442281
+          -58.563502,-34.440608
+          -58.567140,-34.437714
+          -58.568152,-34.436919
+          -58.568484,-34.436648
+          -58.568749,-34.436410
+          -58.568967,-34.436163
+          -58.569178,-34.435833
+          -58.569369,-34.435518
+          -58.569491,-34.435270
+          -58.569667,-34.434883
+          -58.569829,-34.434509
+          -58.569999,-34.434130
+          -58.570178,-34.433756
+          -58.570395,-34.433296
+          -58.570574,-34.432918
+          -58.570731,-34.432655
+          -58.570907,-34.432398
+          -58.571041,-34.432235
+          -58.571352,-34.431923
+          -58.571671,-34.431633
+          -58.571994,-34.431367
+          -58.573129,-34.430458
+          -58.575295,-34.428760
+          -58.578730,-34.426011
+          -58.579255,-34.425577
+          -58.580597,-34.424534
+          -58.581680,-34.423646
+          -58.581550,-34.423540
+          -58.580258,-34.424629
+          -58.579446,-34.425350
+          -58.578888,-34.425876
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Victoria KM 22.7</name>
+      <description>KM 22.7</description>
+      <Point><coordinates>-58.540974,-34.456177</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Virreyes KM 23.8</name>
+      <description>KM 23.8</description>
+      <Point><coordinates>-58.550516,-34.450763</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Fernando KM 24.9</name>
+      <description>KM 24.9</description>
+      <Point><coordinates>-58.559145,-34.443924</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Carupá (Parada) KM 25.8</name>
+      <description>KM 25.8</description>
+      <Point><coordinates>-58.566210,-34.438448</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tigre (Nueva) KM 28.0</name>
+      <description>KM 28.0</description>
+      <Point><coordinates>-58.581726,-34.423556</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tigre Original</name>
+      <LineString>
+        <coordinates>
+          -58.580405,-34.424501
+          -58.580693,-34.424228
+          -58.580856,-34.423944
+          -58.580965,-34.423643
+          -58.580950,-34.423227
+          -58.580880,-34.422947
+          -58.580792,-34.422741
+          -58.580615,-34.422416
+          -58.579399,-34.420943
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tigre KM 28.2</name>
+      <description>KM 28.2</description>
+      <Point><coordinates>-58.579914,-34.421618</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

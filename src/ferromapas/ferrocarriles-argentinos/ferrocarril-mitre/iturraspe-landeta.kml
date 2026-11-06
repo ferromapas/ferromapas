@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Iturraspe - Landeta</name>
+    <description>Iturraspe - Landeta. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Iturraspe KM 21.7</name>
+      <description>KM 21.7</description>
+      <Point><coordinates>-61.786555,-32.424402</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>María Susana KM 43.1</name>
+      <description>KM 43.1</description>
+      <Point><coordinates>-61.903090,-32.265495</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Piamonte KM 59.1</name>
+      <description>KM 59.1</description>
+      <Point><coordinates>-61.976215,-32.134995</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Landeta KM 75.5</name>
+      <description>KM 75.5</description>
+      <Point><coordinates>-62.059855,-32.010645</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Iturraspe - Landeta</name>
+      <LineString>
+        <coordinates>
+          -61.784842,-32.424705
+          -61.792105,-32.423335
+          -61.798108,-32.422020
+          -61.800068,-32.421493
+          -61.801770,-32.420899
+          -61.804032,-32.420073
+          -61.807122,-32.418710
+          -61.809397,-32.417566
+          -61.811448,-32.416379
+          -61.813798,-32.414893
+          -61.816053,-32.413208
+          -61.818297,-32.411357
+          -61.820073,-32.409788
+          -61.821349,-32.408473
+          -61.822762,-32.406863
+          -61.824161,-32.405172
+          -61.825127,-32.403813
+          -61.826083,-32.402323
+          -61.829612,-32.396013
+          -61.847301,-32.364175
+          -61.860699,-32.340303
+          -61.877529,-32.310143
+          -61.888956,-32.290422
+          -61.904464,-32.263159
+          -61.907139,-32.258340
+          -61.918051,-32.238838
+          -61.930263,-32.216975
+          -61.939381,-32.200703
+          -61.965212,-32.154486
+          -61.973806,-32.139157
+          -61.977466,-32.132624
+          -62.001463,-32.088167
+          -62.018814,-32.057886
+          -62.029755,-32.038600
+          -62.039004,-32.021891
+          -62.040334,-32.019467
+          -62.041116,-32.018272
+          -62.041939,-32.017182
+          -62.042970,-32.016106
+          -62.044133,-32.015159
+          -62.045293,-32.014383
+          -62.046856,-32.013516
+          -62.048369,-32.012844
+          -62.049686,-32.012421
+          -62.051011,-32.012169
+          -62.059696,-32.010720
+          -62.065040,-32.009775
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

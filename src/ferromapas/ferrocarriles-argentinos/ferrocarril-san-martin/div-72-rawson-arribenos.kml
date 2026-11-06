@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 72: Rawson - Arribeños</name>
+    <description>Div 72: Rawson - Arribeños. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Div 72: Rawson - Arribeños</name>
+      <LineString>
+        <coordinates>
+          -60.070426,-34.610416
+          -60.071578,-34.610394
+          -60.072127,-34.610362
+          -60.072631,-34.610319
+          -60.073178,-34.610246
+          -60.073789,-34.610165
+          -60.074500,-34.610044
+          -60.074994,-34.609932
+          -60.075877,-34.609676
+          -60.076829,-34.609315
+          -60.077622,-34.608951
+          -60.078423,-34.608499
+          -60.079402,-34.607785
+          -60.079758,-34.607503
+          -60.080155,-34.607160
+          -60.080562,-34.606772
+          -60.080950,-34.606329
+          -60.081416,-34.605675
+          -60.081783,-34.604991
+          -60.081987,-34.604634
+          -60.089804,-34.587694
+          -60.090264,-34.586737
+          -60.090767,-34.585958
+          -60.091352,-34.585132
+          -60.092263,-34.584056
+          -60.092741,-34.583596
+          -60.093607,-34.582840
+          -60.138726,-34.548268
+          -60.139561,-34.547708
+          -60.140200,-34.547348
+          -60.140818,-34.547023
+          -60.141526,-34.546672
+          -60.155803,-34.541076
+          -60.182709,-34.530367
+          -60.193818,-34.525966
+          -60.203329,-34.522161
+          -60.207032,-34.520710
+          -60.210299,-34.519406
+          -60.211606,-34.518752
+          -60.212642,-34.518134
+          -60.213698,-34.517376
+          -60.215968,-34.515629
+          -60.283441,-34.463497
+          -60.293180,-34.456004
+          -60.309619,-34.443317
+          -60.310245,-34.442857
+          -60.310901,-34.442434
+          -60.311452,-34.442113
+          -60.312198,-34.441710
+          -60.312650,-34.441491
+          -60.313220,-34.441238
+          -60.313835,-34.440988
+          -60.314576,-34.440721
+          -60.315415,-34.440477
+          -60.316327,-34.440251
+          -60.317191,-34.440064
+          -60.318078,-34.439891
+          -60.319896,-34.439571
+          -60.321498,-34.439256
+          -60.398444,-34.424833
+          -60.536608,-34.398780
+          -60.547038,-34.396805
+          -60.640635,-34.379078
+          -60.643670,-34.378413
+          -60.645210,-34.377981
+          -60.646445,-34.377493
+          -60.647645,-34.376934
+          -60.649213,-34.375954
+          -60.650253,-34.375197
+          -60.658182,-34.369207
+          -60.749483,-34.299779
+          -60.773097,-34.281900
+          -60.775002,-34.280456
+          -60.776857,-34.279331
+          -60.777633,-34.278916
+          -60.779141,-34.278264
+          -60.780858,-34.277810
+          -60.782756,-34.277431
+          -60.785392,-34.277139
+          -60.798928,-34.275856
+          -60.866286,-34.269468
+          -60.877029,-34.268322
+          -60.963469,-34.260030
+          -60.974157,-34.258972
+          -61.068112,-34.249917
+          -61.104552,-34.246358
+          -61.236222,-34.233436
+          -61.246835,-34.232377
+          -61.273471,-34.229799
+          -61.274817,-34.229658
+          -61.275632,-34.229599
+          -61.276296,-34.229596
+          -61.277595,-34.229617
+          -61.278472,-34.229675
+          -61.279200,-34.229765
+          -61.280127,-34.229910
+          -61.305701,-34.235106
+          -61.316275,-34.237261
+          -61.318112,-34.237604
+          -61.320019,-34.237776
+          -61.321363,-34.237819
+          -61.323192,-34.237691
+          -61.324698,-34.237451
+          -61.325838,-34.237210
+          -61.327229,-34.236760
+          -61.328167,-34.236384
+          -61.329723,-34.235742
+          -61.330484,-34.235308
+          -61.331591,-34.234544
+          -61.333375,-34.233057
+          -61.334723,-34.231501
+          -61.336602,-34.229112
+          -61.344319,-34.219308
+          -61.345202,-34.218177
+          -61.345864,-34.217463
+          -61.346779,-34.216633
+          -61.348091,-34.215575
+          -61.348848,-34.215090
+          -61.350495,-34.214174
+          -61.356696,-34.210802
+          -61.357044,-34.210662
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal a Arribeños</name>
+      <Point><coordinates>-60.070408,-34.610417</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ingeniero Silveyra (Paradero) KM 15.6</name>
+      <description>KM 15.6</description>
+      <Point><coordinates>-60.198705,-34.524019</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Monroe KM 26.7</name>
+      <description>KM 26.7
+Código: BMO</description>
+      <Point><coordinates>-60.289276,-34.459014</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coronel Isleño KM 38.2</name>
+      <description>KM 38.2
+Código: BCI</description>
+      <Point><coordinates>-60.403807,-34.423824</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ines Indart KM 51.2</name>
+      <description>KM 51.2
+Código: BID</description>
+      <Point><coordinates>-60.541964,-34.397765</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Indios KM 62.0</name>
+      <description>KM 62.0
+Código: BOS</description>
+      <Point><coordinates>-60.654329,-34.372156</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce KM 76.0 / KM 36.0</name>
+      <description>KM 76.0
+Código: B76
+
+KM 36.0</description>
+      <Point><coordinates>-60.766540,-34.286868</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sol de Mayo KM 86.1</name>
+      <description>KM 86.1
+Código: BSM</description>
+      <Point><coordinates>-60.871807,-34.268887</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Angélica KM 95.1</name>
+      <description>KM 95.1
+Código: BAJ</description>
+      <Point><coordinates>-60.968893,-34.259514</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ascención KM 108.2</name>
+      <description>KM 108.2</description>
+      <Point><coordinates>-61.110052,-34.245826</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ham KM 120.4</name>
+      <description>KM 120.4
+Código: BHM</description>
+      <Point><coordinates>-61.241582,-34.232897</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Rawson KM 54.4</name>
+      <description>KM 54.4</description>
+      <Point><coordinates>-61.357071,-34.210654</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

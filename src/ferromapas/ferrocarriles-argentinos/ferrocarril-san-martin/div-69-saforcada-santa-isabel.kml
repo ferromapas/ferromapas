@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 69: Saforcada - Santa Isabel</name>
+    <description>Div 69: Saforcada - Santa Isabel. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Div 69: Saforcada - Santa Isabel</name>
+      <LineString>
+        <coordinates>
+          -61.082623,-34.574156
+          -61.082976,-34.574072
+          -61.083428,-34.573944
+          -61.083790,-34.573800
+          -61.084123,-34.573647
+          -61.084514,-34.573436
+          -61.084796,-34.573242
+          -61.085093,-34.573024
+          -61.085483,-34.572693
+          -61.085767,-34.572378
+          -61.086010,-34.572064
+          -61.086149,-34.571845
+          -61.086322,-34.571514
+          -61.086492,-34.571111
+          -61.086565,-34.570862
+          -61.086659,-34.570480
+          -61.086701,-34.570088
+          -61.086690,-34.569488
+          -61.086044,-34.562593
+          -61.085936,-34.561986
+          -61.085751,-34.560830
+          -61.069307,-34.460057
+          -61.065906,-34.438380
+          -61.065673,-34.437109
+          -61.065624,-34.436303
+          -61.065620,-34.435552
+          -61.065640,-34.434480
+          -61.065779,-34.433195
+          -61.065889,-34.432518
+          -61.066269,-34.431101
+          -61.066574,-34.430204
+          -61.066854,-34.429455
+          -61.067642,-34.427764
+          -61.068993,-34.425798
+          -61.076086,-34.416676
+          -61.094527,-34.392953
+          -61.133070,-34.343395
+          -61.137304,-34.337905
+          -61.138315,-34.336676
+          -61.138832,-34.336116
+          -61.139434,-34.335546
+          -61.140617,-34.334560
+          -61.185732,-34.297303
+          -61.186944,-34.296343
+          -61.187758,-34.295782
+          -61.188522,-34.295312
+          -61.189186,-34.294957
+          -61.190496,-34.294347
+          -61.191840,-34.293865
+          -61.193205,-34.293482
+          -61.213267,-34.289546
+          -61.214650,-34.289298
+          -61.215885,-34.289155
+          -61.269409,-34.285984
+          -61.270472,-34.285911
+          -61.271496,-34.285792
+          -61.272625,-34.285540
+          -61.273942,-34.285129
+          -61.274611,-34.284847
+          -61.275424,-34.284424
+          -61.276272,-34.283911
+          -61.277044,-34.283312
+          -61.325003,-34.243623
+          -61.326298,-34.242204
+          -61.331469,-34.235756
+          -61.343232,-34.220728
+          -61.344200,-34.219532
+          -61.345204,-34.218281
+          -61.345806,-34.217609
+          -61.346647,-34.216838
+          -61.347395,-34.216214
+          -61.348730,-34.215235
+          -61.350456,-34.214261
+          -61.465410,-34.151429
+          -61.467636,-34.150245
+          -61.469542,-34.148936
+          -61.528548,-34.099412
+          -61.529428,-34.098552
+          -61.530141,-34.097739
+          -61.531043,-34.096577
+          -61.593856,-34.014808
+          -61.685327,-33.895832
+          -61.692340,-33.886507
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal a Santa Isabel</name>
+      <Point><coordinates>-61.082628,-34.574153</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Agustina KM 13.3</name>
+      <description>KM 13.3
+Código: BAG</description>
+      <Point><coordinates>-61.068616,-34.455696</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fortin Tiburcio KM 27.4</name>
+      <description>KM 27.4
+Código: BFT</description>
+      <Point><coordinates>-61.131004,-34.346079</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Arenales KM 45.5</name>
+      <description>KM 45.5
+Código: BAR</description>
+      <Point><coordinates>-61.292831,-34.270264</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Rawson KM 54.4</name>
+      <description>KM 54.4</description>
+      <Point><coordinates>-61.357071,-34.210654</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Arribeños KM 54.4</name>
+      <description>KM 54.4
+Código: BAB</description>
+      <Point><coordinates>-61.357154,-34.210696</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Teodelina KM 67.7</name>
+      <description>KM 67.7
+Código: BTE</description>
+      <Point><coordinates>-61.476353,-34.143244</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Cañas KM 87.2</name>
+      <description>KM 87.2
+Código: BVC</description>
+      <Point><coordinates>-61.602648,-34.003385</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Isabel KM 102.4</name>
+      <description>KM 102.4
+Código: BIS</description>
+      <Point><coordinates>-61.690355,-33.889151</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

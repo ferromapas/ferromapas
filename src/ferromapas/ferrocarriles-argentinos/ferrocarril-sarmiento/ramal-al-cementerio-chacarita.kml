@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal al Cementerio Chacarita</name>
+    <description>Ramal al Cementerio Chacarita. Dibujado por:
+Gabriel Castelo
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Ramal al Cementerio Chacarita</name>
+      <LineString>
+        <coordinates>
+          -58.405201,-34.604584
+          -58.407158,-34.604343
+          -58.409351,-34.603983
+          -58.411633,-34.603989
+          -58.413487,-34.604130
+          -58.416996,-34.603587
+          -58.419880,-34.603196
+          -58.422417,-34.602997
+          -58.427081,-34.602526
+          -58.430693,-34.602125
+          -58.432306,-34.601959
+          -58.436685,-34.600583
+          -58.438798,-34.599814
+          -58.445729,-34.593498
+          -58.447464,-34.591848
+          -58.449049,-34.590826
+          -58.449122,-34.590771
+          -58.452973,-34.589329
+          -58.455179,-34.588043
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

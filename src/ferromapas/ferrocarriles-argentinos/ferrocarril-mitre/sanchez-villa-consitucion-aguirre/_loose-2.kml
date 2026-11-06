@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Sánchez - Villa Consitución - Aguirre</name>
+    <Placemark>
+      <name>Empalme a Villa Diego KM 292.0</name>
+      <description>KM 292.0</description>
+      <Point><coordinates>-60.637232,-33.028788</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Aguirre KM 292.4</name>
+      <description>KM 292.4</description>
+      <Point><coordinates>-60.640705,-33.023605</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

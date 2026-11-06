@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Córdoba - Arturo M Bas</name>
+    <description>Rosario. Dibujado por:
+Rodrigo Respini
+(Según pude averiguar este trazado, de 75 cm, iba por una gran trinchera que fue tapado en los años 60)
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Córdoba, Argentina</description>
+    <Placemark>
+      <name>Córdoba - Arturo M Bas</name>
+      <LineString>
+        <coordinates>
+          -64.172580,-31.424087
+          -64.171859,-31.424512
+          -64.171310,-31.424921
+          -64.170694,-31.425514
+          -64.170239,-31.426155
+          -64.169705,-31.426921
+          -64.169506,-31.427460
+          -64.169500,-31.428115
+          -64.169934,-31.429860
+          -64.170497,-31.432149
+          -64.170997,-31.436166
+          -64.171769,-31.439602
+          -64.172248,-31.440325
+          -64.172569,-31.440764
+          -64.172847,-31.440957
+          -64.173269,-31.441068
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

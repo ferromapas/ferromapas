@@ -1,0 +1,21 @@
+name: Zona Urbana
+description: |-
+  Zona Urbana. Dibujado por:
+  Gino Nuñez
+
+  Fuentes:
+  - Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+  http://www.ferromapas.com.ar/
+  Buenos Aires, Argentina
+children:
+- _loose.kml
+- ringuelet-la-plata.kml
+- pereyra-ringuelet.kml
+- berazategui-la-plata.kml
+- avellaneda-berazategui.kml
+- temperley-alejandro-korn.kml
+- constitucion-temperley.kml
+- capital-federal-otros-ramales.kml
+- kilo-4-kilo-5-gerli-avellaneda.kml
+- _loose-2.kml

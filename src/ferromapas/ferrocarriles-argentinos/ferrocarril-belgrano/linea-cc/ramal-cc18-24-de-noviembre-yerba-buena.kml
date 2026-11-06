@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC18: 24 de Noviembre - Yerba Buena</name>
+    <description>Ramal CC18: 24 de Noviembre - Yerba Buena. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal CC18: 24 de Noviembre - Yerba Buena</name>
+      <LineString>
+        <coordinates>
+          -65.243046,-26.836198
+          -65.243409,-26.836086
+          -65.249020,-26.834953
+          -65.250075,-26.834692
+          -65.251681,-26.833957
+          -65.256721,-26.831577
+          -65.258017,-26.831180
+          -65.258676,-26.831092
+          -65.259214,-26.831095
+          -65.259584,-26.831180
+          -65.260153,-26.831386
+          -65.260832,-26.831552
+          -65.261431,-26.831622
+          -65.262060,-26.831641
+          -65.262586,-26.831615
+          -65.264397,-26.831479
+          -65.266231,-26.831283
+          -65.267223,-26.831072
+          -65.272889,-26.829605
+          -65.276217,-26.828715
+          -65.277586,-26.828439
+          -65.278048,-26.828354
+          -65.278587,-26.828319
+          -65.278633,-26.828319
+          -65.279108,-26.828332
+          -65.279124,-26.828332
+          -65.279610,-26.828427
+          -65.280142,-26.828602
+          -65.293737,-26.833222
+          -65.296067,-26.833998
+          -65.297017,-26.834316
+          -65.297700,-26.834544
+          -65.298114,-26.834712
+          -65.298665,-26.835047
+          -65.299293,-26.835421
+          -65.301311,-26.836573
+          -65.302237,-26.836987
+          -65.302808,-26.837129
+          -65.303778,-26.837305
+          -65.304480,-26.837389
+          -65.305105,-26.837399
+          -65.306032,-26.837301
+          -65.306759,-26.837192
+          -65.307552,-26.836995
+          -65.308087,-26.836806
+          -65.308878,-26.836445
+          -65.309707,-26.835961
+          -65.310451,-26.835390
+          -65.311009,-26.834787
+          -65.311615,-26.833909
+          -65.312005,-26.833173
+          -65.312236,-26.832447
+          -65.312394,-26.831568
+          -65.312445,-26.830859
+          -65.312401,-26.830049
+          -65.312302,-26.829225
+          -65.312158,-26.828670
+          -65.311848,-26.827969
+          -65.311398,-26.827233
+          -65.310838,-26.826464
+          -65.310293,-26.825770
+          -65.307806,-26.822833
+          -65.306571,-26.821410
+          -65.306013,-26.820603
+          -65.305607,-26.820095
+          -65.305264,-26.819779
+          -65.304927,-26.819478
+          -65.304625,-26.819197
+          -65.304186,-26.818868
+          -65.303793,-26.818620
+          -65.298798,-26.815334
+          -65.293052,-26.811574
+          -65.289121,-26.809206
+          -65.285666,-26.806996
+          -65.279748,-26.803164
+          -65.275128,-26.800264
+          -65.274050,-26.799649
+          -65.250005,-26.788638
+          -65.246158,-26.787201
+          -65.245120,-26.786781
+          -65.244228,-26.786508
+          -65.243500,-26.786378
+          -65.242560,-26.786377
+          -65.241416,-26.786507
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>KM 3 (Parada) KM 2.6</name>
+      <description>KM 2.6</description>
+      <Point><coordinates>-65.268117,-26.830846</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 6 (Paradero) KM 5.9</name>
+      <description>KM 5.9</description>
+      <Point><coordinates>-65.299274,-26.835418</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 8 (Paradero) KM 7.5</name>
+      <description>KM 7.5</description>
+      <Point><coordinates>-65.312244,-26.832387</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 8.800 (Paradero) KM 8.8</name>
+      <description>KM 8.8</description>
+      <Point><coordinates>-65.307226,-26.822140</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Yerba Buena KM 9.6</name>
+      <description>KM 9.6</description>
+      <Point><coordinates>-65.301492,-26.817095</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

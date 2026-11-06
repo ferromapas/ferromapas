@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC3: Empalme Graneros a Embarcaderos</name>
+    <description>Ramal CC3: Empalme Graneros a Embarcaderos. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Libro "Ferrocarriles en Rosario" de Ángel Ferrer y Carlos Alberto Fernández Priotti, a quien agradecemos su gentileza de poder haber usado sus mapas
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal CC3: Empalme Graneros a Embarcaderos</name>
+      <LineString>
+        <coordinates>
+          -60.693815,-32.919200
+          -60.693783,-32.919263
+          -60.693698,-32.919521
+          -60.693607,-32.919860
+          -60.693450,-32.920298
+          -60.693246,-32.920683
+          -60.692850,-32.921240
+          -60.692489,-32.921622
+          -60.692050,-32.921942
+          -60.691701,-32.922144
+          -60.691408,-32.922268
+          -60.690930,-32.922427
+          -60.690649,-32.922513
+          -60.690458,-32.922538
+          -60.690308,-32.922551
+          -60.689647,-32.922562
+          -60.674683,-32.922036
+          -60.670609,-32.921949
+          -60.670025,-32.921972
+          -60.669309,-32.922071
+          -60.666128,-32.922994
+          -60.665584,-32.923253
+          -60.665162,-32.923515
+          -60.664905,-32.923696
+          -60.664733,-32.923837
+          -60.664599,-32.924022
+          -60.664540,-32.924704
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Rosario - Cabín 19</name>
+      <Point><coordinates>-60.685711,-32.922351</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramal CC3: Empalme Graneros a Embarcaderos</name>
+      <LineString>
+        <coordinates>
+          -60.666080,-32.923007
+          -60.665522,-32.923211
+          -60.664967,-32.923218
+          -60.663488,-32.923187
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal CC3: Empalme Graneros a Embarcaderos</name>
+      <LineString>
+        <coordinates>
+          -60.665537,-32.923272
+          -60.664938,-32.923509
+          -60.664508,-32.923655
+          -60.663807,-32.923757
+          -60.662230,-32.923765
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Maltería SAFAC SA (ex Refinería de Azucar)</name>
+      <Point><coordinates>-60.664941,-32.923175</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Embarcaderos</name>
+      <Point><coordinates>-60.664572,-32.924360</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

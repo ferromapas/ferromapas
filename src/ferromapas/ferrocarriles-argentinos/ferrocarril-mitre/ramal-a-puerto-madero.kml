@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal a Puerto Madero</name>
+    <description>Ramal a Puerto Madero. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal a Puerto Madero</name>
+      <LineString>
+        <coordinates>
+          -58.379646,-34.587828
+          -58.378676,-34.588229
+          -58.377597,-34.588687
+          -58.376193,-34.589375
+          -58.374508,-34.590187
+          -58.372220,-34.591305
+          -58.371887,-34.591498
+          -58.371640,-34.591677
+          -58.371440,-34.591876
+          -58.371235,-34.592099
+          -58.371029,-34.592441
+          -58.370940,-34.592674
+          -58.370453,-34.594082
+          -58.369836,-34.595603
+          -58.369684,-34.595836
+          -58.369502,-34.596091
+          -58.368881,-34.596887
+          -58.369362,-34.596216
+          -58.369623,-34.595791
+          -58.369804,-34.595440
+          -58.370517,-34.593554
+          -58.370921,-34.592494
+          -58.371054,-34.592266
+          -58.371191,-34.592070
+          -58.371445,-34.591823
+          -58.371819,-34.591540
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

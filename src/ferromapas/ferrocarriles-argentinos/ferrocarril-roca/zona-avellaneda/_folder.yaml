@@ -1,0 +1,5 @@
+name: Zona Avellaneda
+description: "Zona Avellaneda. Dibujado por: \nGabriel Castelo\n\nFuentes: \n- Jorge Mäntaras\n- http://mapa.buenosaires.gob.ar/\n\nhttp://www.ferromapas.com.ar/\nBuenos Aires, Argentina"
+children:
+- items.kml
+- _loose.kml

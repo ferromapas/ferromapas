@@ -1,0 +1,6 @@
+name: Pehuajó - Tres Lomas - Carhue
+description: "Pehuajó - Tres Lomas - Carhue. Dibujado por:\nPablo Anglat\nGabriel Castelo (Desvío Cargill Pehuajó)\n\nFuentes: \n- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)\n\nhttp://www.ferromapas.com.ar/\nMendoza, Argentina"
+children:
+- _loose.kml
+- desvio-cargill-pehuajo.kml
+- _loose-2.kml

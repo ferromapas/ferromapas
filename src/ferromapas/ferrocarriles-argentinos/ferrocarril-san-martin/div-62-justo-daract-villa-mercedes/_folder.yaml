@@ -1,0 +1,7 @@
+name: 'Div 62: Justo Daract - Villa Mercedes'
+description: "Div 62: Justo Daract - Villa Mercedes. Dibujado por:\nPablo Anglat\n\nFuentes: \n- Itinerario del FCGSM de Gustavo López\n- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)\n\nhttp://www.ferromapas.com.ar/\nMendoza y Buenos Aires, Argentina"
+children:
+- _loose.kml
+- villa-mercedes-bap.kml
+- villa-mercedes-andino.kml
+- villa-mercedes-goa.kml

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C24:  Roversi - Campo del Cielo</name>
+    <description>Ramal C24:  Roversi - Campo del Cielo. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C24:  Roversi - Campo del Cielo</name>
+      <LineString>
+        <coordinates>
+          -61.941584,-27.592624
+          -61.941352,-27.592624
+          -61.940989,-27.592592
+          -61.940611,-27.592681
+          -61.940578,-27.592692
+          -61.940186,-27.592832
+          -61.939821,-27.593002
+          -61.939409,-27.593285
+          -61.939221,-27.593525
+          -61.938980,-27.593931
+          -61.938856,-27.594444
+          -61.938802,-27.594983
+          -61.938872,-27.595494
+          -61.939066,-27.596015
+          -61.940002,-27.598181
+          -61.940262,-27.598907
+          -61.940459,-27.599613
+          -61.940735,-27.600659
+          -61.946935,-27.665835
+          -61.947883,-27.677874
+          -61.949152,-27.693098
+          -61.949096,-27.695115
+          -61.948817,-27.696550
+          -61.948232,-27.697783
+          -61.937812,-27.715153
+          -61.921964,-27.742652
+          -61.918722,-27.748325
+          -61.905123,-27.776903
+          -61.904974,-27.777495
+          -61.905228,-27.789543
+          -61.905102,-27.790507
+          -61.904890,-27.791240
+          -61.904468,-27.792181
+          -61.904023,-27.793034
+          -61.903433,-27.793915
+          -61.902697,-27.794794
+          -61.901611,-27.795797
+          -61.855653,-27.833728
+          -61.819950,-27.863354
+          -61.818754,-27.864207
+          -61.818169,-27.864579
+          -61.817283,-27.865076
+          -61.816259,-27.865482
+          -61.814336,-27.866085
+          -61.794898,-27.872816
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Huchu Payana (Desv Pub) KM 629.2</name>
+      <description>KM 629.2</description>
+      <Point><coordinates>-61.947645,-27.674495</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tres Mojones KM 642.1</name>
+      <description>KM 642.1</description>
+      <Point><coordinates>-61.905108,-27.781727</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Laguna Baya (Desv Pub) KM 650.1</name>
+      <description>KM 650.1</description>
+      <Point><coordinates>-61.854644,-27.834578</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Campo del Cielo KM 656.7</name>
+      <description>KM 656.7</description>
+      <Point><coordinates>-61.802108,-27.870278</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>FC Oeste Santafecino</name>
+    <description>FC Oeste Santafecino. Dibujado por:
+Pablo Anglat
+
+Fuente: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Libro "Ferrocarriles en Rosario" de Ángel Ferrer y Carlos Alberto Fernández Priotti
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>FC Oeste Santafecino</name>
+      <LineString>
+        <coordinates>
+          -60.624142,-32.956206
+          -60.624889,-32.959272
+          -60.625199,-32.959792
+          -60.625419,-32.959958
+          -60.626151,-32.959919
+          -60.653121,-32.955215
+          -60.660432,-32.954569
+          -60.664905,-32.955312
+          -60.692017,-32.958552
+          -60.693028,-32.958727
+          -60.693431,-32.958895
+          -60.745084,-32.984842
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>FC Oeste Santafecino</name>
+      <LineString>
+        <coordinates>
+          -60.662077,-32.954819
+          -60.662906,-32.954755
+          -60.663236,-32.954458
+          -60.663524,-32.954087
+          -60.663911,-32.953481
+          -60.664067,-32.952866
+          -60.663904,-32.951974
+          -60.658659,-32.931097
+          -60.658532,-32.930906
+          -60.658390,-32.930774
+          -60.658158,-32.930666
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>FC Oeste Santafecino</name>
+      <LineString>
+        <coordinates>
+          -60.664077,-32.952873
+          -60.664750,-32.953580
+          -60.665760,-32.954436
+          -60.666916,-32.955191
+          -60.668595,-32.955759
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Rosario Este (Rosario FCOS)</name>
+      <Point><coordinates>-60.624114,-32.956243</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

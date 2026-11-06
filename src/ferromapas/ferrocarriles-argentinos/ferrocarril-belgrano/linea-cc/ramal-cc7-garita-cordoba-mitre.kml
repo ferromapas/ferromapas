@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC7: Garita - Córdoba (Mitre)</name>
+    <description>Ramal CC7: Garita - Córdoba (Mitre). Dibujado por:
+Pablo Anglat
+Rodrigo Respini
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Revista Todo Trenes #85
+
+http://www.ferromapas.com.ar/
+Mendoza y Córdoba, Argentina</description>
+    <Placemark>
+      <name>Ramal CC7: Garita - Córdoba (Mitre)</name>
+      <LineString>
+        <coordinates>
+          -64.191789,-31.387088
+          -64.192760,-31.392382
+          -64.192975,-31.393493
+          -64.193407,-31.395769
+          -64.193416,-31.395919
+          -64.193447,-31.396170
+          -64.193463,-31.396534
+          -64.193481,-31.396818
+          -64.193480,-31.397194
+          -64.193442,-31.397538
+          -64.193393,-31.397906
+          -64.193289,-31.398303
+          -64.193184,-31.398649
+          -64.193030,-31.399033
+          -64.192873,-31.399433
+          -64.192704,-31.399753
+          -64.192404,-31.400241
+          -64.191985,-31.400863
+          -64.191754,-31.401154
+          -64.191331,-31.401546
+          -64.191117,-31.401739
+          -64.190777,-31.402038
+          -64.190323,-31.402347
+          -64.189723,-31.402729
+          -64.189131,-31.403079
+          -64.188708,-31.403270
+          -64.188204,-31.403460
+          -64.187776,-31.403591
+          -64.187375,-31.403696
+          -64.186847,-31.403809
+          -64.186212,-31.403902
+          -64.185695,-31.403955
+          -64.184995,-31.403982
+          -64.182734,-31.404079
+          -64.180337,-31.404203
+          -64.179718,-31.404251
+          -64.179234,-31.404328
+          -64.178775,-31.404426
+          -64.178261,-31.404557
+          -64.177680,-31.404755
+          -64.177406,-31.404886
+          -64.176971,-31.405084
+          -64.176437,-31.405383
+          -64.176069,-31.405615
+          -64.175578,-31.405989
+          -64.175230,-31.406325
+          -64.175049,-31.406522
+          -64.174543,-31.407158
+          -64.174211,-31.407608
+          -64.174003,-31.407919
+          -64.173828,-31.408225
+          -64.173654,-31.408637
+          -64.173539,-31.409000
+          -64.173419,-31.409638
+          -64.173313,-31.410369
+          -64.173332,-31.410784
+          -64.173361,-31.411205
+          -64.173433,-31.411673
+          -64.173606,-31.412260
+          -64.173739,-31.412687
+          -64.173899,-31.413019
+          -64.174258,-31.413627
+          -64.174998,-31.414866
+          -64.175108,-31.415099
+          -64.175239,-31.415398
+          -64.175533,-31.416175
+          -64.175648,-31.416488
+          -64.175685,-31.416758
+          -64.175696,-31.417069
+          -64.175648,-31.417350
+          -64.175271,-31.418814
+          -64.175137,-31.419174
+          -64.174961,-31.419509
+          -64.174859,-31.419839
+          -64.174776,-31.420312
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Garita y Cruz del Eje KM 725.6</name>
+      <description>KM 725.6</description>
+      <Point><coordinates>-64.191793,-31.387088</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Calle Bedoya (Ap.)</name>
+      <Point><coordinates>-64.193436,-31.396009</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Av. R. S. Peña</name>
+      <Point><coordinates>-64.182866,-31.404075</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Garita (Córdoba GB)</name>
+      <Point><coordinates>-64.173591,-31.412202</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>24 de Septiembre (Ap.)</name>
+      <Point><coordinates>-64.175412,-31.415857</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Córdoba (FCGBM) KM 695.0</name>
+      <description>KM 695.0</description>
+      <Point><coordinates>-64.175146,-31.420342</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Playa Garita</name>
+      <LineString>
+        <coordinates>
+          -64.173969,-31.407993
+          -64.173573,-31.408493
+          -64.173337,-31.408744
+          -64.173068,-31.408894
+          -64.172297,-31.409198
+          -64.171576,-31.409340
+          -64.170676,-31.409221
+          -64.169745,-31.408960
+          -64.166866,-31.408158
+          -64.171236,-31.409357
+          -64.171587,-31.409458
+          -64.172013,-31.409637
+          -64.172444,-31.409940
+          -64.172884,-31.410308
+          -64.173154,-31.410599
+          -64.173308,-31.411114
+          -64.173465,-31.411789
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío</name>
+      <LineString>
+        <coordinates>
+          -64.174159,-31.413470
+          -64.174099,-31.412716
+          -64.174001,-31.411298
+          -64.173951,-31.410716
+          -64.173904,-31.410311
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Playa Garita</name>
+      <Point><coordinates>-64.169654,-31.408940</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío</name>
+      <LineString>
+        <coordinates>
+          -64.191872,-31.387513
+          -64.192008,-31.388093
+          -64.192065,-31.388276
+          -64.192146,-31.388433
+          -64.192231,-31.388599
+          -64.192445,-31.388803
+          -64.192830,-31.389112
+          -64.192957,-31.389264
+          -64.193056,-31.389449
+          -64.193127,-31.389621
+          -64.193328,-31.390661
+          -64.192949,-31.388670
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Cervecería</name>
+      <Point><coordinates>-64.193105,-31.389606</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvío Planta Minetti - Campana</name>
+    <description>Desvío Planta Minetti - Campana. Dibujado por:
+Gino Nuñez y Pablo Anglat
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Desvío Planta Minetti - Campana</name>
+      <LineString>
+        <coordinates>
+          -59.018275,-34.154660
+          -59.014442,-34.152682
+          -59.013000,-34.151910
+          -59.012315,-34.151549
+          -59.011939,-34.151278
+          -59.011669,-34.151039
+          -59.011465,-34.150773
+          -59.011289,-34.150523
+          -59.011140,-34.150213
+          -59.010996,-34.149790
+          -59.010929,-34.149407
+          -59.010969,-34.148906
+          -59.011015,-34.148153
+          -59.011110,-34.147607
+          -59.011264,-34.147234
+          -59.011476,-34.146802
+          -59.011746,-34.146410
+          -59.012017,-34.146105
+          -59.012375,-34.145793
+          -59.012733,-34.145553
+          -59.013246,-34.145272
+          -59.014621,-34.144526
+          -59.015221,-34.144190
+          -59.015521,-34.143965
+          -59.016682,-34.143126
+          -59.017246,-34.142755
+          -59.018078,-34.142252
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cementera Minetti - Campana</name>
+      <Point><coordinates>-59.011458,-34.150775</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

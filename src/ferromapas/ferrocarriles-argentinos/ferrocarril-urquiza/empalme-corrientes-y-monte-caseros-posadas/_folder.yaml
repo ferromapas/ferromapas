@@ -1,0 +1,6 @@
+name: Empalme Corrientes y Monte Caseros - Posadas
+description: "Empalme Corrientes y Monte Caseros - Posadas. Dibujado por:\nGino Nuñez\n\nCon algunos arreglos de Pablo Anglat\n\nFuentes: \n- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)\n\nhttp://www.ferromapas.com.ar/\nBuenos Aires, Argentina"
+children:
+- _loose.kml
+- desvio-molisa.kml
+- _loose-2.kml

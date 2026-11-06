@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvío Bodega Cinzano</name>
+    <Placemark>
+      <name>Desvío Bodega Cinzano</name>
+      <LineString>
+        <coordinates>
+          -68.565740,-31.535819
+          -68.565210,-31.536060
+          -68.564849,-31.536254
+          -68.564535,-31.536467
+          -68.564274,-31.536665
+          -68.564104,-31.536832
+          -68.563975,-31.537004
+          -68.563846,-31.537224
+          -68.563782,-31.537581
+          -68.563704,-31.538042
+          -68.563665,-31.538462
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Bodega Cinzano</name>
+      <LineString>
+        <coordinates>
+          -68.561281,-31.537770
+          -68.561803,-31.537555
+          -68.561974,-31.537503
+          -68.562250,-31.537466
+          -68.562468,-31.537463
+          -68.563700,-31.537635
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bodega Cinzano</name>
+      <Point><coordinates>-68.563713,-31.537639</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

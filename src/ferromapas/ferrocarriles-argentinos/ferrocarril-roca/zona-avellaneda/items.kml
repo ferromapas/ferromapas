@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Items</name>
+    <Placemark>
+      <name>Ribera Sud</name>
+      <Point><coordinates>-58.354026,-34.638273</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Barracas Iglesia (II)</name>
+      <Point><coordinates>-58.370359,-34.660364</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Barracas Iglesia (I)</name>
+      <Point><coordinates>-58.366272,-34.662424</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Barracas al Norte</name>
+      <Point><coordinates>-58.378342,-34.655539</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Casa Amarila</name>
+      <Point><coordinates>-58.366505,-34.630331</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>General Brown</name>
+      <Point><coordinates>-58.364379,-34.638094</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tres Esquinas</name>
+      <Point><coordinates>-58.371105,-34.651316</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Barracas Puente</name>
+      <Point><coordinates>-58.375332,-34.656785</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Riachuelo</name>
+      <Point><coordinates>-58.398134,-34.656261</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Barraca Peña</name>
+      <Point><coordinates>-58.363853,-34.647187</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Boca</name>
+      <Point><coordinates>-58.356850,-34.638250</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Emp. O'Corman</name>
+      <Point><coordinates>-58.356430,-34.655824</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Emp. Esteves</name>
+      <Point><coordinates>-58.358429,-34.651169</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Emp. Maciel</name>
+      <Point><coordinates>-58.354502,-34.650950</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Emp. Ribera Sud</name>
+      <Point><coordinates>-58.348836,-34.642929</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Emp. Mercado</name>
+      <Point><coordinates>-58.368434,-34.654642</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Emp. Barraca Peña</name>
+      <Point><coordinates>-58.363083,-34.645052</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Emp. B. Iglesia</name>
+      <Point><coordinates>-58.365452,-34.667284</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Emp. Bullrich</name>
+      <Point><coordinates>-58.367427,-34.670946</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>López Lecube - Villa Iris (BBNO)</name>
+    <description>López Lecube - Villa Iris (BBNO). Dibujado por:
+Pablo Anglat
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>López Lecube - Villa Iris (BBNO)</name>
+      <LineString>
+        <coordinates>
+          -62.775451,-38.082377
+          -62.777797,-38.081250
+          -62.778529,-38.080979
+          -62.779207,-38.080732
+          -62.779929,-38.080505
+          -62.780713,-38.080287
+          -62.781118,-38.080191
+          -62.781613,-38.080090
+          -62.781999,-38.080022
+          -62.782438,-38.079944
+          -62.782829,-38.079889
+          -62.783370,-38.079820
+          -62.784104,-38.079756
+          -62.784690,-38.079716
+          -62.785189,-38.079697
+          -62.785755,-38.079690
+          -62.786375,-38.079698
+          -62.786864,-38.079712
+          -62.787414,-38.079745
+          -62.787961,-38.079804
+          -62.788458,-38.079863
+          -62.789126,-38.079959
+          -62.789743,-38.080064
+          -62.790159,-38.080150
+          -62.790610,-38.080255
+          -62.791265,-38.080405
+          -62.905802,-38.109465
+          -62.916417,-38.112169
+          -63.047064,-38.145050
+          -63.057575,-38.147687
+          -63.059672,-38.148209
+          -63.060539,-38.148424
+          -63.061253,-38.148564
+          -63.061869,-38.148681
+          -63.062739,-38.148839
+          -63.150374,-38.162893
+          -63.161743,-38.164695
+          -63.170979,-38.166167
+          -63.174655,-38.166764
+          -63.175900,-38.166963
+          -63.176824,-38.167117
+          -63.177495,-38.167244
+          -63.178216,-38.167445
+          -63.178712,-38.167596
+          -63.179256,-38.167786
+          -63.179267,-38.167789
+          -63.179708,-38.167982
+          -63.180175,-38.168199
+          -63.180639,-38.168425
+          -63.181048,-38.168646
+          -63.181425,-38.168883
+          -63.181815,-38.169143
+          -63.203188,-38.185660
+          -63.203820,-38.186139
+          -63.204229,-38.186454
+          -63.204688,-38.186765
+          -63.205048,-38.186981
+          -63.205447,-38.187200
+          -63.205879,-38.187398
+          -63.206288,-38.187561
+          -63.206664,-38.187697
+          -63.207115,-38.187831
+          -63.207690,-38.187988
+          -63.208309,-38.188103
+          -63.208823,-38.188174
+          -63.209403,-38.188224
+          -63.210059,-38.188243
+          -63.210727,-38.188224
+          -63.211261,-38.188173
+          -63.211721,-38.188106
+          -63.212205,-38.188021
+          -63.212603,-38.187922
+          -63.213144,-38.187780
+          -63.213740,-38.187589
+          -63.214387,-38.187320
+          -63.214732,-38.187149
+          -63.224525,-38.181723
+          -63.225126,-38.181412
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Piedra Echada KM 102.9</name>
+      <description>KM 102.9</description>
+      <Point><coordinates>-62.775450,-38.082352</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Estela KM 115.4</name>
+      <description>KM 115.4</description>
+      <Point><coordinates>-62.911018,-38.110795</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rivadeo KM 128.4</name>
+      <description>KM 128.4</description>
+      <Point><coordinates>-63.052377,-38.146389</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Iris KM 121.4 / KM 145.7</name>
+      <description>Nueva Roma a Toay: KM 121.4
+López Lecube a Villa Iris: KM 145.7</description>
+      <Point><coordinates>-63.237183,-38.174767</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

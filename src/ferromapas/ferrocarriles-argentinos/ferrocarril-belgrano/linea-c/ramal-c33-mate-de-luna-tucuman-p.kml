@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C33: Mate de Luna - Tucuman P</name>
+    <description>Ramal C33: Mate de Luna - Tucuman P. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C33: Mate de Luna - Tucuman P</name>
+      <LineString>
+        <coordinates>
+          -65.200470,-26.849342
+          -65.200443,-26.849074
+          -65.200442,-26.848860
+          -65.200478,-26.848380
+          -65.200496,-26.848038
+          -65.200549,-26.847839
+          -65.200672,-26.847518
+          -65.200764,-26.847306
+          -65.200903,-26.847091
+          -65.201130,-26.846830
+          -65.201458,-26.846443
+          -65.201815,-26.846122
+          -65.202149,-26.845859
+          -65.202383,-26.845737
+          -65.202597,-26.845635
+          -65.203217,-26.845433
+          -65.205571,-26.844932
+          -65.206254,-26.844752
+          -65.206875,-26.844520
+          -65.207291,-26.844388
+          -65.207745,-26.844221
+          -65.208163,-26.843997
+          -65.208586,-26.843716
+          -65.209144,-26.843394
+          -65.210659,-26.843060
+          -65.211513,-26.842859
+          -65.211712,-26.842758
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

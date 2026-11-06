@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Once - Mecha - Bragado - Pehuajó</name>
+    <Placemark>
+      <name>Caballito KM 3.8</name>
+      <description>KM 3.8</description>
+      <Point><coordinates>-58.444861,-34.619729</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

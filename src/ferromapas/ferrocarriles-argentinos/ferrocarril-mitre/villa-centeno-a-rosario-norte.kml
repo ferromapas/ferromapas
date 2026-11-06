@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Villa Centeno a Rosario Norte</name>
+    <description>Villa Centeno a Rosario Norte. Dibujado por:
+Pablo Anglat
+
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Libro "Ferrocarriles en Rosario" de Ángel Ferrer y Carlos Alberto Fernández Priotti, a quien agradecemos su gentileza de poder haber usado sus mapas
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Villa Centeno - Rosario Este</name>
+      <LineString>
+        <coordinates>
+          -60.665584,-32.986279
+          -60.670900,-32.978116
+          -60.672826,-32.973831
+          -60.673294,-32.972022
+          -60.673376,-32.970177
+          -60.673267,-32.968713
+          -60.664637,-32.934057
+          -60.664107,-32.933201
+          -60.663515,-32.932474
+          -60.662633,-32.931635
+          -60.661665,-32.930972
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Centeno - Rosario Este</name>
+      <LineString>
+        <coordinates>
+          -60.675150,-32.982114
+          -60.667026,-32.982031
+          -60.642981,-32.981322
+          -60.632319,-32.980783
+          -60.630587,-32.980417
+          -60.629435,-32.979923
+          -60.628537,-32.978996
+          -60.627851,-32.977765
+          -60.627555,-32.976789
+          -60.626066,-32.970938
+          -60.625467,-32.968414
+          -60.625588,-32.966906
+          -60.625802,-32.964457
+          -60.625681,-32.963379
+          -60.624913,-32.960120
+          -60.624134,-32.956504
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme</name>
+      <LineString>
+        <coordinates>
+          -60.662937,-32.981895
+          -60.665347,-32.981680
+          -60.666683,-32.981396
+          -60.668110,-32.980903
+          -60.670087,-32.979339
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Rosario - Cabín 14</name>
+      <Point><coordinates>-60.634675,-32.980793</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C23: Tintina - Lilo Viejo - Patay</name>
+    <description>Ramal C23: Tintina - Lilo Viejo - Patay. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C23: Tintina - Lilo Viejo</name>
+      <LineString>
+        <coordinates>
+          -62.710754,-27.027856
+          -62.717996,-27.023239
+          -62.788480,-26.983360
+          -62.790705,-26.982261
+          -62.792390,-26.981530
+          -62.794437,-26.980773
+          -62.797250,-26.979900
+          -62.905103,-26.950459
+          -62.916931,-26.947241
+          -62.938116,-26.941352
+          -62.955331,-26.936705
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal C23: Quilumpa - Patay</name>
+      <LineString>
+        <coordinates>
+          -62.905718,-26.950279
+          -62.906903,-26.949819
+          -62.907317,-26.949632
+          -62.907724,-26.949361
+          -62.908044,-26.949058
+          -62.908347,-26.948656
+          -62.908532,-26.948279
+          -62.909100,-26.946431
+          -62.929459,-26.880976
+          -62.929593,-26.880582
+          -62.929681,-26.880205
+          -62.929733,-26.879842
+          -62.929509,-26.845929
+          -62.929281,-26.835784
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Monte Alto KM 684.8</name>
+      <description>KM 684.8</description>
+      <Point><coordinates>-62.812276,-26.975805</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Quilumpa (Empalme) KM 694.5</name>
+      <description>KM 694.5</description>
+      <Point><coordinates>-62.905657,-26.950305</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lilo Viejo (Dev Pub) KM 699.2</name>
+      <description>KM 699.2</description>
+      <Point><coordinates>-62.950899,-26.937908</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Quilumpa</name>
+      <LineString>
+        <coordinates>
+          -62.913099,-26.948251
+          -62.912122,-26.948474
+          -62.911475,-26.948548
+          -62.911050,-26.948593
+          -62.910741,-26.948571
+          -62.910392,-26.948493
+          -62.910123,-26.948363
+          -62.909804,-26.948176
+          -62.909509,-26.947910
+          -62.909334,-26.947660
+          -62.909192,-26.947391
+          -62.909119,-26.947164
+          -62.909076,-26.946853
+          -62.909083,-26.946477
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Patay (Desv Pub) KM 707.2</name>
+      <description>KM 707.2</description>
+      <Point><coordinates>-62.929369,-26.839648</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

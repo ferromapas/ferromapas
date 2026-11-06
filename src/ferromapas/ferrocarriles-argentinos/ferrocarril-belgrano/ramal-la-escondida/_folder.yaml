@@ -1,0 +1,10 @@
+name: Ramal La Escondida
+description: |-
+  Ramal La Escondida. Dibujado por:
+  Pablo Anglat
+
+  http://www.ferromapas.com.ar/
+  Mendoza, Argentina
+children:
+- ramal-forestal.kml
+- _loose.kml

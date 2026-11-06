@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C4: Puna - Santa Justina</name>
+    <description>Ramal C4: Puna - Santa Justina. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C4: Puna - Santa Justina</name>
+      <LineString>
+        <coordinates>
+          -62.518425,-27.796910
+          -62.517982,-27.796161
+          -62.516377,-27.793811
+          -62.516099,-27.793320
+          -62.515788,-27.792555
+          -62.515628,-27.791831
+          -62.515533,-27.791105
+          -62.515489,-27.790454
+          -62.515581,-27.789752
+          -62.515795,-27.788938
+          -62.516059,-27.788229
+          -62.516545,-27.787507
+          -62.517186,-27.786533
+          -62.517998,-27.785681
+          -62.519779,-27.784258
+          -62.627684,-27.694000
+          -62.628163,-27.693549
+          -62.628459,-27.693235
+          -62.628882,-27.692775
+          -62.629407,-27.691987
+          -62.634782,-27.683851
+          -62.635407,-27.682924
+          -62.635666,-27.682282
+          -62.636539,-27.678138
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Santa Justina KM 571.3</name>
+      <description>KM 571.3</description>
+      <Point><coordinates>-62.636245,-27.679865</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

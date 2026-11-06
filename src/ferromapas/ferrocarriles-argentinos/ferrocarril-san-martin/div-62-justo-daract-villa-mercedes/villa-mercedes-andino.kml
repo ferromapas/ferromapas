@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Villa Mercedes (Andino)</name>
+    <Placemark>
+      <name>Villa Mercedes (Andino)</name>
+      <LineString>
+        <coordinates>
+          -65.463353,-33.662934
+          -65.462217,-33.662519
+          -65.461167,-33.662227
+          -65.459877,-33.661782
+          -65.455847,-33.660396
+          -65.455385,-33.660255
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (Andino)</name>
+      <LineString>
+        <coordinates>
+          -65.462171,-33.662501
+          -65.462148,-33.662499
+          -65.461031,-33.662180
+          -65.460531,-33.661956
+          -65.454816,-33.660010
+          -65.454012,-33.659753
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (Andino)</name>
+      <LineString>
+        <coordinates>
+          -65.461330,-33.662263
+          -65.461322,-33.662260
+          -65.460714,-33.661990
+          -65.459889,-33.661704
+          -65.455026,-33.660028
+          -65.453352,-33.659486
+          -65.451071,-33.658719
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (Andino)</name>
+      <LineString>
+        <coordinates>
+          -65.460099,-33.661761
+          -65.454016,-33.659705
+          -65.455047,-33.660007
+          -65.460043,-33.661699
+          -65.460719,-33.661990
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (Andino)</name>
+      <LineString>
+        <coordinates>
+          -65.459929,-33.661664
+          -65.460647,-33.661862
+          -65.461898,-33.662354
+          -65.463463,-33.662888
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (Andino)</name>
+      <LineString>
+        <coordinates>
+          -65.460219,-33.661754
+          -65.461069,-33.661938
+          -65.461383,-33.662061
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (Andino)</name>
+      <LineString>
+        <coordinates>
+          -65.460239,-33.661740
+          -65.460898,-33.661856
+          -65.461513,-33.661944
+          -65.461853,-33.662032
+          -65.463558,-33.662617
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (Andino)</name>
+      <LineString>
+        <coordinates>
+          -65.454895,-33.660127
+          -65.455740,-33.660457
+          -65.457982,-33.661263
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (Andino)</name>
+      <LineString>
+        <coordinates>
+          -65.460148,-33.661718
+          -65.459262,-33.661373
+          -65.457642,-33.660797
+          -65.456233,-33.660253
+          -65.454986,-33.659774
+          -65.454289,-33.659529
+          -65.453740,-33.659365
+          -65.453533,-33.659310
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,12 @@
+name: Tren de los Presos (Ferrocarril Autral Fueguino)
+description: |-
+  Tren de los Presos (Ferrocarril Autral Fueguino). Dibujado por:
+  Pablo Anglat
+
+  http://www.ferromapas.com.ar/
+  Mendoza, Argentina
+children:
+- _loose.kml
+- estacion-del-fin-del-mundo-faf.kml
+- _loose-2.kml
+- estacion-parque-nacional-faf.kml

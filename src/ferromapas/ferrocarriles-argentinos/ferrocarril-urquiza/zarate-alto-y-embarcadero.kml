@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Zarate Alto y Embarcadero</name>
+    <description>Zarate Alto y Embarcadero. Dibujado por:
+Gabriel Castelo
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>FCGU Zarate Viejo - Embarcadero</name>
+      <LineString>
+        <coordinates>
+          -59.067312,-34.128423
+          -59.050458,-34.119174
+          -59.035603,-34.111416
+          -59.024003,-34.105263
+          -59.021518,-34.103944
+          -59.018722,-34.102538
+          -59.017260,-34.102095
+          -59.016161,-34.101977
+          -59.015140,-34.102063
+          -59.014631,-34.102224
+          -59.013526,-34.102844
+          -59.012647,-34.103775
+          -59.011862,-34.104752
+          -59.010683,-34.105952
+          -59.009957,-34.106677
+          -59.008869,-34.107577
+          -59.007193,-34.108326
+          -59.006021,-34.108476
+          -59.004697,-34.108485
+          -59.003236,-34.108135
+          -59.002597,-34.107780
+          -59.000101,-34.106201
+          -58.999214,-34.106637
+          -59.002480,-34.107749
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Zárate Alto</name>
+      <LineString>
+        <coordinates>
+          -59.029174,-34.108010
+          -59.028375,-34.107745
+          -59.027870,-34.107617
+          -59.026973,-34.107222
+          -59.024178,-34.105709
+          -59.023476,-34.105334
+          -59.023156,-34.105190
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Zárate Alto (Depósito)</name>
+      <Point><coordinates>-59.024164,-34.105603</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zárate Bajo</name>
+      <Point><coordinates>-59.021314,-34.103732</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zárate (Embarcadero)</name>
+      <Point><coordinates>-58.999769,-34.106369</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Circuito San Juan</name>
+    <Placemark>
+      <name>Bodega Maravilla</name>
+      <Point><coordinates>-68.554978,-31.521098</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

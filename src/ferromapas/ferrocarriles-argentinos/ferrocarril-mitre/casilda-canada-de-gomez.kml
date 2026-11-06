@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Casilda - Cañada de Gómez</name>
+    <description>Casilda - Cañada de Gómez. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Casilda - Cañada de Gómez</name>
+      <LineString>
+        <coordinates>
+          -61.175880,-33.046324
+          -61.180340,-33.040243
+          -61.182189,-33.037999
+          -61.188470,-33.029790
+          -61.204931,-33.008549
+          -61.216313,-32.993766
+          -61.227632,-32.979336
+          -61.229678,-32.976791
+          -61.230893,-32.975162
+          -61.231717,-32.973879
+          -61.232826,-32.972146
+          -61.235559,-32.967666
+          -61.244685,-32.952108
+          -61.248531,-32.945708
+          -61.250211,-32.942876
+          -61.251162,-32.941533
+          -61.252098,-32.940455
+          -61.260490,-32.932963
+          -61.274724,-32.920020
+          -61.300948,-32.895722
+          -61.335138,-32.864435
+          -61.337272,-32.862518
+          -61.339347,-32.860773
+          -61.342809,-32.858039
+          -61.350910,-32.851727
+          -61.365438,-32.840278
+          -61.378028,-32.830504
+          -61.381072,-32.828021
+          -61.382869,-32.826569
+          -61.384366,-32.825472
+          -61.385009,-32.825016
+          -61.385784,-32.824589
+          -61.386659,-32.824165
+          -61.387417,-32.823865
+          -61.388229,-32.823602
+          -61.390683,-32.823062
+          -61.391428,-32.822872
+          -61.394049,-32.822369
+          -61.395983,-32.822060
+          -61.397256,-32.821947
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Rosario KM 340.3</name>
+      <description>KM 340.3</description>
+      <Point><coordinates>-61.181904,-33.038318</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Berreta KM 354.2</name>
+      <description>KM 354.2</description>
+      <Point><coordinates>-61.261339,-32.932382</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

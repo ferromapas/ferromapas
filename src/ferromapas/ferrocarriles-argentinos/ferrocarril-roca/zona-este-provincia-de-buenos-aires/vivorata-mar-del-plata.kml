@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Vivorata - Mar del Plata</name>
+    <description>Vivorata - Mar del Plata. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Vivoratá - Mar del Plata</name>
+      <LineString>
+        <coordinates>
+          -57.670313,-37.660162
+          -57.669867,-37.661512
+          -57.668901,-37.664942
+          -57.668605,-37.666131
+          -57.668512,-37.666547
+          -57.667789,-37.669163
+          -57.644670,-37.750541
+          -57.609007,-37.875907
+          -57.605801,-37.887051
+          -57.604398,-37.892107
+          -57.603240,-37.896138
+          -57.601584,-37.901975
+          -57.600297,-37.906518
+          -57.592113,-37.935257
+          -57.591003,-37.938981
+          -57.590394,-37.941151
+          -57.589135,-37.945530
+          -57.587332,-37.951852
+          -57.585523,-37.958108
+          -57.584256,-37.962537
+          -57.583274,-37.966043
+          -57.582406,-37.968999
+          -57.580570,-37.975392
+          -57.579739,-37.978271
+          -57.579583,-37.978657
+          -57.579426,-37.978984
+          -57.579302,-37.979235
+          -57.579162,-37.979507
+          -57.578980,-37.979805
+          -57.578803,-37.980079
+          -57.578588,-37.980380
+          -57.578235,-37.980828
+          -57.577981,-37.981106
+          -57.577715,-37.981391
+          -57.577286,-37.981785
+          -57.576903,-37.982115
+          -57.576418,-37.982489
+          -57.576088,-37.982719
+          -57.575723,-37.982930
+          -57.575211,-37.983222
+          -57.574713,-37.983481
+          -57.573087,-37.984294
+          -57.569061,-37.986325
+          -57.567559,-37.987139
+          -57.564814,-37.988532
+          -57.563439,-37.989229
+          -57.562325,-37.989723
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cobo KM 377.6</name>
+      <description>KM 377.6</description>
+      <Point><coordinates>-57.630296,-37.801264</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Camet KM 387.6</name>
+      <description>KM 387.6</description>
+      <Point><coordinates>-57.605060,-37.889861</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mar del Plata KM 399.4</name>
+      <description>KM 399.4</description>
+      <Point><coordinates>-57.565994,-37.987893</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

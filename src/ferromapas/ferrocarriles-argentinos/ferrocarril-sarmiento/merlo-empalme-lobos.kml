@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Merlo - Empalme Lobos</name>
+    <description>Merlo - Empalme Lobos. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Merlo - Empalme Lobos</name>
+      <LineString>
+        <coordinates>
+          -58.738498,-34.662902
+          -58.739327,-34.662843
+          -58.739734,-34.662819
+          -58.740026,-34.662803
+          -58.740540,-34.662784
+          -58.740857,-34.662782
+          -58.741328,-34.662800
+          -58.741732,-34.662818
+          -58.742151,-34.662857
+          -58.742564,-34.662911
+          -58.742875,-34.662953
+          -58.743160,-34.663003
+          -58.743361,-34.663043
+          -58.743506,-34.663078
+          -58.743861,-34.663157
+          -58.744236,-34.663249
+          -58.744685,-34.663380
+          -58.745041,-34.663487
+          -58.745327,-34.663580
+          -58.745749,-34.663733
+          -58.746157,-34.663898
+          -58.746558,-34.664079
+          -58.746891,-34.664243
+          -58.747298,-34.664456
+          -58.747406,-34.664519
+          -58.747680,-34.664671
+          -58.748038,-34.664882
+          -58.748378,-34.665110
+          -58.748744,-34.665374
+          -58.749180,-34.665724
+          -58.749614,-34.666101
+          -58.750052,-34.666524
+          -58.750510,-34.667030
+          -58.750965,-34.667651
+          -58.751189,-34.667938
+          -58.791085,-34.721771
+          -58.794961,-34.727030
+          -58.942875,-34.925840
+          -59.040355,-35.056235
+          -59.043620,-35.060600
+          -59.072286,-35.098904
+          -59.076777,-35.104880
+          -59.077243,-35.105513
+          -59.077715,-35.106150
+          -59.078303,-35.107014
+          -59.078819,-35.107810
+          -59.079225,-35.108497
+          -59.079526,-35.109038
+          -59.079754,-35.109470
+          -59.080025,-35.110011
+          -59.080230,-35.110472
+          -59.080460,-35.110998
+          -59.080763,-35.111767
+          -59.081118,-35.112679
+          -59.091039,-35.139213
+          -59.091325,-35.140148
+          -59.091558,-35.141107
+          -59.091713,-35.141802
+          -59.091772,-35.142178
+          -59.091781,-35.142546
+          -59.091729,-35.142906
+          -59.091652,-35.143162
+          -59.091576,-35.143380
+          -59.091489,-35.143598
+          -59.091364,-35.143817
+          -59.091203,-35.144045
+          -59.090944,-35.144353
+          -59.090615,-35.144649
+          -59.090354,-35.144837
+          -59.090034,-35.145026
+          -59.089563,-35.145275
+          -59.088984,-35.145562
+          -59.088606,-35.145815
+          -59.088239,-35.146126
+          -59.088030,-35.146348
+          -59.087804,-35.146646
+          -59.087653,-35.146893
+          -59.087652,-35.146897
+          -59.087535,-35.147142
+          -59.087424,-35.147451
+          -59.087359,-35.147764
+          -59.087328,-35.148123
+          -59.087345,-35.148416
+          -59.087377,-35.148663
+          -59.087470,-35.149002
+          -59.087615,-35.149340
+          -59.087811,-35.149681
+          -59.088054,-35.149995
+          -59.088309,-35.150248
+          -59.088493,-35.150412
+          -59.088799,-35.150639
+          -59.089188,-35.150860
+          -59.089551,-35.151016
+          -59.089878,-35.151130
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Agustín Ferrari KM 37.8</name>
+      <description>KM 37.8</description>
+      <Point><coordinates>-58.779427,-34.706049</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mariano Acosta (FCDFS) KM 40.2</name>
+      <description>KM 40.2</description>
+      <Point><coordinates>-58.793014,-34.724387</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce a desnivel FCDFS / FCGB</name>
+      <Point><coordinates>-58.803881,-34.739054</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Marcos Paz (FCDFS) KM 47.8</name>
+      <description>KM 47.8</description>
+      <Point><coordinates>-58.836580,-34.783089</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce a desnivel FCDFS / FCGB</name>
+      <Point><coordinates>-58.853171,-34.805414</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zamudio (Ap.) KM 57.6</name>
+      <description>KM 57.6</description>
+      <Point><coordinates>-58.892223,-34.857885</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hornos KM 62.0</name>
+      <description>KM 62.0</description>
+      <Point><coordinates>-58.917878,-34.892322</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Heras KM 66.7</name>
+      <description>KM 66.7</description>
+      <Point><coordinates>-58.944524,-34.928054</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Speratti (Ap.) KM 76.3</name>
+      <description>KM 76.3</description>
+      <Point><coordinates>-58.999776,-35.002016</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zapiola KM 83.6</name>
+      <description>KM 83.6</description>
+      <Point><coordinates>-59.041996,-35.058426</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabín Empalme Lobos KM 95.3</name>
+      <description>Merlo - Lobos KM 95.3</description>
+      <Point><coordinates>-59.089870,-35.151132</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

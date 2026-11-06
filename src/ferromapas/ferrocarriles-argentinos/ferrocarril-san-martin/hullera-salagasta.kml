@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Hullera - Salagasta</name>
+    <description>Hullera - Salagasta. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Hullera - Salagasta</name>
+      <LineString>
+        <coordinates>
+          -68.753450,-32.701798
+          -68.750856,-32.699124
+          -68.750251,-32.698493
+          -68.750067,-32.698259
+          -68.749889,-32.697964
+          -68.749692,-32.697609
+          -68.748537,-32.695502
+          -68.747031,-32.692758
+          -68.746964,-32.692544
+          -68.746871,-32.692293
+          -68.746815,-32.691942
+          -68.746735,-32.691422
+          -68.746724,-32.690870
+          -68.746743,-32.690465
+          -68.746780,-32.690197
+          -68.746828,-32.689977
+          -68.746946,-32.689505
+          -68.747200,-32.688942
+          -68.747467,-32.688456
+          -68.747753,-32.688017
+          -68.748127,-32.687589
+          -68.748487,-32.687233
+          -68.748887,-32.686929
+          -68.749923,-32.686260
+          -68.750879,-32.685676
+          -68.757394,-32.681743
+          -68.760698,-32.679718
+          -68.762389,-32.678658
+          -68.765534,-32.676825
+          -68.772628,-32.672515
+          -68.774455,-32.671395
+          -68.775897,-32.670536
+          -68.778572,-32.668929
+          -68.782372,-32.666599
+          -68.786118,-32.664302
+          -68.792231,-32.660618
+          -68.798991,-32.656572
+          -68.803739,-32.653665
+          -68.804908,-32.652985
+          -68.805550,-32.652542
+          -68.808292,-32.650882
+          -68.814803,-32.646981
+          -68.815179,-32.646594
+          -68.817794,-32.645028
+          -68.820126,-32.643608
+          -68.821095,-32.643062
+          -68.821488,-32.642876
+          -68.822420,-32.642471
+          -68.823481,-32.642003
+          -68.823687,-32.641887
+          -68.823929,-32.641752
+          -68.825031,-32.640739
+          -68.825616,-32.640210
+          -68.825999,-32.639864
+          -68.826257,-32.639646
+          -68.826637,-32.639396
+          -68.828338,-32.638246
+          -68.830587,-32.636731
+          -68.835679,-32.633325
+          -68.837381,-32.632176
+          -68.838054,-32.631765
+          -68.838745,-32.631423
+          -68.839202,-32.631235
+          -68.839578,-32.631149
+          -68.839913,-32.631101
+          -68.840568,-32.631074
+          -68.840883,-32.631089
+          -68.841994,-32.631141
+          -68.842959,-32.631218
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal a Salagasta</name>
+      <description>(GPS)</description>
+      <Point><coordinates>-68.751967,-32.700600</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Hullera (DC) KM 1085.6</name>
+      <description>KM 1085.6
+(GPS)</description>
+      <Point><coordinates>-68.753183,-32.701817</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Salagasta? KM 1098.3?</name>
+      <description>KM 1098.3?</description>
+      <Point><coordinates>-68.842617,-32.631192</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

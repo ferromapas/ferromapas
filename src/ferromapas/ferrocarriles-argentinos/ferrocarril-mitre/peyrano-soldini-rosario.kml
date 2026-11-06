@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Peyrano - Soldini - Rosario</name>
+    <description>Peyrano - Soldini - Rosario. Dibujado por:
+Pablo Anglat
+
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Peyrano - Soldini - Rosario</name>
+      <LineString>
+        <coordinates>
+          -60.808994,-33.535993
+          -60.809146,-33.535602
+          -60.809240,-33.535333
+          -60.809292,-33.534916
+          -60.809340,-33.534314
+          -60.809322,-33.533746
+          -60.809169,-33.532768
+          -60.795313,-33.443537
+          -60.795238,-33.443119
+          -60.795136,-33.442741
+          -60.794923,-33.442260
+          -60.794779,-33.441942
+          -60.794481,-33.441505
+          -60.794278,-33.441245
+          -60.793723,-33.440725
+          -60.793243,-33.440341
+          -60.792648,-33.440004
+          -60.792065,-33.439731
+          -60.791723,-33.439608
+          -60.791067,-33.439426
+          -60.790079,-33.439161
+          -60.784504,-33.437796
+          -60.784150,-33.437680
+          -60.783697,-33.437487
+          -60.783247,-33.437241
+          -60.782726,-33.436885
+          -60.782314,-33.436572
+          -60.781994,-33.436246
+          -60.781595,-33.435791
+          -60.781154,-33.435191
+          -60.780948,-33.434832
+          -60.780766,-33.434433
+          -60.780629,-33.434052
+          -60.780519,-33.433507
+          -60.780469,-33.433093
+          -60.780458,-33.432744
+          -60.780470,-33.432393
+          -60.780513,-33.432028
+          -60.780613,-33.431534
+          -60.780727,-33.431207
+          -60.820966,-33.314814
+          -60.822716,-33.309675
+          -60.837244,-33.267165
+          -60.837697,-33.265763
+          -60.837936,-33.264721
+          -60.838125,-33.263420
+          -60.838195,-33.262403
+          -60.838189,-33.261488
+          -60.838105,-33.260189
+          -60.837942,-33.259160
+          -60.837593,-33.257619
+          -60.834293,-33.245013
+          -60.831890,-33.235837
+          -60.807128,-33.141377
+          -60.806716,-33.139800
+          -60.806298,-33.138633
+          -60.805040,-33.136002
+          -60.803612,-33.133031
+          -60.799770,-33.125097
+          -60.763251,-33.049766
+          -60.762834,-33.048847
+          -60.762460,-33.047919
+          -60.762193,-33.047141
+          -60.758109,-33.033844
+          -60.755504,-33.025368
+          -60.748450,-33.002543
+          -60.740971,-32.978060
+          -60.738872,-32.970924
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme</name>
+      <LineString>
+        <coordinates>
+          -60.744833,-32.990791
+          -60.743687,-32.987409
+          -60.742858,-32.984926
+          -60.742557,-32.984361
+          -60.742154,-32.983857
+          -60.741647,-32.983431
+          -60.741111,-32.983102
+          -60.740387,-32.982745
+          -60.739467,-32.982450
+          -60.738564,-32.982208
+          -60.737774,-32.982168
+          -60.737037,-32.982204
+          -60.735193,-32.982421
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Pavón Arriba KM 26.4</name>
+      <description>KM 26.4</description>
+      <Point><coordinates>-60.821846,-33.312225</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Acebal KM 34.4</name>
+      <description>KM 34.4</description>
+      <Point><coordinates>-60.833580,-33.242261</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Álvarez KM 47.3</name>
+      <description>KM 47.3</description>
+      <Point><coordinates>-60.801903,-33.129501</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Soldini KM 60.4</name>
+      <description>KM 60.4</description>
+      <Point><coordinates>-60.753371,-33.018297</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Casilda KM 65.8</name>
+      <description>KM 65.8</description>
+      <Point><coordinates>-60.740166,-32.975180</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

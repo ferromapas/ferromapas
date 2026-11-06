@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ringuelet - La Plata</name>
+    <description>Ringuelet - La Plata. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Tolosa - La Plata</name>
+      <LineString>
+        <coordinates>
+          -57.976740,-34.884518
+          -57.974563,-34.886319
+          -57.972239,-34.888251
+          -57.969517,-34.890331
+          -57.968604,-34.890960
+          -57.967749,-34.891460
+          -57.967197,-34.891759
+          -57.966741,-34.892045
+          -57.966047,-34.892545
+          -57.963384,-34.894511
+          -57.958046,-34.898503
+          -57.954069,-34.901478
+          -57.953435,-34.901870
+          -57.952606,-34.902382
+          -57.952095,-34.902680
+          -57.951717,-34.902916
+          -57.950048,-34.904118
+          -57.949938,-34.904014
+          -57.951101,-34.903174
+          -57.951466,-34.902939
+          -57.951918,-34.902711
+          -57.952336,-34.902499
+          -57.953074,-34.902088
+          -57.952760,-34.902237
+          -57.952168,-34.902507
+          -57.951773,-34.902672
+          -57.951498,-34.902779
+          -57.951290,-34.902869
+          -57.951122,-34.902963
+          -57.949855,-34.903906
+          -57.949716,-34.903806
+          -57.951097,-34.902848
+          -57.951288,-34.902739
+          -57.951601,-34.902607
+          -57.951822,-34.902532
+          -57.952118,-34.902452
+          -57.952868,-34.902178
+          -57.952269,-34.902343
+          -57.951491,-34.902568
+          -57.951201,-34.902677
+          -57.950831,-34.902895
+          -57.949632,-34.903750
+          -57.949458,-34.903602
+          -57.949953,-34.903205
+          -57.950483,-34.902884
+          -57.950831,-34.902715
+          -57.951185,-34.902606
+          -57.952108,-34.902385
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tolosa KM 50.6</name>
+      <description>KM 50.6</description>
+      <Point><coordinates>-57.968198,-34.891047</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Plata KM 52.6</name>
+      <description>KM 52.6</description>
+      <Point><coordinates>-57.949636,-34.904375</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

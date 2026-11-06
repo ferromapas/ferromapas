@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Monte Caseros - Empalme a Corrientes y Posadas</name>
+    <description>Monte Caseros - Empalme a Corrientes y Posadas. Dibujado por:
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Monte Caseros - Emp a Resistencia y a Posadas</name>
+      <LineString>
+        <coordinates>
+          -57.646604,-30.250674
+          -57.646754,-30.250313
+          -57.646955,-30.249887
+          -57.647079,-30.249670
+          -57.647174,-30.249522
+          -57.647361,-30.249350
+          -57.648504,-30.248360
+          -57.650620,-30.246445
+          -57.653260,-30.244149
+          -57.655881,-30.241854
+          -57.658529,-30.239711
+          -57.661200,-30.237445
+          -57.665504,-30.233776
+          -57.673426,-30.227092
+          -57.677744,-30.223442
+          -57.680072,-30.221476
+          -57.684015,-30.218100
+          -57.687521,-30.215154
+          -57.690833,-30.212333
+          -57.692074,-30.211303
+          -57.692842,-30.210630
+          -57.693614,-30.209945
+          -57.694254,-30.209308
+          -57.695324,-30.208206
+          -57.697224,-30.206201
+          -57.699483,-30.203844
+          -57.700289,-30.202997
+          -57.700886,-30.202363
+          -57.701505,-30.201730
+          -57.701833,-30.201387
+          -57.702469,-30.200711
+          -57.702977,-30.200177
+          -57.703532,-30.199602
+          -57.704980,-30.198061
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

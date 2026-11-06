@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC13: Rio Colorado - Faimallá</name>
+    <description>Ramal CC13: Rio Colorado - Faimallá. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal CC13: Rio Colorado - Faimallá</name>
+      <LineString>
+        <coordinates>
+          -65.356375,-27.145341
+          -65.356214,-27.144522
+          -65.356031,-27.143686
+          -65.356018,-27.143431
+          -65.355981,-27.142882
+          -65.355984,-27.142380
+          -65.355990,-27.141967
+          -65.356018,-27.141456
+          -65.356088,-27.141014
+          -65.356177,-27.140502
+          -65.356249,-27.140218
+          -65.356366,-27.139780
+          -65.356506,-27.139375
+          -65.356619,-27.139098
+          -65.356786,-27.138793
+          -65.357203,-27.137999
+          -65.396579,-27.070829
+          -65.397103,-27.070063
+          -65.397847,-27.069155
+          -65.403200,-27.062062
+          -65.403732,-27.061486
+          -65.406386,-27.058736
+          -65.406999,-27.057962
+          -65.407341,-27.057319
+          -65.407413,-27.056920
+          -65.407448,-27.056605
+          -65.407441,-27.056409
+          -65.407398,-27.056195
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>KM 5 (Ap) KM 4.9</name>
+      <description>KM 4.9</description>
+      <Point><coordinates>-65.376283,-27.105463</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 9 (Ap) KM 9.3</name>
+      <description>KM 9.3</description>
+      <Point><coordinates>-65.396882,-27.070363</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 10 (Desv Part - Ingenio Nueva Baviera) KM 10.0</name>
+      <description>KM 10.0</description>
+      <Point><coordinates>-65.400742,-27.065305</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío a Ingenio Bueva Baviera</name>
+      <LineString>
+        <coordinates>
+          -65.400750,-27.065329
+          -65.400378,-27.065901
+          -65.400245,-27.066533
+          -65.400213,-27.066917
+          -65.400144,-27.067174
+          -65.400382,-27.068242
+          -65.400377,-27.068458
+          -65.400343,-27.068674
+          -65.400190,-27.069026
+          -65.399894,-27.069658
+          -65.399715,-27.070053
+          -65.399619,-27.070434
+          -65.399645,-27.070926
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

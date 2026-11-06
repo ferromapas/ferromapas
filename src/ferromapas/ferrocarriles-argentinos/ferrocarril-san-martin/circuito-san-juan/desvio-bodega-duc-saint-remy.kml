@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvío Bodega Duc Saint  Remy</name>
+    <Placemark>
+      <name>Desvío Bodega Duc Saint  Remy</name>
+      <LineString>
+        <coordinates>
+          -68.570107,-31.526772
+          -68.570103,-31.527262
+          -68.570087,-31.527953
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bodega Duc Saint  Remy</name>
+      <Point><coordinates>-68.570094,-31.527540</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

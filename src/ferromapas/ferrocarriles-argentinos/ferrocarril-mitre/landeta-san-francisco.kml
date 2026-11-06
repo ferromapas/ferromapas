@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Landeta - San Francisco</name>
+    <description>Landeta - San Francisco. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Landeta - San Francisco</name>
+      <LineString>
+        <coordinates>
+          -62.059968,-32.010674
+          -62.068040,-32.009244
+          -62.069474,-32.008921
+          -62.070328,-32.008718
+          -62.071288,-32.008434
+          -62.072196,-32.008078
+          -62.072922,-32.007687
+          -62.073587,-32.007278
+          -62.074137,-32.006914
+          -62.074943,-32.006390
+          -62.075746,-32.005791
+          -62.076274,-32.005175
+          -62.076876,-32.004340
+          -62.077267,-32.003622
+          -62.077618,-32.002663
+          -62.077920,-32.001566
+          -62.078061,-32.000569
+          -62.079447,-31.990000
+          -62.081419,-31.976445
+          -62.082032,-31.971827
+          -62.083807,-31.959370
+          -62.085114,-31.950459
+          -62.091551,-31.906593
+          -62.104227,-31.818702
+          -62.107360,-31.798325
+          -62.107903,-31.794545
+          -62.110425,-31.777411
+          -62.110670,-31.775691
+          -62.110784,-31.774532
+          -62.110793,-31.773849
+          -62.110725,-31.773153
+          -62.110577,-31.772247
+          -62.110335,-31.771197
+          -62.110045,-31.770079
+          -62.108293,-31.762805
+          -62.096643,-31.715375
+          -62.083988,-31.663460
+          -62.079017,-31.644212
+          -62.077373,-31.634815
+          -62.076546,-31.630289
+          -62.072714,-31.614596
+          -62.042179,-31.488668
+          -62.037989,-31.471568
+          -62.036346,-31.464838
+          -62.036115,-31.463363
+          -62.036002,-31.462518
+          -62.035971,-31.461762
+          -62.036023,-31.461015
+          -62.036088,-31.460359
+          -62.036217,-31.459550
+          -62.036507,-31.458701
+          -62.036866,-31.457902
+          -62.037251,-31.457205
+          -62.037750,-31.456490
+          -62.038361,-31.455749
+          -62.038970,-31.455181
+          -62.039733,-31.454551
+          -62.044037,-31.451451
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Córdoba KM 0.5</name>
+      <description>KM 0.5</description>
+      <Point><coordinates>-62.065159,-32.009767</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Petacas KM 21.9</name>
+      <description>KM 21.9</description>
+      <Point><coordinates>-62.103428,-31.824587</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Esmeraldita KM 38.3</name>
+      <description>KM 38.3</description>
+      <Point><coordinates>-62.087613,-31.678422</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce con FCGB (CC) KM 61.6</name>
+      <description>KM 61.6</description>
+      <Point><coordinates>-62.038108,-31.472068</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme San Francisco KM 64.1</name>
+      <description>KM 64.1</description>
+      <Point><coordinates>-62.043016,-31.452160</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce con FCGB (CC) KM 65.5</name>
+      <description>KM 65.5</description>
+      <Point><coordinates>-62.054721,-31.444258</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce con FCGB (F3) KM 65.55</name>
+      <description>KM 65.55</description>
+      <Point><coordinates>-62.054990,-31.444079</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce con FCGB (CC) KM 67.3</name>
+      <description>KM 67.3</description>
+      <Point><coordinates>-62.069594,-31.433017</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Francisco KM 67.6</name>
+      <description>KM 67.6
+KM 526.0 desde Buenos Aires</description>
+      <Point><coordinates>-62.072144,-31.430874</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

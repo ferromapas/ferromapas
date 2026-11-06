@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvio Bodega Hagman</name>
+    <Placemark>
+      <name>Desvio Bodega Hagman</name>
+      <LineString>
+        <coordinates>
+          -68.509439,-31.516695
+          -68.510293,-31.516534
+          -68.511210,-31.516436
+          -68.512882,-31.516249
+          -68.513592,-31.516155
+          -68.514673,-31.516003
+          -68.514908,-31.515937
+          -68.515252,-31.515847
+          -68.515515,-31.515813
+          -68.515794,-31.515798
+          -68.516250,-31.515760
+          -68.517183,-31.515571
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bodega Hagman</name>
+      <Point><coordinates>-68.516779,-31.515666</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvio Bodega Hagman</name>
+      <LineString>
+        <coordinates>
+          -68.515422,-31.515828
+          -68.515902,-31.515811
+          -68.516414,-31.515775
+          -68.517141,-31.515609
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvio Bodega Hagman</name>
+      <LineString>
+        <coordinates>
+          -68.515925,-31.515820
+          -68.516256,-31.515825
+          -68.516471,-31.515809
+          -68.517090,-31.515665
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

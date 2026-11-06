@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Puerto Borghi</name>
+    <Placemark>
+      <name>Puerto Borghi</name>
+      <LineString>
+        <coordinates>
+          -60.737066,-32.782574
+          -60.736627,-32.783360
+          -60.736107,-32.783959
+          -60.735585,-32.784377
+          -60.734881,-32.784624
+          -60.733873,-32.784814
+          -60.722777,-32.786679
+          -60.716236,-32.787816
+          -60.715653,-32.787961
+          -60.715088,-32.788337
+          -60.714456,-32.788907
+          -60.713797,-32.789552
+          -60.713052,-32.790736
+          -60.712398,-32.791712
+          -60.711623,-32.793415
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>San Lorenzo - Puerto Borghi</name>
+      <Point><coordinates>-60.712369,-32.791787</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

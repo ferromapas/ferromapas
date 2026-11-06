@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Emp. General Alvear - Emp. Recalde</name>
+    <description>Emp. General Alvear - Emp. Recalde. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Emp. General Alvear - Emp. Recalde</name>
+      <LineString>
+        <coordinates>
+          -60.033339,-36.089990
+          -60.038122,-36.098772
+          -60.038806,-36.099925
+          -60.039823,-36.101393
+          -60.040575,-36.102416
+          -60.041324,-36.103344
+          -60.042445,-36.104412
+          -60.043804,-36.105605
+          -60.045443,-36.107003
+          -60.050472,-36.110909
+          -60.059621,-36.118171
+          -60.073885,-36.129382
+          -60.088083,-36.140575
+          -60.100816,-36.150766
+          -60.118763,-36.164817
+          -60.122799,-36.167886
+          -60.124434,-36.169191
+          -60.125649,-36.170031
+          -60.127011,-36.170800
+          -60.127869,-36.171254
+          -60.129062,-36.171799
+          -60.130271,-36.172288
+          -60.136900,-36.175183
+          -60.148323,-36.180135
+          -60.163405,-36.186717
+          -60.169329,-36.189298
+          -60.193399,-36.199695
+          -60.213102,-36.208207
+          -60.225494,-36.213615
+          -60.243538,-36.221414
+          -60.272348,-36.233844
+          -60.317414,-36.253277
+          -60.366856,-36.274512
+          -60.389384,-36.284165
+          -60.419036,-36.296922
+          -60.453756,-36.311821
+          -60.467868,-36.317838
+          -60.487464,-36.326258
+          -60.526553,-36.343021
+          -60.569609,-36.361478
+          -60.612781,-36.379720
+          -60.629453,-36.386840
+          -60.637225,-36.390224
+          -60.640445,-36.391612
+          -60.642487,-36.392543
+          -60.644254,-36.393427
+          -60.645838,-36.394254
+          -60.647442,-36.395216
+          -60.649701,-36.396603
+          -60.664896,-36.405533
+          -60.680204,-36.414798
+          -60.710166,-36.432534
+          -60.747145,-36.454425
+          -60.762489,-36.463573
+          -60.783707,-36.476173
+          -60.826689,-36.501540
+          -60.873063,-36.527096
+          -60.891821,-36.537291
+          -60.940619,-36.563926
+          -60.963710,-36.576520
+          -60.981012,-36.586011
+          -60.998440,-36.595004
+          -61.025021,-36.607725
+          -61.051977,-36.620629
+          -61.053122,-36.621168
+          -61.053996,-36.621623
+          -61.054625,-36.621997
+          -61.055095,-36.622286
+          -61.055729,-36.622753
+          -61.056327,-36.623228
+          -61.056833,-36.623655
+          -61.058422,-36.625151
+          -61.060579,-36.627150
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Emma KM 262.7</name>
+      <Point><coordinates>-60.218502,-36.210521</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Bernardo KM 285.9</name>
+      <description>KM 285.9</description>
+      <Point><coordinates>-60.447029,-36.308985</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Espigas KM 309.4</name>
+      <description>KM 309.4</description>
+      <Point><coordinates>-60.675107,-36.411638</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Blanca Grande KM 332.6</name>
+      <description>KM 332.6</description>
+      <Point><coordinates>-60.885590,-36.533957</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

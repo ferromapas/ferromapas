@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Los Toldos - Bayauca</name>
+    <description>Los Toldos - Bayauca. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Los Toldos - Bayauca</name>
+      <LineString>
+        <coordinates>
+          -61.028373,-34.999245
+          -61.031622,-34.998946
+          -61.055357,-34.996626
+          -61.077717,-34.994545
+          -61.079369,-34.994373
+          -61.080046,-34.994295
+          -61.081228,-34.994141
+          -61.082055,-34.993987
+          -61.082918,-34.993793
+          -61.083655,-34.993600
+          -61.084416,-34.993368
+          -61.085096,-34.993134
+          -61.085793,-34.992871
+          -61.086475,-34.992586
+          -61.087467,-34.992097
+          -61.088098,-34.991760
+          -61.088746,-34.991382
+          -61.089361,-34.990987
+          -61.089736,-34.990727
+          -61.155849,-34.945550
+          -61.215297,-34.904826
+          -61.216018,-34.904335
+          -61.216620,-34.903967
+          -61.217350,-34.903576
+          -61.218047,-34.903224
+          -61.218826,-34.902875
+          -61.286649,-34.872208
+          -61.289663,-34.870886
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Los Toldos KM 262.4 (General Viamonte)</name>
+      <description>KM 262.4</description>
+      <Point><coordinates>-61.028373,-34.999245</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Delfina KM 276.4</name>
+      <description>KM 276.4</description>
+      <Point><coordinates>-61.158685,-34.943602</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 282 (Ap.) KM 281.4</name>
+      <description>KM 281.4</description>
+      <Point><coordinates>-61.200818,-34.914749</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bayauca KM 278.8 / KM 290.9</name>
+      <description>Vía Suipacha - Lincoln KM 278.8 
+Vía Los Toldos - Bayauca KM 290.9</description>
+      <Point><coordinates>-61.289667,-34.870885</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

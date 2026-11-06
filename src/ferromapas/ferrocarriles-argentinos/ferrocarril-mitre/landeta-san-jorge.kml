@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Landeta - San Jorge</name>
+    <description>Landeta - San Jorge. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Landeta - San Jorge</name>
+      <LineString>
+        <coordinates>
+          -62.059979,-32.010663
+          -62.049629,-32.012317
+          -62.048556,-32.012344
+          -62.047698,-32.012317
+          -62.046703,-32.012260
+          -62.045898,-32.012172
+          -62.045246,-32.011994
+          -62.044152,-32.011645
+          -62.043327,-32.011264
+          -62.041864,-32.010544
+          -62.037518,-32.008369
+          -62.001816,-31.990341
+          -61.993964,-31.986333
+          -61.972323,-31.975358
+          -61.928479,-31.953156
+          -61.909754,-31.943660
+          -61.896904,-31.937160
+          -61.889782,-31.933571
+          -61.886255,-31.931842
+          -61.884509,-31.931094
+          -61.881287,-31.929848
+          -61.875624,-31.927749
+          -61.864488,-31.923469
+          -61.863910,-31.923220
+          -61.863478,-31.923027
+          -61.863096,-31.922832
+          -61.862637,-31.922579
+          -61.862208,-31.922294
+          -61.861655,-31.921904
+          -61.861224,-31.921526
+          -61.860798,-31.921127
+          -61.860424,-31.920734
+          -61.860115,-31.920338
+          -61.859835,-31.919921
+          -61.859549,-31.919390
+          -61.859369,-31.919044
+          -61.859132,-31.918392
+          -61.858870,-31.917683
+          -61.858620,-31.916919
+          -61.858221,-31.915533
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

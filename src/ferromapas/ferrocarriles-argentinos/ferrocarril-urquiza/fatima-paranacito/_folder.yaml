@@ -1,0 +1,6 @@
+name: Fátima - Paranacito
+description: "Fátima - Paranacito. Dibujado por:\nGino Nuñez\nCon modificaciones de Pablo Anglat\n\nFuentes: \n- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)\n\nhttp://www.ferromapas.com.ar/\nBuenos Aires, Argentina"
+children:
+- _loose.kml
+- desvio.kml
+- _loose-2.kml

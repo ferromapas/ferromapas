@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Rosario del Tala - Solá</name>
+    <description>Rosario del Tala - Solá. Dibujado por:
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Rosario del Tala - Solá</name>
+      <LineString>
+        <coordinates>
+          -59.155682,-32.295427
+          -59.158525,-32.296070
+          -59.161272,-32.296706
+          -59.162835,-32.297066
+          -59.164947,-32.297554
+          -59.169994,-32.298702
+          -59.177063,-32.300338
+          -59.182215,-32.301488
+          -59.187547,-32.302734
+          -59.192065,-32.303749
+          -59.197743,-32.305067
+          -59.205068,-32.306745
+          -59.218379,-32.309793
+          -59.225603,-32.311447
+          -59.261141,-32.319568
+          -59.268889,-32.321345
+          -59.273846,-32.322486
+          -59.278973,-32.323654
+          -59.284660,-32.324937
+          -59.296215,-32.327578
+          -59.302044,-32.328895
+          -59.304205,-32.329391
+          -59.313695,-32.331553
+          -59.317748,-32.332497
+          -59.325358,-32.334226
+          -59.333737,-32.336129
+          -59.341126,-32.337828
+          -59.348218,-32.339458
+          -59.357000,-32.341452
+          -59.358416,-32.341774
+          -59.359560,-32.342050
+          -59.360400,-32.342200
+          -59.361096,-32.342302
+          -59.361680,-32.342366
+          -59.362552,-32.342393
+          -59.363144,-32.342397
+          -59.363794,-32.342364
+          -59.364381,-32.342308
+          -59.364767,-32.342251
+          -59.365264,-32.342175
+          -59.365666,-32.342093
+          -59.365947,-32.342026
+          -59.366534,-32.341881
+          -59.366924,-32.341766
+          -59.367263,-32.341656
+          -59.367773,-32.341465
+          -59.368130,-32.341321
+          -59.368502,-32.341162
+          -59.368818,-32.341021
+          -59.369249,-32.340803
+          -59.370070,-32.340384
+          -59.371832,-32.339530
+          -59.372643,-32.339125
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Gualeguay KM 194.3</name>
+      <description>KM 194.3</description>
+      <Point><coordinates>-59.155649,-32.295432</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Kilómetro 192 KM 191.9</name>
+      <description>KM 191.9</description>
+      <Point><coordinates>-59.179838,-32.300885</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Kilómetro 189 KM 188.5</name>
+      <description>KM 188.5</description>
+      <Point><coordinates>-59.217498,-32.309576</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Kilómetro 180 KM 180.4</name>
+      <description>KM 180.4</description>
+      <Point><coordinates>-59.299455,-32.328315</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Solá KM 173.3</name>
+      <description>KM 173.3
+Código: MSO</description>
+      <Point><coordinates>-59.371941,-32.339570</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

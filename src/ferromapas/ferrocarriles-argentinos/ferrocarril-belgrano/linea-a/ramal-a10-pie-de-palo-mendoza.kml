@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal A10: Pie de Palo - Mendoza</name>
+    <description>Ramal A10: Pie de Palo - Mendoza. Dibujado por:
+Pablo Anglat
+Rodrigo Respini
+
+Fuentes: 
+- Itinerario FCGB Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Mendoza y Córdoba, Argentina</description>
+    <Placemark>
+      <name>Ramal A10 Pie de Palo - Mendoza</name>
+      <LineString>
+        <coordinates>
+          -68.220705,-31.662483
+          -68.219918,-31.662644
+          -68.214378,-31.664358
+          -68.214128,-31.664443
+          -68.213959,-31.664515
+          -68.213750,-31.664619
+          -68.213525,-31.664750
+          -68.213381,-31.664848
+          -68.213203,-31.664990
+          -68.212946,-31.665236
+          -68.212821,-31.665396
+          -68.212696,-31.665559
+          -68.212563,-31.665781
+          -68.197953,-31.695555
+          -68.196286,-31.698933
+          -68.196142,-31.699254
+          -68.195970,-31.699695
+          -68.195920,-31.699867
+          -68.195779,-31.700328
+          -68.195662,-31.700796
+          -68.195592,-31.701154
+          -68.195538,-31.701625
+          -68.195501,-31.702308
+          -68.195532,-31.703041
+          -68.195598,-31.703534
+          -68.195695,-31.704073
+          -68.209658,-31.761101
+          -68.210722,-31.765505
+          -68.224396,-31.821221
+          -68.226611,-31.830185
+          -68.227760,-31.834906
+          -68.251519,-31.931681
+          -68.251667,-31.932338
+          -68.251722,-31.932681
+          -68.251754,-31.933080
+          -68.251778,-31.933480
+          -68.251778,-31.933910
+          -68.251745,-31.934396
+          -68.251694,-31.934809
+          -68.251638,-31.935154
+          -68.251565,-31.935494
+          -68.251457,-31.935906
+          -68.251369,-31.936157
+          -68.251260,-31.936463
+          -68.251059,-31.936960
+          -68.250864,-31.937374
+          -68.250486,-31.938003
+          -68.250218,-31.938401
+          -68.170180,-32.038310
+          -68.166441,-32.042937
+          -68.148531,-32.065301
+          -68.147423,-32.066664
+          -68.146915,-32.067338
+          -68.146671,-32.067724
+          -68.146464,-32.068123
+          -68.146343,-32.068401
+          -68.146250,-32.068681
+          -68.146092,-32.069301
+          -68.146056,-32.069550
+          -68.146036,-32.069754
+          -68.146025,-32.070118
+          -68.146037,-32.070393
+          -68.146071,-32.070687
+          -68.146110,-32.070947
+          -68.146184,-32.071299
+          -68.146357,-32.071820
+          -68.161915,-32.115840
+          -68.162146,-32.116477
+          -68.163977,-32.121650
+          -68.165916,-32.127163
+          -68.166264,-32.128042
+          -68.166488,-32.128511
+          -68.166726,-32.128939
+          -68.167038,-32.129425
+          -68.167347,-32.129835
+          -68.167596,-32.130144
+          -68.167934,-32.130517
+          -68.168536,-32.131098
+          -68.169110,-32.131568
+          -68.169538,-32.131910
+          -68.193142,-32.149711
+          -68.206577,-32.159913
+          -68.209415,-32.162134
+          -68.211484,-32.163606
+          -68.212781,-32.164597
+          -68.213692,-32.165438
+          -68.214321,-32.166157
+          -68.214703,-32.166904
+          -68.215015,-32.167681
+          -68.215253,-32.168875
+          -68.215291,-32.171722
+          -68.215433,-32.181276
+          -68.215525,-32.193044
+          -68.216192,-32.239434
+          -68.216264,-32.243342
+          -68.216235,-32.247703
+          -68.216553,-32.266747
+          -68.216749,-32.279144
+          -68.216839,-32.290076
+          -68.217039,-32.301581
+          -68.217182,-32.311870
+          -68.217800,-32.349895
+          -68.217956,-32.362952
+          -68.218103,-32.370681
+          -68.218283,-32.381120
+          -68.218398,-32.393793
+          -68.218495,-32.403928
+          -68.218598,-32.407354
+          -68.218546,-32.408927
+          -68.217612,-32.416830
+          -68.216479,-32.424926
+          -68.215297,-32.434316
+          -68.214460,-32.441008
+          -68.213554,-32.447174
+          -68.213297,-32.449840
+          -68.213360,-32.450602
+          -68.213704,-32.452087
+          -68.218800,-32.469481
+          -68.221944,-32.480022
+          -68.224464,-32.488992
+          -68.228788,-32.503520
+          -68.231317,-32.511749
+          -68.236105,-32.527566
+          -68.236829,-32.529798
+          -68.238126,-32.534367
+          -68.240166,-32.541058
+          -68.242198,-32.548023
+          -68.243125,-32.551188
+          -68.244484,-32.555846
+          -68.246546,-32.563202
+          -68.247621,-32.566937
+          -68.249065,-32.571630
+          -68.250065,-32.575063
+          -68.250966,-32.578050
+          -68.251959,-32.581430
+          -68.253129,-32.585346
+          -68.254063,-32.588519
+          -68.255063,-32.591937
+          -68.255427,-32.593193
+          -68.256121,-32.595497
+          -68.257258,-32.599385
+          -68.258351,-32.603042
+          -68.259292,-32.606214
+          -68.259982,-32.608555
+          -68.260881,-32.611549
+          -68.261761,-32.614565
+          -68.263010,-32.618776
+          -68.263866,-32.621712
+          -68.264748,-32.625396
+          -68.265175,-32.627565
+          -68.265783,-32.630656
+          -68.266467,-32.634066
+          -68.266918,-32.636286
+          -68.267729,-32.640312
+          -68.268472,-32.644057
+          -68.269427,-32.648772
+          -68.269758,-32.650422
+          -68.270485,-32.654059
+          -68.271317,-32.658167
+          -68.271525,-32.659215
+          -68.271946,-32.661282
+          -68.273049,-32.666761
+          -68.274106,-32.672077
+          -68.275027,-32.676621
+          -68.275255,-32.677782
+          -68.276007,-32.681520
+          -68.276574,-32.684330
+          -68.277487,-32.688888
+          -68.278249,-32.692749
+          -68.279089,-32.696781
+          -68.279522,-32.698972
+          -68.280247,-32.702484
+          -68.280981,-32.706261
+          -68.281259,-32.707668
+          -68.282094,-32.711774
+          -68.282654,-32.714489
+          -68.283210,-32.717254
+          -68.283623,-32.719266
+          -68.283661,-32.719566
+          -68.283703,-32.719905
+          -68.283760,-32.720712
+          -68.283794,-32.722381
+          -68.283818,-32.723086
+          -68.283840,-32.725681
+          -68.283884,-32.728282
+          -68.283957,-32.731944
+          -68.283987,-32.734606
+          -68.284042,-32.738321
+          -68.284105,-32.741707
+          -68.284147,-32.744753
+          -68.284214,-32.748596
+          -68.284259,-32.751743
+          -68.284298,-32.753947
+          -68.284363,-32.757753
+          -68.284430,-32.762134
+          -68.284475,-32.762705
+          -68.284509,-32.762930
+          -68.284565,-32.763197
+          -68.284799,-32.763823
+          -68.285050,-32.764354
+          -68.285437,-32.764928
+          -68.285902,-32.765476
+          -68.286636,-32.766090
+          -68.287498,-32.766640
+          -68.288318,-32.766992
+          -68.289236,-32.767251
+          -68.290067,-32.767387
+          -68.290634,-32.767418
+          -68.292941,-32.767400
+          -68.295973,-32.767363
+          -68.301021,-32.767304
+          -68.303904,-32.767266
+          -68.307413,-32.767220
+          -68.310524,-32.767187
+          -68.311939,-32.767170
+          -68.318733,-32.767084
+          -68.322996,-32.767041
+          -68.328400,-32.766978
+          -68.333666,-32.766922
+          -68.335127,-32.766866
+          -68.335753,-32.766827
+          -68.336411,-32.766757
+          -68.338352,-32.766578
+          -68.339058,-32.766542
+          -68.340342,-32.766520
+          -68.343201,-32.766489
+          -68.344719,-32.766463
+          -68.348123,-32.766421
+          -68.350036,-32.766400
+          -68.354597,-32.766338
+          -68.357782,-32.766299
+          -68.358954,-32.766282
+          -68.359406,-32.766256
+          -68.359826,-32.766213
+          -68.360198,-32.766167
+          -68.360646,-32.766090
+          -68.361006,-32.766025
+          -68.361810,-32.765831
+          -68.363119,-32.765420
+          -68.364664,-32.764941
+          -68.366155,-32.764478
+          -68.367790,-32.763964
+          -68.368492,-32.763746
+          -68.369032,-32.763576
+          -68.369601,-32.763429
+          -68.370320,-32.763283
+          -68.370720,-32.763229
+          -68.371014,-32.763187
+          -68.371263,-32.763153
+          -68.371559,-32.763122
+          -68.372049,-32.763098
+          -68.372466,-32.763091
+          -68.373118,-32.763102
+          -68.373505,-32.763129
+          -68.374163,-32.763203
+          -68.375003,-32.763332
+          -68.377143,-32.763646
+          -68.378922,-32.763915
+          -68.382409,-32.764427
+          -68.383933,-32.764661
+          -68.388103,-32.765279
+          -68.390752,-32.765668
+          -68.394174,-32.766180
+          -68.397551,-32.766673
+          -68.401382,-32.767247
+          -68.405140,-32.767806
+          -68.408355,-32.768283
+          -68.413808,-32.769080
+          -68.419101,-32.769872
+          -68.424480,-32.770673
+          -68.428480,-32.771257
+          -68.433421,-32.772026
+          -68.435407,-32.772318
+          -68.441039,-32.773150
+          -68.444716,-32.773688
+          -68.446748,-32.773998
+          -68.452661,-32.774876
+          -68.461273,-32.776140
+          -68.467923,-32.777123
+          -68.470481,-32.777510
+          -68.476974,-32.778457
+          -68.483098,-32.779376
+          -68.488718,-32.780202
+          -68.493133,-32.780850
+          -68.496663,-32.781375
+          -68.505460,-32.782666
+          -68.510724,-32.783456
+          -68.514310,-32.783984
+          -68.517499,-32.784446
+          -68.521861,-32.785108
+          -68.529353,-32.786192
+          -68.533430,-32.786794
+          -68.535386,-32.787083
+          -68.539906,-32.787752
+          -68.543345,-32.788258
+          -68.547722,-32.788898
+          -68.552873,-32.789662
+          -68.556236,-32.790154
+          -68.562711,-32.791110
+          -68.568232,-32.791920
+          -68.573217,-32.792645
+          -68.576636,-32.793145
+          -68.582005,-32.793944
+          -68.584776,-32.794345
+          -68.587601,-32.794759
+          -68.589560,-32.795049
+          -68.590108,-32.795160
+          -68.590579,-32.795279
+          -68.591138,-32.795476
+          -68.592069,-32.795924
+          -68.592412,-32.796148
+          -68.592778,-32.796422
+          -68.593249,-32.796820
+          -68.594163,-32.797746
+          -68.595768,-32.799359
+          -68.596190,-32.799778
+          -68.596412,-32.799977
+          -68.596712,-32.800233
+          -68.596982,-32.800430
+          -68.597296,-32.800628
+          -68.597813,-32.800916
+          -68.598605,-32.801259
+          -68.599595,-32.801661
+          -68.600472,-32.802026
+          -68.602695,-32.802915
+          -68.605498,-32.804072
+          -68.608104,-32.805136
+          -68.609528,-32.805699
+          -68.612589,-32.806952
+          -68.614116,-32.807582
+          -68.618451,-32.809345
+          -68.622835,-32.811137
+          -68.626767,-32.812753
+          -68.629689,-32.813954
+          -68.633106,-32.815328
+          -68.636925,-32.816886
+          -68.641485,-32.818760
+          -68.645395,-32.820360
+          -68.648120,-32.821468
+          -68.648627,-32.821677
+          -68.654848,-32.824222
+          -68.657779,-32.825404
+          -68.661392,-32.826880
+          -68.664480,-32.828142
+          -68.666293,-32.828885
+          -68.671836,-32.831148
+          -68.674351,-32.832165
+          -68.678248,-32.833751
+          -68.681003,-32.834882
+          -68.685154,-32.836568
+          -68.690104,-32.838586
+          -68.693741,-32.840067
+          -68.696950,-32.841371
+          -68.699999,-32.842618
+          -68.703746,-32.844142
+          -68.706854,-32.845418
+          -68.710831,-32.847028
+          -68.714592,-32.848543
+          -68.718989,-32.850352
+          -68.725653,-32.853076
+          -68.726370,-32.853396
+          -68.726845,-32.853670
+          -68.727236,-32.853923
+          -68.727672,-32.854228
+          -68.728262,-32.854762
+          -68.728686,-32.855220
+          -68.729188,-32.855920
+          -68.729401,-32.856288
+          -68.729568,-32.856628
+          -68.729777,-32.857152
+          -68.729977,-32.857925
+          -68.742100,-32.903898
+          -68.742224,-32.904269
+          -68.742362,-32.904573
+          -68.742582,-32.904934
+          -68.742874,-32.905279
+          -68.743127,-32.905466
+          -68.743431,-32.905691
+          -68.743946,-32.905935
+          -68.744549,-32.906114
+          -68.745009,-32.906164
+          -68.745433,-32.906166
+          -68.745954,-32.906108
+          -68.746257,-32.906049
+          -68.746577,-32.905944
+          -68.746899,-32.905803
+          -68.747239,-32.905603
+          -68.747450,-32.905454
+          -68.747669,-32.905266
+          -68.747847,-32.905082
+          -68.748002,-32.904890
+          -68.748163,-32.904640
+          -68.748374,-32.904205
+          -68.749228,-32.901834
+          -68.749350,-32.901526
+          -68.749472,-32.901278
+          -68.749613,-32.901062
+          -68.749793,-32.900833
+          -68.750020,-32.900613
+          -68.750217,-32.900455
+          -68.750542,-32.900246
+          -68.750953,-32.900044
+          -68.751211,-32.899949
+          -68.751526,-32.899861
+          -68.751931,-32.899791
+          -68.752624,-32.899660
+          -68.759330,-32.898439
+          -68.766348,-32.897161
+          -68.799644,-32.891076
+          -68.802954,-32.890464
+          -68.803136,-32.890432
+          -68.803407,-32.890383
+          -68.803687,-32.890332
+          -68.804081,-32.890267
+          -68.805204,-32.890135
+          -68.806679,-32.889960
+          -68.808034,-32.889801
+          -68.813122,-32.889223
+          -68.814921,-32.889036
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Devío Bodega Donati - Vergel</name>
+      <LineString>
+        <coordinates>
+          -68.629751,-32.813979
+          -68.630058,-32.814165
+          -68.630221,-32.814270
+          -68.630328,-32.814350
+          -68.630483,-32.814519
+          -68.630601,-32.814669
+          -68.630702,-32.814829
+          -68.631355,-32.815798
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Folder>
+      <name>Estación Mendoza</name>
+      <Placemark>
+        <name>Estacion Mendoza Ferrocarril General Belgrano (Mendoza Estado) KM 1077.1</name>
+        <description>Kilometros desde Santa Fe:  1077.1
+Llamada Telegráfica: MA
+Anterior Estación: 4.8 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+        <Point><coordinates>-68.814107,-32.889128</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Punta de Rieles KM 1077,223</name>
+        <description>Kilometros desde Santa Fe:  1077,223
+Llamada Telegráfica: MA
+Anterior Estación: 4.8 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+        <Point><coordinates>-68.814918,-32.889043</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Estación Mendoza: Mesa Giratoria y Galpón de Locomotoras</name>
+        <Point><coordinates>-68.811730,-32.887159</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Estación Mendoza: Aduana</name>
+        <Point><coordinates>-68.811380,-32.885875</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Estación Mendoza: Depósito de Cochemotores</name>
+        <Point><coordinates>-68.810160,-32.887038</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Estación Mendoza: Vía y Obra</name>
+        <Point><coordinates>-68.807321,-32.887521</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Placemark>
+      <name>Puente sobre Calle Colón</name>
+      <description>Ramal A10 Pie de Palo, Mendoza</description>
+      <Point><coordinates>-68.803193,-32.890480</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme A10/A12 KM 1072.3</name>
+      <description>KM 1072.3
+(GPS)</description>
+      <Point><coordinates>-68.802674,-32.890519</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente sobre calle Sarmiento</name>
+      <description>Ramal A10 Pie de Palo, Mendoza</description>
+      <Point><coordinates>-68.799715,-32.891164</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Trasandino (a Las Cuevas) KM 1072.3</name>
+      <description>Triángulo
+Kilometros desde Santa Fe:  1072.3
+Llamada Telegráfica: -
+Anterior Estación: 0.4 km
+Próxima Estación: 4.8 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+      <Point><coordinates>-68.767023,-32.897138</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Guaymallén KM 1071,9</name>
+      <description>Kilometros desde Santa Fe:  1071,9
+Llamada Telegráfica: BV
+Anterior Estación: 9.1 km
+Próxima Estación: 0.4 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+      <Point><coordinates>-68.762760,-32.897855</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente Cerrado 60 m sobre FC San Martin KM 1070,878</name>
+      <description>Kilometros desde Santa Fe:  1070,878
+Llamada Telegráfica: - 
+Anterior Estación: 1 km
+Próxima Estación: 9.1 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+      <Point><coordinates>-68.752272,-32.899801</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gral Amigorena (Emb.) KM 1062,8</name>
+      <description>Kilometros desde Santa Fe: 1062,8
+Llamada Telegráfica: - 
+Anterior Estación: 9.6 km
+Próxima Estación: 9.1 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+      <Point><coordinates>-68.718808,-32.850288</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Vergel (Emb.) KM 1053,2</name>
+      <description>Kilometros desde Santa Fe: 1053,2
+Llamada Telegráfica: KO
+Anterior Estación: 8.0 km
+Próxima Estación: 9.6 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+      <Point><coordinates>-68.626913,-32.812751</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bodega Donati</name>
+      <Point><coordinates>-68.630902,-32.815135</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente Laguna La Soria KM 1049</name>
+      <description>KM 1049</description>
+      <Point><coordinates>-68.587740,-32.794788</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paramillo Ap KM 1045,2</name>
+      <description>Kilometros desde Santa Fe: 1045,2
+Llamada Telegráfica: -
+Anterior Estación: 12.8 km
+Próxima Estación: 8.0 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+      <Point><coordinates>-68.547740,-32.788854</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kilometro 1032 (Emb.) KM 1032,4</name>
+      <description>Kilometros desde Santa Fe: 1032,4
+Llamada Telegráfica: ER
+Anterior Estación: 8.0 km
+Próxima Estación: 12.8 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+      <Point><coordinates>-68.413818,-32.769102</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente cerrado 210 m Río Mendoza KM 1027,707</name>
+      <description>Kilometros desde Santa Fe: 1027,707
+Llamada Telegráfica: -
+Anterior Estación: 3.31 km
+Próxima Estación: 4.70 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+      <Point><coordinates>-68.363895,-32.765211</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Moluches KM 1024,4</name>
+      <description>Kilometros desde Santa Fe: 1024,4
+Llamada Telegráfica: KK
+Anterior Estación: 11.0 km
+Próxima Estación: 8.0 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+      <Point><coordinates>-68.328777,-32.766960</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 1013 (D.P.) KM 1013.4</name>
+      <description>Kilometros desde Santa Fe: 1013.4
+Llamada Telegráfica: -
+Anterior Estación: 15.9 km
+Próxima Estación: 11.0 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+      <Point><coordinates>-68.280485,-32.703721</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente bajo nivel RN142 KM 998.65</name>
+      <description>Kilometros desde Santa Fe: 975.7
+Llamada Telegráfica: GA
+Anterior Estación: 1.25 km
+Próxima Estación: 23 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+      <Point><coordinates>-68.249686,-32.573876</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Alpero (Emb.) KM 997.5</name>
+      <description>Kilometros desde Santa Fe: 997.5
+Llamada Telegráfica: KI
+Anterior Estación: 21.8 km
+Próxima Estación: 15.9 km
+Ramal: A10 Pie de Palo - Mendoza
+(GPS)</description>
+      <Point><coordinates>-68.246550,-32.563283</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kilometro 976 KM 975.7 - San Jose</name>
+      <description>Kilometros desde Santa Fe: 975.7
+Llamada Telegráfica: GA
+Anterior Estación: 21.9 km
+Próxima Estación: 21.8 km
+Ramal: A10 Pie de Palo - Mendoza
+(GPS)</description>
+      <Point><coordinates>-68.218083,-32.370677</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Resureccion (Emb.) KM 973.8</name>
+      <description>Kilometros desde Santa Fe: 973.8
+Llamada Telegráfica: KS
+Anterior Estación: 17.4 km
+Próxima Estación: 21.9 km
+Ramal: A10 Pie de Palo - Mendoza
+(GPS)</description>
+      <Point><coordinates>-68.215283,-32.173133</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>PAN a Capilla del Rosario</name>
+      <description>(GPS)</description>
+      <Point><coordinates>-68.193933,-32.150300</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Capilla del Rosario</name>
+      <Point><coordinates>-68.195530,-32.144908</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente cerrado 70 m Río San Juan KM 945,327</name>
+      <description>Kilometros desde Santa Fe: 945,327
+Llamada Telegráfica: 
+Anterior Estación: 8.927 km
+Próxima Estación: 8.473 km
+Ramal: A10 Pie de Palo - Mendoza
+(GPS)</description>
+      <Point><coordinates>-68.162100,-32.116283</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kilometro 936 (Emb) KM 936.4</name>
+      <description>Kilometros desde Santa Fe: 936.4
+Llamada Telegráfica: KH
+Anterior Estación: 26.2 km
+Próxima Estación: 17.4 km
+Ramal: A10 Pie de Palo - Mendoza
+(GPS)</description>
+      <Point><coordinates>-68.167367,-32.041817</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal A15: a Cuyo KM 910.290</name>
+      <description>Kilometros desde Santa Fe: 910.290
+Llamada Telegráfica: 
+Anterior Estación: 0.5 km
+Próxima Estación: 8.9 km
+Ramal: A10 Pie de Palo - Mendoza
+(GPS)</description>
+      <Point><coordinates>-68.226600,-31.830167</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>José Martí KM 909.7</name>
+      <description>Kilometros desde Santa Fe: 909.7
+Llamada Telegráfica: KZ
+Anterior Estación: 6.8 km
+Próxima Estación: 0.5 km
+Ramal: A10 Pie de Palo - Mendoza
+(GPS)</description>
+      <Point><coordinates>-68.225467,-31.825583</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Díaz Velez (Ap.) KM 902.9</name>
+      <description>Kilometros desde Santa Fe: 902.9
+Llamada Telegráfica:
+Anterior Estación: 7.9 km
+Próxima Estación: 6.8 km
+Ramal: A10 Pie de Palo - Mendoza
+(GPS)</description>
+      <Point><coordinates>-68.210783,-31.765817</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kilometro 895 (desvío Balasto) KM 895.0</name>
+      <description>Kilometros desde Santa Fe: 895.0
+Llamada Telegráfica:
+Anterior Estación: 4.5 km
+Próxima Estación: 7.9 km
+Ramal: A10 Pie de Palo - Mendoza</description>
+      <Point><coordinates>-68.197650,-31.696215</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramales A2 / A10 KM 890.5</name>
+      <description>KM 890.5
+(GPS)</description>
+      <Point><coordinates>-68.220700,-31.662483</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pie de Palo KM 891.0</name>
+      <description>Kilometros desde Santa Fe: 891.0
+Llamada Telegráfica: PL
+Proxima Estación: 0.5 km
+Ramal: A10 Pie de Palo - Mendoza
+(GPS)</description>
+      <Point><coordinates>-68.226127,-31.661500</coordinates></Point>
+    </Placemark>
+    <Folder>
+      <name>GPS device</name>
+      <Folder>
+        <name>Tracks</name>
+      </Folder>
+    </Folder>
+    <Placemark>
+      <name>Ramal A10 Pie de Palo - Mendoza:Desvío Balasto KM 895</name>
+      <LineString>
+        <coordinates>
+          -68.196524,-31.698449
+          -68.196677,-31.697980
+          -68.196726,-31.697505
+          -68.196718,-31.697040
+          -68.196635,-31.696701
+          -68.196515,-31.696289
+          -68.196350,-31.695911
+          -68.196180,-31.695654
+          -68.195947,-31.695435
+          -68.195635,-31.695228
+          -68.195221,-31.695036
+          -68.194576,-31.694861
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ramal A10 Pie de Palo - Mendoza: Antigua Traza</name>
+      <LineString>
+        <coordinates>
+          -68.161056,-32.113408
+          -68.161098,-32.113741
+          -68.161083,-32.113962
+          -68.161035,-32.114190
+          -68.160929,-32.114473
+          -68.160821,-32.114668
+          -68.160678,-32.114838
+          -68.160461,-32.115047
+          -68.160138,-32.115338
+          -68.159945,-32.115537
+          -68.159790,-32.115727
+          -68.159643,-32.116018
+          -68.159590,-32.116269
+          -68.159555,-32.116460
+          -68.159557,-32.116635
+          -68.159601,-32.116895
+          -68.159663,-32.117107
+          -68.159779,-32.117352
+          -68.159951,-32.117607
+          -68.160109,-32.117764
+          -68.160899,-32.118508
+          -68.161505,-32.119073
+          -68.162493,-32.119989
+          -68.163202,-32.120705
+          -68.163586,-32.121063
+          -68.163796,-32.121321
+          -68.163967,-32.121643
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

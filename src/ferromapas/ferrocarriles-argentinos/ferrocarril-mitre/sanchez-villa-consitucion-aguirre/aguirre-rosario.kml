@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Aguirre - Rosario</name>
+    <Placemark>
+      <name>Cruce con FCGB (CGBA) KM 293.4</name>
+      <description>KM 293.4</description>
+      <Point><coordinates>-60.645670,-33.016228</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosario Norte (Rosario FC B.A. y R.) KM 304.0</name>
+      <description>KM 304.0</description>
+      <Point><coordinates>-60.657455,-32.930777</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

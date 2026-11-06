@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C5: Quimili - Campo Gallo</name>
+    <description>Ramal C5: Quimili - Campo Gallo. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C5: Quimili - Campo Gallo</name>
+      <LineString>
+        <coordinates>
+          -62.412733,-27.644326
+          -62.307824,-27.492264
+          -62.242167,-27.396473
+          -62.208432,-27.347340
+          -62.207513,-27.345987
+          -62.207223,-27.345305
+          -62.207033,-27.344474
+          -62.206956,-27.344063
+          -62.206928,-27.343621
+          -62.206970,-27.342715
+          -62.207141,-27.342007
+          -62.207435,-27.341190
+          -62.207849,-27.340464
+          -62.208419,-27.339785
+          -62.209074,-27.339106
+          -62.209777,-27.338591
+          -62.211972,-27.337172
+          -62.220643,-27.331705
+          -62.229174,-27.326467
+          -62.374622,-27.236727
+          -62.382940,-27.231513
+          -62.466678,-27.179320
+          -62.472406,-27.175765
+          -62.544821,-27.131154
+          -62.554637,-27.125053
+          -62.639969,-27.071874
+          -62.647590,-27.066983
+          -62.699913,-27.034325
+          -62.710860,-27.027789
+          -62.711384,-27.027252
+          -62.711845,-27.026524
+          -62.712030,-27.026068
+          -62.712096,-27.025703
+          -62.712043,-27.025153
+          -62.711757,-27.024397
+          -62.693767,-26.986117
+          -62.693634,-26.985512
+          -62.693597,-26.984725
+          -62.693631,-26.984117
+          -62.693990,-26.983212
+          -62.716318,-26.942180
+          -62.716869,-26.941103
+          -62.717167,-26.940325
+          -62.717344,-26.939243
+          -62.715825,-26.879689
+          -62.715426,-26.862861
+          -62.713474,-26.782059
+          -62.713344,-26.775807
+          -62.712465,-26.730054
+          -62.712388,-26.729184
+          -62.712531,-26.728394
+          -62.712765,-26.727814
+          -62.713050,-26.727155
+          -62.713531,-26.726562
+          -62.714077,-26.726017
+          -62.715124,-26.725346
+          -62.842282,-26.655284
+          -62.844283,-26.654115
+          -62.845374,-26.653357
+          -62.845890,-26.652838
+          -62.846397,-26.652212
+          -62.846698,-26.651513
+          -62.846836,-26.650883
+          -62.846938,-26.650106
+          -62.846900,-26.649200
+          -62.845961,-26.612230
+          -62.844847,-26.577971
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cejolao KM 593.6</name>
+      <description>KM 593.6</description>
+      <Point><coordinates>-62.308216,-27.492832</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 606 (Ap) KM 606.4</name>
+      <description>KM 606.4</description>
+      <Point><coordinates>-62.240683,-27.394306</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Otumpa KM 612.9</name>
+      <description>KM 612.9</description>
+      <Point><coordinates>-62.224789,-27.329297</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Aerolito KM 633.8</name>
+      <description>KM 633.8</description>
+      <Point><coordinates>-62.378733,-27.234141</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hernán M. Miraval KM 644.5</name>
+      <description>KM 644.5</description>
+      <Point><coordinates>-62.467488,-27.178816</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme C5 / C22 KM 644.7</name>
+      <description>KM 644.7</description>
+      <Point><coordinates>-62.469013,-27.177890</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Alhuampa KM 654.1</name>
+      <description>KM 654.1</description>
+      <Point><coordinates>-62.549636,-27.128172</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Huasse KM 665.6</name>
+      <description>KM 665.6</description>
+      <Point><coordinates>-62.645187,-27.068543</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tintina KM 673.2</name>
+      <description>KM 673.2</description>
+      <Point><coordinates>-62.706664,-27.030278</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme C5/C23 KM 644.7</name>
+      <description>KM 644.7</description>
+      <Point><coordinates>-62.710758,-27.027844</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Granadero Gatica KM 691.5</name>
+      <description>KM 691.5</description>
+      <Point><coordinates>-62.715696,-26.874191</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Agustín Livarona KM 701.4</name>
+      <description>KM 701.4</description>
+      <Point><coordinates>-62.713431,-26.780032</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Donadeu KM 708.0</name>
+      <description>KM 708.0</description>
+      <Point><coordinates>-62.718672,-26.723408</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 719 (Desv Part) KM 719.6</name>
+      <description>KM 719.6</description>
+      <Point><coordinates>-62.814945,-26.670358</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pozo Muerto (Desv Part) KM 725.1</name>
+      <description>KM 725.1</description>
+      <Point><coordinates>-62.846573,-26.636250</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Campo Gallo KM 731.1</name>
+      <description>KM 731.1</description>
+      <Point><coordinates>-62.845020,-26.583509</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Campo Gallo</name>
+      <LineString>
+        <coordinates>
+          -62.845116,-26.586396
+          -62.844904,-26.585221
+          -62.844621,-26.584698
+          -62.844091,-26.584370
+          -62.843409,-26.583990
+          -62.842599,-26.583651
+          -62.839895,-26.583633
+          -62.842402,-26.583650
+          -62.842880,-26.583508
+          -62.843511,-26.583294
+          -62.843888,-26.582996
+          -62.844160,-26.582635
+          -62.844437,-26.582029
+          -62.844822,-26.581026
+          -62.844905,-26.579898
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

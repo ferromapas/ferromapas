@@ -1,0 +1,48 @@
+name: Zona Centro - Provincia de Buenos Aires
+description: |-
+  Zona Centro - Provincia de Buenos Aires. Dibujado por:
+  Gino Nuñez
+
+  Fuentes:
+  - Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+  http://www.ferromapas.com.ar/
+  Buenos Aires, Argentina
+children:
+- loma-negra.kml
+- olavarria.kml
+- saladillo-san-enrique.kml
+- bolivar-recalde.kml
+- emp-general-alvear-olavarria.kml
+- empalme-lobos-empalme-general-alvear.kml
+- empalme-lobos-navarro.kml
+- empalme-lobos-bolivar.kml
+- juan-e-barra-empalme-a-coronel-dorrego.kml
+- fco-j-meeks-azul.kml
+- _loose.kml
+- gardey-vela.kml
+- olavarria-vela.kml
+- recalde-general-lamadrid.kml
+- _loose-2.kml
+- general-lamadrid-coronel-pringles.kml
+- olavarria-bahia-blanca-via-pringles.kml
+- olavarria-bahia-blanca-via-la-madrid.kml
+- las-flores-azul.kml
+- azul-olavarria.kml
+- las-flores-tandil.kml
+- canuelas-empalme-lobos.kml
+- canuelas-las-flores.kml
+- hinojo-sierra-baya-cerro-sotuyo.kml
+- vela-tres-arroyos.kml
+- coronel-dorrego.kml
+- tandil-empalme-a-azul-y-a-tres-arroyos.kml
+- empalme-a-tandil-y-azul-gardey.kml
+- empalme-gardey-villa-fortabat-deferrari.kml
+- deferrari-emp-a-loberia.kml
+- defferrari-barrow.kml
+- coronel-dorrego-copetonas-deferrari.kml
+- zona-puerto-belgrano.kml
+- chillar-juan-e-barra.kml
+- empalme-a-tandill-y-a-tres-arroyos-arroyo-de-los-hornos.kml
+- emp-general-alvear-emp-recalde.kml
+- juan-e-barra-barrow.kml

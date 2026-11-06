@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 32: Membrillar - Rufino</name>
+    <description>Div 32: Membrillar - Rufino. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Daniel Grene, traza GPS viaje Tren Nacional por la Paz y No Violencia.
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Div 32: Membrillar - Rufino</name>
+      <LineString>
+        <coordinates>
+          -62.710965,-34.260464
+          -62.684893,-34.265623
+          -62.668250,-34.269049
+          -62.627258,-34.277278
+          -62.619945,-34.278731
+          -62.574629,-34.287756
+          -62.538418,-34.294972
+          -62.444705,-34.313559
+          -62.377170,-34.326920
+          -62.337896,-34.334672
+          -62.188180,-34.364028
+          -61.932722,-34.413554
+          -61.819645,-34.435309
+          -61.541175,-34.488318
+          -61.532135,-34.490001
+          -61.523785,-34.491572
+          -61.490687,-34.497871
+          -61.403010,-34.514303
+          -61.378235,-34.518949
+          -61.257322,-34.541630
+          -61.247138,-34.543581
+          -61.134711,-34.564511
+          -61.124680,-34.566398
+          -61.087557,-34.573299
+          -61.068234,-34.576908
+          -61.017015,-34.586393
+          -60.999242,-34.589632
+          -60.989103,-34.591540
+          -60.984974,-34.592295
+          -60.984067,-34.592407
+          -60.983236,-34.592506
+          -60.982509,-34.592567
+          -60.981972,-34.592590
+          -60.981238,-34.592622
+          -60.980476,-34.592621
+          -60.979738,-34.592600
+          -60.978703,-34.592533
+          -60.977754,-34.592448
+          -60.976734,-34.592301
+          -60.975890,-34.592156
+          -60.974813,-34.591913
+          -60.973933,-34.591690
+          -60.956619,-34.586385
+          -60.926500,-34.577139
+          -60.914846,-34.573579
+          -60.881625,-34.563337
+          -60.879512,-34.562742
+          -60.878320,-34.562483
+          -60.876957,-34.562282
+          -60.875395,-34.562158
+          -60.873564,-34.562071
+          -60.871607,-34.562145
+          -60.869732,-34.562328
+          -60.853239,-34.564230
+          -60.836775,-34.566158
+          -60.611294,-34.591639
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Membrillar KM 223.2</name>
+      <description>KM 223.2
+Código: BMB</description>
+      <Point><coordinates>-60.611321,-34.591663</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>O'Higgins KM 231.5</name>
+      <description>KM 231.5
+Código: BOH</description>
+      <Point><coordinates>-60.700209,-34.581613</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Oriental KM 242.2</name>
+      <description>KM 242.2
+Código: BOR</description>
+      <Point><coordinates>-60.816396,-34.568390</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Pergamino KM 252.7</name>
+      <description>KM 252.7</description>
+      <Point><coordinates>-60.927146,-34.577309</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Junín KM 254.9</name>
+      <description>KM 254.9
+Código: BJU</description>
+      <Point><coordinates>-60.949703,-34.584299</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Nidera KM 261.0</name>
+      <description>KM 261.0
+Código: BDN</description>
+      <Point><coordinates>-61.017027,-34.586236</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Saforcada KM 267.0</name>
+      <description>KM 267.0
+Código: BSS</description>
+      <Point><coordinates>-61.079604,-34.574818</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Parvas KM 271,9</name>
+      <description>KM 271,9
+Código: BPS</description>
+      <Point><coordinates>-61.129981,-34.565434</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Blandengues KM 283.5</name>
+      <description>KM 283.5
+Código: BBL</description>
+      <Point><coordinates>-61.253187,-34.542484</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Alem KM 296.4</name>
+      <description>KM 296.4
+Código: BAN</description>
+      <Point><coordinates>-61.390252,-34.516783</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Vedia (FCGSM) KM 310.4</name>
+      <description>KM 310.4
+Código: BVE</description>
+      <Point><coordinates>-61.538454,-34.488782</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>E. B. Perkins KM 322.4</name>
+      <description>KM 322.4
+Código: BPK</description>
+      <Point><coordinates>-61.666753,-34.464460</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Alberdi KM 336.1</name>
+      <description>KM 336.1
+Cödigo: RAB</description>
+      <Point><coordinates>-61.811941,-34.436758</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal a M. J. Orellano KM 336.40</name>
+      <description>KM 336.40</description>
+      <Point><coordinates>-61.815300,-34.436108</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Iriarte KM 347.1</name>
+      <description>KM 347.1
+Código: BIR</description>
+      <Point><coordinates>-61.928852,-34.414327</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 357 (DC) KM 357.4</name>
+      <description>KM 357.4</description>
+      <Point><coordinates>-62.038089,-34.393207</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 360 Empalme FEPSA KM 360.846</name>
+      <description>KM 360.846
+Código: B36</description>
+      <Point><coordinates>-62.073493,-34.386377</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Diego de Alvear KM 366.1</name>
+      <description>KM 366.1
+Código: BDI</description>
+      <Point><coordinates>-62.128795,-34.375596</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Viaducto La Picasa</name>
+      <Point><coordinates>-62.200853,-34.361587</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero La Picasa (Desaprecido) KM 378.4</name>
+      <description>KM 378.4</description>
+      <Point><coordinates>-62.259391,-34.350286</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Viaducto La Picasa (fin)</name>
+      <Point><coordinates>-62.335074,-34.335312</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Aarón Castellanos KM 389.1</name>
+      <description>KM 389.1
+Código: BCL</description>
+      <Point><coordinates>-62.372714,-34.327840</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 396 (DC) KM 395.9</name>
+      <description>KM 395.9</description>
+      <Point><coordinates>-62.444662,-34.313672</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coronel Roseti KM 405.1</name>
+      <description>KM 405.1</description>
+      <Point><coordinates>-62.542274,-34.294319</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 413 (DC) KM 412.9</name>
+      <description>KM 412.9</description>
+      <Point><coordinates>-62.624658,-34.277883</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal a Venado Tuerto KM 420.48</name>
+      <description>KM 420.48</description>
+      <Point><coordinates>-62.704463,-34.261836</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rufino (FCGSM) KM 421.1 (FCGSM) / KM 91.5 (FCGBM)</name>
+      <description>FCGSM: KM 421.1
+FCGBM: KM 91.5
+Código: RRF</description>
+      <Point><coordinates>-62.710965,-34.260646</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 63: Villa Mercedes - La Paz</name>
+    <Placemark>
+      <name>Puente Río Quinto (vía San Luis)</name>
+      <Point><coordinates>-65.578959,-33.615308</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero Liborio Luna (ex Lince) (DC) KM 20.3</name>
+      <description>KM 20.3
+Código: CLR</description>
+      <Point><coordinates>-65.640055,-33.585869</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fraga KM 37.3</name>
+      <description>KM 37.3
+Código: CFR</description>
+      <Point><coordinates>-65.796187,-33.505733</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero Comandante Grandville (DC) KM 46.9</name>
+      <description>KM 46.9</description>
+      <Point><coordinates>-65.884321,-33.460487</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Eleodoro Lobos (ex Alto Grande) KM 61.2</name>
+      <description>KM 61.2
+Código: CLO</description>
+      <Point><coordinates>-66.015693,-33.392649</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Juan W. Gez (ex La Cumbre) KM 73.1</name>
+      <description>KM 73.1
+Código: CGE</description>
+      <Point><coordinates>-66.135727,-33.389976</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Daniel Dónovan (ex KM 84.7) KM 85.3</name>
+      <description>KM 85.3
+Código: CDD</description>
+      <Point><coordinates>-66.240990,-33.337624</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bomba y Puente Río Chorrillo</name>
+      <Point><coordinates>-66.290435,-33.300412</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Luis - Antigüa Traza</name>
+      <LineString>
+        <coordinates>
+          -66.329417,-33.289681
+          -66.342529,-33.292014
+          -66.345100,-33.292470
+          -66.345774,-33.292676
+          -66.346123,-33.292827
+          -66.346474,-33.293011
+          -66.347138,-33.293357
+          -66.347658,-33.293715
+          -66.348085,-33.294137
+          -66.348673,-33.294800
+          -66.349001,-33.295376
+          -66.352385,-33.300289
+          -66.352949,-33.301163
+          -66.353577,-33.301841
+          -66.354066,-33.302341
+          -66.354733,-33.302875
+          -66.355435,-33.303405
+          -66.356061,-33.303763
+          -66.356996,-33.304215
+          -66.357588,-33.304452
+          -66.358647,-33.304822
+          -66.371436,-33.309213
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Vía escape San Luis</name>
+      <LineString>
+        <coordinates>
+          -66.347766,-33.287397
+          -66.348211,-33.287762
+          -66.348651,-33.288056
+          -66.349286,-33.288430
+          -66.349712,-33.288641
+          -66.350246,-33.288746
+          -66.350773,-33.288742
+          -66.351377,-33.288693
+          -66.351898,-33.288573
+          -66.352236,-33.288445
+          -66.352715,-33.288179
+          -66.353014,-33.287982
+          -66.353349,-33.287711
+          -66.353636,-33.287441
+          -66.353886,-33.287194
+          -66.354101,-33.286635
+          -66.354220,-33.286184
+          -66.354270,-33.285605
+          -66.354181,-33.285061
+          -66.353912,-33.284453
+          -66.353372,-33.283848
+          -66.352821,-33.283372
+          -66.352270,-33.283073
+          -66.351842,-33.282920
+          -66.333508,-33.278504
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>San Luis KM 99.0</name>
+      <description>KM 99.0
+Código: CSL</description>
+      <Point><coordinates>-66.348590,-33.299019</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero Pescadores (DC) KM 113.2</name>
+      <description>KM 113.2</description>
+      <Point><coordinates>-66.474811,-33.313145</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Balde KM 126.8</name>
+      <description>KM 126.8
+Código: CBA</description>
+      <Point><coordinates>-66.626244,-33.341830</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chosmes KM 145.1</name>
+      <description>KM 145.1
+Código: CCM</description>
+      <Point><coordinates>-66.804338,-33.403524</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Alto Pencoso KM 157.5</name>
+      <description>KM 157.5
+Código: CAO</description>
+      <Point><coordinates>-66.927231,-33.431884</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 158 KM 158.0</name>
+      <description>KM 158.0</description>
+      <Point><coordinates>-66.932081,-33.433709</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Jarilla KM 168.6</name>
+      <description>KM 168.6
+Código: CJA</description>
+      <Point><coordinates>-67.024114,-33.396170</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente río Desaguadero</name>
+      <Point><coordinates>-67.150980,-33.413395</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desaguadero KM 182.2</name>
+      <description>KM 182.2
+Código: CDE</description>
+      <Point><coordinates>-67.166534,-33.418484</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero Pampita KM 192.3</name>
+      <description>KM 192.3
+Código: CPP</description>
+      <Point><coordinates>-67.273037,-33.432387</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 204.55</name>
+      <Point><coordinates>-67.411373,-33.444902</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a San Luis KM 922,24</name>
+      <description>KM 922,24</description>
+      <Point><coordinates>-67.544344,-33.464670</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

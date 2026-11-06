@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Rojas - 4 de Febrero</name>
+    <description>Rojas - 4 de Febrero. Dibujado por:
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Rojas - 4 de Febrero</name>
+      <LineString>
+        <coordinates>
+          -60.728871,-34.192089
+          -60.733965,-34.189173
+          -60.735550,-34.188238
+          -60.737073,-34.187394
+          -60.742928,-34.184748
+          -60.745913,-34.183398
+          -60.748455,-34.182239
+          -60.777771,-34.168607
+          -60.785832,-34.165163
+          -60.791278,-34.162919
+          -60.801309,-34.158971
+          -60.806031,-34.156930
+          -60.807489,-34.156293
+          -60.808535,-34.156016
+          -60.809851,-34.155739
+          -60.811014,-34.155650
+          -60.812191,-34.155706
+          -60.818653,-34.156747
+          -60.827498,-34.158228
+          -60.844209,-34.161024
+          -60.857006,-34.163188
+          -60.880907,-34.167308
+          -60.897424,-34.170038
+          -60.904684,-34.171247
+          -60.918309,-34.173502
+          -60.919951,-34.173734
+          -60.920884,-34.173748
+          -60.922270,-34.173676
+          -60.923800,-34.173429
+          -60.925767,-34.173023
+          -60.938602,-34.170158
+          -60.983930,-34.160439
+          -61.007534,-34.155345
+          -61.012390,-34.154361
+          -61.025748,-34.151399
+          -61.038063,-34.148793
+          -61.045323,-34.147339
+          -61.058640,-34.144505
+          -61.058594,-34.144501
+          -61.075015,-34.140956
+          -61.078761,-34.140092
+          -61.079661,-34.139809
+          -61.080637,-34.139406
+          -61.081810,-34.138782
+          -61.082790,-34.138054
+          -61.091012,-34.131828
+          -61.108569,-34.118309
+          -61.111144,-34.116365
+          -61.125647,-34.105177
+          -61.151828,-34.085075
+          -61.152574,-34.084507
+          -61.162673,-34.076706
+          -61.169371,-34.071553
+          -61.179423,-34.063921
+          -61.183774,-34.060578
+          -61.191072,-34.055002
+          -61.200735,-34.047533
+          -61.205308,-34.044082
+          -61.211243,-34.039483
+          -61.216986,-34.035085
+          -61.237925,-34.018964
+          -61.241471,-34.016139
+          -61.249626,-34.009819
+          -61.258407,-34.003100
+          -61.270353,-33.993861
+          -61.278406,-33.987727
+          -61.282412,-33.984672
+          -61.298384,-33.972143
+          -61.306943,-33.965619
+          -61.322566,-33.953555
+          -61.339099,-33.940805
+          -61.346705,-33.934836
+          -61.360197,-33.924445
+          -61.362101,-33.923165
+          -61.363264,-33.922518
+          -61.364764,-33.921909
+          -61.371433,-33.919209
+          -61.381055,-33.915475
+          -61.385521,-33.913703
+          -61.390172,-33.911889
+          -61.401231,-33.907390
+          -61.412926,-33.902626
+          -61.420889,-33.899117
+          -61.428915,-33.895802
+          -61.439715,-33.891572
+          -61.455163,-33.885255
+          -61.462493,-33.882398
+          -61.471137,-33.878964
+          -61.479295,-33.875668
+          -61.484916,-33.873369
+          -61.488608,-33.871951
+          -61.516302,-33.860686
+          -61.524234,-33.857563
+          -61.533631,-33.853761
+          -61.539297,-33.851524
+          -61.550648,-33.846834
+          -61.553304,-33.845847
+          -61.553753,-33.845676
+          -61.554187,-33.845499
+          -61.554553,-33.845278
+          -61.554869,-33.845015
+          -61.556363,-33.842867
+          -61.562899,-33.834263
+          -61.572542,-33.821792
+          -61.586635,-33.803399
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>4 de Noviembre KM 228.0</name>
+      <description>KM 228.0</description>
+      <Point><coordinates>-60.803492,-34.157970</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Km. 234 KM 234.0</name>
+      <description>KM 234.0</description>
+      <Point><coordinates>-60.866438,-34.164831</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Beba KM 247.7</name>
+      <description>KM 247.7</description>
+      <Point><coordinates>-61.011267,-34.154675</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCGU - FCGB (G) KM 257.7</name>
+      <description>KM 257.7</description>
+      <Point><coordinates>-61.108150,-34.118640</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Trinidad KM 260.8</name>
+      <description>KM 260.8</description>
+      <Point><coordinates>-61.132490,-34.100084</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sarasa KM 269.4</name>
+      <description>KM 269.4</description>
+      <Point><coordinates>-61.200687,-34.047695</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Km 279 KM 279.1</name>
+      <description>KM 279.1</description>
+      <Point><coordinates>-61.278259,-33.987829</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Merceditas KM 284.4</name>
+      <description>KM 284.4</description>
+      <Point><coordinates>-61.319465,-33.956043</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Kilómetro 290 KM 289.7</name>
+      <description>KM 289.7</description>
+      <Point><coordinates>-61.360848,-33.923993</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apeadero Kilómetro 310 KM 309.7</name>
+      <description>KM 309.7</description>
+      <Point><coordinates>-61.555532,-33.844065</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCGU - FCGBM KM 309.8</name>
+      <description>KM 309.8</description>
+      <Point><coordinates>-61.556267,-33.842998</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>4 de Febrero KM 314.5</name>
+      <description>KM 314.5</description>
+      <Point><coordinates>-61.584467,-33.806164</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

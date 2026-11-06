@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvio Bodega Graffigna</name>
+    <Placemark>
+      <name>Desvío Bodega Graffigna</name>
+      <LineString>
+        <coordinates>
+          -68.544565,-31.517321
+          -68.545089,-31.517368
+          -68.545590,-31.517437
+          -68.546439,-31.517670
+          -68.546922,-31.517790
+          -68.550222,-31.518062
+          -68.550416,-31.518057
+          -68.550618,-31.517986
+          -68.550768,-31.517896
+          -68.550856,-31.517819
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bodega Graffigna</name>
+      <Point><coordinates>-68.547228,-31.517827</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

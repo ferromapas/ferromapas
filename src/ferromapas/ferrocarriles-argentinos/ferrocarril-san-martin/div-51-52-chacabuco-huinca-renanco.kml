@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 51-52: Chacabuco - Huinca Renanco</name>
+    <description>Div 51-52: Chacabuco - Huinca Renanco. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Div 51-52: Chacabuco - Huinca Renanco</name>
+      <LineString>
+        <coordinates>
+          -60.488002,-34.628455
+          -60.489187,-34.628029
+          -60.489911,-34.627745
+          -60.490620,-34.627503
+          -60.491236,-34.627363
+          -60.491798,-34.627252
+          -60.492404,-34.627162
+          -60.493181,-34.627092
+          -60.494001,-34.627061
+          -60.494534,-34.627065
+          -60.495161,-34.627108
+          -60.495848,-34.627180
+          -60.496499,-34.627279
+          -60.496979,-34.627380
+          -60.497400,-34.627485
+          -60.498124,-34.627708
+          -60.498624,-34.627892
+          -60.499027,-34.628046
+          -60.499397,-34.628206
+          -60.499814,-34.628395
+          -60.500250,-34.628652
+          -60.500503,-34.628798
+          -60.501052,-34.629147
+          -60.501453,-34.629405
+          -60.501938,-34.629784
+          -60.525880,-34.650728
+          -60.526643,-34.651408
+          -60.527250,-34.651968
+          -60.527762,-34.652417
+          -60.528667,-34.653108
+          -60.529704,-34.653709
+          -60.535903,-34.657245
+          -60.536730,-34.657771
+          -60.537665,-34.658429
+          -60.538388,-34.659030
+          -60.600887,-34.713436
+          -60.640258,-34.747874
+          -60.641392,-34.748863
+          -60.641888,-34.749263
+          -60.642414,-34.749663
+          -60.643189,-34.750187
+          -60.644987,-34.751287
+          -60.657241,-34.758766
+          -60.658578,-34.759562
+          -60.659323,-34.759966
+          -60.660034,-34.760319
+          -60.660945,-34.760689
+          -60.661615,-34.760925
+          -60.662321,-34.761160
+          -60.663125,-34.761379
+          -60.664177,-34.761628
+          -60.686709,-34.767081
+          -60.696773,-34.769509
+          -60.697799,-34.769749
+          -60.698420,-34.769862
+          -60.698916,-34.769942
+          -60.699812,-34.770051
+          -60.700557,-34.770111
+          -60.701227,-34.770136
+          -60.701894,-34.770145
+          -60.702645,-34.770121
+          -60.816558,-34.761043
+          -60.818887,-34.760845
+          -60.821450,-34.760535
+          -60.834042,-34.758785
+          -60.845441,-34.757198
+          -60.858668,-34.755433
+          -60.865378,-34.754515
+          -60.868943,-34.754123
+          -60.878220,-34.753336
+          -60.982173,-34.744031
+          -60.992971,-34.743069
+          -61.084624,-34.734708
+          -61.099808,-34.733400
+          -61.102960,-34.732908
+          -61.146869,-34.725504
+          -61.162426,-34.722950
+          -61.322718,-34.695872
+          -61.334117,-34.693930
+          -61.401974,-34.682313
+          -61.456810,-34.672921
+          -61.467541,-34.671135
+          -61.577655,-34.652210
+          -61.588612,-34.650339
+          -61.632042,-34.642831
+          -61.656727,-34.638468
+          -61.691572,-34.632566
+          -61.901935,-34.595766
+          -61.913292,-34.593841
+          -61.924136,-34.591870
+          -62.032792,-34.572863
+          -62.035441,-34.572407
+          -62.036842,-34.572173
+          -62.037785,-34.572075
+          -62.038401,-34.572033
+          -62.039583,-34.572045
+          -62.040940,-34.572134
+          -62.042278,-34.572365
+          -62.043318,-34.572656
+          -62.045033,-34.573292
+          -62.047493,-34.574221
+          -62.048276,-34.574502
+          -62.056567,-34.577715
+          -62.061610,-34.579637
+          -62.063199,-34.580278
+          -62.064209,-34.580659
+          -62.065559,-34.581039
+          -62.066645,-34.581258
+          -62.067562,-34.581414
+          -62.069137,-34.581514
+          -62.070539,-34.581527
+          -62.165541,-34.577034
+          -62.176508,-34.576380
+          -62.324237,-34.569368
+          -62.326317,-34.569300
+          -62.327658,-34.569365
+          -62.328897,-34.569498
+          -62.329734,-34.569643
+          -62.331028,-34.569928
+          -62.332608,-34.570436
+          -62.334269,-34.571129
+          -62.347463,-34.577342
+          -62.355502,-34.581199
+          -62.433551,-34.618115
+          -62.436914,-34.619653
+          -62.439076,-34.620737
+          -62.440643,-34.621324
+          -62.442614,-34.621984
+          -62.446193,-34.623091
+          -62.466155,-34.629327
+          -62.470223,-34.630549
+          -62.472307,-34.631288
+          -62.473644,-34.631810
+          -62.482850,-34.636457
+          -62.540146,-34.665775
+          -62.541676,-34.666488
+          -62.542950,-34.667076
+          -62.544019,-34.667417
+          -62.545404,-34.667808
+          -62.546627,-34.668060
+          -62.548065,-34.668269
+          -62.549542,-34.668322
+          -62.553773,-34.668300
+          -62.599515,-34.667640
+          -62.602008,-34.667614
+          -62.603124,-34.667658
+          -62.604642,-34.667861
+          -62.606639,-34.668260
+          -62.609230,-34.668806
+          -62.673300,-34.682347
+          -62.675549,-34.682829
+          -62.677279,-34.683194
+          -62.678697,-34.683569
+          -62.680784,-34.684458
+          -62.685991,-34.686749
+          -62.691488,-34.689104
+          -62.699646,-34.692643
+          -62.749855,-34.714057
+          -62.752565,-34.715134
+          -62.755570,-34.716075
+          -62.828002,-34.736718
+          -62.836923,-34.739215
+          -62.942352,-34.769096
+          -62.945903,-34.770171
+          -62.947609,-34.770582
+          -62.948669,-34.770767
+          -62.949659,-34.770867
+          -62.950370,-34.770953
+          -62.952125,-34.770983
+          -62.980058,-34.771785
+          -62.989466,-34.772102
+          -63.191993,-34.778007
+          -63.202348,-34.778298
+          -63.203253,-34.778320
+          -63.204048,-34.778312
+          -63.204812,-34.778268
+          -63.205930,-34.778147
+          -63.207131,-34.777952
+          -63.271211,-34.765056
+          -63.354854,-34.748144
+          -63.364021,-34.746314
+          -63.490260,-34.720533
+          -63.491549,-34.720276
+          -63.492968,-34.719973
+          -63.494533,-34.719728
+          -63.495448,-34.719655
+          -63.496549,-34.719622
+          -63.498057,-34.719630
+          -63.499675,-34.719697
+          -63.501064,-34.719809
+          -63.502177,-34.719964
+          -63.503606,-34.720379
+          -63.506078,-34.721010
+          -63.513404,-34.723146
+          -63.645028,-34.763259
+          -63.667606,-34.770176
+          -63.677642,-34.773281
+          -63.682252,-34.774704
+          -63.684300,-34.775297
+          -63.685258,-34.775611
+          -63.686751,-34.776047
+          -63.688708,-34.776452
+          -63.690344,-34.776686
+          -63.692174,-34.776807
+          -63.713969,-34.777776
+          -63.739793,-34.778959
+          -63.744877,-34.779183
+          -63.746531,-34.779342
+          -63.747256,-34.779431
+          -63.748994,-34.779771
+          -63.751154,-34.780394
+          -63.753832,-34.781254
+          -63.777226,-34.788695
+          -63.787836,-34.792075
+          -63.827204,-34.804566
+          -63.830872,-34.805674
+          -63.833023,-34.806451
+          -63.834544,-34.807139
+          -63.835417,-34.807574
+          -63.836352,-34.808112
+          -63.838122,-34.809249
+          -63.841305,-34.811784
+          -63.870508,-34.835439
+          -63.872217,-34.836704
+          -63.873080,-34.837222
+          -63.873995,-34.837753
+          -63.875445,-34.838386
+          -63.876620,-34.838860
+          -63.878072,-34.839221
+          -63.880458,-34.839685
+          -63.884064,-34.839866
+          -63.911883,-34.840238
+          -63.921242,-34.840413
+          -64.095786,-34.843603
+          -64.104676,-34.843750
+          -64.150475,-34.844593
+          -64.162639,-34.844868
+          -64.165729,-34.844860
+          -64.174910,-34.844216
+          -64.270946,-34.837288
+          -64.272694,-34.837160
+          -64.274753,-34.837103
+          -64.306586,-34.837739
+          -64.362061,-34.838333
+          -64.368096,-34.838437
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal a Huinca Renanco</name>
+      <Point><coordinates>-60.488037,-34.628441</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero Coliqueo KM 7.9</name>
+      <description>KM 7.9</description>
+      <Point><coordinates>-60.542041,-34.662210</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gregorio Villafañe KM 15.9</name>
+      <description>KM 15.9</description>
+      <Point><coordinates>-60.601524,-34.714009</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Irala KM 26.4</name>
+      <description>KM 26.4
+Código: RIR</description>
+      <Point><coordinates>-60.691826,-34.768319</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Morse KM 40.1</name>
+      <description>KM 40.1
+Código: RMS</description>
+      <Point><coordinates>-60.840341,-34.757910</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Baigorrita KM 53.7</name>
+      <description>KM 53.7
+Código: RBA</description>
+      <Point><coordinates>-60.987827,-34.743525</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Laplacette KM 68.9</name>
+      <description>KM 68.9</description>
+      <Point><coordinates>-61.152252,-34.724638</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bermúdez KM 85.4</name>
+      <description>KM 85.4</description>
+      <Point><coordinates>-61.328584,-34.694878</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triunvirato KM 97.9</name>
+      <description>KM 97.9</description>
+      <Point><coordinates>-61.462213,-34.672026</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Dorado KM 109.2</name>
+      <description>KM 109.2</description>
+      <Point><coordinates>-61.583282,-34.651251</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Günther KM 140.6</name>
+      <description>KM 140.6</description>
+      <Point><coordinates>-61.918857,-34.592836</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Alberdi KM 153.4/152.64</name>
+      <description>KM 153.4 (Chacabuco)
+KM 152.64 (Alberdi)</description>
+      <Point><coordinates>-62.048276,-34.574502</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mayor José Orellano KM 153.1</name>
+      <description>KM 153.1
+Código: ROR</description>
+      <Point><coordinates>-62.051227,-34.575653</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente El Peregrino</name>
+      <Point><coordinates>-62.121189,-34.579145</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ingeniero Balbín KM 181.1</name>
+      <description>KM 164.2
+Código: RIB</description>
+      <Point><coordinates>-62.171078,-34.576715</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pichincha KM 181.1</name>
+      <description>KM 181.1
+Código: RPI</description>
+      <Point><coordinates>-62.351592,-34.579329</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Blaquier KM 194.3</name>
+      <description>KM 194.3
+Código: RBQ</description>
+      <Point><coordinates>-62.479024,-34.634560</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Eleodora KM 215.7</name>
+      <description>KM 215.7
+Código: REO</description>
+      <Point><coordinates>-62.695530,-34.690899</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Eldia KM 229.3</name>
+      <description>KM 229.3</description>
+      <Point><coordinates>-62.832608,-34.738017</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Piedritas KM 243.8</name>
+      <description>KM 243.8
+Código: RPS</description>
+      <Point><coordinates>-62.984788,-34.771960</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Emilio V. Bunge KM 263.2</name>
+      <description>KM 263.2
+Código: RBU</description>
+      <Point><coordinates>-63.196721,-34.778140</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero Gondra KM 278.6</name>
+      <description>KM 278.6</description>
+      <Point><coordinates>-63.359505,-34.747217</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Rufino KM 293.0 / KM 90.3</name>
+      <description>KM 293.0 (desde Retiro)
+KM 90.3 (desde Rufino)</description>
+      <Point><coordinates>-63.506072,-34.721010</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hipólito Buchardo KM 292.7</name>
+      <description>KM 292.7
+Código: RBO</description>
+      <Point><coordinates>-63.509170,-34.721955</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero Burmeister KM 300.2</name>
+      <description>KM 300.2</description>
+      <Point><coordinates>-63.585951,-34.745269</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Onagoity KM 308.6</name>
+      <description>KM 308.6
+Código: RON</description>
+      <Point><coordinates>-63.672656,-34.771748</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Italó KM 318.8</name>
+      <description>KM 318.8
+Código: RIT</description>
+      <Point><coordinates>-63.780891,-34.789873</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pincén KM 333.0</name>
+      <description>KM 333.0
+Código: RPN</description>
+      <Point><coordinates>-63.916537,-34.840346</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ranqueles KM 349.8</name>
+      <description>KM 349.8
+Código: RRA</description>
+      <Point><coordinates>-64.100272,-34.843677</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme FCGS/FCS KM 373.7</name>
+      <description>KM 373.7</description>
+      <Point><coordinates>-64.361594,-34.838325</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Huinca Renanco KM 374.3</name>
+      <description>KM 374.3
+Código: RHR</description>
+      <Point><coordinates>-64.368144,-34.838439</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Huinca Renancó</name>
+      <LineString>
+        <coordinates>
+          -64.343418,-34.838144
+          -64.344396,-34.838101
+          -64.344713,-34.838040
+          -64.345216,-34.837837
+          -64.345668,-34.837523
+          -64.345938,-34.837243
+          -64.346104,-34.836940
+          -64.346229,-34.836643
+          -64.346265,-34.836199
+          -64.346533,-34.826570
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

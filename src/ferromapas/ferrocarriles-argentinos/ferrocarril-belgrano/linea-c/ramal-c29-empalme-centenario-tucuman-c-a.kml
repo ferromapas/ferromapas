@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C29: Empalme Centenario - Tucumán C.A.</name>
+    <description>Ramal C29: Empalme Centenario - Tucumán C.A.. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C29: Empalme Centenario - Tucumán C.A.</name>
+      <LineString>
+        <coordinates>
+          -65.213355,-26.805588
+          -65.212702,-26.806510
+          -65.212470,-26.806902
+          -65.212077,-26.807781
+          -65.211909,-26.808282
+          -65.211697,-26.809090
+          -65.211501,-26.810221
+          -65.211388,-26.810866
+          -65.211293,-26.811192
+          -65.211127,-26.811602
+          -65.210808,-26.812179
+          -65.210529,-26.812589
+          -65.210273,-26.813010
+          -65.210133,-26.813402
+          -65.210058,-26.813768
+          -65.210030,-26.814045
+          -65.210013,-26.814512
+          -65.210083,-26.814953
+          -65.210556,-26.816589
+          -65.210566,-26.817018
+          -65.210372,-26.818168
+          -65.210322,-26.818733
+          -65.210369,-26.818991
+          -65.210505,-26.819575
+          -65.210842,-26.820902
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Empalme a Tandil y Azul - Gardey</name>
+    <description>Empalme a Tandil y Azul - Gardey. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Empalme a Tandil y Azul - Gardey</name>
+      <LineString>
+        <coordinates>
+          -59.231812,-37.272294
+          -59.234433,-37.272629
+          -59.239034,-37.273218
+          -59.252046,-37.274885
+          -59.266434,-37.276758
+          -59.289708,-37.279750
+          -59.291036,-37.279907
+          -59.292033,-37.280003
+          -59.292896,-37.280068
+          -59.294410,-37.280130
+          -59.295384,-37.280144
+          -59.299101,-37.280074
+          -59.312690,-37.279806
+          -59.324574,-37.279572
+          -59.336967,-37.279315
+          -59.338041,-37.279310
+          -59.341734,-37.279211
+          -59.343301,-37.279169
+          -59.344441,-37.279235
+          -59.345292,-37.279347
+          -59.346284,-37.279507
+          -59.347094,-37.279712
+          -59.347946,-37.279982
+          -59.349204,-37.280430
+          -59.352118,-37.281425
+          -59.358010,-37.283479
+          -59.360952,-37.284507
+          -59.364150,-37.285532
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Gardey KM 353.9</name>
+      <description>KM 353.9</description>
+      <Point><coordinates>-59.337477,-37.279307</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

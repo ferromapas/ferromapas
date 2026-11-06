@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Retiro - Delta - José León Suárez</name>
+    <Placemark>
+      <name>Parada Dr. Drago KM 12.0</name>
+      <description>KM 12.0</description>
+      <Point><coordinates>-58.478922,-34.568359</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Urquiza KM 13.2</name>
+      <description>KM 13.2</description>
+      <Point><coordinates>-58.487915,-34.574719</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pueyrredón KM 14.6</name>
+      <description>KM 14.6</description>
+      <Point><coordinates>-58.501791,-34.580478</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parada Miguelete KM 16.0</name>
+      <description>KM 16.0</description>
+      <Point><coordinates>-58.516416,-34.581150</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kilómetro 16 Maniobras KM 15.8</name>
+      <description>KM 15.8</description>
+      <Point><coordinates>-58.515623,-34.581242</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Martín KM 17.7</name>
+      <description>KM 17.7</description>
+      <Point><coordinates>-58.531653,-34.573675</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Andrés KM 18.9</name>
+      <description>KM 18.9</description>
+      <Point><coordinates>-58.540552,-34.563680</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Ballester KM 21.9</name>
+      <description>KM 21.9</description>
+      <Point><coordinates>-58.556081,-34.550914</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parada Malaver KM 19.9</name>
+      <description>KM 19.9</description>
+      <Point><coordinates>-58.547854,-34.557435</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parada Chilavert KM 22.4</name>
+      <description>KM 22.4</description>
+      <Point><coordinates>-58.566941,-34.542170</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>José León Suárez KM 23.6</name>
+      <description>KM 23.6</description>
+      <Point><coordinates>-58.575667,-34.534997</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

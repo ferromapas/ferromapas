@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal A9: Milagro - Quines</name>
+    <description>Ramal A9: Milagro - Quines. Dibujado por:
+Pablo Anglat
+Rubén Sagristani
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Córdoba, Argentina</description>
+    <Placemark>
+      <name>Ramal A9: Milagro - Quines</name>
+      <LineString>
+        <coordinates>
+          -65.996817,-31.012239
+          -65.997051,-31.012424
+          -65.997297,-31.012725
+          -65.997407,-31.013014
+          -65.997581,-31.013683
+          -65.997688,-31.014271
+          -65.997730,-31.014840
+          -65.997515,-31.015774
+          -65.997422,-31.016808
+          -65.997086,-31.018391
+          -65.996615,-31.021785
+          -65.979309,-31.129053
+          -65.975962,-31.150020
+          -65.971480,-31.177496
+          -65.961328,-31.239507
+          -65.940548,-31.366166
+          -65.921016,-31.485236
+          -65.885974,-31.699617
+          -65.867819,-31.810863
+          -65.853931,-31.896847
+          -65.843790,-31.957398
+          -65.836403,-32.003038
+          -65.833263,-32.021728
+          -65.832575,-32.025131
+          -65.830892,-32.029017
+          -65.822618,-32.046722
+          -65.822067,-32.047875
+          -65.821807,-32.048500
+          -65.821772,-32.049052
+          -65.821804,-32.049763
+          -65.821905,-32.050257
+          -65.822023,-32.050721
+          -65.822243,-32.051227
+          -65.822598,-32.051762
+          -65.822938,-32.052222
+          -65.823449,-32.052715
+          -65.824354,-32.053354
+          -65.826785,-32.054222
+          -65.837126,-32.057807
+          -65.838169,-32.058167
+          -65.838885,-32.058443
+          -65.839465,-32.058749
+          -65.839977,-32.059126
+          -65.840557,-32.059633
+          -65.840915,-32.060140
+          -65.841170,-32.060573
+          -65.841407,-32.061065
+          -65.841610,-32.061848
+          -65.841608,-32.062585
+          -65.841520,-32.063263
+          -65.841383,-32.063768
+          -65.837100,-32.073945
+          -65.834920,-32.078916
+          -65.833395,-32.082589
+          -65.833145,-32.083189
+          -65.833010,-32.083724
+          -65.832875,-32.084469
+          -65.832426,-32.087818
+          -65.831238,-32.096731
+          -65.829566,-32.109218
+          -65.828851,-32.114571
+          -65.827427,-32.126562
+          -65.819247,-32.184825
+          -65.818556,-32.189690
+          -65.818414,-32.190207
+          -65.816779,-32.194636
+          -65.806660,-32.221812
+          -65.806565,-32.222533
+          -65.806577,-32.223199
+          -65.806591,-32.223740
+          -65.806724,-32.224282
+          -65.806883,-32.224654
+          -65.808792,-32.227359
+          -65.811939,-32.231725
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramales A2 / A 9 KM 643.0</name>
+      <description>KM 643.0</description>
+      <Point><coordinates>-65.996083,-31.011583</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Km 661 (DC) KM 660.9</name>
+      <description>KM 660.9</description>
+      <Point><coordinates>-65.972598,-31.170683</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Isla KM 667.4</name>
+      <description>667.4</description>
+      <Point><coordinates>-65.962979,-31.229401</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Km 682 (DP) KM 682.0</name>
+      <description>KM 682.0</description>
+      <Point><coordinates>-65.941551,-31.360018</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Solano KM 695.4</name>
+      <description>KM 695.4</description>
+      <Point><coordinates>-65.921919,-31.479803</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Aguayo KM 695.4</name>
+      <description>KM 695.4</description>
+      <Point><coordinates>-65.887612,-31.689675</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ap Km 732</name>
+      <Point><coordinates>-65.868957,-31.803962</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>El Caldén KM 741.9</name>
+      <description>KM 741.9</description>
+      <Point><coordinates>-65.854275,-31.894805</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Candelaria KM 760.6</name>
+      <description>KM 760.6</description>
+      <Point><coordinates>-65.831775,-32.055945</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Quines KM 781.1</name>
+      <description>KM 781.1</description>
+      <Point><coordinates>-65.811300,-32.231240</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Ruta sin título</name>
+      <LineString>
+        <coordinates>
+          -66.001865,-31.015427
+          -66.001503,-31.015263
+          -66.001198,-31.015142
+          -66.000906,-31.015038
+          -66.000613,-31.014962
+          -66.000305,-31.014893
+          -65.999891,-31.014917
+          -65.999549,-31.014959
+          -65.999108,-31.015109
+          -65.998767,-31.015282
+          -65.998436,-31.015473
+          -65.998156,-31.015685
+          -65.997779,-31.016203
+          -65.997451,-31.016790
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cruce FCP KM 757.88</name>
+      <description>KM 757.88</description>
+      <Point><coordinates>-65.827035,-32.037421</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

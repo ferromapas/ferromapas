@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal CC10: Recreo - Chumbicha</name>
+    <description>Ramal CC10: Recreo - Chumbicha. Dibujado por:
+Pablo Anglat
+Rodrigo Respini
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Córdoba, Argentina</description>
+    <Placemark>
+      <name>Ramal CC10: Recreo - Chumbicha</name>
+      <LineString>
+        <coordinates>
+          -65.057215,-29.276338
+          -65.057399,-29.276043
+          -65.057860,-29.275232
+          -65.058307,-29.274488
+          -65.058743,-29.273918
+          -65.059211,-29.273445
+          -65.059866,-29.272889
+          -65.060834,-29.272242
+          -65.061875,-29.271781
+          -65.062593,-29.271496
+          -65.063319,-29.271306
+          -65.064091,-29.271176
+          -65.064942,-29.271097
+          -65.065807,-29.271095
+          -65.067060,-29.271264
+          -65.067744,-29.271428
+          -65.068396,-29.271641
+          -65.070937,-29.272712
+          -65.255812,-29.352429
+          -65.256845,-29.352927
+          -65.257593,-29.353310
+          -65.258385,-29.353840
+          -65.259364,-29.354534
+          -65.431233,-29.481468
+          -65.432465,-29.482625
+          -65.433663,-29.484554
+          -65.434159,-29.485834
+          -65.459149,-29.574791
+          -65.459791,-29.576793
+          -65.460919,-29.578525
+          -65.461802,-29.579387
+          -65.463271,-29.580442
+          -65.471637,-29.583721
+          -65.522864,-29.603607
+          -65.524705,-29.604195
+          -65.525936,-29.604364
+          -65.526680,-29.604444
+          -65.527340,-29.604425
+          -65.528036,-29.604325
+          -65.528751,-29.604187
+          -65.529652,-29.603939
+          -65.530388,-29.603660
+          -65.531021,-29.603336
+          -65.535548,-29.600941
+          -65.536334,-29.600508
+          -65.536756,-29.600204
+          -65.537236,-29.599818
+          -65.537637,-29.599493
+          -65.538485,-29.598637
+          -65.716139,-29.413117
+          -65.716795,-29.412370
+          -65.717253,-29.411820
+          -65.717719,-29.411096
+          -65.718007,-29.410398
+          -65.718331,-29.409385
+          -65.718484,-29.408459
+          -65.718560,-29.407749
+          -65.718537,-29.406631
+          -65.716499,-29.329849
+          -65.716537,-29.328927
+          -65.716599,-29.328367
+          -65.716707,-29.327847
+          -65.716814,-29.327461
+          -65.717052,-29.326815
+          -65.717353,-29.326130
+          -65.775647,-29.215568
+          -65.776223,-29.214664
+          -65.776844,-29.213676
+          -65.777474,-29.212890
+          -65.778803,-29.211745
+          -65.924100,-29.082663
+          -65.925179,-29.081786
+          -65.925661,-29.081404
+          -65.926040,-29.081141
+          -65.926598,-29.080816
+          -65.927206,-29.080514
+          -65.927659,-29.080313
+          -65.928286,-29.080085
+          -65.928806,-29.079927
+          -65.929299,-29.079811
+          -65.929980,-29.079675
+          -65.930861,-29.079546
+          -65.941971,-29.078424
+          -65.942528,-29.078324
+          -65.943021,-29.078212
+          -65.943357,-29.078130
+          -65.943812,-29.078005
+          -65.944543,-29.077730
+          -65.945317,-29.077419
+          -65.945905,-29.077100
+          -65.946514,-29.076736
+          -65.947125,-29.076319
+          -65.947626,-29.075901
+          -66.097341,-28.945132
+          -66.098268,-28.944355
+          -66.099339,-28.943616
+          -66.100164,-28.943075
+          -66.101025,-28.942613
+          -66.101833,-28.942221
+          -66.238808,-28.874360
+          -66.239924,-28.873821
+          -66.240660,-28.873462
+          -66.241394,-28.872979
+          -66.241797,-28.872668
+          -66.242532,-28.871967
+          -66.243085,-28.871273
+          -66.243616,-28.870416
+          -66.244466,-28.868090
+          -66.244720,-28.867276
+          -66.244831,-28.866627
+          -66.244845,-28.866408
+          -66.244857,-28.866193
+          -66.244851,-28.865333
+          -66.244729,-28.864562
+          -66.244545,-28.863846
+          -66.244324,-28.863251
+          -66.244078,-28.862706
+          -66.243665,-28.862136
+          -66.242929,-28.861184
+          -66.242550,-28.860763
+          -66.241960,-28.860282
+          -66.233799,-28.854888
+          -66.233500,-28.854736
+          -66.233025,-28.854479
+          -66.232812,-28.854402
+          -66.232531,-28.854325
+          -66.231976,-28.854268
+          -66.231592,-28.854204
+          -66.231219,-28.854141
+          -66.230920,-28.854083
+          -66.230703,-28.853997
+          -66.230472,-28.853891
+          -66.230387,-28.853853
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme CC / CC10 KM 987.5</name>
+      <description>KM 987.5</description>
+      <Point><coordinates>-65.057214,-29.276335</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Esquiú KM 26.4</name>
+      <description>KM 26.4</description>
+      <Point><coordinates>-65.289891,-29.377210</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Km 38 (DPub) KM 38.8</name>
+      <description>KM 38.8</description>
+      <Point><coordinates>-65.387663,-29.449366</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Guardia KM 52.9</name>
+      <description>KM 52.9</description>
+      <Point><coordinates>-65.453814,-29.555894</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Km 62 (Emb) KM 61.8</name>
+      <description>KM 61.8</description>
+      <Point><coordinates>-65.519135,-29.602159</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Telaritos KM 81.0</name>
+      <description>KM 81.0</description>
+      <Point><coordinates>-65.652273,-29.479902</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parada KM 99 KM 99.4</name>
+      <description>KM 99.4</description>
+      <Point><coordinates>-65.716893,-29.344565</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Martín KM 113.3</name>
+      <description>KM 113.3</description>
+      <Point><coordinates>-65.773084,-29.220466</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Adolfo E. Carranza KM 144.7</name>
+      <description>KM 144.7</description>
+      <Point><coordinates>-66.003920,-29.026802</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce CC / A -  KM 175.0 / 892,6</name>
+      <description>KM 175.0 / 892,6</description>
+      <Point><coordinates>-66.243940,-28.862527</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chumbicha CC KM 176.2</name>
+      <description>KM 176.2</description>
+      <Point><coordinates>-66.235081,-28.855732</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme CC / A - KM 176.9 / KM 894.3</name>
+      <description>KM 176.9 / KM 894.3</description>
+      <Point><coordinates>-66.230388,-28.853857</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Chumbicha CNA KM 894.4 / KM 177.0</name>
+      <description>CNA KM 894.4 / KM 177.0</description>
+      <Point><coordinates>-66.229607,-28.853340</coordinates></Point>
+    </Placemark>
+    <Folder>
+      <name>Línea CC - Rosario - San Francisco</name>
+    </Folder>
+  </Folder>
+</kml>

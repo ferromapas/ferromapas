@@ -1,0 +1,11 @@
+name: Circuito San Juan
+description: "Circuito San Juan. Dibujado por:\nPablo Anglat\nGino Nuñez\n\nFuentes: \n- Itinerario del FCGSM de Gustavo López\n- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)\n- Gustavo Trigo (San Juan) en la localización de algunas bodegas y desvíos en la Ciudad de San Juan\n\nhttp://www.ferromapas.com.ar/\nMendoza y Buenos Aires, Argentina"
+children:
+- _loose.kml
+- desvio-bodega-graffigna.kml
+- desvio-bodega-hagman.kml
+- _loose-2.kml
+- desvio-bodega-duc-saint-remy.kml
+- _loose-3.kml
+- desvio-bodegas-grutierrez-y-lopez.kml
+- _loose-4.kml

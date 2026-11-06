@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C30: Los Juríes - Km. 477</name>
+    <description>Ramal C30: Los Juríes - Km. 477. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C30: Los Juríes - Km. 477</name>
+      <LineString>
+        <coordinates>
+          -62.103822,-28.459017
+          -62.100732,-28.455234
+          -61.939109,-28.279732
+          -61.938699,-28.279285
+          -61.938054,-28.278728
+          -61.937471,-28.278335
+          -61.936793,-28.277986
+          -61.936029,-28.277765
+          -61.935342,-28.277679
+          -61.934141,-28.277659
+          -61.922884,-28.277573
+          -61.922409,-28.277540
+          -61.921848,-28.277305
+          -61.921379,-28.276998
+          -61.921060,-28.276669
+          -61.920874,-28.276282
+          -61.920723,-28.275870
+          -61.920708,-28.275372
+          -61.920865,-28.274059
+          -61.920558,-28.276025
+          -61.920427,-28.276554
+          -61.920090,-28.277000
+          -61.919790,-28.277250
+          -61.919196,-28.277497
+          -61.917821,-28.277534
+          -61.922895,-28.277579
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>KM 477</name>
+      <Point><coordinates>-61.930770,-28.277647</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

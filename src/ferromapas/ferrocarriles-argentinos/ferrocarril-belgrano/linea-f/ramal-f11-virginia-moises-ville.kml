@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal F11: Virginia - Moisés Ville</name>
+    <description>Ramal F11: Virginia - Moisés Ville. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal F11: Virginia - Moisés Ville</name>
+      <LineString>
+        <coordinates>
+          -61.341615,-30.736744
+          -61.341611,-30.736363
+          -61.341670,-30.736083
+          -61.341786,-30.735703
+          -61.341922,-30.735359
+          -61.342197,-30.734971
+          -61.342445,-30.734696
+          -61.342689,-30.734458
+          -61.343058,-30.734228
+          -61.343480,-30.734030
+          -61.343927,-30.733872
+          -61.344329,-30.733819
+          -61.344680,-30.733819
+          -61.345161,-30.733873
+          -61.345742,-30.734018
+          -61.346230,-30.734221
+          -61.349935,-30.736084
+          -61.350726,-30.736464
+          -61.351137,-30.736611
+          -61.351641,-30.736744
+          -61.352082,-30.736837
+          -61.352524,-30.736850
+          -61.353352,-30.736805
+          -61.414261,-30.726226
+          -61.447088,-30.720436
+          -61.448314,-30.720115
+          -61.449188,-30.719750
+          -61.449844,-30.719330
+          -61.450476,-30.718685
+          -61.452779,-30.715585
+          -61.453142,-30.715113
+          -61.453469,-30.714722
+          -61.453894,-30.714403
+          -61.454497,-30.714029
+          -61.454872,-30.713848
+          -61.455279,-30.713699
+          -61.455731,-30.713564
+          -61.456230,-30.713462
+          -61.477137,-30.709847
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Moisés Villa KM 164.3</name>
+      <description>KM 164.3</description>
+      <Point><coordinates>-61.473177,-30.710533</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

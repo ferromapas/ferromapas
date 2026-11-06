@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvío Cargill Pehuajó</name>
+    <Placemark>
+      <name>Desvío Cargill Pehuajó</name>
+      <LineString>
+        <coordinates>
+          -61.919741,-35.836581
+          -61.920160,-35.837333
+          -61.920863,-35.838049
+          -61.922692,-35.839636
+          -61.923963,-35.840972
+          -61.925374,-35.842271
+          -61.926386,-35.843182
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cargill Pehuajó</name>
+      <Point><coordinates>-61.923257,-35.840149</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

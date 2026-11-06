@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 58: Laboulaye - Villa Valeria</name>
+    <description>Div 58: Laboulaye - Villa Valeria. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Div 58: Laboulaye - Villa Valeria</name>
+      <LineString>
+        <coordinates>
+          -63.395297,-34.121131
+          -63.399026,-34.120386
+          -63.399806,-34.120280
+          -63.400804,-34.120214
+          -63.401785,-34.120248
+          -63.402670,-34.120365
+          -63.403711,-34.120535
+          -63.404741,-34.120712
+          -63.405687,-34.120957
+          -63.406488,-34.121193
+          -63.407517,-34.121587
+          -63.408154,-34.121845
+          -63.409219,-34.122428
+          -63.410062,-34.123014
+          -63.410606,-34.123398
+          -63.411059,-34.123748
+          -63.411601,-34.124273
+          -63.412165,-34.124903
+          -63.412622,-34.125449
+          -63.413003,-34.126010
+          -63.413347,-34.126580
+          -63.413626,-34.127166
+          -63.421595,-34.142431
+          -63.422283,-34.143736
+          -63.422747,-34.144733
+          -63.423015,-34.145600
+          -63.423235,-34.146364
+          -63.423317,-34.146901
+          -63.423406,-34.147610
+          -63.423493,-34.148527
+          -63.424163,-34.229708
+          -63.424212,-34.238784
+          -63.424720,-34.287580
+          -63.424744,-34.289262
+          -63.424760,-34.289734
+          -63.424792,-34.290279
+          -63.424895,-34.290972
+          -63.425071,-34.291635
+          -63.425423,-34.292744
+          -63.425878,-34.293946
+          -63.443559,-34.329245
+          -63.443885,-34.329878
+          -63.444206,-34.330701
+          -63.444564,-34.331692
+          -63.444822,-34.332526
+          -63.445449,-34.334481
+          -63.448222,-34.342125
+          -63.451420,-34.351510
+          -63.453048,-34.356110
+          -63.472109,-34.411885
+          -63.472624,-34.413398
+          -63.473066,-34.414350
+          -63.473510,-34.415107
+          -63.474147,-34.415934
+          -63.474715,-34.416632
+          -63.475382,-34.417359
+          -63.476581,-34.418433
+          -63.538884,-34.465191
+          -63.545564,-34.470300
+          -63.569326,-34.488369
+          -63.570834,-34.489487
+          -63.571824,-34.490233
+          -63.572366,-34.490577
+          -63.573137,-34.491038
+          -63.574229,-34.491567
+          -63.575948,-34.492312
+          -63.610951,-34.506027
+          -63.613135,-34.506862
+          -63.614086,-34.507193
+          -63.615115,-34.507514
+          -63.615966,-34.507679
+          -63.616926,-34.507862
+          -63.617863,-34.507955
+          -63.619024,-34.508069
+          -63.620629,-34.508105
+          -63.704197,-34.509544
+          -63.713524,-34.509690
+          -63.935561,-34.513830
+          -63.944940,-34.514035
+          -64.029900,-34.515950
+          -64.031363,-34.515985
+          -64.032539,-34.515916
+          -64.033219,-34.515881
+          -64.033960,-34.515813
+          -64.034661,-34.515660
+          -64.035561,-34.515479
+          -64.165330,-34.480222
+          -64.174056,-34.477884
+          -64.192865,-34.472834
+          -64.290708,-34.449357
+          -64.321375,-34.441932
+          -64.327211,-34.440515
+          -64.329557,-34.439908
+          -64.329884,-34.439825
+          -64.330337,-34.439689
+          -64.334126,-34.438328
+          -64.344789,-34.434549
+          -64.388998,-34.418928
+          -64.390352,-34.418338
+          -64.393795,-34.416840
+          -64.432554,-34.399044
+          -64.480178,-34.376830
+          -64.481432,-34.376306
+          -64.482257,-34.375970
+          -64.483334,-34.375631
+          -64.485173,-34.375159
+          -64.486567,-34.374950
+          -64.487891,-34.374814
+          -64.490773,-34.374639
+          -64.501394,-34.374775
+          -64.685937,-34.376820
+          -64.696984,-34.376943
+          -64.816759,-34.378372
+          -64.819662,-34.378315
+          -64.821292,-34.378251
+          -64.822492,-34.378060
+          -64.824695,-34.377681
+          -64.826119,-34.377327
+          -64.832911,-34.375064
+          -64.905277,-34.350577
+          -64.906307,-34.350213
+          -64.906938,-34.349971
+          -64.907373,-34.349791
+          -64.908472,-34.349203
+          -64.909200,-34.348767
+          -64.910099,-34.348118
+          -64.910891,-34.347647
+          -64.912083,-34.346698
+          -64.914397,-34.343390
+          -64.914794,-34.342940
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Villa Valeria KM 486.0</name>
+      <description>KM 486.0</description>
+      <Point><coordinates>-63.395289,-34.121167</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero Salguero KM 14.2 (DC)</name>
+      <description>KM 14.2</description>
+      <Point><coordinates>-63.424187,-34.235001</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Melo KM 27.2</name>
+      <description>KM 27.2</description>
+      <Point><coordinates>-63.450165,-34.347770</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Serrano KM 43.5</name>
+      <description>KM 43.5</description>
+      <Point><coordinates>-63.542308,-34.467807</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Joaquín KM 60.2</name>
+      <description>KM 60.2</description>
+      <Point><coordinates>-63.708863,-34.509607</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Jovita KM 81.5</name>
+      <description>KM 81.5</description>
+      <Point><coordinates>-63.940368,-34.513965</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mattaldi KM 103.2</name>
+      <description>KM 103.2</description>
+      <Point><coordinates>-64.169762,-34.479020</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Nicolás Bruzone KM 119.4</name>
+      <description>KM 119.4</description>
+      <Point><coordinates>-64.339140,-34.436564</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Del Campillo KM 135.5</name>
+      <description>KM 135.5</description>
+      <Point><coordinates>-64.496197,-34.374740</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>De la Serna KM 153.5</name>
+      <description>KM 153.5</description>
+      <Point><coordinates>-64.691601,-34.376910</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Laboulaye KM 64.17</name>
+      <Point><coordinates>-64.914794,-34.342957</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

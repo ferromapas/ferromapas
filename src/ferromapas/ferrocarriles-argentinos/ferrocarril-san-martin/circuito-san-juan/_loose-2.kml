@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Circuito San Juan</name>
+    <Placemark>
+      <name>Desvio</name>
+      <LineString>
+        <coordinates>
+          -68.515244,-31.512845
+          -68.516632,-31.512632
+          -68.517293,-31.512462
+          -68.517931,-31.512209
+          -68.518281,-31.511908
+          -68.518535,-31.511551
+          -68.518673,-31.511220
+          -68.518705,-31.510993
+          -68.518737,-31.508921
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

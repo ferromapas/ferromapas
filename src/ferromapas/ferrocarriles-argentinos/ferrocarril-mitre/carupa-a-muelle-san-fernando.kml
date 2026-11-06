@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Carupá a Muelle San Fernando</name>
+    <description>Victoria - Tigre. Dibujado por:
+Pablo Anglat
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Revista Todo Trenes
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Carupá a Muelle San Fernando</name>
+      <LineString>
+        <coordinates>
+          -58.566214,-34.438446
+          -58.566564,-34.438118
+          -58.566901,-34.437728
+          -58.567081,-34.437460
+          -58.567235,-34.437134
+          -58.567297,-34.436823
+          -58.567305,-34.436561
+          -58.567276,-34.436285
+          -58.567200,-34.435920
+          -58.567107,-34.435683
+          -58.567001,-34.435512
+          -58.566906,-34.435416
+          -58.561182,-34.431209
+          -58.560903,-34.430882
+          -58.560637,-34.430622
+          -58.559886,-34.429946
+          -58.559486,-34.429244
+          -58.558782,-34.427950
+          -58.558548,-34.426857
+          -58.558229,-34.426060
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

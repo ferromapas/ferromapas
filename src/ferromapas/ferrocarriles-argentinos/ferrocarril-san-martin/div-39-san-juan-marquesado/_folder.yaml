@@ -1,0 +1,8 @@
+name: 'Div 39: San Juan - Marquesado'
+description: "Div 39: San Juan - Marquesado. Dibujado por:\nPablo Anglat\nGino Nuñez\n\nFuentes: \n- Itinerario del FCGSM de Gustavo López\n- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)\n\nhttp://www.ferromapas.com.ar/\nMendoza y Buenos Aires, Argentina"
+children:
+- _loose.kml
+- desvio-bodega-el-globo.kml
+- desvio-bodega-cinzano.kml
+- _loose-2.kml
+- bodega-del-bono.kml

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>San Francisco - La Rubia</name>
+    <description>San Francisco - La Rubia. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>San Francisco - La Rubia</name>
+      <LineString>
+        <coordinates>
+          -62.071648,-31.431278
+          -62.074062,-31.429234
+          -62.081584,-31.422799
+          -62.093164,-31.413001
+          -62.096513,-31.410208
+          -62.097092,-31.409708
+          -62.097528,-31.409330
+          -62.097963,-31.408918
+          -62.098335,-31.408531
+          -62.098680,-31.408131
+          -62.098924,-31.407755
+          -62.099276,-31.407174
+          -62.099647,-31.406506
+          -62.102132,-31.401870
+          -62.104462,-31.397561
+          -62.108566,-31.389969
+          -62.110576,-31.386297
+          -62.111381,-31.384795
+          -62.113428,-31.380988
+          -62.115287,-31.377519
+          -62.117176,-31.373992
+          -62.119487,-31.369709
+          -62.122884,-31.363368
+          -62.130145,-31.349661
+          -62.134191,-31.341727
+          -62.135750,-31.338851
+          -62.136493,-31.337366
+          -62.137164,-31.336009
+          -62.137576,-31.335072
+          -62.137923,-31.333917
+          -62.138107,-31.332827
+          -62.138140,-31.331787
+          -62.138041,-31.330838
+          -62.137004,-31.325901
+          -62.133688,-31.311240
+          -62.128125,-31.285470
+          -62.123843,-31.266351
+          -62.117137,-31.235782
+          -62.109042,-31.199295
+          -62.105424,-31.182215
+          -62.100967,-31.160773
+          -62.099586,-31.154985
+          -62.098100,-31.148548
+          -62.067996,-31.011355
+          -62.064668,-30.997112
+          -62.059437,-30.973411
+          -62.055561,-30.955975
+          -62.052561,-30.941991
+          -62.050943,-30.934424
+          -62.048059,-30.921055
+          -62.046578,-30.914303
+          -62.045329,-30.908740
+          -62.040383,-30.885548
+          -62.036457,-30.866192
+          -62.035030,-30.859585
+          -62.032246,-30.846970
+          -62.025829,-30.816987
+          -62.016942,-30.775726
+          -62.013104,-30.758044
+          -62.005255,-30.721002
+          -62.003753,-30.714109
+          -62.002427,-30.707996
+          -62.001012,-30.701693
+          -61.993700,-30.668238
+          -61.986718,-30.636128
+          -61.974726,-30.578916
+          -61.971810,-30.565266
+          -61.923172,-30.356888
+          -61.920637,-30.346151
+          -61.918029,-30.335191
+          -61.915062,-30.322816
+          -61.911765,-30.309287
+          -61.900578,-30.262319
+          -61.893729,-30.233831
+          -61.892295,-30.227669
+          -61.891885,-30.225973
+          -61.891608,-30.224904
+          -61.891381,-30.224220
+          -61.891030,-30.223496
+          -61.890724,-30.222949
+          -61.890241,-30.222232
+          -61.889761,-30.221590
+          -61.889105,-30.220921
+          -61.867493,-30.200289
+          -61.837239,-30.170752
+          -61.790004,-30.124968
+          -61.788786,-30.123664
+          -61.788398,-30.123049
+          -61.787956,-30.122206
+          -61.787562,-30.121299
+          -61.787230,-30.120292
+          -61.787090,-30.119629
+          -61.787054,-30.118906
+          -61.787063,-30.118032
+          -61.787145,-30.117218
+          -61.787401,-30.116291
+          -61.788397,-30.113817
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>San Francisco KM 526.0</name>
+      <description>KM 67.6
+KM 526.0 desde Buenos Aires</description>
+      <Point><coordinates>-62.072144,-31.430874</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Luxardo KM 541.8</name>
+      <description>KM 541.8</description>
+      <Point><coordinates>-62.132414,-31.305328</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Freyre KM 557.8</name>
+      <description>KM 557.8</description>
+      <Point><coordinates>-62.101581,-31.163752</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Porteña KM 574.9</name>
+      <description>KM 574.9</description>
+      <Point><coordinates>-62.068359,-31.013016</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce con FCGB (A) (ex FCCNA) KM 586.2</name>
+      <description>KM 586.2</description>
+      <Point><coordinates>-62.046904,-30.915783</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Brinkmann KM 591.2</name>
+      <description>KM 591.2</description>
+      <Point><coordinates>-62.036723,-30.867522</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Morteros KM 608.8</name>
+      <description>KM 608.8</description>
+      <Point><coordinates>-62.002985,-30.710575</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Suardi KM 628.7</name>
+      <description>KM 628.7</description>
+      <Point><coordinates>-61.964489,-30.533986</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Guillermo KM 648.7</name>
+      <description>KM 648.7</description>
+      <Point><coordinates>-61.923267,-30.357332</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Trinidad KM 665.9</name>
+      <description>KM 665.9</description>
+      <Point><coordinates>-61.877231,-30.209647</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

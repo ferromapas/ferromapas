@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Realico - Bowen - Colonia Alvear</name>
+    <Placemark>
+      <name>Ap Casimiro Gómez KM 652.4</name>
+      <description>KM 652.4</description>
+      <Point><coordinates>-65.119477,-35.088522</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Nueva Galia KM 664.5</name>
+      <description>KM 664.5</description>
+      <Point><coordinates>-65.250046,-35.109640</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fortuna KM 677.0</name>
+      <description>KM 677.0</description>
+      <Point><coordinates>-65.384963,-35.127123</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagual KM 694.8</name>
+      <description>KM 694.8</description>
+      <Point><coordinates>-65.570441,-35.145759</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Polledo KM 711.4</name>
+      <description>KM 711.4</description>
+      <Point><coordinates>-65.753906,-35.153196</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Unión KM 728.8</name>
+      <description>KM 728.8</description>
+      <Point><coordinates>-65.942672,-35.157861</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Maroma KM 766.4</name>
+      <description>KM 766.4</description>
+      <Point><coordinates>-66.327203,-35.213646</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente río Salado</name>
+      <Point><coordinates>-66.494152,-35.198531</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Canalejas (Emb) KM 784.1</name>
+      <description>KM 784.1</description>
+      <Point><coordinates>-66.517948,-35.198864</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Mora KM 815.5</name>
+      <description>KM 815.5</description>
+      <Point><coordinates>-66.849599,-35.122770</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Huerpes (Ap) KM 842.0</name>
+      <description>KM 842.0</description>
+      <Point><coordinates>-67.129221,-35.057293</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bowen KM 877.6</name>
+      <description>KM 877.6</description>
+      <Point><coordinates>-67.509741,-35.002534</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvio KM 884 (DP) KM 884.2</name>
+      <description>KM 884.2
+(GPS)</description>
+      <Point><coordinates>-67.578898,-35.002544</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Colonia Alvear KM 890.7</name>
+      <description>KM 890.7
+(GPS)</description>
+      <Point><coordinates>-67.653718,-35.002502</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a  Carmensa KM 891.0</name>
+      <description>KM 891.0
+(GPS)</description>
+      <Point><coordinates>-67.656459,-35.002527</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Poste KM 891.0</name>
+      <description>KM 891.0
+(GPS)</description>
+      <Point><coordinates>-67.656760,-35.002513</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradero KM 882 (FCDFS) Av. Pellegrini KM 894.1 / KM 59.0</name>
+      <description>FCDFS: KM 894.1
+FCSM: KM 59.0 (Punta de Rieles)
+¿Límite de Concesión?</description>
+      <Point><coordinates>-67.675815,-34.980302</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Colonia Alvear Norte KM 58.2 / 895.2</name>
+      <description>FCGS: KM 58.2 
+CFDFS: 895.2
+Código: CAR (FC San Martin)
+(GPS)</description>
+      <Point><coordinates>-67.679889,-34.973821</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Triángulo Colonia Alvear</name>
+      <LineString>
+        <coordinates>
+          -67.645917,-35.002499
+          -67.646135,-35.002465
+          -67.646356,-35.002421
+          -67.646564,-35.002367
+          -67.646750,-35.002297
+          -67.646927,-35.002206
+          -67.647087,-35.002090
+          -67.647173,-35.002011
+          -67.647560,-35.001616
+          -67.647667,-35.001461
+          -67.647746,-35.001308
+          -67.647828,-35.000965
+          -67.647932,-35.000360
+          -67.647947,-34.999966
+          -67.647930,-35.000364
+          -67.647953,-35.000666
+          -67.648004,-35.000969
+          -67.648128,-35.001247
+          -67.648200,-35.001397
+          -67.648332,-35.001664
+          -67.648505,-35.001873
+          -67.648702,-35.002071
+          -67.648947,-35.002221
+          -67.649268,-35.002349
+          -67.649705,-35.002464
+          -67.649961,-35.002511
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

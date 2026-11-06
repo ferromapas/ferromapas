@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Maipú - Vivoratá</name>
+    <description>Maipú - Vivoratá. Dibujado por:
+Gino Nuñez
+
+Fuentes:
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Vivoratá KM 361.9 (Vía Maipú)</name>
+      <description>KM 414.1</description>
+      <Point><coordinates>-57.669272,-37.663793</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Maipú - Vivoratá</name>
+      <LineString>
+        <coordinates>
+          -57.884706,-36.861093
+          -57.885604,-36.861755
+          -57.886998,-36.862883
+          -57.887881,-36.863662
+          -57.889499,-36.865175
+          -57.890204,-36.865839
+          -57.890489,-36.866145
+          -57.890710,-36.866404
+          -57.891023,-36.866801
+          -57.891279,-36.867177
+          -57.891520,-36.867571
+          -57.891732,-36.867945
+          -57.891915,-36.868336
+          -57.892098,-36.868795
+          -57.892246,-36.869189
+          -57.892378,-36.869681
+          -57.892469,-36.870091
+          -57.892534,-36.870496
+          -57.892573,-36.870887
+          -57.892586,-36.871263
+          -57.892577,-36.871664
+          -57.892542,-36.872065
+          -57.892492,-36.872484
+          -57.892434,-36.872801
+          -57.892348,-36.873224
+          -57.892248,-36.873621
+          -57.892131,-36.874030
+          -57.891847,-36.875057
+          -57.870609,-36.949829
+          -57.813504,-37.153539
+          -57.784974,-37.254789
+          -57.746347,-37.391243
+          -57.669824,-37.661884
+          -57.668600,-37.666204
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Vidal KM 338.0</name>
+      <description>KM 338.0</description>
+      <Point><coordinates>-57.728538,-37.454342</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pirán KM 317.8</name>
+      <description>KM 317.8</description>
+      <Point><coordinates>-57.778764,-37.276786</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Las Armas KM 296.3</name>
+      <description>KM 296.3</description>
+      <Point><coordinates>-57.832121,-37.087210</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

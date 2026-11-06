@@ -1,0 +1,13 @@
+name: ExRPB
+description: |-
+  ExRPB. Dibujado por:
+  Gino Nuñez
+
+  Fuentes:
+  - Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+  http://www.ferromapas.com.ar/
+  Buenos Aires, Argentina
+children:
+- rosario-puerto-belgrano.kml
+- _loose.kml

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Tranvía a Vapor Formosa</name>
+    <description>Tranvía a Vapor Formosa. Dibujado por:
+Pablo Anglat
+
+Fuente: 
+- Plano de Gustavo Lopez
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Tranvía a Vapor Formosa</name>
+      <LineString>
+        <coordinates>
+          -58.157784,-26.188029
+          -58.171330,-26.192464
+          -58.171398,-26.192466
+          -58.171498,-26.192392
+          -58.185737,-26.156997
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tranvía a Vapor Formosa</name>
+      <description>Gracias a Gustavo Lopez</description>
+      <LineString>
+        <coordinates>
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

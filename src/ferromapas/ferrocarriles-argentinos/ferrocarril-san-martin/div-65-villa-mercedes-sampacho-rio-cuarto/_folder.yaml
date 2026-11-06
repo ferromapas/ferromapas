@@ -1,0 +1,5 @@
+name: 'Div 65: Villa Mercedes - Sampacho - Río Cuarto'
+description: "Div 65: Villa Mercedes - Sampacho - Río Cuarto. Dibujado por:\nPablo Anglat\nGino Nuñez\n\nFuentes: \n- Itinerario del FCGSM de Gustavo López\n- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)\n- Algunas partes de Villa Mercedes están tomadas de la Revista Todo Trenes\n\nhttp://www.ferromapas.com.ar/\nMendoza y Buenos Aires, Argentina"
+children:
+- _loose.kml
+- sampacho-achiras.kml

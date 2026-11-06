@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C29: Pala Pala - Ingenio Bella Vista</name>
+    <description>Ramal C29: Pala Pala - Ingenio Bella Vista. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C29: Pala Pala - Ingenio Bella Vista</name>
+      <LineString>
+        <coordinates>
+          -65.215812,-27.054724
+          -65.215562,-27.054160
+          -65.211085,-27.046870
+          -65.210931,-27.046340
+          -65.211016,-27.045987
+          -65.211288,-27.045643
+          -65.211583,-27.045430
+          -65.212219,-27.045198
+          -65.212878,-27.045050
+          -65.232789,-27.041357
+          -65.259198,-27.036439
+          -65.261226,-27.035960
+          -65.262528,-27.035599
+          -65.263486,-27.035211
+          -65.264682,-27.034663
+          -65.277441,-27.028848
+          -65.279375,-27.028152
+          -65.280249,-27.027874
+          -65.281493,-27.027583
+          -65.289383,-27.026098
+          -65.295632,-27.024587
+          -65.301139,-27.023275
+          -65.301342,-27.023269
+          -65.301573,-27.023299
+          -65.301702,-27.023396
+          -65.301845,-27.023644
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvìo</name>
+      <LineString>
+        <coordinates>
+          -65.286288,-27.026672
+          -65.285585,-27.026868
+          -65.285220,-27.027026
+          -65.285025,-27.027353
+          -65.284959,-27.027643
+          -65.284971,-27.027959
+          -65.285082,-27.028275
+          -65.285262,-27.028667
+          -65.285789,-27.029196
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

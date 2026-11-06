@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal C32: Puerto Barranqueras -  Puerto Vilelas</name>
+    <description>Ramal C32: Puerto Barranqueras -  Puerto Vilelas. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Ramal C32: Puerto Barranqueras -  Puerto Vilelas</name>
+      <LineString>
+        <coordinates>
+          -58.929039,-27.494755
+          -58.929655,-27.495786
+          -58.929912,-27.496134
+          -58.933891,-27.501820
+          -58.934797,-27.503159
+          -58.935522,-27.504088
+          -58.935938,-27.504825
+          -58.936282,-27.505326
+          -58.936654,-27.505850
+          -58.936783,-27.506369
+          -58.936819,-27.507950
+          -58.936812,-27.508797
+          -58.936758,-27.509984
+          -58.936779,-27.510441
+          -58.936875,-27.510878
+          -58.936367,-27.520668
+          -58.936069,-27.521542
+          -58.934934,-27.523157
+          -58.930252,-27.527630
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Vía Empalme C3/C32</name>
+      <LineString>
+        <coordinates>
+          -58.939991,-27.500038
+          -58.936225,-27.503364
+          -58.936025,-27.503578
+          -58.935912,-27.503764
+          -58.935822,-27.503992
+          -58.935785,-27.504238
+          -58.935811,-27.504473
+          -58.935883,-27.504710
+          -58.935966,-27.504862
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Vía Empalme C3/C32 (Antigua Traza)</name>
+      <LineString>
+        <coordinates>
+          -58.939965,-27.500063
+          -58.939482,-27.500534
+          -58.939095,-27.500924
+          -58.938381,-27.501795
+          -58.938190,-27.502151
+          -58.937827,-27.502811
+          -58.937643,-27.503179
+          -58.937345,-27.503849
+          -58.937196,-27.504429
+          -58.937047,-27.505152
+          -58.936828,-27.508002
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Puerto Vileleas KM 985.4</name>
+      <description>KM 985.4</description>
+      <Point><coordinates>-58.936827,-27.511724</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvío</name>
+      <LineString>
+        <coordinates>
+          -58.936822,-27.508704
+          -58.936838,-27.508872
+          -58.936955,-27.509129
+          -58.937108,-27.509348
+          -58.937296,-27.509547
+          -58.941699,-27.513467
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

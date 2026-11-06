@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Ramal F2: Santa Fe - San Cristobal (Vía Pilar)</name>
+    <description>Ramal F2: Santa Fe - San Cristobal (Vía Pilar). Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Buenos Aires y Mendoza, Argentina</description>
+    <Folder>
+      <name>Línea F2 - Santa Fé - Rafaela</name>
+      <Placemark>
+        <name>Línea F2 - Santa Fé - Rafaela</name>
+        <LineString>
+          <coordinates>
+            -60.699743,-31.642287
+            -60.699742,-31.641852
+            -60.699809,-31.641404
+            -60.699852,-31.640978
+            -60.699927,-31.640096
+            -60.700139,-31.639556
+            -60.704100,-31.632595
+            -60.704573,-31.631881
+            -60.705769,-31.629573
+            -60.732270,-31.583983
+            -60.733972,-31.581252
+            -60.734202,-31.580895
+            -60.734376,-31.580655
+            -60.734766,-31.580159
+            -60.735111,-31.579770
+            -60.735402,-31.579468
+            -60.735728,-31.579145
+            -60.736402,-31.578615
+            -60.738081,-31.577557
+            -60.758701,-31.564941
+            -60.759978,-31.564134
+            -60.761067,-31.563454
+            -60.761928,-31.562955
+            -60.762595,-31.562607
+            -60.763058,-31.562390
+            -60.763517,-31.562203
+            -60.763867,-31.562072
+            -60.764333,-31.561908
+            -60.764745,-31.561795
+            -60.765484,-31.561627
+            -60.765811,-31.561553
+            -60.766295,-31.561480
+            -60.766745,-31.561444
+            -60.768543,-31.561388
+            -60.770332,-31.561337
+            -60.770728,-31.561331
+            -60.770876,-31.561315
+            -60.771096,-31.561291
+            -60.771371,-31.561260
+            -60.771644,-31.561219
+            -60.771904,-31.561168
+            -60.772106,-31.561118
+            -60.772284,-31.561065
+            -60.772511,-31.560993
+            -60.772749,-31.560908
+            -60.773058,-31.560798
+            -60.773234,-31.560721
+            -60.773435,-31.560624
+            -60.773625,-31.560534
+            -60.773749,-31.560476
+            -60.775946,-31.559237
+            -60.777602,-31.558340
+            -60.779514,-31.557287
+            -60.779934,-31.557079
+            -60.780289,-31.556911
+            -60.780708,-31.556725
+            -60.781281,-31.556519
+            -60.781575,-31.556419
+            -60.781899,-31.556326
+            -60.782263,-31.556231
+            -60.782589,-31.556142
+            -60.783025,-31.556057
+            -60.794616,-31.553650
+            -60.795738,-31.553406
+            -60.796096,-31.553332
+            -60.796530,-31.553201
+            -60.797069,-31.553023
+            -60.797625,-31.552813
+            -60.797962,-31.552678
+            -60.798392,-31.552483
+            -60.798735,-31.552313
+            -60.799247,-31.552010
+            -60.799928,-31.551574
+            -60.800824,-31.550881
+            -60.806255,-31.546742
+            -60.808650,-31.544906
+            -60.875726,-31.493649
+            -60.877143,-31.492588
+            -60.878293,-31.491799
+            -60.920761,-31.462819
+            -60.924604,-31.460223
+            -60.925584,-31.459544
+            -60.926138,-31.459158
+            -60.926631,-31.458841
+            -60.926882,-31.458686
+            -60.927122,-31.458564
+            -60.927457,-31.458399
+            -60.927768,-31.458258
+            -60.928122,-31.458114
+            -60.928578,-31.457928
+            -60.929226,-31.457748
+            -60.929842,-31.457592
+            -60.930896,-31.457377
+            -60.935594,-31.456280
+            -61.086447,-31.421448
+            -61.091701,-31.420215
+            -61.092698,-31.419937
+            -61.093484,-31.419795
+            -61.094097,-31.419716
+            -61.094799,-31.419685
+            -61.095288,-31.419679
+            -61.096032,-31.419741
+            -61.096810,-31.419757
+            -61.098971,-31.420005
+            -61.248822,-31.435085
+            -61.249723,-31.435169
+            -61.250293,-31.435176
+            -61.250745,-31.435167
+            -61.251106,-31.435147
+            -61.251457,-31.435098
+            -61.259437,-31.433769
+            -61.262536,-31.433308
+            -61.263676,-31.433061
+            -61.264199,-31.432945
+            -61.264459,-31.432875
+            -61.264761,-31.432797
+            -61.265030,-31.432705
+            -61.265298,-31.432627
+            -61.265529,-31.432550
+            -61.265775,-31.432457
+            -61.266144,-31.432296
+            -61.266527,-31.432108
+            -61.266923,-31.431923
+            -61.267276,-31.431710
+            -61.413478,-31.343870
+            -61.414391,-31.343323
+            -61.414693,-31.343143
+            -61.414957,-31.342955
+            -61.415365,-31.342664
+            -61.415613,-31.342458
+            -61.415824,-31.342280
+            -61.415967,-31.342151
+            -61.416341,-31.341783
+            -61.416686,-31.341456
+            -61.416873,-31.341240
+            -61.417260,-31.340698
+            -61.417688,-31.340106
+            -61.470517,-31.256507
+            -61.470643,-31.256259
+            -61.470760,-31.256033
+            -61.470858,-31.255856
+            -61.470983,-31.255573
+            -61.471140,-31.255203
+            -61.471212,-31.255009
+            -61.471290,-31.254764
+            -61.471341,-31.254489
+            -61.471526,-31.253349
+            -61.471549,-31.253302
+            -61.472019,-31.250531
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Triángulo Santa Fe</name>
+        <LineString>
+          <coordinates>
+            -60.703192,-31.631885
+            -60.703550,-31.631800
+            -60.703642,-31.631760
+            -60.704064,-31.631558
+            -60.704390,-31.631370
+            -60.704649,-31.631109
+            -60.704789,-31.630983
+            -60.705138,-31.630437
+            -60.705777,-31.629593
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Las Flores (Emb) KM 6.6</name>
+        <description>KM 6.6</description>
+        <Point><coordinates>-60.728693,-31.590140</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme a Paradero (Empalme F2 / F4) KM 15.4 (F2)</name>
+        <description>Ramal F2: KM 15.4</description>
+        <Point><coordinates>-60.805920,-31.546993</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme San Carlos KM 15.7</name>
+        <description>KM 15.7</description>
+        <Point><coordinates>-60.807602,-31.545707</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Esperanza KM 31.2</name>
+        <description>KM 31.2</description>
+        <Point><coordinates>-60.932838,-31.456922</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Humboldt KM 46.6</name>
+        <description>KM 46.6</description>
+        <Point><coordinates>-61.089155,-31.420807</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Pilar KM 62.5</name>
+        <description>KM 62.5</description>
+        <Point><coordinates>-61.255218,-31.434473</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Aurelia (Emb) KM 74.6</name>
+        <description>KM 74.6</description>
+        <Point><coordinates>-61.361313,-31.375248</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme F2 / F3 KM 62.7</name>
+        <description>KM 62.7</description>
+        <Point><coordinates>-61.257352,-31.434113</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme CC4 / F2  KM 61.9 (CC4) / KM 92.2 (F2)</name>
+        <description>Ramal CC4: KM 61.9
+Ramal F2:  KM 92.2</description>
+        <Point><coordinates>-61.471548,-31.253302</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Rafaela KM 92.5 / KM 62.3 (F)</name>
+        <description>Ramal F2: KM 92.5
+Ramal CC4: KM 62.3</description>
+        <Point><coordinates>-61.472023,-31.250535</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Línea F2 - Rafaela - San Cristobal</name>
+      <Placemark>
+        <name>Línea F2 - Rafaela - San Cristobal</name>
+        <LineString>
+          <coordinates>
+            -61.472017,-31.250551
+            -61.472397,-31.248270
+            -61.472600,-31.247059
+            -61.472669,-31.246304
+            -61.472661,-31.245790
+            -61.472651,-31.245434
+            -61.472619,-31.245130
+            -61.472569,-31.244719
+            -61.472465,-31.244164
+            -61.472323,-31.243542
+            -61.472159,-31.242969
+            -61.443527,-31.128966
+            -61.442393,-31.124433
+            -61.421235,-31.039795
+            -61.406320,-30.980035
+            -61.384793,-30.893733
+            -61.384317,-30.892259
+            -61.383902,-30.891025
+            -61.377378,-30.878396
+            -61.376861,-30.877425
+            -61.376145,-30.875821
+            -61.375716,-30.874801
+            -61.373041,-30.863926
+            -61.371976,-30.859342
+            -61.356097,-30.795409
+            -61.355198,-30.790939
+            -61.354140,-30.786713
+            -61.343557,-30.744915
+            -61.341517,-30.736846
+            -61.324174,-30.667155
+            -61.321648,-30.656793
+            -61.273599,-30.462643
+            -61.272159,-30.456994
+            -61.239916,-30.326591
+            -61.239705,-30.325843
+            -61.239444,-30.325260
+            -61.239068,-30.324717
+            -61.238517,-30.324219
+            -61.234459,-30.320716
+            -61.230030,-30.316883
+            -61.229158,-30.316082
+            -61.228777,-30.315692
+            -61.228377,-30.315245
+            -61.228076,-30.314875
+            -61.227761,-30.314285
+            -61.227581,-30.313856
+            -61.227254,-30.312857
+            -61.226501,-30.310061
+            -61.225902,-30.307657
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Lehmann KM 106.5</name>
+        <description>KM 106.5</description>
+        <Point><coordinates>-61.442978,-31.126771</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruce FCGB (A) - FCGB (F2) KM 122.8 (A) KM 116.4 (F)</name>
+        <description>Línea A: KM 122.8
+Ramal F2: KM 116.4</description>
+        <Point><coordinates>-61.421243,-31.039830</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme A / F2</name>
+        <LineString>
+          <coordinates>
+            -61.419888,-31.034439
+            -61.420085,-31.034808
+            -61.420214,-31.035184
+            -61.420415,-31.035530
+            -61.420601,-31.035845
+            -61.420893,-31.036180
+            -61.421201,-31.036456
+            -61.421545,-31.036710
+            -61.421902,-31.036928
+            -61.422271,-31.037081
+            -61.422767,-31.037246
+            -61.423438,-31.037400
+            -61.424091,-31.037443
+            -61.424591,-31.037426
+            -61.425110,-31.037374
+            -61.426135,-31.037128
+            -61.426608,-31.037044
+            -61.426743,-31.037047
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Empalme A / F2 KM 117.0</name>
+        <description>KM 117.0</description>
+        <Point><coordinates>-61.419893,-31.034438</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Ataliva KM 121.2</name>
+        <description>KM 121.2</description>
+        <Point><coordinates>-61.410723,-30.997703</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Humberto I° KM 136.8</name>
+        <description>KM 136.8</description>
+        <Point><coordinates>-61.372432,-30.861280</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Vía Virginia</name>
+        <LineString>
+          <coordinates>
+            -61.342661,-30.741389
+            -61.342665,-30.741182
+            -61.341580,-30.736607
+            -61.341420,-30.735875
+            -61.341261,-30.735367
+            -61.341107,-30.734984
+            -61.340932,-30.734457
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Virginia KM 150.6</name>
+        <description>KM 150.6</description>
+        <Point><coordinates>-61.342105,-30.739185</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme F2 / F11 KM 150.9</name>
+        <description>KM 150.9</description>
+        <Point><coordinates>-61.341610,-30.736771</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Constanza KM 159.7</name>
+        <description>KM 159.7</description>
+        <Point><coordinates>-61.322157,-30.658775</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Capivara KM 182.3</name>
+        <description>KM 182.3</description>
+        <Point><coordinates>-61.272715,-30.459482</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 194 (Bomba) KM 193.7</name>
+        <description>KM 193.7</description>
+        <Point><coordinates>-61.247884,-30.358801</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>KM 197 (Bifurcación) KM 197.3</name>
+        <description>KM 197.3</description>
+        <Point><coordinates>-61.239915,-30.326601</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruce C / F2 / F13 KM 194.761 (C) / KM 198.1 (F2) / KM 160.4 (F13)</name>
+        <description>Línea C: KM 194.761
+Ramal F2: KM 198.1
+Ramal F13: KM 160.4</description>
+        <Point><coordinates>-61.234456,-30.320717</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Empalme C / F2 KM 195.4 (C) / KM 198.6 (F2)</name>
+        <description>Línea C: KM 195.4
+Ramal F2: KM 198.6</description>
+        <Point><coordinates>-61.236991,-30.314878</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>San Cristobal (FCSF) KM 199.6 (F2) / KM 161.9 (F13)</name>
+        <description>Ramal F2: KM 199.6
+Ramal F13: KM 161.9</description>
+        <Point><coordinates>-61.226456,-30.309896</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Ramal F2: Bifurcación - San Cristobal (F)</name>
+        <LineString>
+          <coordinates>
+            -61.239925,-30.326601
+            -61.236995,-30.314882
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Folder>
+</kml>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 33: Rufino - Justo Daract</name>
+    <description>Div 33: Rufino - Justo Daract. Dibujado por:
+Pablo Anglat
+Gino Nuñez
+
+Fuentes: 
+- Itinerario del FCGSM de Gustavo López
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+- Daniel Grene, traza GPS viaje Tren Nacional por la Paz y No Violencia.
+
+http://www.ferromapas.com.ar/
+Mendoza y Buenos Aires, Argentina</description>
+    <Placemark>
+      <name>Div 33: Rufino - Justo Daract</name>
+      <description>Dibujado por Pablo Anglat
+http://ffcc.panglat.com.ar</description>
+      <LineString>
+        <coordinates>
+          -62.711070,-34.260439
+          -62.715105,-34.259707
+          -62.715843,-34.259556
+          -62.718297,-34.259069
+          -62.721277,-34.258485
+          -62.724128,-34.257834
+          -62.730948,-34.256508
+          -62.735964,-34.255491
+          -62.747163,-34.253244
+          -62.775042,-34.247645
+          -62.799531,-34.242639
+          -62.816748,-34.239214
+          -62.838702,-34.234802
+          -62.860816,-34.230287
+          -62.873888,-34.227600
+          -62.882338,-34.225962
+          -62.895895,-34.223142
+          -62.918390,-34.218651
+          -62.923787,-34.217523
+          -62.945473,-34.213122
+          -62.972067,-34.207730
+          -62.983142,-34.205449
+          -63.002330,-34.201542
+          -63.028682,-34.196198
+          -63.106097,-34.180407
+          -63.128482,-34.175814
+          -63.149299,-34.171560
+          -63.158525,-34.169690
+          -63.169957,-34.167372
+          -63.248123,-34.151322
+          -63.334159,-34.133577
+          -63.382084,-34.123634
+          -63.406356,-34.118751
+          -63.441343,-34.111454
+          -63.461379,-34.107316
+          -63.485780,-34.102284
+          -63.516780,-34.095775
+          -63.546804,-34.089505
+          -63.588524,-34.080834
+          -63.608500,-34.076667
+          -63.640870,-34.069929
+          -63.688538,-34.059945
+          -63.728530,-34.051625
+          -63.823596,-34.031639
+          -63.905652,-34.014265
+          -64.006812,-33.992668
+          -64.016651,-33.990542
+          -64.078603,-33.977351
+          -64.160723,-33.959688
+          -64.224083,-33.946092
+          -64.256332,-33.939094
+          -64.272428,-33.935657
+          -64.290052,-33.931773
+          -64.345644,-33.919710
+          -64.396617,-33.908658
+          -64.413883,-33.904882
+          -64.444982,-33.898080
+          -64.463569,-33.894059
+          -64.470756,-33.892481
+          -64.474948,-33.891562
+          -64.477386,-33.891117
+          -64.479617,-33.890900
+          -64.497146,-33.889205
+          -64.511765,-33.887708
+          -64.525039,-33.886510
+          -64.529879,-33.885974
+          -64.534819,-33.885544
+          -64.540967,-33.884969
+          -64.623517,-33.876883
+          -64.686416,-33.870908
+          -64.777480,-33.861959
+          -64.788171,-33.860954
+          -64.790194,-33.860760
+          -64.792083,-33.860628
+          -64.793376,-33.860597
+          -64.794701,-33.860624
+          -64.798623,-33.860857
+          -64.811659,-33.861612
+          -64.817481,-33.861984
+          -64.851244,-33.863851
+          -64.940783,-33.868930
+          -65.017790,-33.873222
+          -65.027034,-33.873740
+          -65.126897,-33.879282
+          -65.128895,-33.879390
+          -65.129991,-33.879435
+          -65.130584,-33.879445
+          -65.131271,-33.879439
+          -65.131936,-33.879400
+          -65.132960,-33.879334
+          -65.133825,-33.879242
+          -65.135082,-33.879046
+          -65.135995,-33.878878
+          -65.137438,-33.878515
+          -65.138241,-33.878281
+          -65.138974,-33.878033
+          -65.140246,-33.877547
+          -65.141501,-33.876964
+          -65.169556,-33.862539
+          -65.171052,-33.861845
+          -65.173849,-33.860456
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Rufino (FCGSM) KM 421.1 (FCGSM) / KM 91.5 (FCGBM)</name>
+      <description>FCGSM: KM 421.1
+FCGBM: KM 91.5
+Código: RRF</description>
+      <Point><coordinates>-62.710965,-34.260646</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal a Hipólito Buchard KM 421.5</name>
+      <description>KM 421.5</description>
+      <Point><coordinates>-62.714801,-34.259782</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Ramal a La Carlota KM 421.63</name>
+      <description>KM 421.63</description>
+      <Point><coordinates>-62.715349,-34.259643</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Vivero KM 432.9</name>
+      <description>KM 432.9
+Código: RVI</description>
+      <Point><coordinates>-62.835347,-34.235403</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Leguizamon KM 446.3</name>
+      <description>KM 446.3
+Código: RLE</description>
+      <Point><coordinates>-62.977288,-34.206698</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Salas KM 455,8</name>
+      <description>KM 455,8
+Código: RSA</description>
+      <Point><coordinates>-63.076949,-34.186347</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosales KM 463.1</name>
+      <description>KM 463.1
+RRO</description>
+      <Point><coordinates>-63.153842,-34.170682</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 474 KM 473,7</name>
+      <description>KM 473,7
+Código: R47</description>
+      <Point><coordinates>-63.265790,-34.148018</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Laboulaye KM 485.3</name>
+      <description>KM 485.3
+Código: RLB</description>
+      <Point><coordinates>-63.387672,-34.122507</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Sampacho KM 486.0</name>
+      <description>KM 486.0</description>
+      <Point><coordinates>-63.395289,-34.121167</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Villa Valeria KM 486.0</name>
+      <description>KM 486.0</description>
+      <Point><coordinates>-63.395289,-34.121167</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Guardia Vieja KM 497.1</name>
+      <description>KM 497.1
+Código: RGV</description>
+      <Point><coordinates>-63.512560,-34.096675</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Curapaligüé KM 506.8</name>
+      <description>KM 506.8
+Código: RCP</description>
+      <Point><coordinates>-63.614079,-34.075509</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rio Bamba KM 518.0</name>
+      <description>KM 518.0
+Código: RRB</description>
+      <Point><coordinates>-63.731365,-34.051001</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Gavilán (DC) KM 528.9</name>
+      <description>KM 528.9</description>
+      <Point><coordinates>-63.845216,-34.027006</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>General Levalle KM 536.4</name>
+      <description>KM 536.4
+Código: RGL</description>
+      <Point><coordinates>-63.924104,-34.010300</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>KM 545 (DC) KM 544.6</name>
+      <description>KM 544.6</description>
+      <Point><coordinates>-64.010337,-33.991925</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Cautiva KM 551.7</name>
+      <description>KM 551.7
+Código: RLT</description>
+      <Point><coordinates>-64.084857,-33.976019</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>General Soler KM 566.9</name>
+      <description>KM 566.9
+Código: RGS</description>
+      <Point><coordinates>-64.244143,-33.941738</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Vicuña Mackenna KM 580.7</name>
+      <description>KM 580.7
+Código: RMK</description>
+      <Point><coordinates>-64.388139,-33.910526</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Sampacho KM 581.3</name>
+      <description>KM 581.3</description>
+      <Point><coordinates>-64.394687,-33.909067</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pretot Freyre KM 594.0</name>
+      <description>KM 594.0
+Código: RPF</description>
+      <Point><coordinates>-64.529707,-33.886034</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Washington KM 608.9</name>
+      <description>KM 608.9
+Código: RWA</description>
+      <Point><coordinates>-64.688947,-33.870666</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Laguna Oscura KM 624.4</name>
+      <description>KM 624.4
+Código: RLO</description>
+      <Point><coordinates>-64.855848,-33.864125</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Paunero KM 640.0</name>
+      <description>KM 640.0
+Código: RPA</description>
+      <Point><coordinates>-65.024265,-33.873591</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Justo Daract KM 654.4</name>
+      <description>KM 654.4
+Código: CJD</description>
+      <Point><coordinates>-65.173855,-33.860462</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Cañada Verde KM 654.16</name>
+      <description>KM 654.16</description>
+      <Point><coordinates>-65.171530,-33.861636</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Marca de posición sin título</name>
+      <Point><coordinates>-63.155268,-34.170361</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Desvio Laboulaye</name>
+      <LineString>
+        <coordinates>
+          -63.392808,-34.121448
+          -63.393483,-34.121295
+          -63.393852,-34.120949
+          -63.394070,-34.120684
+          -63.394218,-34.120316
+          -63.394325,-34.119972
+          -63.394281,-34.119698
+          -63.393977,-34.118465
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>La Zanja - González Moreno</name>
+    <description>La Zanja - González Moreno. Dibujado por:
+Pablo Anglat
+
+Fuentes: 
+- Biblioteca de itinerarios y Horarios, aportados por: Sebastián Bottaro, Fernando Carnero, Damián Di Pasquale, Jorge Faye, Gustavo Federico, Gustavo López, Jorge Männtaras, Mario Marotti, Rubén Sagristani, Carlos Skerk, Ignacio Varela, Ignacio Vargas (Chile)
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>La Zanja - González Moreno</name>
+      <LineString>
+        <coordinates>
+          -62.876890,-36.051869
+          -62.870094,-36.046497
+          -62.868427,-36.044934
+          -62.867424,-36.043740
+          -62.866703,-36.042553
+          -62.865917,-36.040904
+          -62.865463,-36.039586
+          -62.865241,-36.038234
+          -62.865181,-36.036962
+          -62.865223,-36.035509
+          -62.865447,-36.034298
+          -62.865937,-36.032702
+          -62.866574,-36.031318
+          -62.867151,-36.030457
+          -62.868329,-36.028900
+          -62.869447,-36.027738
+          -62.974139,-35.926110
+          -62.981488,-35.919066
+          -63.134530,-35.768675
+          -63.141451,-35.761867
+          -63.251007,-35.654126
+          -63.257844,-35.647284
+          -63.340358,-35.566146
+          -63.342406,-35.564085
+          -63.344267,-35.562254
+          -63.345254,-35.561346
+          -63.346193,-35.560597
+          -63.347253,-35.559860
+          -63.348534,-35.559070
+          -63.349929,-35.558348
+          -63.351177,-35.557718
+          -63.353080,-35.557040
+          -63.355157,-35.556493
+          -63.357210,-35.556108
+          -63.358466,-35.555955
+          -63.360051,-35.555846
+          -63.362232,-35.555808
+          -63.363662,-35.555928
+          -63.365760,-35.556150
+          -63.380060,-35.558717
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>La Zanja KM 459.2</name>
+      <description>KM 459.2</description>
+      <Point><coordinates>-62.876935,-36.051852</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lértora KM 18.6</name>
+      <description>KM 18.6</description>
+      <Point><coordinates>-62.979606,-35.920888</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce entre FCGB (P) Y FCDFS KM 528.0 (P)</name>
+      <description>KM 528.0</description>
+      <Point><coordinates>-63.124937,-35.778128</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sundblad KM 41.3</name>
+      <description>KM 41.3</description>
+      <Point><coordinates>-63.139895,-35.763391</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Valentín Gómez KM 57.8</name>
+      <description>KM 57.8</description>
+      <Point><coordinates>-63.256311,-35.648837</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>González Moreno KM 487.0 / KM 73.8 (ex Meridiano V)</name>
+      <description>Olascoaga - Timote - General Pico - Telen KM 487.0
+La Zanja - González Moreno KM 73.8</description>
+      <Point><coordinates>-63.380069,-35.558718</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

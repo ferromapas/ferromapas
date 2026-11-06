@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 62: Justo Daract - Villa Mercedes</name>
+    <Placemark>
+      <name>Div 62: Justo Daract - Villa Mercedes</name>
+      <LineString>
+        <coordinates>
+          -65.173855,-33.860457
+          -65.179848,-33.857278
+          -65.190068,-33.852008
+          -65.198819,-33.847534
+          -65.204956,-33.843909
+          -65.211805,-33.839751
+          -65.214152,-33.838327
+          -65.226673,-33.830778
+          -65.241340,-33.821920
+          -65.247415,-33.818322
+          -65.255920,-33.813190
+          -65.257019,-33.812464
+          -65.258203,-33.811669
+          -65.259877,-33.810466
+          -65.261023,-33.809611
+          -65.261741,-33.808998
+          -65.262375,-33.808414
+          -65.263895,-33.807049
+          -65.265999,-33.804989
+          -65.267276,-33.803494
+          -65.269942,-33.800443
+          -65.271832,-33.798263
+          -65.274134,-33.795639
+          -65.275611,-33.793951
+          -65.280090,-33.788810
+          -65.284465,-33.783825
+          -65.288846,-33.778775
+          -65.293787,-33.773120
+          -65.299794,-33.766234
+          -65.306077,-33.759016
+          -65.310516,-33.753937
+          -65.313917,-33.750023
+          -65.320446,-33.742527
+          -65.324874,-33.737400
+          -65.331526,-33.729787
+          -65.337730,-33.722689
+          -65.343934,-33.715642
+          -65.351642,-33.706785
+          -65.358665,-33.698747
+          -65.363316,-33.693429
+          -65.371162,-33.684361
+          -65.373576,-33.681683
+          -65.375245,-33.680215
+          -65.376724,-33.679124
+          -65.377896,-33.678347
+          -65.379247,-33.677554
+          -65.380664,-33.676871
+          -65.381914,-33.676308
+          -65.383405,-33.675728
+          -65.384530,-33.675383
+          -65.386393,-33.674866
+          -65.389335,-33.674223
+          -65.409479,-33.669619
+          -65.428502,-33.665279
+          -65.446056,-33.661308
+          -65.447676,-33.660901
+          -65.449110,-33.660559
+          -65.451559,-33.659993
+          -65.452301,-33.659831
+          -65.452650,-33.659747
+          -65.452997,-33.659677
+          -65.453311,-33.659645
+          -65.453492,-33.659643
+          -65.453668,-33.659667
+          -65.453776,-33.659687
+          -65.454046,-33.659767
+          -65.454632,-33.659993
+          -65.456197,-33.660554
+          -65.458574,-33.661362
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cabin Avanzada (Oeste) KM 658.7</name>
+      <description>KM 658.7</description>
+      <Point><coordinates>-65.212606,-33.839268</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a San Luis KM 658.7</name>
+      <description>KM 658.7</description>
+      <Point><coordinates>-65.212606,-33.839268</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pedernera KM 667.9</name>
+      <description>KM 667.9
+Código: CPA</description>
+      <Point><coordinates>-65.284548,-33.783733</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Bertrand KM 679.56</name>
+      <description>KM 79.56</description>
+      <Point><coordinates>-65.358623,-33.698761</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cramer KM 679.9</name>
+      <description>KM 679.9
+Código: CCR</description>
+      <Point><coordinates>-65.360544,-33.696603</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (Buenos Aires al Pacífico) (Playa Este) KM 689.65</name>
+      <description>(Buenos Aires al Pacífico)
+(Playa Este)
+KM 689.65</description>
+      <Point><coordinates>-65.452047,-33.659942</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme BAP / Andino KM 689.87324
+KM 0.0 (Ramal a La Paz)</name>
+      <description>KM 689.87324
+Ramal a la Paz: KM 0.0</description>
+      <Point><coordinates>-65.454425,-33.659914</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme a Sampacho KM 689,86</name>
+      <description>KM 689,86</description>
+      <Point><coordinates>-65.454006,-33.659755</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (FC Andino) KM 690.3/0.4</name>
+      <description>(FC Andino)
+KM 690.3/0.4
+Código: CVS</description>
+      <Point><coordinates>-65.458257,-33.661254</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Villa Mercedes (Gran Oeste Argentino)</name>
+      <description>(Gran Oeste Argentino)</description>
+      <Point><coordinates>-65.458570,-33.662205</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme FC Andino / GOA KM 690.56959</name>
+      <description>KM 690.56959</description>
+      <Point><coordinates>-65.461583,-33.662410</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cramer - Vía Escape</name>
+      <LineString>
+        <coordinates>
+          -65.357105,-33.700530
+          -65.356824,-33.700941
+          -65.356605,-33.701237
+          -65.356492,-33.701486
+          -65.356405,-33.702010
+          -65.356356,-33.702541
+          -65.356327,-33.702845
+          -65.356332,-33.703132
+          -65.356363,-33.703419
+          -65.356440,-33.703831
+          -65.356547,-33.704242
+          -65.356688,-33.704580
+          -65.356849,-33.704907
+          -65.357024,-33.705206
+          -65.357265,-33.705511
+          -65.358118,-33.706330
+          -65.358600,-33.706810
+          -65.361614,-33.709663
+          -65.365307,-33.713138
+          -65.370310,-33.718022
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Enlace Nuevo BAP - GOA</name>
+      <LineString>
+        <coordinates>
+          -65.445213,-33.661499
+          -65.446577,-33.661215
+          -65.447422,-33.661041
+          -65.447773,-33.661001
+          -65.448014,-33.661002
+          -65.448905,-33.661082
+          -65.449327,-33.661146
+          -65.449766,-33.661197
+          -65.450104,-33.661193
+          -65.450389,-33.661182
+          -65.450686,-33.661161
+          -65.451126,-33.661077
+          -65.452606,-33.660760
+          -65.453183,-33.660627
+          -65.453598,-33.660579
+          -65.453774,-33.660588
+          -65.453922,-33.660629
+          -65.454313,-33.660750
+          -65.455662,-33.661180
+          -65.458145,-33.662056
+          -65.459357,-33.662440
+          -65.460210,-33.662620
+          -65.460774,-33.662671
+          -65.461541,-33.662693
+          -65.461836,-33.662699
+          -65.462283,-33.662729
+          -65.462605,-33.662769
+          -65.462825,-33.662806
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</kml>
