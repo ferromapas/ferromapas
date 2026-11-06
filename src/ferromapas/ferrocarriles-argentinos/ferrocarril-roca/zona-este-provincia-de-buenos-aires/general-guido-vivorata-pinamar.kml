@@ -1044,5 +1044,9 @@ Buenos Aires, Argentina</description>
       <description>KM 414.1</description>
       <Point><coordinates>-57.669272,-37.663793</coordinates></Point>
     </Placemark>
+    <Placemark>
+      <name>Divisadero Pinamar KM 21.2</name>
+      <Point><coordinates>-56.902796,-37.099845</coordinates></Point>
+    </Placemark>
   </Folder>
 </kml>

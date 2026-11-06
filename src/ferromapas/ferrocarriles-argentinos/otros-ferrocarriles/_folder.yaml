@@ -2,7 +2,6 @@ name: Otros Ferrocarriles
 children:
 - _loose.kml
 - ferrocarril-a-tupungato-750mm-ferrocarril-industrial-mendoza.kml
-- metrotranvia-urbano-mendoza.kml
 - desvio-a-filtros-obras-sanitarias-mendoza.kml
 - ferrocarril-piedra-baya.kml
 - santa-romana.kml

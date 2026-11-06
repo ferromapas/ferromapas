@@ -142,20 +142,15 @@ Mendoza y Buenos Aires, Argentina</description>
           -68.392616,-32.745422
           -68.392146,-32.745030
           -68.390557,-32.743665
-          -68.386944,-32.740468
-          -68.385542,-32.739071
           -68.382103,-32.736129
-          -68.377265,-32.731821
-          -68.371053,-32.726491
-          -68.364441,-32.720612
-          -68.342343,-32.701322
-          -68.342067,-32.701104
-          -68.341515,-32.700878
-          -68.341117,-32.700767
-          -68.340762,-32.700734
-          -68.339460,-32.700759
-          -68.326212,-32.701303
-          -68.322386,-32.701459
+          -68.344064,-32.703114
+          -68.342909,-32.702543
+          -68.341943,-32.702344
+          -68.340681,-32.702200
+          -68.340157,-32.702187
+          -68.339679,-32.702210
+          -68.322969,-32.702867
+          -68.320150,-32.702962
         </coordinates>
       </LineString>
     </Placemark>
@@ -191,14 +186,9 @@ Mendoza y Buenos Aires, Argentina</description>
       <Point><coordinates>-68.404364,-32.747143</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Gustavo Andre? KM 53.1</name>
+      <name>Gustavo Andre KM 53.1</name>
       <description>KM 53.1</description>
-      <Point><coordinates>-68.322475,-32.701466</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>Gustavo Andre? KM 53.1</name>
-      <description>KM 53.1</description>
-      <Point><coordinates>-68.318306,-32.700446</coordinates></Point>
+      <Point><coordinates>-68.321714,-32.702892</coordinates></Point>
     </Placemark>
   </Folder>
 </kml>

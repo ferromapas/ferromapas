@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvío Bodega Tomba</name>
+    <Placemark>
+      <name>Desvío Bodega Tomba</name>
+      <LineString>
+        <coordinates>
+          -68.761941,-32.886672
+          -68.762632,-32.885583
+          -68.762957,-32.884793
+          -68.763058,-32.884023
+          -68.762898,-32.883132
+          -68.757192,-32.863148
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Desvío Bodega Tomba</name>
+      <LineString>
+        <coordinates>
+          -68.757664,-32.864823
+          -68.757178,-32.863836
+          -68.756660,-32.863213
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bodega Tomba</name>
+      <Point><coordinates>-68.756095,-32.862917</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

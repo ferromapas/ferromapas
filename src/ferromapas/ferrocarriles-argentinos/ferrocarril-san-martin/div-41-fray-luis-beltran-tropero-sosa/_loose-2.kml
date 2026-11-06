@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Div 41: Fray Luis Beltrán - Tropero Sosa</name>
+    <Placemark>
+      <name>Puente</name>
+      <description>(GPS)</description>
+      <Point><coordinates>-68.774733,-32.869300</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lagunita KM 20.0</name>
+      <description>KM 20.0
+Código: CLG
+(GPS)</description>
+      <Point><coordinates>-68.778800,-32.863700</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente</name>
+      <description>(GPS)</description>
+      <Point><coordinates>-68.782917,-32.858183</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Plumerillo (Parada) KM 21.9</name>
+      <description>KM 21.9
+Parada</description>
+      <Point><coordinates>-68.786278,-32.853636</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Teniente Benjamín Matienzo(Parada)  KM 23.9</name>
+      <description>KM 23.9
+Parada</description>
+      <Point><coordinates>-68.803527,-32.838572</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Espejo KM 26.4</name>
+      <description>KM 26.4
+Código: CEO
+(GPS)</description>
+      <Point><coordinates>-68.817617,-32.820083</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme</name>
+      <description>(GPS)</description>
+      <Point><coordinates>-68.820500,-32.818000</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme Tropero Sosa KM 1071.5</name>
+      <description>KM 1071.5
+Código: CTS
+(GPS)</description>
+      <Point><coordinates>-68.828583,-32.808083</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>
