@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Desvío Bodega Santa Ana</name>
+    <Placemark>
+      <name>Desvío Bodega Santa Ana</name>
+      <LineString>
+        <coordinates>
+          -68.770676,-32.874835
+          -68.770469,-32.875356
+          -68.770371,-32.875761
+          -68.770325,-32.876170
+          -68.770304,-32.876490
+          -68.770315,-32.876771
+          -68.770396,-32.877155
+          -68.770592,-32.877892
+          -68.770997,-32.879340
+          -68.771308,-32.880435
+          -68.771968,-32.882959
+          -68.772284,-32.884102
+          -68.772462,-32.885056
+          -68.772583,-32.885550
+          -68.772785,-32.886170
+          -68.773126,-32.887086
+          -68.773534,-32.888208
+          -68.774515,-32.890760
+          -68.774860,-32.891610
+          -68.774990,-32.891954
+          -68.775465,-32.893018
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bodega Santa Ana (ex Basso Toneller y Cia.)</name>
+      <Point><coordinates>-68.775472,-32.893003</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

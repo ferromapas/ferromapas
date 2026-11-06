@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Linea Gutierrez - Mendoza - Aeropuerto</name>
+    <description>Metrotranvia de Mendoza.
+Linea Gutierrez - Mendoza - Aeropuerto
+Dibujado por:
+Pablo Anglat
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>Linea Gutierrez - Mendoza - Aeropuerto</name>
+      <LineString>
+        <coordinates>
+          -68.780134,-32.960645
+          -68.785076,-32.958785
+          -68.789177,-32.957221
+          -68.793114,-32.955785
+          -68.799586,-32.953280
+          -68.800359,-32.952942
+          -68.801560,-32.952323
+          -68.802968,-32.951489
+          -68.804526,-32.950395
+          -68.808333,-32.947285
+          -68.811125,-32.945003
+          -68.826678,-32.932237
+          -68.833426,-32.926761
+          -68.836616,-32.924124
+          -68.838227,-32.922735
+          -68.840624,-32.920835
+          -68.841182,-32.920384
+          -68.843250,-32.918696
+          -68.845977,-32.916416
+          -68.847745,-32.914826
+          -68.848451,-32.914160
+          -68.849241,-32.913235
+          -68.850509,-32.911564
+          -68.851250,-32.910151
+          -68.851809,-32.908875
+          -68.852101,-32.908249
+          -68.852396,-32.907285
+          -68.852531,-32.906705
+          -68.852662,-32.906306
+          -68.852805,-32.905607
+          -68.852882,-32.905227
+          -68.852931,-32.904776
+          -68.853021,-32.902635
+          -68.853021,-32.902216
+          -68.852907,-32.901155
+          -68.852721,-32.900300
+          -68.852599,-32.899539
+          -68.852329,-32.898615
+          -68.851754,-32.896466
+          -68.848645,-32.884598
+          -68.848551,-32.884294
+          -68.848467,-32.883992
+          -68.848426,-32.883806
+          -68.848291,-32.883295
+          -68.848190,-32.882865
+          -68.843035,-32.863619
+          -68.842913,-32.862912
+          -68.842859,-32.862355
+          -68.842761,-32.861667
+          -68.842681,-32.861255
+          -68.842466,-32.860691
+          -68.841423,-32.858321
+          -68.841129,-32.857594
+          -68.840994,-32.857174
+          -68.839787,-32.851697
+          -68.839376,-32.849979
+          -68.836215,-32.837558
+          -68.831785,-32.820619
+          -68.831443,-32.819661
+          -68.831006,-32.818915
+          -68.830663,-32.818460
+          -68.830045,-32.817871
+          -68.829515,-32.817493
+          -68.828700,-32.816996
+          -68.827774,-32.816642
+          -68.826386,-32.816296
+          -68.825427,-32.816249
+          -68.824408,-32.816338
+          -68.823086,-32.816636
+          -68.822309,-32.816952
+          -68.821514,-32.817383
+          -68.819966,-32.818371
+          -68.815116,-32.821834
+          -68.814006,-32.822521
+          -68.812237,-32.823755
+          -68.811548,-32.824255
+          -68.811314,-32.824307
+          -68.810873,-32.824305
+          -68.810266,-32.824281
+          -68.803414,-32.824221
+          -68.802717,-32.824184
+          -68.802377,-32.824210
+          -68.801903,-32.824341
+          -68.801581,-32.824477
+          -68.801421,-32.824597
+          -68.801224,-32.824744
+          -68.801031,-32.824950
+          -68.800855,-32.825175
+          -68.800759,-32.825375
+          -68.800689,-32.825592
+          -68.800657,-32.825775
+          -68.800646,-32.825960
+          -68.800627,-32.827614
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Gutiérrez</name>
+      <Point><coordinates>-68.782727,-32.959672</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Maza</name>
+      <Point><coordinates>-68.789503,-32.957106</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Alta Italia</name>
+      <Point><coordinates>-68.795271,-32.954931</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Piedra Buena</name>
+      <Point><coordinates>-68.801201,-32.952510</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Luzuriaga</name>
+      <Point><coordinates>-68.808162,-32.947357</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>9 de Julio</name>
+      <Point><coordinates>-68.815155,-32.941649</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parque TIC</name>
+      <Point><coordinates>-68.819385,-32.938225</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Independencia</name>
+      <Point><coordinates>-68.825917,-32.932863</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Progreso</name>
+      <Point><coordinates>-68.833198,-32.926916</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Godoy Cruz (MTM)</name>
+      <Point><coordinates>-68.839831,-32.921459</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>San Martín (MTM)</name>
+      <Point><coordinates>-68.846468,-32.916051</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Empalme MTM a Lujan de Cuyo (MTM)</name>
+      <Point><coordinates>-68.851550,-32.909612</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pellegrini</name>
+      <Point><coordinates>-68.851966,-32.908707</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>25 de Mayo</name>
+      <Point><coordinates>-68.852959,-32.904602</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pedro Molina</name>
+      <Point><coordinates>-68.851887,-32.896959</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Belgrano (MTM)</name>
+      <Point><coordinates>-68.850114,-32.890208</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mendoza (MTM) (desactivado)</name>
+      <Point><coordinates>-68.848501,-32.884091</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mendoza (MTM)</name>
+      <Point><coordinates>-68.848195,-32.882873</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Suipacha</name>
+      <Point><coordinates>-68.847233,-32.879353</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Moldes</name>
+      <Point><coordinates>-68.846450,-32.876402</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Lugones</name>
+      <Point><coordinates>-68.844762,-32.870075</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Rubilar</name>
+      <Point><coordinates>-68.843784,-32.866435</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Godoy (MTM)</name>
+      <Point><coordinates>-68.842061,-32.859800</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Patricias Mendocinas</name>
+      <Point><coordinates>-68.840519,-32.855056</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Roca (MTM)</name>
+      <Point><coordinates>-68.839980,-32.852308</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Burgos</name>
+      <Point><coordinates>-68.838793,-32.847416</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Avellaneda (MTM)</name>
+      <Point><coordinates>-68.836794,-32.839751</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Garro?</name>
+      <Point><coordinates>-68.833653,-32.827682</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador???</name>
+      <Point><coordinates>-68.832442,-32.823129</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Espejo?</name>
+      <Point><coordinates>-68.817613,-32.820055</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Cruce MTM / FCGSM</name>
+      <Point><coordinates>-68.814458,-32.822241</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Aeropuerto (MTM)</name>
+      <Point><coordinates>-68.800632,-32.827247</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

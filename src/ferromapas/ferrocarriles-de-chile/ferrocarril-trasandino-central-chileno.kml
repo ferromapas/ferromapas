@@ -18,14 +18,7 @@ Mendoza, Argentina</description>
       <name>Ferrocarril Trasandino Central Chileno</name>
       <LineString>
         <coordinates>
-          -70.605679,-32.823277
-          -70.598691,-32.827007
-          -70.598282,-32.827189
-          -70.597939,-32.827287
-          -70.597551,-32.827432
-          -70.597271,-32.827526
-          -70.595226,-32.828607
-          -70.592221,-32.830160
+          -70.593921,-32.829326
           -70.589809,-32.831470
           -70.589615,-32.831587
           -70.589486,-32.831700
@@ -499,21 +492,16 @@ Mendoza, Argentina</description>
           -70.365930,-32.905865
           -70.364205,-32.907256
           -70.363855,-32.907577
-          -70.362849,-32.909510
-          -70.362613,-32.909843
-          -70.362292,-32.910279
-          -70.362041,-32.910471
-          -70.361821,-32.910542
-          -70.361550,-32.910593
-          -70.361337,-32.910807
-          -70.361107,-32.911291
-          -70.360881,-32.911784
-          -70.360734,-32.912215
-          -70.360684,-32.912487
-          -70.360910,-32.913534
-          -70.361080,-32.913978
-          -70.361299,-32.914637
-          -70.361319,-32.914921
+          -70.361810,-32.909660
+          -70.361639,-32.909820
+          -70.361437,-32.910492
+          -70.361423,-32.911041
+          -70.360950,-32.911610
+          -70.360795,-32.912245
+          -70.361171,-32.913551
+          -70.361371,-32.914145
+          -70.361374,-32.914732
+          -70.361360,-32.914905
           -70.361280,-32.915134
           -70.361167,-32.915405
           -70.360905,-32.915804
@@ -1321,6 +1309,18 @@ Mendoza, Argentina</description>
       </LineString>
     </Placemark>
     <Placemark>
+      <name>Empalme FCT / FdE</name>
+      <LineString>
+        <coordinates>
+          -70.603532,-32.824283
+          -70.598511,-32.826984
+          -70.597363,-32.827370
+          -70.595072,-32.828541
+          -70.593907,-32.829288
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
       <name>Antigua Traza</name>
       <LineString>
         <coordinates>
@@ -1457,34 +1457,68 @@ Mendoza, Argentina</description>
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Los Andes KM 0 (830.4 msnm)</name>
+      <name>Los Andes (Ferrocarriles del Estado)</name>
+      <Point><coordinates>-70.599972,-32.826304</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Los Andes (FCT) KM 0</name>
       <description>KM 0 (816.3 msnm)</description>
-      <Point><coordinates>-70.599999,-32.826315</coordinates></Point>
+      <Point><coordinates>-70.593950,-32.829255</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>San Pablo KM 10 (984.9 msnm)</name>
-      <description>KM 10 (984.9 msnm)</description>
-      <Point><coordinates>-70.511388,-32.852724</coordinates></Point>
+      <name>Vilcuya KM 15.624</name>
+      <description>KM15.624</description>
+      <Point><coordinates>-70.452085,-32.857175</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>KM 16.12</name>
-      <description>KM 16.12</description>
-      <Point><coordinates>-70.452982,-32.856698</coordinates></Point>
+      <name>Túnel 1 (55 m) KM 19.117</name>
+      <description>KM 19.117</description>
+      <Point><coordinates>-70.416976,-32.863793</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>KM 20 (1073.8 msdn)</name>
-      <description>KM 20  (1073.8 msdn)</description>
-      <Point><coordinates>-70.414391,-32.864584</coordinates></Point>
+      <name>Túnel 2 (47 m) KM 24.135</name>
+      <description>KM 24.135</description>
+      <Point><coordinates>-70.380986,-32.892616</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>KM 27?</name>
-      <description>KM 27</description>
-      <Point><coordinates>-70.364207,-32.907261</coordinates></Point>
+      <name>Túnel 3 (69 m) KM 24.266</name>
+      <description>KM 24.266</description>
+      <Point><coordinates>-70.380223,-32.893583</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Río Blanco KM 43.9 (1440 msdn)</name>
-      <description>KM 43.9 (1440 msdn)</description>
-      <Point><coordinates>-70.304562,-32.909272</coordinates></Point>
+      <name>Túnel 4 (240 m) KM 26.600</name>
+      <description>KM 26.600</description>
+      <Point><coordinates>-70.363910,-32.907270</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente 10.20 m KM 26.730</name>
+      <description>KM 26.730</description>
+      <Point><coordinates>-70.363031,-32.908412</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Túnel 5 (63 m) KM 26.780</name>
+      <description>KM 26.780</description>
+      <Point><coordinates>-70.362802,-32.908639</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Túnel 6 (41.50 m) KM 26.958</name>
+      <description>KM 26.958</description>
+      <Point><coordinates>-70.361603,-32.909982</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Túnel 7 (66.5 m) KM 27.022</name>
+      <description>KM 27.022</description>
+      <Point><coordinates>-70.361420,-32.910490</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puente 2 tramos 20 m c/u KM 27.290</name>
+      <description>KM 27.290</description>
+      <Point><coordinates>-70.361069,-32.913272</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Río Blanco KM 33.900</name>
+      <description>KM 33.900</description>
+      <Point><coordinates>-70.305183,-32.909562</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>Juncal (ex Hermanos Clark) KM 50.9 (2250 msnm)</name>

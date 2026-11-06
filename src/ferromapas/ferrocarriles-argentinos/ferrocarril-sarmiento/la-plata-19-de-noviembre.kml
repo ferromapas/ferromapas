@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>La Plata - 19 de Noviembre</name>
+    <description>La Plata - 19 de Noviembre. Dibujado por:
+Pablo Anglat
+
+http://www.ferromapas.com.ar/
+Mendoza, Argentina</description>
+    <Placemark>
+      <name>La Plata - 19 de Noviembre</name>
+      <LineString>
+        <coordinates>
+          -57.949437,-34.904359
+          -57.949272,-34.904510
+          -57.949216,-34.904598
+          -57.949166,-34.904745
+          -57.949135,-34.905241
+          -57.948738,-34.912571
+          -57.948749,-34.913093
+          -57.948846,-34.913283
+          -57.949062,-34.913519
+          -57.949945,-34.914274
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>19 de Noviembre (FCPdeBsAs)</name>
+      <Point><coordinates>-57.949890,-34.914280</coordinates></Point>
+    </Placemark>
+  </Folder>
+</kml>

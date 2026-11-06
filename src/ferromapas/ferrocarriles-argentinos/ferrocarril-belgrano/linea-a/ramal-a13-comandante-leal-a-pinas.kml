@@ -57,6 +57,12 @@ Mendoza y Córdoba, Argentina</description>
       </LineString>
     </Placemark>
     <Placemark>
+      <name>Comandante Leal KM 618.9</name>
+      <description>KM 618.9
+(GPS)</description>
+      <Point><coordinates>-65.791267,-30.884600</coordinates></Point>
+    </Placemark>
+    <Placemark>
       <name>Empalme Ramales A2 / A13 KM 618.5</name>
       <description>KM 618.5</description>
       <Point><coordinates>-65.788122,-30.882718</coordinates></Point>
@@ -73,15 +79,5 @@ Mendoza y Córdoba, Argentina</description>
       <name>Pinas</name>
       <Point><coordinates>-65.523517,-31.173888</coordinates></Point>
     </Placemark>
-    <Folder>
-      <name>Ramal A13</name>
-      <description>Comandante Leal - Pinas</description>
-      <Placemark>
-        <name>Comandante Leal KM 618.9</name>
-        <description>KM 618.9
-(GPS)</description>
-        <Point><coordinates>-65.791267,-30.884600</coordinates></Point>
-      </Placemark>
-    </Folder>
   </Folder>
 </kml>
